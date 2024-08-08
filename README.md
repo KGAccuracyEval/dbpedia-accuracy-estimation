@@ -42,15 +42,11 @@ For each annotator, we release three files:
   - **BatchID:** the ID of the batch containing the target fact (i.e., the ID of the cluster sampled via TWCS);
   - **BatchTime:** the time spent to annotate the batch containing the target fact;
   - **BatchDate:** the date the (batch) annotation task was conducted, defined as an integer representing the day within the six-week annotation period (i.e., [1, 42] range). Note that BatchDate is only available for layman annotators.
-- ```errorAnnotations.csv```, which contains the following columns:
-  - **Subject:** the subject of the target fact;
-  - **Predicate:** the predicate of the target fact;
-  - **Object:** the object of the target fact;
-  - **Error:** the error annotation, which can take values ```{Subject, Predicate, Object}``` or any semicolon-separated (;) combination of these three elements;
-  - **BatchID:** the ID of the batch containing the target fact (i.e., the ID of the cluster sampled via TWCS);
-  - **BatchTime:** the time spent to error-annotate the batch containing the target fact;
-  - **BatchDate:** the date the (batch) error annotation task was conducted, defined as an integer representing the day within the six-week annotation period (i.e., [1, 42] range). Note that BatchDate is only available for layman annotators.
-- ```metadata.json```: 
+- ```errorAnnotations.csv```, which contains the same columns of ```annotations.csv``` but replaces the annotation column with:
+  - **Error:** the error annotation, which can take values ```{Subject, Predicate, Object}``` or any semicolon-separated (;) combination of these three elements.
+- ```metadata.json```, a dict with the following structure ```{"BatchID": {"stratum": #, "topics": ["topic1", "topic2", ...]}, ...}```.
+  - **stratum**: the ID of the stratum containing the target batch;
+  - **topics**: the list of topics associated with the target batch. Note that topics are only available for layman annotators. Also note that topics refer to those specified by students. Hence, if a batch is associated with multiple topics, but the student specified only one topic associated with that batch, then the student's metadata only contains the specified topic and ignores the other ones. Finally, when ```"topics": ["expert"]``` the batch represents a **honey pot**.
 
 ## LLM
 
