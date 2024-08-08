@@ -1,0 +1,8 @@
+huggingface_hub==0.24.5
+numpy==2.0.1
+pandas==2.2.2
+scikit_learn==1.4.0
+scipy==1.14.0
+torch==2.4.0
+tqdm==4.66.1
+transformers==4.44.0
