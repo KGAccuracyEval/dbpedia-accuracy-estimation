@@ -76,6 +76,11 @@ In addition, we release the strata weigths in ```weights.csv``` -- required to e
 
 ## LLM
 
+For this set of experiments, move to ./llm/ folder.
+To annotate the facts of the ```./data/dataset/llm/kg.json``` dataset using the three considered LLMs, run ```python annotateFacts.py```. <br>
+To evaluate LLMs performance over the entire set of expert annotations, run ```python evaluateLLMs.py```. <br>
+The prompts used to run LLMs are available in ```./llm/prompts.py```.
+
 ## Estimation
 
 ## Acknowledgments
