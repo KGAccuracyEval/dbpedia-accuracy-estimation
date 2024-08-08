@@ -52,11 +52,13 @@ For each annotator, we release three files:
   Finally, when ```"topics": ["expert"]``` the batch represents a **honey pot**.
 
 For **LLMs**, the annotations take the following format:
-  - ```llm-name.json```, a dict with the following structure ```{"FactID": {"label": "###", "time": #.##, "retries": #}, ...}.
+  - ```llm-name.json```, a dict with the following structure ```{"FactID": {"label": "###", "time": #.##, "retries": #}, ...}```.
     - **FactID** is an integer representing the fact ID as stored in ```./data/dataset/llm/kg.json```;
     - **label** is the LLM annotation, which can take values ```{correct, incorrect, idk, na}``` -- where ```na``` occurs when the LLM fails to provide a proper answer after four attempts;
     - **time** is the time (seconds) required by the LLM to annotate the target fact, considering all its attempts (up to four);
     - **retries** is the number of extra attempts required by the LLM to provide a proper annotation for the target fact (up to three).
+    
+    We release the annotations of three LLMs: ```gemma-7b.json```, ```llama3-8b.json```, and ```mistral-7b.json```. 
 
 ## LLM
 
