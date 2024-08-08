@@ -41,8 +41,15 @@ For each annotator, we release three files:
   - **Annotation:** the annotation, which can take values ```{Correct, Incorrect, I Don't Know}```;
   - **BatchID:** the ID of the batch containing the target fact (i.e., the ID of the cluster sampled via TWCS);
   - **BatchTime:** the time spent to annotate the batch containing the target fact;
-  - **BatchDate:** the date the (batch) annotation task was conducted, defined as an integer representing the day within the six-week annotation period ```[1, 42]```.
-- ```errorAnnotations.csv```:
+  - **BatchDate:** the date the (batch) annotation task was conducted, defined as an integer representing the day within the six-week annotation period (i.e., [1, 42] range). Note that BatchDate is only available for layman annotators.
+- ```errorAnnotations.csv```, which contains the following columns:
+  - **Subject:** the subject of the target fact;
+  - **Predicate:** the predicate of the target fact;
+  - **Object:** the object of the target fact;
+  - **Error:** the error annotation, which can take values ```{Subject, Predicate, Object}``` or any semicolon-separated (;) combination of these three elements;
+  - **BatchID:** the ID of the batch containing the target fact (i.e., the ID of the cluster sampled via TWCS);
+  - **BatchTime:** the time spent to error-annotate the batch containing the target fact;
+  - **BatchDate:** the date the (batch) error annotation task was conducted, defined as an integer representing the day within the six-week annotation period (i.e., [1, 42] range). Note that BatchDate is only available for layman annotators.
 - ```metadata.json```: 
 
 ## LLM
