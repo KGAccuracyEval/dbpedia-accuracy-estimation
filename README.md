@@ -71,7 +71,7 @@ The ```/llm/kg.json``` dataset can be used to investigate the potential of LLMs 
 
 ### Sample
 
-We also release the sample obtained via TWCS for each stratum in ```./data/sample/```. The sample is divided into the ```stratum#.json``` files, where # in ```{1, ..., 7}```. The format of each file is as follows ```[[[subject, predicate, object], [subject, predicate, object], ...], ...], ...]``` -- that is, facts are clustered in batches of size up to five. <br>
+We also release the full sample obtained via TWCS within each stratum in ```./data/sample/```. The sample is divided into ```stratum#.json``` files, where # in ```{1, ..., 7}```. The format of each file is as follows ```[[[subject, predicate, object], [subject, predicate, object], ...], ...], ...]``` -- that is, facts are clustered in batches of size up to five. <br>
 In addition, we release the strata weigths in ```weights.csv``` -- required to estimate DBpedia accuracy.
 
 ## LLM
