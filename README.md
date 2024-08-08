@@ -64,7 +64,7 @@ For **LLMs**, the annotations take the following format:
 
 We release two datasets, serving different purposes:
 - ```./data/dataset/human/kg.json```: derived from the reliability-weigthed label aggregation process, consisting of 9,930 triplets and the corresponding aggregated labels in the following format ```{"StratumID": [[[subject, predicate, object], label], ...], ...}```.
-- ```./data/dataset/llm/kg.json```: derived by gathering all facts annotated by expert and/or layman annotators, consisting of 11,419 triplets in the following format ```
+- ```./data/dataset/llm/kg.json```: derived by gathering all facts annotated by expert and/or layman annotators, consisting of 11,419 triplets in the following format ```{"FactID": [subject, predicate, object], ...}```.
 
 ### Sample
 
