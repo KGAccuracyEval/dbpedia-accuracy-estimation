@@ -66,6 +66,9 @@ We release two datasets, serving different purposes:
 - ```./data/dataset/human/kg.json```: derived from the reliability-weigthed label aggregation process, consisting of 9,930 triplets and the corresponding aggregated labels in the following format ```{"StratumID": [[[subject, predicate, object], label], ...], ...}```.
 - ```./data/dataset/llm/kg.json```: derived by gathering all facts annotated by expert and/or layman annotators, consisting of 11,419 triplets in the following format ```{"FactID": [subject, predicate, object], ...}```.
 
+The ```/human/kg.json``` dataset can be used to estimate DBpedia accuracy, as well as a reliable benchmark for several downstream tasks. <br>
+The ```/llm/kg.json``` dataset can be used to investigate the potential of LLMs as KG evaluators, as well as a novel benchmark to understand their limitations.
+
 ### Sample
 
 We also release the 
