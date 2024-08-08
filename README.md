@@ -76,12 +76,19 @@ In addition, we release the strata weigths in ```weights.csv``` -- required to e
 
 ## LLM
 
-For this set of experiments, move to ./llm/ folder.
-To annotate the facts of the ```./data/dataset/llm/kg.json``` dataset using the three considered LLMs, run ```python annotateFacts.py```. <br>
-To evaluate LLMs performance over the entire set of expert annotations, run ```python evaluateLLMs.py```. <br>
-The prompts used to run LLMs are available in ```./llm/prompts.py```.
+For this set of experiments, move to ```./llm/``` folder.
+- To annotate the facts of the ```./data/dataset/llm/kg.json``` dataset using the three considered LLMs, run ```python annotateFacts.py```.
+- To evaluate LLMs performance over the entire set of expert annotations, run ```python evaluateLLMs.py```.
+- The prompts used to run LLMs are available in ```./llm/prompts.py```.
 
 ## Estimation
+
+For this set of experiments, move to ```./estimation/``` folder.
+- To generate the dataset (```./data/dataset/human/kg.json```) required to estimate DBpedia accuracy, run ```python prepareDataset.py```.
+- To estimate DBpedia accuracy, run ```python estimateAccuracy.py```.
+- The estimation strategies used to first estimate partition and then KG accuracy are available in ```./estimation/estimationStrategies.py```.
+
+## Stats
 
 ## Acknowledgments
 The work is partially supported by the HEREDITARY project, as part of the EU Horizon Europe research and innovation programme under Grant Agreement No GA 101137074.
