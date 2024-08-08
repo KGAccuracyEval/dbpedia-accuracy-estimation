@@ -86,9 +86,14 @@ For this set of experiments, move to ```./llm/``` folder.
 For this set of experiments, move to ```./estimation/``` folder.
 - To generate the dataset (```./data/dataset/human/kg.json```) required to estimate DBpedia accuracy, run ```python prepareDataset.py```.
 - To estimate DBpedia accuracy, run ```python estimateAccuracy.py```.
-- The estimation strategies used to first estimate partition and then KG accuracy are available in ```./estimation/estimationStrategies.py```.
+- The estimation strategies used to estimate partition and KG accuracy are available in ```./estimation/estimationStrategies.py```.
 
 ## Stats
+
+For this set of experiments, move to ```./stats/``` folder.
+- To compute annotation statistics, run ```python annotationStatistics.py```.
+- To compute partition statistics, run ```python partitionStatistics.py```.
+- To compute error statistics, run ```python errorStatistics.py```.
 
 ## Acknowledgments
 The work is partially supported by the HEREDITARY project, as part of the EU Horizon Europe research and innovation programme under Grant Agreement No GA 101137074.
