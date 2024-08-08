@@ -32,7 +32,7 @@ The annotations conducted by expert and layman annotators, as well as those by L
 - ```./data/annotations/laymen/``` for students;
 - ```./data/annotations/llms/``` for LLMs
 
-For experts and laymen, the data is divided into subfolders specified by ```{expert#|layman#}```, where # represents the annotator ID. <br>
+For **experts** and **laymen**, the data is divided into subfolders specified by ```{expert#|layman#}```, where # represents the annotator ID. <br>
 For each annotator, we release three files:
 - ```annotations.csv```, which contains the following columns:
   - **Subject:** the subject of the target fact;
@@ -40,7 +40,7 @@ For each annotator, we release three files:
   - **Object:** the object of the target fact;
   - **Annotation:** the annotation, which can take values ```{Correct, Incorrect, I Don't Know}```;
   - **BatchID:** the ID of the batch containing the target fact (i.e., the ID of the cluster sampled via TWCS);
-  - **BatchTime:** the time spent to annotate the batch containing the target fact;
+  - **BatchTime:** the time (seconds) spent to annotate the batch containing the target fact;
   - **BatchDate:** the date the (batch) annotation task was conducted, defined as an integer representing the day within the six-week annotation period (i.e., [1, 42] range). Note that BatchDate is only available for layman annotators.
 - ```errorAnnotations.csv```, which contains the same columns of ```annotations.csv``` but replaces the annotation column with:
   - **Error:** the error annotation, which can take values ```{Subject, Predicate, Object}``` or any semicolon-separated (;) combination of these three elements.
@@ -50,6 +50,13 @@ For each annotator, we release three files:
   
   Note that topics refer to those specified by students. Hence, if a batch is associated with multiple topics, but the student specified only one topic associated with that batch, then the student's metadata only contains the specified topic and ignores the other ones. <br>
   Finally, when ```"topics": ["expert"]``` the batch represents a **honey pot**.
+
+For **LLMs**, the annotations take the following format:
+  - ```llm-name.json```, a dict with the following structure ```{"FactID": {"label": "###", "time": #.##, "retries": #}, ...}.
+    - **FactID** is an integer representing the fact ID as stored in ```./data/dataset/llm/kg.json```;
+    - **label** is the LLM annotation, which can take values ```{correct, incorrect, idk, na}``` -- where ```na``` occurs when the LLM fails to provide a proper answer after four attempts;
+    - **time** is the time (seconds) required by the LLM to annotate the target fact, considering all its attempts (up to four);
+    - **retries** is the number of extra attempts required by the LLM to provide a proper annotation for the target fact.
 
 ## LLM
 
