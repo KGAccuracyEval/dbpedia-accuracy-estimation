@@ -30,7 +30,7 @@ Below, we describe the collected data, which we release in anonymized format.
 The annotations conducted by expert and layman annotators, as well as those by LLMs can be found in:
 - ```./data/annotations/experts/``` for experts;
 - ```./data/annotations/laymen/``` for students;
-- ```./data/annotations/llms/``` for LLMs
+- ```./data/annotations/llms/``` for LLMs.
 
 For **experts** and **laymen**, the data is divided into subfolders specified by ```{expert#|layman#}```, where # represents the annotator ID. <br>
 For each annotator, we release three files:
