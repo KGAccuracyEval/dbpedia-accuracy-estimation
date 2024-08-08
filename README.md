@@ -21,3 +21,30 @@ Install all the requirements:
 pip install -r requirements.txt
 ```
 
+## Data
+
+Below, we describe the collected data, which we release in anonymized format.
+
+### Annotations
+
+The annotations conducted by expert and layman annotators, as well as those by LLMs can be found in:
+- ```./data/annotations/experts/``` for experts;
+- ```./data/annotations/laymen/``` for students;
+- ```./data/annotations/llms/``` for LLMs
+
+For experts and laymen, the data is divided into subfolders specified by ```{expert#|layman#}```, where # represents the annotator ID. <br>
+For each annotator, we release three files:
+- ```annotations.csv```, which contains the following columns:
+  - **Subject:** the subject of the target fact;
+  - **Predicate:** the predicate of the target fact;
+  - **Object:** the object of the target fact;
+  - **Annotation:** the annotation, which can take values ```{Correct, Incorrect, I Don't Know}```;
+  - **BatchID:** the ID of the batch containing the target fact (i.e., the ID of the cluster sampled via TWCS);
+  - **BatchTime:** the time spent to annotate the batch containing the target fact;
+  - **BatchDate:** the date the (batch) annotation task was conducted, defined as an integer representing the day within the six-week annotation period ```[1, 42]```.
+- ```errorAnnotations.csv```:
+- ```metadata.json```: 
+
+## LLM
+
+## Estimation
