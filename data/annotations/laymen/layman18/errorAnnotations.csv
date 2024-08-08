@@ -1,0 +1,50 @@
+Subject,Predicate,Object,Error,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/Living_a_Dream,http://dbpedia.org/ontology/abstract,"Living a Dream is the third album by Welsh mezzo-soprano Katherine Jenkins, released on 31 October 2005, in the UK. It charted at number 4 on the UK Albums Chart and at number 1 on the UK Classical Album Chart.",Predicate,9,9.245841026306152,7
+http://dbpedia.org/resource/Olainfarm,http://dbpedia.org/property/industry,http://dbpedia.org/resource/Pharmaceutical_drug,Object,10,15.59499478340149,7
+http://dbpedia.org/resource/Olainfarm,http://dbpedia.org/ontology/foundingDate,1991-06-10,Object,10,15.59499478340149,7
+http://dbpedia.org/resource/Olainfarm,http://dbpedia.org/ontology/industry,http://dbpedia.org/resource/Pharmaceutical_drug,Object,10,15.59499478340149,7
+http://dbpedia.org/resource/Derby,http://dbpedia.org/property/leaderTitle,http://dbpedia.org/resource/Local_government_in_England,Predicate,11,9.718667984008787,7
+http://dbpedia.org/resource/Byron_Cook_(politician),http://dbpedia.org/property/residence,"http://dbpedia.org/resource/Corsicana,_Texas",Predicate,13,2.3271212577819824,7
+http://dbpedia.org/resource/Purple_and_Brown,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:British_films,Object,15,11.082427024841309,7
+http://dbpedia.org/resource/Berlin-Pankow-Heinersdorf_station,http://dbpedia.org/property/system,SBB,Object,22,9.170589923858644,12
+http://dbpedia.org/resource/Joey_Molland,http://dbpedia.org/ontology/associatedBand,http://dbpedia.org/resource/Gary_Walker_(musician),Predicate,27,2.1868138313293457,12
+http://dbpedia.org/resource/Railway_Institute,http://dbpedia.org/property/website,http://www.ikolej.pl/en/,Object,28,2.64894700050354,12
+http://dbpedia.org/resource/Mathnet,http://dbpedia.org/property/episodenumber,26,Object,30,3.6889240741729736,12
+http://dbpedia.org/resource/Berlin_Oranienburger_Straße_station,http://dbpedia.org/property/system,SBB,Object,37,3.5140416622161865,12
+http://dbpedia.org/resource/Sensenich_Propeller,http://www.w3.org/2000/01/rdf-schema#comment,"Sensenich Propeller, founded in 1932, is an American manufacturer of wood, metal and composite propellers for certified, homebuilt and ultralight aircraft, as well as airboats. The company headquarters is located in Lititz, Pennsylvania.The company was initially established in 1932 as Sensenich Brothers to make aircraft propellers, but expanded into airboat propellers in 1949, establishing a second factory for that market at Plant City, Florida under the name Sensenich Wood Propeller Company.",Object,42,6.7044758796691895,12
+http://dbpedia.org/resource/Love_Affair_(1994_film),http://www.w3.org/2000/01/rdf-schema#comment,"Love Affair is a 1994 romantic drama film, and a remake of the 1939 film of the same name.  It was directed by Glenn Gordon Caron and produced by Warren Beatty from a screenplay by Robert Towne and Beatty, based on the 1939 screenplay by Delmer Daves and Donald Ogden Stewart, based on the story by Mildred Cram and Leo McCarey. The music score was by Ennio Morricone and the cinematography by Conrad L.",Object,52,5.123799085617065,12
+http://dbpedia.org/resource/List_of_Super_Dave_Osborne_Show_episodes,http://dbpedia.org/property/shortsummary,30.0,Object,56,12.891502141952516,12
+http://dbpedia.org/resource/Robert_Bontine_Cunninghame_Graham,http://dbpedia.org/ontology/otherParty,http://dbpedia.org/resource/Scottish_Labour_Party_(1888),Predicate,58,2.9106650352478027,14
+http://dbpedia.org/resource/Robert_Bontine_Cunninghame_Graham,http://dbpedia.org/ontology/otherParty,http://dbpedia.org/resource/National_Party_of_Scotland,Predicate,58,2.9106650352478027,14
+http://dbpedia.org/resource/Cottage_to_Let,http://dbpedia.org/property/music,http://dbpedia.org/resource/Charles_Williams_(composer),Object,60,1.99092698097229,14
+"http://dbpedia.org/resource/Niantic,_Inc.",http://dbpedia.org/property/website,http://www.nianticlabs.com/,Object,65,3.16314697265625,14
+"http://dbpedia.org/resource/Niantic,_Inc.",http://xmlns.com/foaf/0.1/homepage,http://www.nianticlabs.com/,Object,65,3.16314697265625,14
+"http://dbpedia.org/resource/Niantic,_Inc.",http://dbpedia.org/property/hasPhotoCollection,"http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Niantic,_Inc.",Object,65,3.16314697265625,14
+http://dbpedia.org/resource/Franco_Abbiati,http://dbpedia.org/ontology/abstract,Franco Abbiati (14 September 1898 - 22 January 1981) was an Italian musicologist.Abbiati was born in Verdello. He studied composition at the musical high school in Turin. He worked as a  music critic for Corriere della Sera for thirty-six years. The award Premio Franco Abbiati della Critica Musicale Italiana is named after him.,Object,70,1.957958698272705,14
+http://dbpedia.org/resource/Ebenezer_Ako-Adjei,http://dbpedia.org/ontology/otherParty,http://dbpedia.org/resource/United_Gold_Coast_Convention,Predicate,73,2.0985021591186523,14
+http://dbpedia.org/resource/Chetan_Chandra,http://dbpedia.org/property/birthDate,--04-10,Object,75,2.6704390048980717,14
+http://dbpedia.org/resource/This_Boy's_in_Love,http://dbpedia.org/ontology/Work/runtime,4.183333333333334,Object,77,5.185534954071045,14
+"http://dbpedia.org/resource/Upper_Shirley,_Virginia",http://dbpedia.org/property/designatedOther1NumPosition,bottom,Predicate,91,2.177791118621826,16
+http://dbpedia.org/resource/Oliver_Thornton,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Human_voice,Object,98,2.160547971725464,16
+http://dbpedia.org/resource/Austin_(Amtrak_station),http://dbpedia.org/property/imageCaption,Austin,Object,101,1.6974611282348633,16
+http://dbpedia.org/resource/Pedder_Street,http://dbpedia.org/property/bgcolor,#c6dbf7,Predicate;Object,106,3.628933906555176,16
+http://dbpedia.org/resource/Meggitt,http://dbpedia.org/property/location,http://dbpedia.org/resource/Dorset,Object,115,4.5293169021606445,18
+http://dbpedia.org/resource/Meggitt,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Dorset,Object,115,4.5293169021606445,18
+http://dbpedia.org/resource/Adam_Matthew_Digital,http://xmlns.com/foaf/0.1/homepage,http://www.amdigital.co.uk/,Object,116,2.8950438499450684,18
+http://dbpedia.org/resource/Gallant_Journey,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_set_in_the_1890s,Object,124,3.203927755355835,19
+http://dbpedia.org/resource/Gallant_Journey,http://dbpedia.org/ontology/abstract,"Gallant Journey is a 1946 American historical film directed by William A. Wellman and starring Glenn Ford, Janet Blair, Charles Ruggles. The film is a biopic of the early U.S. aviation pioneer John Joseph Montgomery.  It depicts his efforts to build and fly gliders, from his childhood through to his death in 1911. The Columbia Pictures movie debuted in San Diego, California on September 4, 1946. The chief stunt pilot for the film was Paul Mantz. It is also known as The Great Highway.",Object,124,3.203927755355835,19
+http://dbpedia.org/resource/Revco,http://dbpedia.org/property/defunct,1997,Predicate,127,3.2479898929595947,19
+http://dbpedia.org/resource/Revco,http://xmlns.com/foaf/0.1/depiction,http://en.wikipedia.org/wiki/Special:FilePath/Revco4.jpg,Object,127,3.2479898929595947,19
+http://dbpedia.org/resource/The_King_of_Fighters_'95,http://dbpedia.org/ontology/releaseDate,1930-04-09,Object,130,54.80575489997864,19
+http://dbpedia.org/resource/The_King_of_Fighters_'95,http://dbpedia.org/property/caption,"Arcade flyer for the game, depicting the character Kyo Kusanagi",Object,130,54.80575489997864,19
+http://dbpedia.org/resource/Poseidon_(film),http://dbpedia.org/property/caption,Theatrical release poster,Object,134,7.701138973236084,19
+http://dbpedia.org/resource/Felton_Covered_Bridge,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Bridges_completed_in_1892,Object,142,7.418069124221802,19
+http://dbpedia.org/resource/Edmund_Boulter,http://dbpedia.org/property/years,1698,Predicate,143,2.9014229774475098,19
+"http://dbpedia.org/resource/All_Saints'_Church,_Hockerill",http://xmlns.com/foaf/0.1/page,http://www.allsaintshockerill.org.uk/,Object,152,1.6501760482788086,22
+http://dbpedia.org/resource/Children's_Hospital_for_Wales,http://dbpedia.org/property/region,http://dbpedia.org/resource/Cardiff,Predicate,163,1.9738061428070068,22
+http://dbpedia.org/resource/Groningen_Europapark_railway_station,http://dbpedia.org/property/imageCaption,Groningen Europapark railway station in 2013,Object,168,12.588658809661863,23
+http://dbpedia.org/resource/Groningen_Europapark_railway_station,http://dbpedia.org/property/longm,35,Predicate,168,12.588658809661863,23
+http://dbpedia.org/resource/Derby,http://dbpedia.org/property/longew,W,Predicate,170,4.313287019729614,24
+http://dbpedia.org/resource/Derby,http://dbpedia.org/ontology/leaderName,http://dbpedia.org/resource/Derby_City_Council,Predicate,170,4.313287019729614,24
+http://dbpedia.org/resource/CKSW,http://dbpedia.org/property/webcast,http://www.goldenweststreaming.com/cksw_stream/,Object,171,3.791124105453491,24
+"http://dbpedia.org/resource/Centerville,_Indiana",http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/List_of_countries,Predicate,181,1.979865789413452,26

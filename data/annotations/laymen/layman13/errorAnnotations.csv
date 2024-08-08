@@ -1,0 +1,48 @@
+Subject,Predicate,Object,Error,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/Safavid_dynasty,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Isfahan,Subject;Object,0,3315.521213293076,28
+http://dbpedia.org/resource/Philipp_Lenard,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Austria-Hungary,Object,11,6.0407538414001465,28
+http://dbpedia.org/resource/Leroy_Harris_(offensive_lineman),http://dbpedia.org/ontology/formerTeam,http://dbpedia.org/resource/Detroit_Lions,Object,17,11.613983869552612,28
+http://dbpedia.org/resource/Leroy_Harris_(offensive_lineman),http://dbpedia.org/property/pastteams,"* Tennessee Titans 
+* Detroit Lions",Object,17,11.613983869552612,28
+http://dbpedia.org/resource/Sandy_Martínez,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-ballplayer-noun-1,Object,18,4.9733359813690186,29
+http://dbpedia.org/resource/Arthur_Schuster,http://dbpedia.org/property/awards,http://dbpedia.org/resource/Royal_Medal,Object,19,33.47977113723755,36
+http://dbpedia.org/resource/Arthur_Schuster,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society_of_Edinburgh,Object,19,33.47977113723755,36
+http://dbpedia.org/resource/Francesco_Maria_Emanuele_Gaetani,http://dbpedia.org/property/dateOfDeath,1802,Predicate,20,17.310795068740845,41
+http://dbpedia.org/resource/Stefan_Heym,http://xmlns.com/foaf/0.1/name,"Heym, Stefan",Object,21,5.450711965560913,41
+http://dbpedia.org/resource/Onán_Barreiros,http://dbpedia.org/property/name,"Barreiros, Onan",Object,22,2.1214709281921387,41
+http://dbpedia.org/resource/Don_Foster_(politician),http://dbpedia.org/ontology/primeMinister,http://dbpedia.org/resource/David_Cameron,Predicate,23,4.534178018569946,41
+http://dbpedia.org/resource/Don_Foster_(politician),http://dbpedia.org/property/primeminister,http://dbpedia.org/resource/David_Cameron,Predicate,23,4.534178018569946,41
+http://dbpedia.org/resource/Uttarakhand,http://dbpedia.org/property/leaderName,Unicameral,Object,24,2.3756699562072754,41
+http://dbpedia.org/resource/Steve_Warnstadt,http://dbpedia.org/property/winner,Steven H. Warnstadt,Predicate,27,1.7830820083618164,41
+http://dbpedia.org/resource/Freiburg_im_Breisgau,http://dbpedia.org/property/east,http://dbpedia.org/resource/Reutlingen,Predicate,29,20.187391996383667,41
+http://dbpedia.org/resource/Armenia,http://dbpedia.org/property/populationDensitySqMi,262.9,Object,30,13.591293811798096,41
+http://dbpedia.org/resource/Armenia,http://dbpedia.org/property/ethnicGroups,s,Object,30,13.591293811798096,41
+http://dbpedia.org/resource/Armenia,http://dbpedia.org/property/ethnicGroups,0.5,Object,30,13.591293811798096,41
+http://dbpedia.org/resource/Armenia,http://dbpedia.org/property/southeast,25,Predicate;Object,30,13.591293811798096,41
+http://dbpedia.org/resource/VMM-162,http://xmlns.com/foaf/0.1/nick,Golden Eagles,Predicate,33,1.854072093963623,41
+http://dbpedia.org/resource/History_of_Portugal_(1415–1578),http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Portuguese_dinheiro,Object,34,1.8629229068756104,41
+http://dbpedia.org/resource/Donetsk_People's_Republic,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Donetsk_People's_Republic,Predicate,36,7.489141941070557,41
+http://dbpedia.org/resource/Donetsk_People's_Republic,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Ukrainian_hryvnia,Object,36,7.489141941070557,41
+http://dbpedia.org/resource/Empire_of_Vietnam,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Hanoi,Object,38,1.8684780597686768,41
+http://dbpedia.org/resource/Francia,http://dbpedia.org/property/capital,http://dbpedia.org/resource/Tournai,Object,43,2.815183162689209,41
+http://dbpedia.org/resource/Kingdom_of_Asturias,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Pravia,Object,44,5.022372007369995,41
+http://dbpedia.org/resource/Kingdom_of_Asturias,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Cangas_de_Onís,Object,44,5.022372007369995,41
+http://dbpedia.org/resource/Kingdom_of_Asturias,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/San_Martín_del_Rey_Aurelio,Object,44,5.022372007369995,41
+"http://dbpedia.org/resource/St_Mark's_Church,_Great_Wyrley",http://xmlns.com/foaf/0.1/page,http://www.greatwyrleyparish.org.uk,Object,45,1.8551270961761477,41
+http://dbpedia.org/resource/Allied_Military_Government_for_Occupied_Territories,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/AM-Shilling,Object,46,2.936451911926269,41
+"http://dbpedia.org/resource/Our_Lady_of_Ransom_Church,_Kanyakumari",http://xmlns.com/foaf/0.1/page,http://www.ransomchurchkanyakumari.org/,Object,51,1.469191312789917,41
+http://dbpedia.org/resource/Dennis_W._Sciama,http://dbpedia.org/property/religion,http://dbpedia.org/resource/Jews,Object,59,1.7715730667114258,41
+http://dbpedia.org/resource/Chanak_Crisis,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1922_in_France,Object,60,2.9116690158843994,41
+http://dbpedia.org/resource/Agus_Wirahadikusumah,http://dbpedia.org/property/years,--03-29,Predicate;Object,63,4.723020792007446,41
+"http://dbpedia.org/resource/St_John_the_Baptist's_Church,_Avon_Dassett",http://xmlns.com/foaf/0.1/page,http://www.visitchurches.org.uk/Ourchurches/Completelistofchurches/Church-of-St-John-the-Baptist-Avon-Dassett-Warwickshire/,Object,65,1.5236799716949463,41
+http://dbpedia.org/resource/Department_of_the_Arts_and_Administrative_Services,http://dbpedia.org/ontology/leader,http://dbpedia.org/resource/Bob_McMullan,Object,67,2.56299090385437,41
+http://dbpedia.org/resource/Department_of_the_Arts_and_Administrative_Services,http://dbpedia.org/ontology/leader,http://dbpedia.org/resource/Noel_Tanzer,Object,67,2.56299090385437,41
+http://dbpedia.org/resource/Barbra_Streisand,http://dbpedia.org/property/title,Awards for Barbra Streisand,Object,69,31.23842000961304,41
+http://dbpedia.org/resource/Barbra_Streisand,http://dbpedia.org/property/spouse,divorced,Object,69,31.23842000961304,41
+http://dbpedia.org/resource/Barbra_Streisand,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Barbra_Streisand__2,Object,69,31.23842000961304,41
+http://dbpedia.org/resource/Barbra_Streisand,http://dbpedia.org/property/source,"director John Huston, Playboy interview, 1985",Subject,69,31.23842000961304,41
+http://dbpedia.org/resource/Sidi_Ouriache,http://dbpedia.org/property/lats,20,Predicate;Object,78,7.755903959274292,41
+http://dbpedia.org/resource/Sidi_Ouriache,http://dbpedia.org/property/populationDensityKm,auto,Object,78,7.755903959274292,41
+http://dbpedia.org/resource/Sidi_Ouriache,http://dbpedia.org/property/longd,1,Predicate;Object,78,7.755903959274292,41
+http://dbpedia.org/resource/Sinopharm,http://dbpedia.org/property/homepage,http://www.sinopharm.com/,Object,95,1.8482611179351809,41
+http://dbpedia.org/resource/PrepMe,http://dbpedia.org/property/homepage,http://www.prepme.com/,Object,96,2.308320999145508,41

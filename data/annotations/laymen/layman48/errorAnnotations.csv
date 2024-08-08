@@ -1,0 +1,117 @@
+Subject,Predicate,Object,Error,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/Adrian_Păunescu,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Romania,Object,0,12.565923690795898,4
+http://dbpedia.org/resource/Street_Warrior,http://dbpedia.org/ontology/editor,http://dbpedia.org/resource/Tricia_Gorman,Object,1,10.047165632247925,4
+http://dbpedia.org/resource/Street_Warrior,http://dbpedia.org/ontology/person,http://dbpedia.org/resource/Yaron_Levy,Predicate;Object,1,10.047165632247925,4
+http://dbpedia.org/resource/Clay_Davidson,http://dbpedia.org/ontology/associatedBand,http://dbpedia.org/resource/Jude_Cole,Predicate;Object,2,47.43222570419312,4
+http://dbpedia.org/resource/Charles_Bukowski,http://dbpedia.org/property/influenced,http://dbpedia.org/resource/Prvoslav_Vujčić,Predicate;Object,5,9.087327003479004,4
+http://dbpedia.org/resource/HotRuby,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/JavaScript,Subject;Predicate,7,46.59195756912232,4
+http://dbpedia.org/resource/HotRuby,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/ActionScript,Subject;Predicate,7,46.59195756912232,4
+http://dbpedia.org/resource/Newcastle_Rebels,http://dbpedia.org/property/season,1909,Predicate,9,13.483369827270508,4
+http://dbpedia.org/resource/Gramophone_record,http://www.w3.org/2000/01/rdf-schema#label,Gramophone record,Predicate,10,10.571489095687866,4
+http://dbpedia.org/resource/Steven_Campbell_(footballer),http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Australia,Object,12,6.671422481536865,4
+http://dbpedia.org/resource/GIMP,http://dbpedia.org/property/operatingSystem,http://dbpedia.org/resource/OpenBSD,Predicate,13,7.789882183074951,4
+http://dbpedia.org/resource/GIMP,http://dbpedia.org/ontology/operatingSystem,http://dbpedia.org/resource/OpenBSD,Predicate,13,7.789882183074951,4
+http://dbpedia.org/resource/Emmanuel_Stupanus,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Johann_Caspar_Bauhin,Predicate,15,9.504131317138672,4
+http://dbpedia.org/resource/Emmanuel_Stupanus,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Georg_Balthasar_Metzger,Predicate,15,9.504131317138672,4
+http://dbpedia.org/resource/Emmanuel_Stupanus,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Nikolaus_Eglinger,Predicate,15,9.504131317138672,4
+http://dbpedia.org/resource/Emmanuel_Stupanus,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Franciscus_Sylvius,Predicate,15,9.504131317138672,4
+http://dbpedia.org/resource/Maksim_Chmerkovskiy,http://dbpedia.org/property/title,Dancing with the Stars (US) third place contestant,Predicate;Object,16,8.160547018051147,4
+http://dbpedia.org/resource/Djelfa_Province,http://dbpedia.org/property/blank1InfoSec,36,Predicate,19,13.818619012832642,4
+http://dbpedia.org/resource/Djelfa_Province,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Province,Predicate,19,13.818619012832642,4
+http://dbpedia.org/resource/Djelfa_Province,http://dbpedia.org/property/longd,3,Predicate;Object,19,13.818619012832642,4
+http://dbpedia.org/resource/Hal_Keller,http://dbpedia.org/property/stat3label,http://dbpedia.org/resource/Runs_batted_in,Predicate;Object,22,8.248170614242554,4
+http://dbpedia.org/resource/Hulk_Hogan,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:20th-century_Christians,Object,23,6.360365867614746,4
+http://dbpedia.org/resource/Hulk_Hogan,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:21st-century_Christians,Object,23,6.360365867614746,4
+http://dbpedia.org/resource/Hulk_Hogan,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Singers_from_Florida,Object,23,6.360365867614746,4
+http://dbpedia.org/resource/Romantic_Princess,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-telecast-noun-1,Predicate;Object,27,16.88064670562744,4
+http://dbpedia.org/resource/Romantic_Princess,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Romantic_Princess,Object,27,16.88064670562744,4
+http://dbpedia.org/resource/Iryna_Glibko,http://dbpedia.org/ontology/club,http://dbpedia.org/resource/HC_Danubius_Galați,Object,28,3.347006797790528,4
+http://dbpedia.org/resource/Hack_Schumann,http://dbpedia.org/property/stat1value,0,Predicate,31,5.58199954032898,4
+http://dbpedia.org/resource/Hack_Schumann,http://dbpedia.org/property/stat3value,9,Predicate,31,5.58199954032898,4
+http://dbpedia.org/resource/The_Best_of_Cozy_Powell,http://dbpedia.org/property/type,greatest,Object,32,68.33922743797302,4
+http://dbpedia.org/resource/The_Best_of_Cozy_Powell,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Collection,Object,32,68.33922743797302,4
+http://dbpedia.org/resource/The_Simpsons,http://dbpedia.org/property/b,no,Predicate,35,9.622714757919312,4
+http://dbpedia.org/resource/The_Simpsons,http://dbpedia.org/ontology/company,http://dbpedia.org/resource/Klasky_Csupo,Predicate;Object,35,9.622714757919312,4
+http://dbpedia.org/resource/Shannon_RFC,http://dbpedia.org/property/x,0.14,Predicate;Object,36,25.856215238571167,4
+http://dbpedia.org/resource/Shannon_RFC,http://dbpedia.org/property/president,Darragh Little,Predicate;Object,36,25.856215238571167,4
+http://dbpedia.org/resource/Shannon_RFC,http://dbpedia.org/property/y,0.61,Predicate;Object,36,25.856215238571167,4
+http://dbpedia.org/resource/Tribalistas,http://dbpedia.org/ontology/associatedMusicalArtist,http://dbpedia.org/resource/Timbalada,Predicate,37,5.704446315765381,4
+http://dbpedia.org/resource/Tribalistas,http://dbpedia.org/property/associatedActs,http://dbpedia.org/resource/Timbalada,Predicate,37,5.704446315765381,4
+http://dbpedia.org/resource/Arthur_Wagner,http://www.w3.org/2003/01/geo/wgs84_pos#long,-0.115,Predicate;Object,38,4.080171346664429,4
+http://dbpedia.org/resource/Smooth_Glasgow,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:GMG_Radio,Object,39,3.633735895156861,4
+http://dbpedia.org/resource/Gustav_Rydahl,http://dbpedia.org/ontology/abstract,"Gustav Rydahl (born September 11, 1994) is a Swedish professional ice hockey centre currently playing for Frölunda HC of Elitserien.",Object,40,4.510880708694458,4
+http://dbpedia.org/resource/Jens_Truckenbrod,http://dbpedia.org/property/caps,72,Predicate,42,7.6067280769348145,4
+http://dbpedia.org/resource/Jens_Truckenbrod,http://dbpedia.org/property/pcupdate,2014-08-09,Predicate,42,7.6067280769348145,4
+http://dbpedia.org/resource/The_Alphabet_Murders,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Subject;Predicate,44,17.087730407714844,4
+http://dbpedia.org/resource/NetSuite,http://dbpedia.org/ontology/numberOfEmployees,2550,Object,46,3.137216329574585,4
+http://dbpedia.org/resource/Devil_May_Cry_3:_Dante's_Awakening,http://dbpedia.org/property/mc,84,Predicate,47,3.2544543743133545,4
+http://dbpedia.org/resource/List_of_counties_in_Texas,http://dbpedia.org/property/name,Burnet,Object,48,18.217581510543823,5
+http://dbpedia.org/resource/List_of_counties_in_Texas,http://dbpedia.org/property/seat,Gonzales,Predicate;Object,48,18.217581510543823,5
+http://dbpedia.org/resource/List_of_counties_in_Texas,http://dbpedia.org/property/num,443,Object,48,18.217581510543823,5
+http://dbpedia.org/resource/List_of_counties_in_Texas,http://dbpedia.org/property/population,209714,Object,48,18.217581510543823,5
+http://dbpedia.org/resource/List_of_counties_in_Texas,http://dbpedia.org/property/data,"John Bunyan Denton , a preacher, lawyer, and soldier killed during a raid on a Native American camp",Predicate;Object,48,18.217581510543823,5
+http://dbpedia.org/resource/Graham_Stokoe,http://dbpedia.org/property/caps,8,Predicate;Object,52,3.3841564655303955,5
+http://dbpedia.org/resource/List_of_Brickleberry_episodes,http://dbpedia.org/property/aux,0.66,Predicate;Object,58,14.024198532104492,5
+http://dbpedia.org/resource/List_of_Brickleberry_episodes,http://dbpedia.org/property/directedby,http://dbpedia.org/resource/Susie_Dietter,Predicate;Object,58,14.024198532104492,5
+http://dbpedia.org/resource/List_of_Brickleberry_episodes,http://dbpedia.org/property/directedby,http://dbpedia.org/resource/Zac_Moncrief,Predicate;Object,58,14.024198532104492,5
+http://dbpedia.org/resource/List_of_Brickleberry_episodes,http://dbpedia.org/property/shortsummary,"Woody gets angry when a fancy country club turns him down but welcomes Denzel as a member. Meanwhile, Malloy balks at having his anal glands expressed, only for them to enlarge and become infected.",Predicate;Object,58,14.024198532104492,5
+http://dbpedia.org/resource/Province_of_Westphalia,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Münster_(region),Predicate;Object,63,2.736100912094116,5
+http://dbpedia.org/resource/34th_Air_Division,http://dbpedia.org/ontology/commandStructure,http://dbpedia.org/resource/Aerospace_Defense_Command,Predicate,64,7.183133363723755,5
+http://dbpedia.org/resource/Mashhadi_Barag_Jar,http://dbpedia.org/property/subdivisionName,http://dbpedia.org/resource/Lorestan_Province,Predicate,65,3.242492914199829,5
+http://dbpedia.org/resource/Wells_Fargo,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Wells_Fargo,Object,66,3.791613817214966,5
+http://dbpedia.org/resource/In_the_Name_of_the_Father_(film),http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/In_the_Name_of_the_Father_(film),Object,67,12.289039850234984,5
+http://dbpedia.org/resource/In_the_Name_of_the_Father_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:British_biographical_films,Object,67,12.289039850234984,5
+"http://dbpedia.org/resource/Nicholas_V,_Duke_of_Krnov",http://dbpedia.org/ontology/parent,http://dbpedia.org/resource/Helena_of_Lithuania,Object,70,5.272732734680176,7
+http://dbpedia.org/resource/Projekt_Herz,http://dbpedia.org/property/title,Western Beta,Predicate,72,32.27775287628174,7
+http://dbpedia.org/resource/Projekt_Herz,http://dbpedia.org/property/label,Independent,Predicate;Object,72,32.27775287628174,7
+http://dbpedia.org/resource/Projekt_Herz,http://dbpedia.org/property/title,Supernova,Predicate,72,32.27775287628174,7
+http://dbpedia.org/resource/G._E._Moore,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Ludwig_Wittgenstein,Predicate,73,21.96830129623413,7
+http://dbpedia.org/resource/G._E._Moore,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Gottlob_Frege,Predicate,73,21.96830129623413,7
+http://dbpedia.org/resource/G._E._Moore,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Bertrand_Russell,Predicate,73,21.96830129623413,7
+http://dbpedia.org/resource/The_Cowboy_Way_(album),http://dbpedia.org/property/label,http://dbpedia.org/resource/MCA_Inc.,Predicate,74,3.42573618888855,7
+http://dbpedia.org/resource/Luis_Cruz,http://dbpedia.org/property/cube,Luis-Cruz,Predicate,75,4.77813196182251,7
+http://dbpedia.org/resource/2012_UniCredit_Czech_Open_–_Doubles,http://dbpedia.org/property/rd1Seed,WC,Object,78,3.3796513080596924,7
+http://dbpedia.org/resource/Kingdom_of_Portugal,http://dbpedia.org/property/statYear,1910,Predicate,81,14.472121953964232,8
+http://dbpedia.org/resource/Kingdom_of_Portugal,http://www.w3.org/2000/01/rdf-schema#comment,"The Kingdom of Portugal (Latin: Regnum Portugalliae, Portuguese: Reino de Portugal) was a monarchy on the Iberian Peninsula and the predecessor of modern Portugal. It was in existence from 1139 until 1910. After 1248, it was also known as the Kingdom of Portugal and the Algarves and between 1815 and 1822, it was known as the United Kingdom of Portugal, Brazil and the Algarves.",Object,81,14.472121953964232,8
+http://dbpedia.org/resource/Kingdom_of_Portugal,http://dbpedia.org/property/yearDeputy,1910,Predicate,81,14.472121953964232,8
+http://dbpedia.org/resource/2011_Incheon_United_FC_season,http://dbpedia.org/property/stadium,http://dbpedia.org/resource/Daejeon_World_Cup_Stadium,Object,90,3.584954023361206,8
+http://dbpedia.org/resource/2011_Incheon_United_FC_season,http://dbpedia.org/property/attendance,1368,Object,90,3.584954023361206,8
+http://dbpedia.org/resource/Grigoriy_Rechkalov,http://dbpedia.org/property/deathDate,1990-12-20,Object,91,4.120174407958984,8
+http://dbpedia.org/resource/Croatian_Radiotelevision,http://dbpedia.org/property/website,http://www.hrt.hr/,Object,92,3.7932209968566895,8
+http://dbpedia.org/resource/Pyu_city-states,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Pyu_city-states,Object,94,3.265073537826538,8
+http://dbpedia.org/resource/Carlisle_Cathedral,http://dbpedia.org/property/lats,41,Object,95,5.831863164901733,8
+http://dbpedia.org/resource/Carlisle_Cathedral,http://dbpedia.org/property/width,300,Object,95,5.831863164901733,8
+http://dbpedia.org/resource/Tomasz_Budzyński,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Tomasz_Budzyński__1,Object,97,15.649224758148192,8
+http://dbpedia.org/resource/Tomasz_Budzyński,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Tomasz_Budzyński,Object,97,15.649224758148192,8
+http://dbpedia.org/resource/Leipzig,http://dbpedia.org/property/aprRecordLowC,-6.5,Object,100,2.498441219329834,8
+http://dbpedia.org/resource/Unmanned_Aircraft_System_Simulation,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Unmanned_aerial_vehicles,Object,103,3.9747838973999023,8
+http://dbpedia.org/resource/Unmanned_Aircraft_System_Simulation,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Signals_intelligence,Object,103,3.9747838973999023,8
+http://dbpedia.org/resource/Denis_Perger,http://dbpedia.org/property/nationalcaps,4,Predicate;Object,104,2.528881549835205,8
+http://dbpedia.org/resource/Smart_Personal_Objects_Technology,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Smartphones,Object,105,2.4967715740203857,8
+http://dbpedia.org/resource/Sharon_Brown_(actress),http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Actress,Object,106,5.248891115188599,8
+http://dbpedia.org/resource/Sharon_Brown_(actress),http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Sharon_Brown_(actress),Object,106,5.248891115188599,8
+http://dbpedia.org/resource/SmarTone,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/SmarTone,Object,107,2.880990982055664,8
+http://dbpedia.org/resource/Phymorhynchus_moskalevi,http://dbpedia.org/property/unrankedSuperfamilia,clade Hypsogastropoda,Object,108,3.248687267303467,8
+http://dbpedia.org/resource/Freedom_Downtime,http://dbpedia.org/ontology/narrator,http://dbpedia.org/resource/Eric_Corley,Predicate,109,17.30888032913208,8
+http://dbpedia.org/resource/GoldenSource,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/GoldenSource,Object,110,2.9280526638031006,8
+http://dbpedia.org/resource/Giorgi_Dekanosidze,http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Giorgi_Dekanosidze__3,Predicate;Object,113,7.823968887329102,8
+http://dbpedia.org/resource/Giorgi_Dekanosidze,http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Giorgi_Dekanosidze__2,Predicate;Object,113,7.823968887329102,8
+http://dbpedia.org/resource/Giorgi_Dekanosidze,http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Giorgi_Dekanosidze__6,Predicate;Object,113,7.823968887329102,8
+http://dbpedia.org/resource/Giorgi_Dekanosidze,http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Giorgi_Dekanosidze__7,Predicate;Object,113,7.823968887329102,8
+http://dbpedia.org/resource/Al_Murray,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Musical_theatre,Predicate,116,1.9105212688446045,8
+http://dbpedia.org/resource/Noshi_Gilani,http://dbpedia.org/ontology/citizenship,http://dbpedia.org/resource/United_States,Predicate,118,1.770812749862671,8
+http://dbpedia.org/resource/Mya_Byrne,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/New_Jersey,Object,123,5.328755140304565,8
+http://dbpedia.org/resource/Hirotoshi_Masui,http://dbpedia.org/ontology/birthDate,1984-06-25,Object,125,5.38349175453186,8
+http://dbpedia.org/resource/Hirotoshi_Masui,http://dbpedia.org/property/placeOfBirth,"http://dbpedia.org/resource/Yaizu,_Shizuoka",Object,125,5.38349175453186,8
+http://dbpedia.org/resource/Fablehaven:_Rise_of_the_Evening_Star,http://dbpedia.org/ontology/numberOfPages,448,Object,127,1.9684350490570068,8
+http://dbpedia.org/resource/Deborah_Jeane_Palfrey,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:People_from_Washington_County,_Pennsylvania",Object,131,2.0172536373138428,9
+http://dbpedia.org/resource/Drama_(film),http://dbpedia.org/property/genre,http://dbpedia.org/resource/Soundtrack,Object,138,8.834551811218262,9
+http://dbpedia.org/resource/Drama_(film),http://dbpedia.org/property/type,http://dbpedia.org/resource/Soundtrack,Object,138,8.834551811218262,9
+http://dbpedia.org/resource/Der_bewegte_Mann,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Der_bewegte_Mann,Object,145,3.8900840282440186,9
+http://dbpedia.org/resource/Samsung_Galaxy_S6,http://dbpedia.org/property/name,Samsung Galaxy S6 Edge,Object,157,3.298325300216675,10
+http://dbpedia.org/resource/Sri_Lanka,http://dbpedia.org/property/gdpNominalPerCapita,3818.0,Object,166,5.071343183517456,10
+http://dbpedia.org/resource/Sri_Lanka,http://dbpedia.org/property/populationDensityRank,40,Object,166,5.071343183517456,10
+http://dbpedia.org/resource/Sri_Lanka,http://dbpedia.org/property/latd,6,Object,166,5.071343183517456,10
+http://dbpedia.org/resource/Sri_Lanka,http://dbpedia.org/property/sovereigntyType,http://dbpedia.org/resource/History_of_Sri_Lanka,Object,166,5.071343183517456,10
+http://dbpedia.org/resource/Inseminoid,http://dbpedia.org/property/type,Soundtrack,Predicate;Object,170,7.535372257232666,10
+http://dbpedia.org/resource/Time_of_My_Life_(George_Fox_song),http://dbpedia.org/ontology/runtime,205.0,Object,173,2.597395181655884,10

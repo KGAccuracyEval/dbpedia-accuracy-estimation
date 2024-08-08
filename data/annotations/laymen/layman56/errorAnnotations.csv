@@ -1,0 +1,107 @@
+Subject,Predicate,Object,Error,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/WLGZ-FM,http://dbpedia.org/ontology/webcast,http://player.liquidcompass.net/WLGZFM,Object,1,32.58589816093445,14
+http://dbpedia.org/resource/Love_at_Twenty,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Japanese_films,Object,2,143.76308846473694,14
+http://dbpedia.org/resource/Love_at_Twenty,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:French_films,Object,2,143.76308846473694,14
+http://dbpedia.org/resource/Turkish_War_of_Independence,http://dbpedia.org/ontology/combatant,*French West Africa,Predicate;Object,7,29.50332379341125,14
+http://dbpedia.org/resource/Turkish_War_of_Independence,http://dbpedia.org/ontology/causalties,"7,000-22,000 prisoners",Predicate,7,29.50332379341125,14
+http://dbpedia.org/resource/Tau_(sculpture),http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Tau_(sculpture),Predicate,8,13.436669826507568,14
+http://dbpedia.org/resource/Tau_(sculpture),http://dbpedia.org/property/title,"Tau, AP",Object,8,13.436669826507568,14
+http://dbpedia.org/resource/Tau_(sculpture),http://dbpedia.org/property/widthImperial,252,Object,8,13.436669826507568,14
+http://dbpedia.org/resource/Spider-Man_Unlimited,http://dbpedia.org/property/writer,http://dbpedia.org/resource/Robert_Gregory_Browne,Object,10,23.21736764907837,14
+http://dbpedia.org/resource/Spider-Man_Unlimited,http://dbpedia.org/property/shortsummary,"Spider-Man meets the Counter-Earth version of the Green Goblin, a hero who mistakes Spider-Man for a villain. Spider-Man realizes the kidnapper of Dr. Naoko Yamada-Jones isn't the Goblin. The two team up to save her and stop a plan by her kidnappers responsible for the green Bio-Mass: Venom and Carnage.",Object,10,23.21736764907837,14
+http://dbpedia.org/resource/Spider-Man_Unlimited,http://dbpedia.org/property/episodenumber,10,Object,10,23.21736764907837,14
+http://dbpedia.org/resource/Jack_Dempsey_(politician),http://xmlns.com/foaf/0.1/homepage,http://jackdempseymp.com/,Object,12,52.308917760849,14
+http://dbpedia.org/resource/Jack_Dempsey_(politician),http://dbpedia.org/property/office,"Minister for Aboriginal, Torres Strait Islander and Multicultural Affairs of Queensland",Object,12,52.308917760849,14
+http://dbpedia.org/resource/Jack_Dempsey_(politician),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people),Object,12,52.308917760849,14
+http://dbpedia.org/resource/Zygmunt_Vetulani_(mathematician),http://dbpedia.org/ontology/citizenship,http://dbpedia.org/resource/Poland,Subject,15,3.3206708431243896,14
+http://dbpedia.org/resource/Jupiter_Ascending,http://dbpedia.org/property/studio,*,Object,21,7.314793348312378,14
+http://dbpedia.org/resource/Sergio_Osmeña,http://dbpedia.org/property/termStart,1904,Predicate,23,4.033105611801148,15
+http://dbpedia.org/resource/Tamara_(2005_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Object,27,12.796599626541138,15
+http://dbpedia.org/resource/Tamara_(2005_film),http://dbpedia.org/property/studio,Integrated Films,Object,27,12.796599626541138,15
+http://dbpedia.org/resource/Second_Bulgarian_Empire,http://dbpedia.org/ontology/capital,"http://dbpedia.org/resource/Nikopol,_Bulgaria",Object,28,73.38089561462402,15
+http://dbpedia.org/resource/Second_Bulgarian_Empire,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Vidin,Object,28,73.38089561462402,15
+http://dbpedia.org/resource/Not_So_Dusty_(1956_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:British_film_remakes,Object,29,4.53048586845398,15
+http://dbpedia.org/resource/Lađevci,http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/List_of_districts_of_Serbia,Object,30,3.964498281478882,15
+"http://dbpedia.org/resource/2nd/17th_Battalion,_Royal_New_South_Wales_Regiment",http://dbpedia.org/ontology/commandStructure,http://dbpedia.org/resource/8th_Brigade_(Australia),Object,32,4.360185146331787,15
+http://dbpedia.org/resource/Poseidon_(film),http://dbpedia.org/property/caption,Theatrical release poster,Predicate,37,7.039778232574463,15
+http://dbpedia.org/resource/Alsace-Lorraine,http://dbpedia.org/property/flagP,Flag of France.svg,Object,38,3.698587894439697,15
+http://dbpedia.org/resource/Samoan_crisis,http://dbpedia.org/ontology/strength,1gunboat,Predicate;Object,42,6.22394061088562,15
+http://dbpedia.org/resource/Draga_pri_Šentrupertu,http://dbpedia.org/property/subdivisionType,Country,Object,50,8.832693338394165,15
+http://dbpedia.org/resource/List_of_Spanish_Republican_divisions,http://dbpedia.org/ontology/commandStructure,http://dbpedia.org/resource/Corps,Object,51,3.096968412399292,15
+http://dbpedia.org/resource/Usuran,http://dbpedia.org/property/subdivisionType,Country,Object,53,5.5459840297698975,15
+http://dbpedia.org/resource/Capture_of_USS_President,http://dbpedia.org/property/casualties,1,Object,64,5.918084859848023,15
+http://dbpedia.org/resource/Capture_of_USS_President,http://dbpedia.org/property/strength,1,Object,64,5.918084859848023,15
+"http://dbpedia.org/resource/Newcastle,_New_South_Wales",http://dbpedia.org/property/density,1103,Object,74,11.90587854385376,20
+"http://dbpedia.org/resource/Newcastle,_New_South_Wales",http://dbpedia.org/property/julRecordHighC,26.3,Object,74,11.90587854385376,20
+"http://dbpedia.org/resource/Newcastle,_New_South_Wales",http://dbpedia.org/property/maxtemp,21.8,Object,74,11.90587854385376,20
+http://dbpedia.org/resource/Quicksand_(2003_film),http://dbpedia.org/ontology/country,http://dbpedia.org/resource/Norway,Object,75,2.4854581356048584,20
+http://dbpedia.org/resource/Memorial_to_Women_of_the_Confederacy,http://dbpedia.org/ontology/architecturalStyle,http://dbpedia.org/resource/Neoclassical_architecture,Object,76,3.895936965942383,20
+http://dbpedia.org/resource/Ljanik,http://dbpedia.org/property/longs,5,Object,78,3.0327465534210205,20
+http://dbpedia.org/resource/The_Mirror_Has_Two_Faces,http://dbpedia.org/property/music,Barbra Streisand,Predicate;Object,79,5.257084369659424,20
+http://dbpedia.org/resource/Oscar_Steen,http://dbpedia.org/ontology/team,http://dbpedia.org/resource/AIK_IF,Object,80,6.314070224761963,20
+http://dbpedia.org/resource/Demob_(TV_series),http://dbpedia.org/property/episodenumber,3,Object,84,4.287521600723267,20
+http://dbpedia.org/resource/José_Domingues_dos_Santos,http://xmlns.com/foaf/0.1/surname,Santos,Object,86,10.97959303855896,20
+http://dbpedia.org/resource/José_Domingues_dos_Santos,http://dbpedia.org/property/years,1924,Predicate,86,10.97959303855896,20
+http://dbpedia.org/resource/Gardēzī_Sadaat,http://dbpedia.org/property/langs,• Urdu • Persian • Awadhi,Predicate,87,6.9093337059021,20
+http://dbpedia.org/resource/Paul_Kurtz,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Plato,Object,88,2.7601513862609863,20
+http://dbpedia.org/resource/Lin_Zexu,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Fuzhou,Object,92,5.102437496185303,20
+http://dbpedia.org/resource/Dominion_of_Newfoundland,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Newfoundland_dollar,Object,94,4.891880035400391,20
+http://dbpedia.org/resource/Battle_of_Belleau_Wood,http://www.w3.org/2003/01/geo/wgs84_pos#long,3.29,Object,95,363.5382676124573,20
+http://dbpedia.org/resource/Joey_Molland,http://dbpedia.org/ontology/associatedBand,http://dbpedia.org/resource/Gary_Walker_(musician),Predicate;Object,96,17.50572395324707,20
+http://dbpedia.org/resource/Antony_Thachuparambil,http://dbpedia.org/property/imageSize,220,Object,100,9.555602550506592,20
+http://dbpedia.org/resource/Antony_Thachuparambil,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:People_from_Kerala,Object,100,9.555602550506592,20
+"http://dbpedia.org/resource/Lompoc,_California",http://dbpedia.org/property/namedFor,"Chumash: Lompo': ""Stagnant Water""",Object,104,6.391694307327271,21
+http://dbpedia.org/resource/Berestia,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Vlag_ontbreekt.svg?width=300,Object,106,2.883047103881836,21
+http://dbpedia.org/resource/Korean_War,http://dbpedia.org/property/strength,26000,Object,116,30.786859035491943,21
+http://dbpedia.org/resource/Korean_War,http://dbpedia.org/property/casualties,"Total: 178,426 dead and 32,925 missing",Object,116,30.786859035491943,21
+http://dbpedia.org/resource/Mi_Fu,http://xmlns.com/foaf/0.1/givenName,Fu,Object,117,9.655333995819092,21
+http://dbpedia.org/resource/Mi_Fu,http://dbpedia.org/property/mr,Mi Bul,Predicate;Object,117,9.655333995819092,21
+http://dbpedia.org/resource/The_Perry_Sisters,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Predicate,118,4.971958637237549,21
+http://dbpedia.org/resource/Pula,http://dbpedia.org/property/populationAsOf,2011,Predicate;Object,119,17.03339958190918,21
+"http://dbpedia.org/resource/Bahçecik,_Bilecik",http://dbpedia.org/ontology/abstract,Bahçecik is a town in Bilecik Province in the Marmara region of Turkey.,Object,124,3.4842748641967773,21
+http://dbpedia.org/resource/WESM,http://dbpedia.org/ontology/webcast,http://www.publicbroadcasting.net/wesm/ppr.pprmain,Object,126,30.871437311172485,21
+http://dbpedia.org/resource/WESM,http://dbpedia.org/property/format,http://dbpedia.org/resource/All-news_radio,Predicate;Object,126,30.871437311172485,21
+http://dbpedia.org/resource/Lovin_and_Withers_Cottages,http://dbpedia.org/ontology/architecturalStyle,http://dbpedia.org/resource/Bungalow,Object,127,12.71435832977295,21
+http://dbpedia.org/resource/Lovin_and_Withers_Cottages,http://dbpedia.org/property/added,1986-05-14,Predicate,127,12.71435832977295,21
+http://dbpedia.org/resource/Alifakovac,http://dbpedia.org/ontology/utcOffset,+1,Object,128,3.559757947921753,21
+"http://dbpedia.org/resource/Philip_Snowden,_1st_Viscount_Snowden",http://dbpedia.org/property/predecessor,http://dbpedia.org/resource/Winston_Churchill,Object,131,49.9434027671814,21
+"http://dbpedia.org/resource/Philip_Snowden,_1st_Viscount_Snowden",http://dbpedia.org/property/after,http://dbpedia.org/resource/Winston_Churchill,Predicate,131,49.9434027671814,21
+"http://dbpedia.org/resource/East_London,_Eastern_Cape",http://dbpedia.org/property/longm,52,Predicate;Object,133,8.377290964126587,21
+http://dbpedia.org/resource/Maria_Theresa_of_Austria_(1767–1827),http://dbpedia.org/ontology/parent,http://dbpedia.org/resource/Maria_Luisa_of_Spain,Predicate;Object,135,14.16250705718994,21
+http://dbpedia.org/resource/Louis_Gerhard_De_Geer,http://dbpedia.org/property/years,--03-20,Predicate;Object,137,5.301844596862793,24
+http://dbpedia.org/resource/56th_Infantry_Division_(German_Empire),http://dbpedia.org/property/battles,http://dbpedia.org/resource/Gorlice–Tarnów_Offensive,Predicate,140,10.386364459991457,24
+http://dbpedia.org/resource/Yul_Edochie,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Enugu,Object,141,3.997802019119263,24
+http://dbpedia.org/resource/Hwali,http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/Provinces_of_Zimbabwe,Object,152,25.06784677505493,24
+http://dbpedia.org/resource/Hwali,http://dbpedia.org/property/settlementType,http://dbpedia.org/resource/List_of_wards_of_Zimbabwe,Predicate;Object,152,25.06784677505493,24
+http://dbpedia.org/resource/Hwali,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/List_of_wards_of_Zimbabwe,Predicate;Object,152,25.06784677505493,24
+http://dbpedia.org/resource/Lionel_Casson,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Classics,Object,154,3.9430041313171382,24
+http://dbpedia.org/resource/Lionel_Casson,http://dbpedia.org/property/occupation,http://dbpedia.org/resource/Classics,Object,154,3.9430041313171382,24
+http://dbpedia.org/resource/Svenska_Högarna,http://dbpedia.org/property/characteristic,15.0,Predicate;Object,158,15.934112071990969,30
+http://dbpedia.org/resource/Svenska_Högarna,http://dbpedia.org/property/yeardeactivated,Active,Predicate,158,15.934112071990969,30
+http://dbpedia.org/resource/Svenska_Högarna,http://dbpedia.org/property/marking,"Red, lantern room gren metallic",Predicate;Object,158,15.934112071990969,30
+http://dbpedia.org/resource/Someone_to_Watch_Over_Me_(film),http://dbpedia.org/property/starring,*,Object,159,2.634661674499512,30
+http://dbpedia.org/resource/Khav_and_Mirabad_Rural_District,http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/Provinces_of_Iran,Object,160,9.850061893463137,30
+http://dbpedia.org/resource/Khav_and_Mirabad_Rural_District,http://dbpedia.org/property/subdivisionName,http://dbpedia.org/resource/Kurdestan_Province,Object,160,9.850061893463137,30
+http://dbpedia.org/resource/Kaneh_Karan,http://dbpedia.org/property/utcOffset,210.0,Object,161,28.13176798820496,30
+http://dbpedia.org/resource/Kaneh_Karan,http://dbpedia.org/property/latns,N,Object,161,28.13176798820496,30
+http://dbpedia.org/resource/Kaneh_Karan,http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/Counties_of_Iran,Object,161,28.13176798820496,30
+http://dbpedia.org/resource/Simone_Kennedy-Doornbos,http://dbpedia.org/ontology/activeYearsStartDate,2006-04-18,Object,164,6.569907188415527,30
+http://dbpedia.org/resource/Mulligan's_Stew,http://dbpedia.org/property/runtime,5400.0,Object,165,2.504693984985352,30
+"http://dbpedia.org/resource/Sacred_Heart,_Oklahoma",http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/List_of_counties_in_Oklahoma,Object,167,3.108957052230835,30
+http://dbpedia.org/resource/Campaign_to_Suppress_Bandits_in_Northwestern_China,http://dbpedia.org/property/commander,60,Predicate;Object,168,4.764358282089233,30
+http://dbpedia.org/resource/Mattia_Lanzano,http://dbpedia.org/property/totalcaps,83,Object,169,8.689221858978271,31
+http://dbpedia.org/resource/Mattia_Lanzano,http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Mattia_Lanzano__1,Predicate,169,8.689221858978271,31
+http://dbpedia.org/resource/Kingdom_of_Hungary,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Thaler,Object,170,6.167498588562012,31
+http://dbpedia.org/resource/Don_Miguel_Ruiz,http://dbpedia.org/ontology/nationality,http://dbpedia.org/resource/Mexicans,Object,172,2.190443515777588,31
+http://dbpedia.org/resource/WIVM-LD,http://dbpedia.org/ontology/location,"http://dbpedia.org/resource/Newcomerstown,_Ohio",Object,173,6.323347568511963,31
+http://dbpedia.org/resource/WIVM-LD,http://dbpedia.org/property/homepage,http://www.wivmtv.com/,Predicate;Object,173,6.323347568511963,31
+http://dbpedia.org/resource/Operation_Infatuate,http://dbpedia.org/property/caption,--11-01,Predicate;Object,176,3.9146223068237305,36
+http://dbpedia.org/resource/Kano_(Mortal_Kombat),http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Kano_(Mortal_Kombat),Subject,179,21.19544649124145,36
+http://dbpedia.org/resource/Drøbak,http://dbpedia.org/ontology/leaderName,http://dbpedia.org/resource/Joseph_Stalin,Predicate;Object,180,5.083988428115845,36
+http://dbpedia.org/resource/Azuara,http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/List_of_countries,Object,181,4.313871622085571,36
+http://dbpedia.org/resource/Orson_Welles,http://dbpedia.org/property/align,right,Object,183,4.868294715881348,36
+http://dbpedia.org/resource/Heligoland,http://dbpedia.org/ontology/elevation,61.0,Object,185,4.884778738021851,36
+http://dbpedia.org/resource/Gombe_State,http://dbpedia.org/property/seatType,http://dbpedia.org/resource/List_of_Nigerian_state_capitals,Predicate;Object,186,11.687206506729126,36
+http://dbpedia.org/resource/Gombe_State,http://dbpedia.org/ontology/postalCode,771100,Object,186,11.687206506729126,36
+http://dbpedia.org/resource/South_Sudan,http://dbpedia.org/property/populationEstimate,12340000,Object,187,6.064963340759277,36
+http://dbpedia.org/resource/South_Sudan,http://dbpedia.org/ontology/populationTotal,12340000,Object,187,6.064963340759277,36

@@ -1,0 +1,236 @@
+Subject,Predicate,Object,Error,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/Sydney_Harbour_Tunnel,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Road_tunnels_in_Australia,Predicate,0,13.342805862426758,8
+http://dbpedia.org/resource/Sydney_Harbour_Tunnel,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Public–private_partnership_projects_in_Australia,Predicate,0,13.342805862426758,8
+http://dbpedia.org/resource/Sydney_Harbour_Tunnel,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Toll_roads_in_Australia,Predicate,0,13.342805862426758,8
+http://dbpedia.org/resource/SiteGround,http://dbpedia.org/property/logo,http://dbpedia.org/resource/File:SiteGround.Com_Inc._Logo.png,Predicate,2,5.728489875793457,8
+"http://dbpedia.org/resource/Sir_John_Anderson,_1st_Baronet,_of_Harrold_Priory",http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Scottish_businesspeople,Object,5,107.62964630126952,8
+"http://dbpedia.org/resource/Sir_John_Anderson,_1st_Baronet,_of_Harrold_Priory",http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1963_deaths,Object,5,107.62964630126952,8
+"http://dbpedia.org/resource/Sir_John_Anderson,_1st_Baronet,_of_Harrold_Priory",http://dbpedia.org/property/shortDescription,"Scottish businessman, writer and lecturer.",Object,5,107.62964630126952,8
+"http://dbpedia.org/resource/Sir_John_Anderson,_1st_Baronet,_of_Harrold_Priory",http://dbpedia.org/property/name,"Anderson, John",Object,5,107.62964630126952,8
+http://dbpedia.org/resource/Kelly_Johnson_(engineer),http://xmlns.com/foaf/0.1/name,"Johnson, Clarence",Object,8,11.089186191558838,8
+"http://dbpedia.org/resource/Samuel_Hoare,_1st_Viscount_Templewood",http://dbpedia.org/ontology/monarch,http://dbpedia.org/resource/George_V,Predicate,9,4.444069862365723,8
+http://dbpedia.org/resource/WGAC-FM,http://dbpedia.org/property/owner,http://dbpedia.org/resource/Beasley_Broadcast_Group,Object,10,13.575495958328249,8
+http://dbpedia.org/resource/WGAC-FM,http://dbpedia.org/ontology/webcast,http://wgac.com/streamer/index.php?displaystreamer=true,Object,10,13.575495958328249,8
+http://dbpedia.org/resource/WGAC-FM,http://dbpedia.org/ontology/city,"http://dbpedia.org/resource/Harlem,_Georgia",Object,10,13.575495958328249,8
+http://dbpedia.org/resource/WGAC-FM,http://dbpedia.org/property/city,"http://dbpedia.org/resource/Harlem,_Georgia",Object,10,13.575495958328249,8
+http://dbpedia.org/resource/WGAC-FM,http://dbpedia.org/ontology/owner,http://dbpedia.org/resource/Beasley_Broadcast_Group,Object,10,13.575495958328249,8
+http://dbpedia.org/resource/Kunming–Singapore_Railway,http://dbpedia.org/ontology/status,Planned,Object,11,8.576200246810913,8
+http://dbpedia.org/resource/Kunming–Singapore_Railway,http://dbpedia.org/ontology/routeStart,http://dbpedia.org/resource/China,Object,11,8.576200246810913,8
+http://dbpedia.org/resource/Kunming–Singapore_Railway,http://dbpedia.org/property/linelengthKm,3900,Object,11,8.576200246810913,8
+http://dbpedia.org/resource/Kunming–Singapore_Railway,http://dbpedia.org/property/el,Overhead catenary,Predicate,11,8.576200246810913,8
+http://dbpedia.org/resource/Victor_Hugo,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Dramaturgy,Object,12,20.129333972930908,8
+http://dbpedia.org/resource/Victor_Hugo,http://dbpedia.org/ontology/nationality,http://dbpedia.org/resource/French_nationality_law,Object,12,20.129333972930908,8
+http://dbpedia.org/resource/The_Legend_of_White_Fang,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Series,Predicate,13,6.314769983291626,8
+http://dbpedia.org/resource/The_Legend_of_White_Fang,http://dbpedia.org/ontology/network,http://dbpedia.org/resource/HBO,Object,13,6.314769983291626,8
+http://dbpedia.org/resource/The_Legend_of_White_Fang,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_television_programming,Object,13,6.314769983291626,8
+http://dbpedia.org/resource/Don_Falcone,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Object,14,3.1457130908966064,8
+http://dbpedia.org/resource/Vince_Cable,http://dbpedia.org/property/primeminister,http://dbpedia.org/resource/David_Cameron,Predicate,15,7.316566228866577,8
+http://dbpedia.org/resource/Vince_Cable,http://dbpedia.org/ontology/primeMinister,http://dbpedia.org/resource/David_Cameron,Predicate,15,7.316566228866577,8
+http://dbpedia.org/resource/Fribourg_railway_station,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/Gare_de_Fribourg.jpg,Predicate,16,9.860332012176514,8
+http://dbpedia.org/resource/Fribourg_railway_station,http://dbpedia.org/property/connections,http://dbpedia.org/resource/Transports_publics_fribourgeois,Object,16,9.860332012176514,8
+http://dbpedia.org/resource/Fribourg_railway_station,http://dbpedia.org/ontology/address,Avenue de la Gare,Object,16,9.860332012176514,8
+http://dbpedia.org/resource/Athletics_at_the_1952_Summer_Olympics_–_Men's_4_×_100_metres_relay,http://dbpedia.org/ontology/silverMedalist,http://dbpedia.org/resource/Vladimir_Sukharev,Object,17,25.795325994491577,8
+http://dbpedia.org/resource/Kickapoo_Joy_Juice,http://dbpedia.org/ontology/origin,http://dbpedia.org/resource/United_States,Object,18,4.15912389755249,8
+http://dbpedia.org/resource/Crytek_UK,http://dbpedia.org/property/locationCity,http://dbpedia.org/resource/Nottingham,Object,19,13.53416895866394,8
+http://dbpedia.org/resource/Crytek_UK,http://dbpedia.org/ontology/product,http://dbpedia.org/resource/Second_Sight_(video_game),Object,19,13.53416895866394,8
+http://dbpedia.org/resource/Love_Crime,http://dbpedia.org/property/language,English,Object,20,26.943776845932007,8
+http://dbpedia.org/resource/Love_Crime,http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Kristin_Scott_Thomas,Predicate;Object,20,26.943776845932007,8
+http://dbpedia.org/resource/Love_Crime,http://dbpedia.org/property/runtime,6360.0,Object,20,26.943776845932007,8
+http://dbpedia.org/resource/Love_Crime,http://dbpedia.org/ontology/writer,http://dbpedia.org/resource/Natalie_Carter,Predicate;Object,20,26.943776845932007,8
+http://dbpedia.org/resource/Emily_Penrose,http://dbpedia.org/property/title,http://dbpedia.org/resource/University_of_London,Predicate,22,7.270122051239014,8
+http://dbpedia.org/resource/Emily_Penrose,http://dbpedia.org/property/title,"http://dbpedia.org/resource/Royal_Holloway,_University_of_London",Predicate,22,7.270122051239014,8
+http://dbpedia.org/resource/Ohio_Northern_University,http://dbpedia.org/ontology/facultySize,207,Object,25,61.47967290878296,8
+http://dbpedia.org/resource/Famous_Studios,http://dbpedia.org/ontology/keyPerson,http://dbpedia.org/resource/Shamus_Culhane,Object,26,8.194630146026611,8
+http://dbpedia.org/resource/Famous_Studios,http://dbpedia.org/ontology/foundingDate,1942-05-25,Object,26,8.194630146026611,8
+http://dbpedia.org/resource/Famous_Studios,http://dbpedia.org/ontology/keyPerson,http://dbpedia.org/resource/Isadore_Sparber,Object,26,8.194630146026611,8
+http://dbpedia.org/resource/Kenji_Fujimori,http://xmlns.com/foaf/0.1/homepage,http://www.kenjifujimori.com.pe/,Object,27,9.645761966705322,8
+http://dbpedia.org/resource/Kenji_Fujimori,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Kenji_Fujimori,Predicate;Object,27,9.645761966705322,8
+http://dbpedia.org/resource/X-treme_Close-Up,http://dbpedia.org/property/title,Unholy,Predicate;Object,28,18.604830980300903,8
+http://dbpedia.org/resource/X-treme_Close-Up,http://dbpedia.org/property/genre,http://dbpedia.org/resource/Heavy_metal_music,Predicate;Object,28,18.604830980300903,8
+http://dbpedia.org/resource/X-treme_Close-Up,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1992_films,Predicate;Object,28,18.604830980300903,8
+http://dbpedia.org/resource/X-treme_Close-Up,http://dbpedia.org/property/region,United States,Predicate,28,18.604830980300903,8
+http://dbpedia.org/resource/X-treme_Close-Up,http://dbpedia.org/property/type,video,Object,28,18.604830980300903,8
+http://dbpedia.org/resource/UD_Melilla,http://dbpedia.org/property/name,http://dbpedia.org/resource/Ricardo_Segura_Martínez,Predicate,29,12.69469118118286,9
+http://dbpedia.org/resource/Andriy_Hlushchenko,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Coach,Predicate,31,8.960769176483154,9
+http://dbpedia.org/resource/Southern_Aurora,http://dbpedia.org/property/status,Ceased,Object,32,16.32436990737915,9
+http://dbpedia.org/resource/Frank_Miller_(Medal_of_Honor),http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/New_York_City,Object,34,10.10881781578064,9
+http://dbpedia.org/resource/Frank_Miller_(Medal_of_Honor),http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/San_Francisco,Object,34,10.10881781578064,9
+http://dbpedia.org/resource/Frank_Miller_(Medal_of_Honor),http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Soldier,Predicate,34,10.10881781578064,9
+http://dbpedia.org/resource/Frank_Miller_(Medal_of_Honor),http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/New_York,Object,34,10.10881781578064,9
+http://dbpedia.org/resource/John_Hennessy_Saul,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_people_of_Anglo-Irish_descent,Object,38,2.991670846939087,13
+http://dbpedia.org/resource/John_Hennessy_Saul,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_Roman_Catholics,Object,38,2.991670846939087,13
+http://dbpedia.org/resource/Catarrhal_Noise,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/Italy,Predicate,39,1.8562512397766116,13
+http://dbpedia.org/resource/Platinum_Equity,http://dbpedia.org/property/location,http://dbpedia.org/resource/Beverly_Hills,Predicate,40,5.545520067214966,13
+http://dbpedia.org/resource/Perth,http://www.w3.org/2000/01/rdf-schema#label,Perth,Predicate,41,15.66118097305298,14
+http://dbpedia.org/resource/The_Two_Mrs._Carrolls,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Film_scores_by_Franz_Waxman,Object,42,2.6282880306243896,14
+http://dbpedia.org/resource/Gianfranco_Giachetti,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Rome,Object,43,4.0468361377716064,14
+http://dbpedia.org/resource/Gianfranco_Giachetti,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Tuscany,Object,43,4.0468361377716064,14
+http://dbpedia.org/resource/Oconee_Fall_Line_Technical_College,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Unit,Predicate;Object,44,6.175368070602417,14
+http://dbpedia.org/resource/Oconee_Fall_Line_Technical_College,http://dbpedia.org/property/imageName,Oconee Fall Line Technical College logo.svg,Predicate;Object,44,6.175368070602417,14
+http://dbpedia.org/resource/Genesis_(2009),http://dbpedia.org/property/promotion,http://dbpedia.org/resource/Total_Nonstop_Action_Wrestling,Object,45,6.39668083190918,14
+http://dbpedia.org/resource/National_Benzole,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/National_Benzole,Predicate;Object,46,20.726326942443848,14
+http://dbpedia.org/resource/National_Benzole,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/National_Benzole,Object,46,20.726326942443848,14
+http://dbpedia.org/resource/Yosi_Piamenta,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Jerusalem,Object,48,7.2480010986328125,14
+http://dbpedia.org/resource/Yosi_Piamenta,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/New_York_City,Object,48,7.2480010986328125,14
+http://dbpedia.org/resource/Yosi_Piamenta,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/United_States,Object,48,7.2480010986328125,14
+http://dbpedia.org/resource/Yosi_Piamenta,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Israel,Object,48,7.2480010986328125,14
+http://dbpedia.org/resource/Yosi_Piamenta,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/New_York,Object,48,7.2480010986328125,14
+http://dbpedia.org/resource/NRK_Sport,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Norwegian_brands,Object,49,4.462244033813477,14
+http://dbpedia.org/resource/Georgios_Vikhos,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Athens,Object,50,4.402019262313843,14
+http://dbpedia.org/resource/The_Sheep-Pig,http://www.w3.org/2000/01/rdf-schema#label,The Sheep-Pig,Predicate,51,94.41991806030272,14
+http://dbpedia.org/resource/The_Sheep-Pig,http://dbpedia.org/ontology/numberOfPages,118,Object,51,94.41991806030272,14
+"http://dbpedia.org/resource/All_Saints_Church,_Spetchley",http://xmlns.com/foaf/0.1/page,http://www.visitchurches.org.uk/findachurch/all-saints-spetchley/?region=Worcestershire,Predicate;Object,52,3.0974280834198,14
+"http://dbpedia.org/resource/José_Antonio_de_Mendoza,_3rd_Marquis_of_Villagarcía",http://dbpedia.org/property/name,"Mendoza, Jose Antonio De",Object,54,6.025392055511475,14
+"http://dbpedia.org/resource/José_Antonio_de_Mendoza,_3rd_Marquis_of_Villagarcía",http://dbpedia.org/property/placeOfDeath,http://dbpedia.org/resource/Cape_Horn,Predicate,54,6.025392055511475,14
+http://dbpedia.org/resource/Tapulous,http://www.w3.org/2000/01/rdf-schema#label,Tapulous,Predicate,55,3.941859006881714,14
+http://dbpedia.org/resource/Qiaoqi_Dam,http://dbpedia.org/ontology/part,http://dbpedia.org/resource/Qiaoqi_Dam__2,Object,56,9.56482195854187,14
+http://dbpedia.org/resource/Luis_Cruz,http://dbpedia.org/property/statyear,2013,Predicate;Object,57,13.221524000167848,14
+http://dbpedia.org/resource/Luis_Cruz,http://dbpedia.org/property/cube,Luis-Cruz,Predicate;Object,57,13.221524000167848,14
+http://dbpedia.org/resource/The_Automatic,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Automatic,Predicate;Object,58,11.609585046768188,14
+http://dbpedia.org/resource/The_Automatic,http://dbpedia.org/ontology/associatedBand,http://dbpedia.org/resource/Yourcodenameis:milo,Object,58,11.609585046768188,14
+http://dbpedia.org/resource/The_Automatic,http://dbpedia.org/property/align,right,Predicate;Object,58,11.609585046768188,14
+http://dbpedia.org/resource/Pescanova,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/Aliholding,Object,60,33.129801988601685,20
+http://dbpedia.org/resource/Kola_Bay_Bridge,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Kola_Bay_Bridge,Object,61,6.609955072402954,20
+http://dbpedia.org/resource/Kola_Bay_Bridge,http://www.w3.org/2003/01/geo/wgs84_pos#long,33.0414,Object,61,6.609955072402954,20
+http://dbpedia.org/resource/Duffy_(singer),http://dbpedia.org/property/imageSize,200,Predicate;Object,62,9.5554780960083,20
+http://dbpedia.org/resource/Duffy_(singer),http://dbpedia.org/property/width,200,Predicate;Object,62,9.5554780960083,20
+http://dbpedia.org/resource/Duffy_(singer),http://dbpedia.org/property/label,*,Predicate;Object,62,9.5554780960083,20
+http://dbpedia.org/resource/Duffy_(singer),http://dbpedia.org/property/v,no,Predicate;Object,62,9.5554780960083,20
+http://dbpedia.org/resource/2012–13_Pittsburgh_Penguins_season,http://dbpedia.org/property/birthplace,"http://dbpedia.org/resource/Virginia,_Minnesota",Subject,63,5.8507349491119385,20
+http://dbpedia.org/resource/2012–13_Pittsburgh_Penguins_season,http://dbpedia.org/property/birthplace,http://dbpedia.org/resource/Bromma,Subject,63,5.8507349491119385,20
+http://dbpedia.org/resource/2012–13_Pittsburgh_Penguins_season,http://dbpedia.org/property/birthplace,"http://dbpedia.org/resource/Belleville,_Ontario",Subject,63,5.8507349491119385,20
+http://dbpedia.org/resource/2012–13_Pittsburgh_Penguins_season,http://dbpedia.org/property/birthplace,http://dbpedia.org/resource/Magnitogorsk,Subject,63,5.8507349491119385,20
+http://dbpedia.org/resource/2012–13_Pittsburgh_Penguins_season,http://dbpedia.org/property/birthplace,http://dbpedia.org/resource/St._Louis,Subject,63,5.8507349491119385,20
+http://dbpedia.org/resource/Right-_and_left-hand_traffic,http://dbpedia.org/property/title,List of jurisdictions where traffic keeps right,Object,64,5.682703733444214,20
+http://dbpedia.org/resource/Right-_and_left-hand_traffic,http://dbpedia.org/property/title,Countries with trains generally keeping to the left,Object,64,5.682703733444214,20
+http://dbpedia.org/resource/Roy_Webb,http://xmlns.com/foaf/0.1/name,"Webb, Roy",Object,66,10.043689966201782,20
+http://dbpedia.org/resource/Roy_Webb,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Burials_at_Forest_Lawn_Memorial_Park_(Glendale),Object,66,10.043689966201782,20
+http://dbpedia.org/resource/Roy_Webb,http://xmlns.com/foaf/0.1/name,Roy Webb,Object,66,10.043689966201782,20
+http://dbpedia.org/resource/Grand_Paris_Express,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Grand_paris_express.svg?width=300,Predicate,67,8.497643947601318,20
+http://dbpedia.org/resource/Blackfriars_station,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Former_Metropolitan_District_Railway_stations,Object,68,16.354434967041016,20
+http://dbpedia.org/resource/Blackfriars_station,http://dbpedia.org/property/manager,http://dbpedia.org/resource/London_Underground,Predicate;Object,68,16.354434967041016,20
+http://dbpedia.org/resource/Blackfriars_station,http://dbpedia.org/property/platforms,6,Object,68,16.354434967041016,20
+http://dbpedia.org/resource/Marina_Bay_MRT_Station,http://dbpedia.org/ontology/numberOfTracks,4,Object,70,5.932553291320801,20
+http://dbpedia.org/resource/Marina_Bay_MRT_Station,http://dbpedia.org/property/name,25,Predicate;Object,70,5.932553291320801,20
+"http://dbpedia.org/resource/Juan_de_Acuña,_2nd_Marquis_of_Casa_Fuerte",http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Peru,Object,71,8.900099039077759,20
+"http://dbpedia.org/resource/Juan_de_Acuña,_2nd_Marquis_of_Casa_Fuerte",http://dbpedia.org/property/predecessor,"http://dbpedia.org/resource/Baltasar_de_Zúñiga,_1st_Duke_of_Arión",Object,71,8.900099039077759,20
+"http://dbpedia.org/resource/Juan_de_Acuña,_2nd_Marquis_of_Casa_Fuerte",http://dbpedia.org/property/name,"Acuna y Manrique, Juan de",Object,71,8.900099039077759,20
+"http://dbpedia.org/resource/Juan_de_Acuña,_2nd_Marquis_of_Casa_Fuerte",http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Knights_of_Santiago,Object,71,8.900099039077759,20
+http://dbpedia.org/resource/Ajinomoto,http://dbpedia.org/ontology/product,http://dbpedia.org/resource/Pharmaceutical_drug,Object,72,6.037445068359375,20
+http://dbpedia.org/resource/Ajinomoto,http://www.w3.org/2000/01/rdf-schema#label,Ajinomoto,Predicate;Object,72,6.037445068359375,20
+http://dbpedia.org/resource/Russia_Wharf_Buildings,http://dbpedia.org/property/latDegrees,42,Object,74,20.021172046661377,20
+http://dbpedia.org/resource/Russia_Wharf_Buildings,http://dbpedia.org/property/longDirection,W,Predicate;Object,74,20.021172046661377,20
+http://dbpedia.org/resource/Russia_Wharf_Buildings,http://dbpedia.org/property/latDirection,N,Predicate;Object,74,20.021172046661377,20
+http://dbpedia.org/resource/Russia_Wharf_Buildings,http://dbpedia.org/property/locmapin,Massachusetts,Predicate;Object,74,20.021172046661377,20
+http://dbpedia.org/resource/Russia_Wharf_Buildings,http://dbpedia.org/property/longDegrees,71,Predicate;Object,74,20.021172046661377,20
+http://dbpedia.org/resource/Shuttle_America,http://dbpedia.org/property/hubs,http://dbpedia.org/resource/Newark_Liberty_Airport,Object,77,11.593605995178224,20
+http://dbpedia.org/resource/Shuttle_America,http://dbpedia.org/property/hubs,http://dbpedia.org/resource/New_York_LaGuardia,Object,77,11.593605995178224,20
+http://dbpedia.org/resource/Maria_Schell,http://dbpedia.org/property/deathPlace,http://dbpedia.org/resource/Carinthia_(state),Object,79,9.876466751098633,20
+http://dbpedia.org/resource/Maria_Schell,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Carinthia_(state),Object,79,9.876466751098633,20
+http://dbpedia.org/resource/Zenón_Franco_Ocampos,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Paraguay,Object,81,3.027050018310547,20
+http://dbpedia.org/resource/Sterba_Propellers,http://dbpedia.org/property/products,http://dbpedia.org/resource/Propeller_(aircraft),Predicate;Object,84,70.8263111114502,21
+http://dbpedia.org/resource/Helsinki_tram,http://dbpedia.org/ontology/typeOfElectrification,http://dbpedia.org/resource/Volt,Predicate;Object,87,3.461098909378052,21
+http://dbpedia.org/resource/Piet_Lindeque,http://dbpedia.org/ontology/school,http://dbpedia.org/resource/Bloemfontein,Object,88,4.808443069458008,21
+http://dbpedia.org/resource/K1_Speed,http://dbpedia.org/ontology/regionServed,http://dbpedia.org/resource/Southern_California,Object,89,9.247407913208008,21
+http://dbpedia.org/resource/K1_Speed,http://www.w3.org/2000/01/rdf-schema#label,K1 Speed,Predicate,89,9.247407913208008,21
+http://dbpedia.org/resource/1995–96_Liverpool_F.C._season,http://dbpedia.org/property/team,http://dbpedia.org/resource/Arsenal_F.C.,Object,90,5.509564161300659,21
+http://dbpedia.org/resource/1995–96_Liverpool_F.C._season,http://dbpedia.org/property/team,http://dbpedia.org/resource/Chelsea_F.C.,Object,90,5.509564161300659,21
+http://dbpedia.org/resource/1995–96_Liverpool_F.C._season,http://dbpedia.org/property/team,http://dbpedia.org/resource/West_Ham_United_F.C.,Object,90,5.509564161300659,21
+http://dbpedia.org/resource/1995–96_Liverpool_F.C._season,http://dbpedia.org/property/team,http://dbpedia.org/resource/Aston_Villa_F.C.,Object,90,5.509564161300659,21
+http://dbpedia.org/resource/Danilo_Carando,http://dbpedia.org/property/clubs,http://dbpedia.org/resource/FC_Astra,Predicate,91,13.080676794052124,22
+http://dbpedia.org/resource/Danilo_Carando,http://dbpedia.org/property/goals,15,Predicate,91,13.080676794052124,22
+http://dbpedia.org/resource/Danilo_Carando,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Argentine_expatriates_in_Chile,Object,91,13.080676794052124,22
+http://dbpedia.org/resource/Danilo_Carando,http://dbpedia.org/property/years,2010,Predicate;Object,91,13.080676794052124,22
+http://dbpedia.org/resource/Umayyad_Caliphate,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Dirham,Object,94,4.493675947189331,22
+http://dbpedia.org/resource/Umayyad_Caliphate,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Harran,Object,94,4.493675947189331,22
+http://dbpedia.org/resource/Team_Bondi,http://xmlns.com/foaf/0.1/homepage,http://www.teambondi.com/,Object,96,8.763389110565186,22
+http://dbpedia.org/resource/Team_Bondi,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Australia,Predicate;Object,96,8.763389110565186,22
+http://dbpedia.org/resource/Jan_Hoffmann,http://www.w3.org/2000/01/rdf-schema#label,Jan Hoffmann,Predicate;Object,97,5.461069107055664,22
+http://dbpedia.org/resource/Jan_Hoffmann,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Saxony,Object,97,5.461069107055664,22
+http://dbpedia.org/resource/Newcastle_Rebels,http://dbpedia.org/property/season,1909,Predicate;Object,99,11.881153106689451,22
+http://dbpedia.org/resource/Alfons_Goppel,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Regensburg,Object,100,4.657360076904297,22
+http://dbpedia.org/resource/Apodida,http://dbpedia.org/property/phylum,http://dbpedia.org/resource/Echinodermata,Object,103,4.26085090637207,28
+http://dbpedia.org/resource/Apodida,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Holothuroidea,Object,103,4.26085090637207,28
+http://dbpedia.org/resource/Apodida,http://dbpedia.org/ontology/phylum,http://dbpedia.org/resource/Echinoderm,Object,103,4.26085090637207,28
+http://dbpedia.org/resource/Mercury_Interactive,http://dbpedia.org/ontology/industry,http://dbpedia.org/resource/IT_service_management,Object,104,6.645602226257324,28
+http://dbpedia.org/resource/Gilan_Province,http://dbpedia.org/property/seatType,http://dbpedia.org/resource/Capital_city,Predicate;Object,106,8.030909061431885,28
+http://dbpedia.org/resource/Gilan_Province,http://dbpedia.org/property/p,16,Predicate;Object,106,8.030909061431885,28
+http://dbpedia.org/resource/Music_of_Final_Fantasy_XIII,http://dbpedia.org/property/length,276.0,Predicate;Object,108,12.097442150115969,28
+http://dbpedia.org/resource/Music_of_Final_Fantasy_XIII,http://dbpedia.org/property/extra,撃墜,Predicate;Object,108,12.097442150115969,28
+http://dbpedia.org/resource/Music_of_Final_Fantasy_XIII,http://dbpedia.org/property/note,"""Because You Are Here """,Predicate;Object,108,12.097442150115969,28
+http://dbpedia.org/resource/Music_of_Final_Fantasy_XIII,http://dbpedia.org/property/extra,決意,Predicate;Object,108,12.097442150115969,28
+http://dbpedia.org/resource/Music_of_Final_Fantasy_XIII,http://dbpedia.org/property/title,Sinful Hope,Predicate;Object,108,12.097442150115969,28
+http://dbpedia.org/resource/Britannia_Industries,http://dbpedia.org/ontology/internationally,1,Object,110,4.408975839614868,28
+http://dbpedia.org/resource/1994_WCHA_Men's_Ice_Hockey_Tournament,http://dbpedia.org/property/stadium,http://dbpedia.org/resource/Lakeview_Arena,Object,111,2.783092975616455,28
+http://dbpedia.org/resource/Rome2rio,http://xmlns.com/foaf/0.1/homepage,http://www.rome2rio.com/,Predicate;Object,113,17.29481792449951,28
+http://dbpedia.org/resource/Rome2rio,http://dbpedia.org/property/locationCountry,Australia,Object,113,17.29481792449951,28
+http://dbpedia.org/resource/Rome2rio,http://dbpedia.org/property/founder,http://dbpedia.org/resource/Bernhard_Tschirren,Object,113,17.29481792449951,28
+http://dbpedia.org/resource/Rome2rio,http://dbpedia.org/ontology/foundedBy,http://dbpedia.org/resource/Bernhard_Tschirren,Object,113,17.29481792449951,28
+http://dbpedia.org/resource/Charles_Hibbert_Tupper,http://dbpedia.org/property/residence,http://dbpedia.org/resource/City_of_Halifax,Object,117,37.11335515975952,28
+http://dbpedia.org/resource/Paessler,http://dbpedia.org/property/homepage,http://www.paessler.com/,Object,118,3.9776611328125,28
+http://dbpedia.org/resource/West_of_Scotland_F.C.,http://dbpedia.org/property/league,http://dbpedia.org/resource/Scottish_Championship_Leagues,Object,120,13.38033890724182,28
+http://dbpedia.org/resource/West_of_Scotland_F.C.,http://dbpedia.org/property/patternSo,_hoops_red,Predicate;Object,120,13.38033890724182,28
+http://dbpedia.org/resource/West_of_Scotland_F.C.,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/West_of_Scotland_F.C.,Predicate;Object,120,13.38033890724182,28
+http://dbpedia.org/resource/West_of_Scotland_F.C.,http://xmlns.com/foaf/0.1/homepage,http://www.westofscotlandfc.co.uk/,Object,120,13.38033890724182,28
+http://dbpedia.org/resource/1953_Dutch_Grand_Prix,http://dbpedia.org/ontology/secondTeam,http://dbpedia.org/resource/Scuderia_Ferrari,Predicate,121,14.57931423187256,28
+http://dbpedia.org/resource/1953_Dutch_Grand_Prix,http://dbpedia.org/ontology/poleDriverTeam,http://dbpedia.org/resource/Scuderia_Ferrari,Predicate,121,14.57931423187256,28
+http://dbpedia.org/resource/Herborn_(Hesse),http://dbpedia.org/ontology/leaderParty,http://dbpedia.org/resource/Social_Democratic_Party_of_Germany,Predicate;Object,123,4.533102750778198,28
+http://dbpedia.org/resource/Nexland,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-company-noun-1,Object,124,5.631328821182251,28
+http://dbpedia.org/resource/Nexland,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Nexland,Object,124,5.631328821182251,28
+http://dbpedia.org/resource/Christopher_Eccleston,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Lancashire,Object,127,18.934202194213867,28
+http://dbpedia.org/resource/Christopher_Eccleston,http://xmlns.com/foaf/0.1/name,Christopher Eccleston,Predicate;Object,127,18.934202194213867,28
+http://dbpedia.org/resource/Christopher_Eccleston,http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Pendleton,_Greater_Manchester",Object,127,18.934202194213867,28
+http://dbpedia.org/resource/Christopher_Eccleston,http://xmlns.com/foaf/0.1/name,"Eccleston, Christopher",Predicate;Object,127,18.934202194213867,28
+http://dbpedia.org/resource/2012_Iran_Futsal's_2nd_Division,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/2012_Iran_Futsal's_2nd_Division,Predicate;Object,128,3.561785221099853,28
+http://dbpedia.org/resource/International_Surf_Lifesaving_Association,http://dbpedia.org/property/name,Articles for creation/International Surf Lifesaving Association,Object,131,7.103348970413208,28
+http://dbpedia.org/resource/International_Surf_Lifesaving_Association,http://dbpedia.org/property/content,"Huntington Beach, California, USA",Predicate;Object,131,7.103348970413208,28
+http://dbpedia.org/resource/Franz_Graßmel,http://dbpedia.org/property/rank,http://dbpedia.org/resource/Oberstleutnant,Predicate,133,20.91374707221985,28
+http://dbpedia.org/resource/Franz_Graßmel,http://dbpedia.org/property/portal,Biography,Predicate;Object,133,20.91374707221985,28
+http://dbpedia.org/resource/Franz_Graßmel,http://dbpedia.org/property/name,"Grassmel, Franz",Predicate,133,20.91374707221985,28
+http://dbpedia.org/resource/Frank_Iero,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Frank_Iero,Predicate;Object,135,6.851237773895264,28
+http://dbpedia.org/resource/Pink_Floyd,http://dbpedia.org/ontology/recordLabel,http://dbpedia.org/resource/Columbia_Graphophone_Company,Object,137,6.789305925369263,28
+http://dbpedia.org/resource/Pink_Floyd,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Capitol_Records_artists,Predicate;Object,137,6.789305925369263,28
+http://dbpedia.org/resource/Alfred_Peet,http://dbpedia.org/property/placeOfBirth,http://dbpedia.org/resource/Alkmaar,Object,140,2.8387598991394043,28
+http://dbpedia.org/resource/Mary_Neal,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Mary_Neal,Object,142,12.863138914108276,28
+http://dbpedia.org/resource/Lottie_Williams,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Indiana,Object,144,4.572317838668823,28
+"http://dbpedia.org/resource/United_States_Customhouse_(New_Bedford,_Massachusetts)",http://dbpedia.org/ontology/governingBody,http://dbpedia.org/resource/U.S._Customs_and_Border_Protection,Object,145,2.22349214553833,28
+http://dbpedia.org/resource/The_Joker_Is_Wild,http://dbpedia.org/ontology/gross,3000000.0,Predicate;Object,149,8.80234408378601,28
+http://dbpedia.org/resource/The_Joker_Is_Wild,http://dbpedia.org/property/border,yes,Predicate;Object,149,8.80234408378601,28
+http://dbpedia.org/resource/The_Joker_Is_Wild,http://dbpedia.org/property/runtime,7560.0,Predicate;Object,149,8.80234408378601,28
+"http://dbpedia.org/resource/The_Chinese_University_of_Hong_Kong,_Shenzhen",http://dbpedia.org/property/affiliations,http://dbpedia.org/resource/Shenzhen_University,Predicate;Object,150,5.052041053771973,28
+"http://dbpedia.org/resource/The_Chinese_University_of_Hong_Kong,_Shenzhen",http://dbpedia.org/ontology/sport,http://dbpedia.org/resource/Tennis,Predicate;Object,150,5.052041053771973,28
+http://dbpedia.org/resource/Landsbankinn,http://dbpedia.org/property/companyType,http://dbpedia.org/resource/Privately_held_company,Object,151,4.906560897827148,28
+http://dbpedia.org/resource/Naoum_Aronson,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Naoum_Aronson__1,Predicate;Object,152,6.277446746826172,28
+http://dbpedia.org/resource/Naoum_Aronson,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Naoum_Aronson,Object,152,6.277446746826172,28
+http://dbpedia.org/resource/Sentrigo,http://dbpedia.org/property/industry,http://dbpedia.org/resource/Software,Predicate,153,6.152742147445679,28
+http://dbpedia.org/resource/Educating_Rita_(film),http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Educating_Rita_(film),Predicate,154,3.759999036788941,28
+http://dbpedia.org/resource/Sunny's_Halo,http://dbpedia.org/ontology/sire,http://dbpedia.org/resource/Halo_(horse),Object,155,5.266114234924316,28
+http://dbpedia.org/resource/Sunny's_Halo,http://dbpedia.org/ontology/honours,http://dbpedia.org/resource/Canadian_Horse_Racing_Hall_of_Fame,Object,155,5.266114234924316,28
+http://dbpedia.org/resource/Licence_to_Kill,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Screenplays_by_Richard_Maibaum,Object,156,3.3059990406036377,28
+http://dbpedia.org/resource/Fifth_Avenue,http://dbpedia.org/property/junction,Madison Avenue Bridge in Harlem,Predicate;Object,157,12.261732816696169,28
+http://dbpedia.org/resource/Fifth_Avenue,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Recurring_events_established_in_1979,Predicate;Object,157,12.261732816696169,28
+http://dbpedia.org/resource/Fifth_Avenue,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Upper_East_Side,Predicate;Object,157,12.261732816696169,28
+http://dbpedia.org/resource/Of_All_Things_I_Will_Soon_Grow_Tired,http://dbpedia.org/property/genre,http://dbpedia.org/resource/Emo,Object,158,3.2252731323242188,28
+http://dbpedia.org/resource/Of_All_Things_I_Will_Soon_Grow_Tired,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Emo,Object,158,3.2252731323242188,28
+http://dbpedia.org/resource/Matt_McColm,http://www.w3.org/2000/01/rdf-schema#label,Matt McColm,Predicate,160,8.254099130630493,28
+http://dbpedia.org/resource/Matt_McColm,http://xmlns.com/foaf/0.1/name,"McColm, Matt",Object,160,8.254099130630493,28
+http://dbpedia.org/resource/Love_Is_Blind_(Claire_Voyant_album),http://dbpedia.org/property/length,3134.0,Object,161,4.130591154098511,28
+http://dbpedia.org/resource/Barry_Gibbs,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Saskatchewan,Object,163,18.57221984863281,28
+http://dbpedia.org/resource/Barry_Gibbs,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Canada,Object,163,18.57221984863281,28
+http://dbpedia.org/resource/Barry_Gibbs,http://www.w3.org/2000/01/rdf-schema#label,Barry Gibbs,Predicate;Object,163,18.57221984863281,28
+http://dbpedia.org/resource/Barry_Gibbs,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Lloydminster,Object,163,18.57221984863281,28
+http://dbpedia.org/resource/Shadow_Mountain_Lookout,http://dbpedia.org/ontology/governingBody,http://dbpedia.org/resource/National_Park_Service,Object,164,3.180954694747925,28
+http://dbpedia.org/resource/Diego_De_Ascentis,http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Diego_De_Ascentis__4,Predicate;Object,166,11.3391752243042,28
+http://dbpedia.org/resource/Diego_De_Ascentis,http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Diego_De_Ascentis__5,Predicate;Object,166,11.3391752243042,28
+http://dbpedia.org/resource/Diego_De_Ascentis,http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Diego_De_Ascentis__7,Predicate;Object,166,11.3391752243042,28
+http://dbpedia.org/resource/Diego_De_Ascentis,http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Diego_De_Ascentis__6,Predicate;Object,166,11.3391752243042,28
+http://dbpedia.org/resource/Sanjak_of_Ohrid,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Bitola,Object,168,1.940518140792847,28
+http://dbpedia.org/resource/Yannick_N'Gog,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Hauts-de-Seine,Predicate;Object,170,3.233849048614502,28
+http://dbpedia.org/resource/Nikkor,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Nikon,Predicate;Object,171,3.798949956893921,28
+http://dbpedia.org/resource/Max_(2002_film),http://dbpedia.org/property/studio,http://dbpedia.org/resource/UK_Film_Council,Object,173,8.622769117355347,28
+http://dbpedia.org/resource/Berkeley_Preparatory_School,http://dbpedia.org/property/website,https://www.berkeleyprep.org/,Predicate;Object,174,9.530745267868042,28
+http://dbpedia.org/resource/Berkeley_Preparatory_School,http://www.georss.org/georss/point,27.9897645 -82.574744,Predicate;Object,174,9.530745267868042,28
+http://dbpedia.org/resource/Berkeley_Preparatory_School,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Episcopal_schools_in_the_United_States,Predicate;Object,174,9.530745267868042,28
+http://dbpedia.org/resource/Namma_Metro,http://dbpedia.org/ontology/headquarter,http://dbpedia.org/resource/Bangalore_Metropolitan_Transport_Corporation,Object,176,7.945349931716919,28
+http://dbpedia.org/resource/Namma_Metro,http://xmlns.com/foaf/0.1/homepage,http://bmrc.co.in/,Object,176,7.945349931716919,28
+http://dbpedia.org/resource/Eolica_Casimcea_Wind_Farm,http://dbpedia.org/property/psElectricalCapacity,244.0,Predicate;Object,177,12.211293935775757,28

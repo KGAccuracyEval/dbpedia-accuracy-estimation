@@ -1,0 +1,700 @@
+Subject,Predicate,Object,Annotation,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/Andriy_Hlushchenko,http://www.w3.org/2000/01/rdf-schema#comment,"Andriy Hlushchenko (born 18 March 1974) is a Ukrainian football goalkeeper coach at Chornomorets Odessa of the Ukrainian Premier League. Prior to that, he played at Torpedo Zaporizhia, Zirka Kirovohrad, Metalurh Zaporizhya, llychivets Mariupol and Chornomorets Odessa and was also a goalkeeper coach at Metalurh Zaporizhya.Andriy announced his retirement as a professional goalkeeper in the spring of 2009.",I Don't Know,0,683.4792273044586,10
+http://dbpedia.org/resource/Andriy_Hlushchenko,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Coach,Correct,0,683.4792273044586,10
+http://dbpedia.org/resource/Andriy_Hlushchenko,http://dbpedia.org/property/caps,141,Incorrect,0,683.4792273044586,10
+http://dbpedia.org/resource/Andriy_Hlushchenko,http://dbpedia.org/property/name,Andriy Hlushchenko,Correct,0,683.4792273044586,10
+http://dbpedia.org/resource/Andriy_Hlushchenko,http://dbpedia.org/ontology/managerClub,http://dbpedia.org/resource/Gabala_FK,I Don't Know,0,683.4792273044586,10
+http://dbpedia.org/resource/Asking_for_Trouble,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_films,Correct,1,160.74857997894287,10
+http://dbpedia.org/resource/Asking_for_Trouble,http://dbpedia.org/property/language,English,Correct,1,160.74857997894287,10
+http://dbpedia.org/resource/Asking_for_Trouble,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Correct,1,160.74857997894287,10
+http://dbpedia.org/resource/William_Lamson,http://dbpedia.org/ontology/movement,http://dbpedia.org/resource/Generative_art,Correct,2,1647.5826318264008,10
+http://dbpedia.org/resource/'65_Love_Affair,http://dbpedia.org/ontology/previousWork,http://dbpedia.org/resource/Cool_Night_(song),Incorrect,3,402.0909156799317,10
+http://dbpedia.org/resource/'65_Love_Affair,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Synthpop,Incorrect,3,402.0909156799317,10
+http://dbpedia.org/resource/'65_Love_Affair,http://dbpedia.org/property/released,February 1982,Correct,3,402.0909156799317,10
+http://dbpedia.org/resource/'65_Love_Affair,http://dbpedia.org/property/nextSingle,"""Love or Let Me Be Lonely""",Correct,3,402.0909156799317,10
+http://dbpedia.org/resource/'65_Love_Affair,http://dbpedia.org/ontology/Work/runtime,3.716666666666667,Incorrect,3,402.0909156799317,10
+http://dbpedia.org/resource/Peymot,http://dbpedia.org/property/coordinatesRegion,IR,Correct,4,358.7985827922821,10
+http://dbpedia.org/resource/Peymot,http://dbpedia.org/ontology/isPartOf,http://dbpedia.org/resource/Mazandaran_Province,Correct,4,358.7985827922821,10
+http://dbpedia.org/resource/Peymot,http://dbpedia.org/ontology/timeZone,http://dbpedia.org/resource/Iran_Standard_Time,Correct,4,358.7985827922821,10
+http://dbpedia.org/resource/Peymot,http://dbpedia.org/property/populationAsOf,2006,Incorrect,4,358.7985827922821,10
+http://dbpedia.org/resource/Peymot,http://dbpedia.org/ontology/isPartOf,http://dbpedia.org/resource/Nur_County,Correct,4,358.7985827922821,10
+http://dbpedia.org/resource/John_Richardson_(drummer),http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Musicians_from_Champaign,_Illinois",Correct,5,135.97600197792053,10
+http://dbpedia.org/resource/John_Richardson_(drummer),http://dbpedia.org/ontology/associatedBand,http://dbpedia.org/resource/Tommy_Keene,Correct,5,135.97600197792053,10
+http://dbpedia.org/resource/John_Richardson_(drummer),http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/JRLiverpoolKit.jpg?width=300,Incorrect,5,135.97600197792053,10
+http://dbpedia.org/resource/John_Richardson_(drummer),http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/John_Richardson_(drummer),Correct,5,135.97600197792053,10
+http://dbpedia.org/resource/John_Richardson_(drummer),http://dbpedia.org/ontology/associatedBand,http://dbpedia.org/resource/Adam_Schmitt,Correct,5,135.97600197792053,10
+http://dbpedia.org/resource/Piet_Lindeque,http://dbpedia.org/ontology/school,http://dbpedia.org/resource/Bloemfontein,Correct,6,242.78886938095093,10
+http://dbpedia.org/resource/Piet_Lindeque,http://dbpedia.org/ontology/school,"http://dbpedia.org/resource/Grey_College,_Bloemfontein",Correct,6,242.78886938095093,10
+http://dbpedia.org/resource/Yannick_N'Gog,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Hauts-de-Seine,Correct,7,203.3919394016266,10
+http://dbpedia.org/resource/Point_Arguello_Launch_Complex_B,http://dbpedia.org/ontology/associatedRocket,http://dbpedia.org/resource/Terrier-Asp,I Don't Know,8,244.3099036216736,10
+http://dbpedia.org/resource/Point_Arguello_Launch_Complex_B,http://dbpedia.org/ontology/associatedRocket,http://dbpedia.org/resource/Nike-Cajun,I Don't Know,8,244.3099036216736,10
+http://dbpedia.org/resource/Point_Arguello_Launch_Complex_B,http://dbpedia.org/ontology/associatedRocket,http://dbpedia.org/resource/Deacon-Arrow,I Don't Know,8,244.3099036216736,10
+http://dbpedia.org/resource/Point_Arguello_Launch_Complex_B,http://dbpedia.org/ontology/associatedRocket,http://dbpedia.org/resource/Nike-Viper,I Don't Know,8,244.3099036216736,10
+http://dbpedia.org/resource/Point_Arguello_Launch_Complex_B,http://dbpedia.org/ontology/associatedRocket,http://dbpedia.org/resource/Kiva-Hopi,I Don't Know,8,244.3099036216736,10
+http://dbpedia.org/resource/Lin_Zexu,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Fuzhou,Correct,9,63.13328862190247,10
+http://dbpedia.org/resource/Lin_Zexu,http://dbpedia.org/property/name,Lin Zexu,Correct,9,63.13328862190247,10
+http://dbpedia.org/resource/Lin_Zexu,http://dbpedia.org/property/name,"Lin, Zexu",Correct,9,63.13328862190247,10
+http://dbpedia.org/resource/Uninvited_(video_game),http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Uninvited_(video_game),Correct,10,825.3239426612854,10
+http://dbpedia.org/resource/Uninvited_(video_game),http://www.w3.org/2000/01/rdf-schema#comment,"Uninvited is a haunted house ""point-and-click"" adventure game developed originally for the Apple Macintosh  by ICOM Simulations released in 1986 by Mindscape.The game uses the MacVenture engine that was introduced in ICOM's prior game, Deja Vu: a Nightmare Comes True. It is the only MacVenture that takes place in the present day.A number of ports were made. Two years later, a full rewrite for Windows was released.",Correct,10,825.3239426612854,10
+http://dbpedia.org/resource/Uninvited_(video_game),http://dbpedia.org/ontology/computingPlatform,http://dbpedia.org/resource/Commodore_64,Correct,10,825.3239426612854,10
+http://dbpedia.org/resource/Uninvited_(video_game),http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Uninvited_(video_game),I Don't Know,10,825.3239426612854,10
+http://dbpedia.org/resource/Uninvited_(video_game),http://dbpedia.org/ontology/publisher,http://dbpedia.org/resource/Mindscape,Correct,10,825.3239426612854,10
+http://dbpedia.org/resource/Maradona_by_Kusturica,http://www.w3.org/2000/01/rdf-schema#label,Maradona by Kusturica,Correct,11,239.34341645240784,10
+http://dbpedia.org/resource/Maradona_by_Kusturica,http://dbpedia.org/ontology/imdbId,0454976,Correct,11,239.34341645240784,10
+http://dbpedia.org/resource/Maradona_by_Kusturica,http://xmlns.com/foaf/0.1/name,Maradona by Kusturica,Correct,11,239.34341645240784,10
+http://dbpedia.org/resource/Maradona_by_Kusturica,http://dbpedia.org/property/studio,Fidélité,Correct,11,239.34341645240784,10
+http://dbpedia.org/resource/Maradona_by_Kusturica,http://dbpedia.org/property/studio,http://dbpedia.org/resource/Mediaset_España_Comunicación,I Don't Know,11,239.34341645240784,10
+http://dbpedia.org/resource/Azuara,http://dbpedia.org/property/subdivisionName,http://dbpedia.org/resource/Zaragoza_(province),Correct,12,172.10577845573425,10
+http://dbpedia.org/resource/Azuara,http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/List_of_countries,Incorrect,12,172.10577845573425,10
+http://dbpedia.org/resource/Azuara,http://dbpedia.org/property/utcOffset,+1,Correct,12,172.10577845573425,10
+http://dbpedia.org/resource/Azuara,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Municipality,Correct,12,172.10577845573425,10
+http://dbpedia.org/resource/Azuara,http://dbpedia.org/property/timezoneDst,http://dbpedia.org/resource/Central_European_Summer_Time,Correct,12,172.10577845573425,10
+"http://dbpedia.org/resource/Andalusian_parliamentary_election,_2015",http://dbpedia.org/ontology/startDate,2015-03-22,Correct,13,114.1367485523224,10
+http://dbpedia.org/resource/Jake_Dean,http://dbpedia.org/ontology/televisionSeries,http://dbpedia.org/resource/Hollyoaks,Correct,14,44.66755390167236,10
+http://dbpedia.org/resource/Glionitrin_A,http://www.w3.org/2000/01/rdf-schema#label,Glionitrin A,Correct,15,18.294189453125,10
+http://dbpedia.org/resource/Novar_Controls,http://dbpedia.org/property/products,http://dbpedia.org/resource/Building_automation,I Don't Know,16,175.00483894348145,10
+http://dbpedia.org/resource/Novar_Controls,http://dbpedia.org/property/products,http://dbpedia.org/resource/Programmable_thermostat,I Don't Know,16,175.00483894348145,10
+http://dbpedia.org/resource/Novar_Controls,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Cleveland,I Don't Know,16,175.00483894348145,10
+http://dbpedia.org/resource/Novar_Controls,http://dbpedia.org/property/products,http://dbpedia.org/resource/Energy_services,I Don't Know,16,175.00483894348145,10
+http://dbpedia.org/resource/Novar_Controls,http://dbpedia.org/property/products,http://dbpedia.org/resource/Building_Automation_System,I Don't Know,16,175.00483894348145,10
+http://dbpedia.org/resource/Hassan_Dandach,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Lebanon,Correct,17,44.23603010177612,10
+http://dbpedia.org/resource/The_Lost_World_of_Mr._Hardy,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Correct,18,58.3849024772644,10
+http://dbpedia.org/resource/The_Lost_World_of_Mr._Hardy,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:British_films,Correct,18,58.3849024772644,10
+http://dbpedia.org/resource/The_Lost_World_of_Mr._Hardy,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_films,Correct,18,58.3849024772644,10
+http://dbpedia.org/resource/The_Lost_World_of_Mr._Hardy,http://dbpedia.org/property/language,English,Correct,18,58.3849024772644,10
+http://dbpedia.org/resource/The_Lost_World_of_Mr._Hardy,http://dbpedia.org/property/country,United Kingdom,Correct,18,58.3849024772644,10
+http://dbpedia.org/resource/Kalpana_Patowary,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/India,Correct,19,130.6530945301056,12
+http://dbpedia.org/resource/Daniel_Tammet,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/London,Correct,20,60.61156916618347,12
+http://dbpedia.org/resource/Martin_J._Taylor,http://dbpedia.org/property/almaMater,"http://dbpedia.org/resource/Pembroke_College,_Oxford",Correct,21,295.82432866096497,12
+http://dbpedia.org/resource/Martin_J._Taylor,http://xmlns.com/foaf/0.1/name,"Taylor, Martin J.",Correct,21,295.82432866096497,12
+http://dbpedia.org/resource/Martin_J._Taylor,http://dbpedia.org/ontology/abstract,"Sir Martin John Taylor, FRS (born 18 February 1952) is a British mathematician and academic. He was professor of pure mathematics at the School of Mathematics, University of Manchester and, prior to its formation and merger,  UMIST where he was appointed to a chair after moving from Trinity College, Cambridge in 1986. On 5 November 2009 he was elected Warden of Merton College, Oxford, and took office on 2 October 2010.",Correct,21,295.82432866096497,12
+http://dbpedia.org/resource/Martin_J._Taylor,http://dbpedia.org/property/name,"Taylor, Martin J.",Correct,21,295.82432866096497,12
+http://dbpedia.org/resource/Martin_J._Taylor,http://dbpedia.org/property/name,Martin J. Taylor,Correct,21,295.82432866096497,12
+http://dbpedia.org/resource/1995–96_Liverpool_F.C._season,http://dbpedia.org/property/team,http://dbpedia.org/resource/Arsenal_F.C.,Incorrect,22,41.75620079040527,12
+http://dbpedia.org/resource/1995–96_Liverpool_F.C._season,http://dbpedia.org/property/team,http://dbpedia.org/resource/Chelsea_F.C.,Incorrect,22,41.75620079040527,12
+http://dbpedia.org/resource/1995–96_Liverpool_F.C._season,http://dbpedia.org/property/team,http://dbpedia.org/resource/West_Ham_United_F.C.,Incorrect,22,41.75620079040527,12
+http://dbpedia.org/resource/1995–96_Liverpool_F.C._season,http://dbpedia.org/property/team,http://dbpedia.org/resource/Liverpool_F.C.,Incorrect,22,41.75620079040527,12
+http://dbpedia.org/resource/1995–96_Liverpool_F.C._season,http://dbpedia.org/property/team,http://dbpedia.org/resource/Aston_Villa_F.C.,Incorrect,22,41.75620079040527,12
+http://dbpedia.org/resource/Esporte_Clube_Pinheiros,http://dbpedia.org/property/activities,http://dbpedia.org/resource/Futsal,Correct,23,51.21052932739258,12
+http://dbpedia.org/resource/Pajwar,http://dbpedia.org/property/coordinatesRegion,AF,Correct,24,285.02167296409607,12
+http://dbpedia.org/resource/Pajwar,http://dbpedia.org/property/longd,71,Incorrect,24,285.02167296409607,12
+http://dbpedia.org/resource/Pajwar,http://www.w3.org/2003/01/geo/wgs84_pos#long,71.45,Correct,24,285.02167296409607,12
+http://dbpedia.org/resource/Pajwar,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Pajwar,Correct,24,285.02167296409607,12
+http://dbpedia.org/resource/Pajwar,http://dbpedia.org/ontology/abstract,Pajwar is a village in Badakhshan Province in north-eastern Afghanistan.,Correct,24,285.02167296409607,12
+http://dbpedia.org/resource/Vilhelmina,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/Krkstn.jpg,I Don't Know,25,280.28669905662537,12
+http://dbpedia.org/resource/Vilhelmina,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Vilhelmina,Correct,25,280.28669905662537,12
+http://dbpedia.org/resource/Vilhelmina,http://dbpedia.org/ontology/PopulatedPlace/areaTotal,3.54,Correct,25,280.28669905662537,12
+http://dbpedia.org/resource/Vilhelmina,http://www.georss.org/georss/point,64.61666666666666 16.65,Correct,25,280.28669905662537,12
+http://dbpedia.org/resource/Vilhelmina,http://dbpedia.org/property/longm,39,Incorrect,25,280.28669905662537,12
+http://dbpedia.org/resource/Untitled_Woody_Allen_film,http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Corey_Stoll,Incorrect,26,78.09102010726929,12
+http://dbpedia.org/resource/Untitled_Woody_Allen_film,http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Tony_Sirico,Incorrect,26,78.09102010726929,12
+http://dbpedia.org/resource/Untitled_Woody_Allen_film,http://dbpedia.org/ontology/director,http://dbpedia.org/resource/Woody_Allen,Incorrect,26,78.09102010726929,12
+http://dbpedia.org/resource/Untitled_Woody_Allen_film,http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Steve_Carell,Incorrect,26,78.09102010726929,12
+http://dbpedia.org/resource/Untitled_Woody_Allen_film,http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Kristen_Stewart,Incorrect,26,78.09102010726929,12
+http://dbpedia.org/resource/Mollösund,http://www.w3.org/2000/01/rdf-schema#label,Mollösund,Correct,27,51.7345073223114,12
+http://dbpedia.org/resource/Mollösund,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/Sweden,Correct,27,51.7345073223114,12
+http://dbpedia.org/resource/Robert_Redford,http://xmlns.com/foaf/0.1/name,"Redford, Robert",Correct,28,180.98204159736636,12
+http://dbpedia.org/resource/Robert_Redford,http://dbpedia.org/ontology/spouse,http://dbpedia.org/resource/Lola_Van_Wagenen,Incorrect,28,180.98204159736636,12
+http://dbpedia.org/resource/Robert_Redford,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Best_Actor_BAFTA_Award_winners,Correct,28,180.98204159736636,12
+http://dbpedia.org/resource/Robert_Redford,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Best_Director_Golden_Globe_winners,Correct,28,180.98204159736636,12
+http://dbpedia.org/resource/Robert_Redford,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_people_of_Scottish_descent,Correct,28,180.98204159736636,12
+http://dbpedia.org/resource/Damian_Barton,http://dbpedia.org/ontology/sport,http://dbpedia.org/resource/Gaelic_football,Correct,29,156.12362217903137,12
+http://dbpedia.org/resource/Nguyễn_Quốc_Huân,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Vietnam,Correct,30,145.52040815353394,12
+http://dbpedia.org/resource/Mike_Herrera,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Pop_punk,Correct,31,214.7017481327057,12
+http://dbpedia.org/resource/Mike_Herrera,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Punk_rock,Correct,31,214.7017481327057,12
+http://dbpedia.org/resource/Mike_Herrera,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Skate_punk,Correct,31,214.7017481327057,12
+http://dbpedia.org/resource/Mike_Herrera,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Country_rock,Correct,31,214.7017481327057,12
+http://dbpedia.org/resource/Mike_Herrera,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Alternative_country,Correct,31,214.7017481327057,12
+http://dbpedia.org/resource/Heligoland,http://www.w3.org/2003/01/geo/wgs84_pos#long,7.88528,Correct,32,1184.9254038333893,12
+http://dbpedia.org/resource/Heligoland,http://www.w3.org/2003/01/geo/wgs84_pos#lat,54.1825,Correct,32,1184.9254038333893,12
+http://dbpedia.org/resource/Heligoland,http://dbpedia.org/ontology/elevation,61.0,Correct,32,1184.9254038333893,12
+http://dbpedia.org/resource/Heligoland,http://dbpedia.org/ontology/areaTotal,1.7e+06,Incorrect,32,1184.9254038333893,12
+http://dbpedia.org/resource/Miss_USA_1990,http://dbpedia.org/ontology/abstract,"Miss USA 1990, the 39th Miss USA pageant, was televised live from the Century II Convention Center in Wichita, Kansas on March 2, 1990.  At the conclusion of the final competition, Carole Gist of Michigan was crowned by outgoing titleholder Gretchen Polhemus of Texas. Carole became the first African American winner ever and the first woman from Michigan to be crowned as Miss USA.For the first time, each judge's score was displayed to every audience, adding transparency to the process.A major format change in 1990 transformed the Miss USA competition for the next decade: the delegates would face an extra round of elimination on finals night: the top six judges' questions.Instead of reducing the top twelve to the usual final five, the judges would pick an intermediate top six. Those six finalists would answer questions from the judges and the field was reduced to a final three, who would face the traditional final question, adding unpredictability to the competition after five Texan Miss USA winners from GuyRex Associates, which would lose its Miss Texas USA franchise the next year.The pageant was hosted by Dick Clark for the second of five times, with color commentary by Leeza Gibbons and Laura Harring, Miss USA 1985. This was the first time the pageant was held in Wichita, where it would be staged for the next three years.",Correct,33,437.5116798877716,12
+http://dbpedia.org/resource/Miss_USA_1990,http://dbpedia.org/property/broadcaster,http://dbpedia.org/resource/KWCH,I Don't Know,33,437.5116798877716,12
+http://dbpedia.org/resource/Miss_USA_1990,http://xmlns.com/foaf/0.1/homepage,http://www.missusa.com/,Incorrect,33,437.5116798877716,12
+http://dbpedia.org/resource/Miss_USA_1990,http://dbpedia.org/property/photogenic,Stephanie Teneyck,Incorrect,33,437.5116798877716,12
+http://dbpedia.org/resource/Miss_USA_1990,http://dbpedia.org/property/presenters,"Dick Clark, Leeza Gibbons and Laura Harring",Correct,33,437.5116798877716,12
+http://dbpedia.org/resource/Diego_De_Ascentis,http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Diego_De_Ascentis__4,Incorrect,34,118.72835683822632,12
+http://dbpedia.org/resource/Diego_De_Ascentis,http://dbpedia.org/ontology/team,http://dbpedia.org/resource/F.C._Bari_1908,Correct,34,118.72835683822632,12
+http://dbpedia.org/resource/Diego_De_Ascentis,http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Diego_De_Ascentis__5,Incorrect,34,118.72835683822632,12
+http://dbpedia.org/resource/Diego_De_Ascentis,http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Diego_De_Ascentis__7,Incorrect,34,118.72835683822632,12
+http://dbpedia.org/resource/Diego_De_Ascentis,http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Diego_De_Ascentis__6,Incorrect,34,118.72835683822632,12
+"http://dbpedia.org/resource/Llano,_Texas",http://dbpedia.org/property/junRecordLowF,38,I Don't Know,35,99.70889973640442,12
+"http://dbpedia.org/resource/Llano,_Texas",http://dbpedia.org/property/source,http://dbpedia.org/resource/The_Weather_Channel,I Don't Know,35,99.70889973640442,12
+"http://dbpedia.org/resource/Llano,_Texas",http://dbpedia.org/property/sepMeanF,77,I Don't Know,35,99.70889973640442,12
+"http://dbpedia.org/resource/Llano,_Texas",http://dbpedia.org/property/octRecordHighF,105,I Don't Know,35,99.70889973640442,12
+"http://dbpedia.org/resource/Llano,_Texas",http://dbpedia.org/property/marPrecipitationInch,1.9,I Don't Know,35,99.70889973640442,12
+http://dbpedia.org/resource/Gustav_Rydahl,http://dbpedia.org/ontology/abstract,"Gustav Rydahl (born September 11, 1994) is a Swedish professional ice hockey centre currently playing for Frölunda HC of Elitserien.",Correct,36,10483.795540809631,12
+http://dbpedia.org/resource/Gustav_Rydahl,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Sweden,Correct,36,10483.795540809631,12
+http://dbpedia.org/resource/Gustav_Rydahl,http://xmlns.com/foaf/0.1/name,Gustav Rydahl,Correct,36,10483.795540809631,12
+http://dbpedia.org/resource/Gustav_Rydahl,http://xmlns.com/foaf/0.1/name,"Rydahl, Gustav",Correct,36,10483.795540809631,12
+http://dbpedia.org/resource/Little_Red_Riding_Hood's_Zombie_BBQ,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2008_video_games,Correct,37,317.691705942154,12
+http://dbpedia.org/resource/Little_Red_Riding_Hood's_Zombie_BBQ,http://xmlns.com/foaf/0.1/homepage,http://www.gammickentertainment.com/zombie,Incorrect,37,317.691705942154,12
+http://dbpedia.org/resource/Little_Red_Riding_Hood's_Zombie_BBQ,http://dbpedia.org/property/released,--10-21,Incorrect,37,317.691705942154,12
+http://dbpedia.org/resource/Little_Red_Riding_Hood's_Zombie_BBQ,http://dbpedia.org/property/platforms,"Nintendo DS, Nintendo DSi",Correct,37,317.691705942154,12
+http://dbpedia.org/resource/Little_Red_Riding_Hood's_Zombie_BBQ,http://dbpedia.org/property/developer,EnjoyUp,Correct,37,317.691705942154,12
+http://dbpedia.org/resource/Rambod_Javan,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/Rambod_Javan.jpg,Correct,38,126.7700879573822,12
+http://dbpedia.org/resource/Rambod_Javan,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Iranian_male_television_actors,Correct,38,126.7700879573822,12
+http://dbpedia.org/resource/Rambod_Javan,http://dbpedia.org/property/height,1.76m,Correct,38,126.7700879573822,12
+http://dbpedia.org/resource/Rambod_Javan,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Rambod_Javan.jpg?width=300,Correct,38,126.7700879573822,12
+http://dbpedia.org/resource/Rambod_Javan,http://xmlns.com/foaf/0.1/name,Rambod Javan Tabrizi,I Don't Know,38,126.7700879573822,12
+http://dbpedia.org/resource/Farouk_al-Sharaa,http://dbpedia.org/property/otherparty,http://dbpedia.org/resource/National_Progressive_Front_(Syria),I Don't Know,39,411.81853795051575,12
+http://dbpedia.org/resource/Farouk_al-Sharaa,http://dbpedia.org/ontology/office,Minister of Foreign Affairs,Correct,39,411.81853795051575,12
+http://dbpedia.org/resource/Farouk_al-Sharaa,http://dbpedia.org/property/party,Syrian Regional Branch of the Arab Socialist Ba'ath Party,Correct,39,411.81853795051575,12
+http://dbpedia.org/resource/Farouk_al-Sharaa,http://dbpedia.org/property/dateOfBirth,1938-12-10,I Don't Know,39,411.81853795051575,12
+http://dbpedia.org/resource/Farouk_al-Sharaa,http://dbpedia.org/ontology/termPeriod,http://dbpedia.org/resource/Farouk_al-Sharaa__3,Incorrect,39,411.81853795051575,12
+http://dbpedia.org/resource/UEFA_Women's_Euro_1995,http://dbpedia.org/property/score,2,Incorrect,40,9.9387047290802,12
+http://dbpedia.org/resource/UEFA_Women's_Euro_1995,http://dbpedia.org/property/score,1,Incorrect,40,9.9387047290802,12
+http://dbpedia.org/resource/Ibrahim_Pasha_of_Egypt,http://dbpedia.org/ontology/placeOfBurial,http://dbpedia.org/resource/Cairo,Correct,41,192.90338230133057,12
+http://dbpedia.org/resource/Ibrahim_Pasha_of_Egypt,http://dbpedia.org/ontology/placeOfBurial,http://dbpedia.org/resource/Egypt,Correct,41,192.90338230133057,12
+http://dbpedia.org/resource/Isle_Royale,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Lake_Superior,Correct,42,83.29303908348083,13
+http://dbpedia.org/resource/Isle_Royale,http://dbpedia.org/property/countryAdminDivisions,"http://dbpedia.org/resource/Eagle_Harbor_Township,_Michigan",I Don't Know,42,83.29303908348083,13
+http://dbpedia.org/resource/Isle_Royale,http://dbpedia.org/property/location,http://dbpedia.org/resource/Lake_Superior,Correct,42,83.29303908348083,13
+http://dbpedia.org/resource/Edward_Stopford_(British_Army_officer),http://dbpedia.org/ontology/parent,"http://dbpedia.org/resource/James_Stopford,_2nd_Earl_of_Courtown",Incorrect,43,141.36441493034363,13
+"http://dbpedia.org/resource/Segré,_Burkina_Faso",http://www.w3.org/2000/01/rdf-schema#label,"Segré, Burkina Faso",Correct,44,6.802336692810059,13
+http://dbpedia.org/resource/NATO_bombing_of_Yugoslavia,http://www.w3.org/2000/01/rdf-schema#label,NATO bombing of Yugoslavia,Correct,45,7.080681085586548,13
+http://dbpedia.org/resource/Gombe_State,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/Nigeria,Correct,46,181.54619789123532,14
+http://dbpedia.org/resource/Gombe_State,http://dbpedia.org/property/seatType,http://dbpedia.org/resource/List_of_Nigerian_state_capitals,Incorrect,46,181.54619789123532,14
+http://dbpedia.org/resource/Gombe_State,http://dbpedia.org/ontology/postalCode,771100,Incorrect,46,181.54619789123532,14
+http://dbpedia.org/resource/Gombe_State,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Gombe_State,Correct,46,181.54619789123532,14
+http://dbpedia.org/resource/Gombe_State,http://dbpedia.org/property/timezone,http://dbpedia.org/resource/West_Africa_Time,Correct,46,181.54619789123532,14
+http://dbpedia.org/resource/Horseshoes_(film),http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Correct,47,9.92759895324707,14
+http://dbpedia.org/resource/Horseshoes_(film),http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-movie-noun-1,I Don't Know,47,9.92759895324707,14
+http://dbpedia.org/resource/Shahid_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_set_in_Mumbai,Correct,48,175.6188826560974,14
+http://dbpedia.org/resource/Shahid_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_whose_director_won_the_Best_Director_National_Film_Award,Correct,48,175.6188826560974,14
+http://dbpedia.org/resource/Shahid_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_shot_in_Mumbai,Correct,48,175.6188826560974,14
+http://dbpedia.org/resource/Shahid_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_featuring_a_Best_Actor_National_Award_winning_performance,Correct,48,175.6188826560974,14
+http://dbpedia.org/resource/Shahid_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Indian_biographical_films,Correct,48,175.6188826560974,14
+http://dbpedia.org/resource/Geoff_Love,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Pop_music,I Don't Know,49,123.27584195137024,14
+http://dbpedia.org/resource/Geoff_Love,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Film_score,I Don't Know,49,123.27584195137024,14
+http://dbpedia.org/resource/Geoff_Love,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Easy_listening,I Don't Know,49,123.27584195137024,14
+http://dbpedia.org/resource/Devrekani,http://dbpedia.org/property/postalCode,37,Incorrect,50,116.19120168685912,14
+http://dbpedia.org/resource/Devrekani,http://dbpedia.org/property/longm,50,I Don't Know,50,116.19120168685912,14
+http://dbpedia.org/resource/Devrekani,http://dbpedia.org/property/postalCodeType,http://dbpedia.org/resource/Postal_code,Correct,50,116.19120168685912,14
+http://dbpedia.org/resource/Devrekani,http://www.georss.org/georss/point,41.60027777777778 33.833333333333336,Incorrect,50,116.19120168685912,14
+http://dbpedia.org/resource/Devrekani,http://www.georss.org/georss/point,41.6 33.833333333333336,Correct,50,116.19120168685912,14
+http://dbpedia.org/resource/Hack_Schumann,http://dbpedia.org/ontology/birthDate,1884-08-13,Correct,51,135.42083191871643,14
+http://dbpedia.org/resource/Hack_Schumann,http://dbpedia.org/property/finalleague,MLB,Incorrect,51,135.42083191871643,14
+http://dbpedia.org/resource/Hack_Schumann,http://dbpedia.org/property/stat1value,0,Incorrect,51,135.42083191871643,14
+http://dbpedia.org/resource/Hack_Schumann,http://dbpedia.org/property/stat3value,9,Incorrect,51,135.42083191871643,14
+http://dbpedia.org/resource/Hack_Schumann,http://dbpedia.org/property/placeOfBirth,"http://dbpedia.org/resource/Buffalo,_New_York",Correct,51,135.42083191871643,14
+http://dbpedia.org/resource/Junior_Cook,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,52,31.871806621551517,14
+"http://dbpedia.org/resource/Masonic_Temple_(Aurora,_Illinois)",http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/Masonic_Aurora_IL.JPG,Correct,53,301.5110852718353,14
+"http://dbpedia.org/resource/Masonic_Temple_(Aurora,_Illinois)",http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Masonic_buildings_completed_in_1924,Correct,53,301.5110852718353,14
+"http://dbpedia.org/resource/Masonic_Temple_(Aurora,_Illinois)",http://dbpedia.org/property/latSeconds,12,Incorrect,53,301.5110852718353,14
+"http://dbpedia.org/resource/Masonic_Temple_(Aurora,_Illinois)",http://dbpedia.org/property/governingBody,Private,I Don't Know,53,301.5110852718353,14
+"http://dbpedia.org/resource/Masonic_Temple_(Aurora,_Illinois)",http://dbpedia.org/ontology/abstract,"The Masonic Temple in Aurora, Illinois is a historical building where Freemasons held meetings. Opened in 1924, it was added to the National Register of Historic Places in 1984.",Correct,53,301.5110852718353,14
+http://dbpedia.org/resource/Mick_Norbury,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Hemsworth,Correct,54,36.44973874092102,14
+http://dbpedia.org/resource/Temes_County,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Timișoara,Correct,55,30.04557704925537,14
+http://dbpedia.org/resource/MotorStorm,http://dbpedia.org/property/modes,http://dbpedia.org/resource/Single-player_video_game,Correct,56,63.08841848373413,14
+http://dbpedia.org/resource/MotorStorm,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Game,Correct,56,63.08841848373413,14
+http://dbpedia.org/resource/MotorStorm,http://dbpedia.org/property/mc,82,Incorrect,56,63.08841848373413,14
+http://dbpedia.org/resource/MotorStorm,http://dbpedia.org/property/gspot,7.9,Incorrect,56,63.08841848373413,14
+http://dbpedia.org/resource/MotorStorm,http://dbpedia.org/property/developer,http://dbpedia.org/resource/Evolution_Studios,Correct,56,63.08841848373413,14
+http://dbpedia.org/resource/Take_Away_(song),http://dbpedia.org/ontology/musicalArtist,http://dbpedia.org/resource/Tweet_(singer),Correct,57,24.846985816955566,14
+http://dbpedia.org/resource/Take_Away_(song),http://dbpedia.org/ontology/musicalArtist,http://dbpedia.org/resource/Missy_Elliott,Correct,57,24.846985816955566,14
+http://dbpedia.org/resource/Take_Away_(song),http://www.w3.org/2000/01/rdf-schema#label,Take Away (song),Correct,57,24.846985816955566,14
+http://dbpedia.org/resource/Take_Away_(song),http://dbpedia.org/ontology/producer,http://dbpedia.org/resource/Timbaland,Correct,57,24.846985816955566,14
+http://dbpedia.org/resource/The_Blue_Kite,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_set_in_Beijing,Correct,58,53.35408592224121,14
+http://dbpedia.org/resource/The_Blue_Kite,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_about_the_Cultural_Revolution,Correct,58,53.35408592224121,14
+http://dbpedia.org/resource/The_Blue_Kite,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Correct,58,53.35408592224121,14
+http://dbpedia.org/resource/The_Blue_Kite,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Political_drama_films,Correct,58,53.35408592224121,14
+http://dbpedia.org/resource/The_Blue_Kite,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_set_in_the_1960s,Correct,58,53.35408592224121,14
+http://dbpedia.org/resource/Matti_Manushulu,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1990_films,Correct,59,99.83656644821168,14
+http://dbpedia.org/resource/Matti_Manushulu,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Indian_films,Correct,59,99.83656644821168,14
+http://dbpedia.org/resource/Matti_Manushulu,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Telugu-language_films,Correct,59,99.83656644821168,14
+http://dbpedia.org/resource/Matti_Manushulu,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_about_social_issues_in_India,Correct,59,99.83656644821168,14
+http://dbpedia.org/resource/Sebastian_Kehl,http://dbpedia.org/property/nationalyears,1998,Incorrect,60,133.03614711761475,14
+http://dbpedia.org/resource/Sebastian_Kehl,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/Sebastian_Kehl.jpg,Correct,60,133.03614711761475,14
+http://dbpedia.org/resource/Sebastian_Kehl,http://dbpedia.org/ontology/team,http://dbpedia.org/resource/Germany_national_youth_football_team,Correct,60,133.03614711761475,14
+http://dbpedia.org/resource/Sebastian_Kehl,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2006_FIFA_World_Cup_players,Correct,60,133.03614711761475,14
+http://dbpedia.org/resource/Sebastian_Kehl,http://dbpedia.org/property/shortDescription,German footballer,Correct,60,133.03614711761475,14
+http://dbpedia.org/resource/Ayoub_Sørensen,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Casablanca,Correct,61,19.24249505996704,14
+http://dbpedia.org/resource/Hermann_Kolbe,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Ernst_Otto_Beckmann,I Don't Know,62,17.712807178497314,14
+http://dbpedia.org/resource/Hermann_Kolbe,http://dbpedia.org/ontology/doctoralAdvisor,http://dbpedia.org/resource/Friedrich_Wöhler,I Don't Know,62,17.712807178497314,14
+http://dbpedia.org/resource/Hermann_Kolbe,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Jacob_Volhard,I Don't Know,62,17.712807178497314,14
+http://dbpedia.org/resource/Hermann_Kolbe,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Frederick_Guthrie,I Don't Know,62,17.712807178497314,14
+http://dbpedia.org/resource/Hermann_Kolbe,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Theodor_Curtius,I Don't Know,62,17.712807178497314,14
+http://dbpedia.org/resource/Andries_Mahoney,http://dbpedia.org/ontology/university,http://dbpedia.org/resource/North-West_University,I Don't Know,63,64.45977354049683,14
+http://dbpedia.org/resource/Eilís_Dillon,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Galway,Correct,64,17.017415285110474,14
+http://dbpedia.org/resource/Haunted_Island,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,65,101.16019749641418,14
+http://dbpedia.org/resource/Haunted_Island,http://dbpedia.org/property/country,United States,Correct,65,101.16019749641418,14
+http://dbpedia.org/resource/Haunted_Island,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Black-and-white_films,Correct,65,101.16019749641418,14
+http://dbpedia.org/resource/Karl_Herzog,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Germany,Correct,66,46.59907841682434,14
+http://dbpedia.org/resource/Artem_Yarchuk,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Yaroslavl,Correct,67,106.22730612754822,14
+http://dbpedia.org/resource/Artem_Yarchuk,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Yaroslavl,Correct,67,106.22730612754822,14
+http://dbpedia.org/resource/Kittens_for_Christian,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,68,72.0737657546997,14
+http://dbpedia.org/resource/2012_Iran_Futsal's_2nd_Division,http://dbpedia.org/property/biggestHomeWin,Ali Sadr 16 - 4 Milad Tonekabon,I Don't Know,69,47.87848997116089,14
+http://dbpedia.org/resource/2012_Iran_Futsal's_2nd_Division,http://dbpedia.org/property/totalGoals,1551,I Don't Know,69,47.87848997116089,14
+http://dbpedia.org/resource/2012_Iran_Futsal's_2nd_Division,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/2012_Iran_Futsal's_2nd_Division,I Don't Know,69,47.87848997116089,14
+http://dbpedia.org/resource/2012_Iran_Futsal's_2nd_Division,http://dbpedia.org/property/competition,Iranian Futsal 2nd Division,Correct,69,47.87848997116089,14
+http://dbpedia.org/resource/2012_Iran_Futsal's_2nd_Division,http://dbpedia.org/property/season,2012,Correct,69,47.87848997116089,14
+http://dbpedia.org/resource/Zenón_Franco_Ocampos,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Paraguay,Correct,70,37.1132447719574,16
+"http://dbpedia.org/resource/Villa_Rica,_Georgia",http://dbpedia.org/property/imageMap,Carroll_County_Georgia_Incorporated_and_Unincorporated_areas_Villa_Rica_Highlighted.svg,I Don't Know,71,221.64035725593567,16
+"http://dbpedia.org/resource/Villa_Rica,_Georgia",http://dbpedia.org/property/areaWaterKm,0.4,Incorrect,71,221.64035725593567,16
+"http://dbpedia.org/resource/Villa_Rica,_Georgia",http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Cities_in_Carroll_County,_Georgia",Correct,71,221.64035725593567,16
+"http://dbpedia.org/resource/Villa_Rica,_Georgia",http://dbpedia.org/property/blank1Info,333333,Incorrect,71,221.64035725593567,16
+"http://dbpedia.org/resource/Villa_Rica,_Georgia",http://dbpedia.org/property/imageSeal,VillaRicaSeal.png,I Don't Know,71,221.64035725593567,16
+http://dbpedia.org/resource/A_Million_Ways_to_Die_in_the_West,http://dbpedia.org/property/title,The Shooting Lesson,Incorrect,72,124.27313566207886,16
+http://dbpedia.org/resource/A_Million_Ways_to_Die_in_the_West,http://dbpedia.org/property/title,Albert Takes a Trip,Incorrect,72,124.27313566207886,16
+http://dbpedia.org/resource/A_Million_Ways_to_Die_in_the_West,http://dbpedia.org/property/title,Racing the Train,Incorrect,72,124.27313566207886,16
+http://dbpedia.org/resource/A_Million_Ways_to_Die_in_the_West,http://www.w3.org/2000/01/rdf-schema#comment,"A Million Ways to Die in the West is a 2014 American western comedy film directed, produced by and starring Seth MacFarlane, who wrote the screenplay along with Alec Sulkin and Wellesley Wild. The film features an ensemble cast, including Charlize Theron, Amanda Seyfried, Neil Patrick Harris, Giovanni Ribisi, Sarah Silverman and Liam Neeson. It was produced by Media Rights Capital and distributed by Universal Pictures. The film was released on May 30, 2014.",Correct,72,124.27313566207886,16
+http://dbpedia.org/resource/A_Million_Ways_to_Die_in_the_West,http://dbpedia.org/property/starring,http://dbpedia.org/resource/Charlize_Theron,Correct,72,124.27313566207886,16
+http://dbpedia.org/resource/Aoife_Mulholland,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Galway,Correct,73,64.7016818523407,16
+http://dbpedia.org/resource/Reg_Pickett,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/India,Correct,74,19.44969773292541,16
+http://dbpedia.org/resource/Kill_Sadie,http://dbpedia.org/ontology/associatedMusicalArtist,http://dbpedia.org/resource/Pretty_Girls_Make_Graves,Correct,75,90.76296639442444,16
+http://dbpedia.org/resource/Kill_Sadie,http://dbpedia.org/ontology/associatedBand,http://dbpedia.org/resource/Pretty_Girls_Make_Graves,Correct,75,90.76296639442444,16
+http://dbpedia.org/resource/Kill_Sadie,http://xmlns.com/foaf/0.1/name,Kill Sadie,Correct,75,90.76296639442444,16
+http://dbpedia.org/resource/Lađevci,http://www.w3.org/2000/01/rdf-schema#label,Lađevci,Correct,76,83.14519047737122,16
+http://dbpedia.org/resource/Lađevci,http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/List_of_districts_of_Serbia,Incorrect,76,83.14519047737122,16
+http://dbpedia.org/resource/Lađevci,http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/Municipalities_and_cities_of_Serbia,Correct,76,83.14519047737122,16
+http://dbpedia.org/resource/Wahid_El_Fattal,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Lebanon,Correct,77,42.19227313995361,16
+http://dbpedia.org/resource/Battle_of_Hattin,http://dbpedia.org/property/casualties,believed light,Incorrect,78,68.16014003753662,16
+http://dbpedia.org/resource/Battle_of_Hattin,http://dbpedia.org/ontology/commander,http://dbpedia.org/resource/Al-Afdal_ibn_Salah_ad-Din,Correct,78,68.16014003753662,16
+http://dbpedia.org/resource/Battle_of_Hattin,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1187_in_the_Kingdom_of_Jerusalem,Correct,78,68.16014003753662,16
+http://dbpedia.org/resource/Battle_of_Hattin,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Conflicts_in_1187,Correct,78,68.16014003753662,16
+http://dbpedia.org/resource/Battle_of_Hattin,http://dbpedia.org/ontology/result,DecisiveAyyubidvictory,Correct,78,68.16014003753662,16
+http://dbpedia.org/resource/Kaneh_Karan,http://dbpedia.org/property/longd,48,Correct,79,117.0250370502472,16
+http://dbpedia.org/resource/Kaneh_Karan,http://dbpedia.org/property/utcOffset,210.0,I Don't Know,79,117.0250370502472,16
+http://dbpedia.org/resource/Kaneh_Karan,http://dbpedia.org/property/latns,N,I Don't Know,79,117.0250370502472,16
+http://dbpedia.org/resource/Kaneh_Karan,http://dbpedia.org/property/longew,E,I Don't Know,79,117.0250370502472,16
+http://dbpedia.org/resource/Kaneh_Karan,http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/Counties_of_Iran,I Don't Know,79,117.0250370502472,16
+http://dbpedia.org/resource/Norman_Reid_(cricketer),http://dbpedia.org/property/bowlAvg,31.5,I Don't Know,80,175.50367736816406,16
+http://dbpedia.org/resource/Norman_Reid_(cricketer),http://dbpedia.org/property/dateOfDeath,1947-06-06,Correct,80,175.50367736816406,16
+http://dbpedia.org/resource/Norman_Reid_(cricketer),http://www.w3.org/2000/01/rdf-schema#comment,"Norman Reid (26 December 1890 in Newlands, Cape Town – 5-6 June 1947 in Cape Town) was a South African cricketer who played one Test for South Africa in 1921, and also played first class cricket for Western Province between 1920 and 1923. He was described by Wisden Cricketers' Almanack as a ""brilliant"" fielder, but 17 runs and two wickets in his only Test was not enough to keep his place in the team.Reid died in June 1947 in what were cryptically described as 'tragic circumstances'.",Correct,80,175.50367736816406,16
+http://dbpedia.org/resource/Norman_Reid_(cricketer),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:People_murdered_in_South_Africa,I Don't Know,80,175.50367736816406,16
+http://dbpedia.org/resource/Norman_Reid_(cricketer),http://dbpedia.org/property/100s/50s,0,Incorrect,80,175.50367736816406,16
+http://dbpedia.org/resource/Gravedigger_Five,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/California,Correct,81,68.81631374359131,16
+"http://dbpedia.org/resource/Galway_County_Council_election,_2004",http://dbpedia.org/ontology/startDate,2004-06-11,Correct,82,39.52546644210816,16
+http://dbpedia.org/resource/The_Victoria_Cross_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_directed_by_Edward_LeSaint,Correct,83,148.45309209823608,16
+http://dbpedia.org/resource/The_Victoria_Cross_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1910s_drama_films,Correct,83,148.45309209823608,16
+http://dbpedia.org/resource/The_Victoria_Cross_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1916_films,Correct,83,148.45309209823608,16
+http://dbpedia.org/resource/The_Victoria_Cross_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Paramount_Pictures_films,Correct,83,148.45309209823608,16
+http://dbpedia.org/resource/Johnny_Maestro_&_the_Brooklyn_Bridge,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,84,61.33636832237244,16
+http://dbpedia.org/resource/1994_WCHA_Men's_Ice_Hockey_Tournament,http://www.w3.org/2000/01/rdf-schema#label,1994 WCHA Men's Ice Hockey Tournament,Correct,85,188.22724103927607,16
+http://dbpedia.org/resource/1994_WCHA_Men's_Ice_Hockey_Tournament,http://dbpedia.org/property/stadium,http://dbpedia.org/resource/Lakeview_Arena,I Don't Know,85,188.22724103927607,16
+http://dbpedia.org/resource/Rock_&_Roll_Heart_Attack,http://dbpedia.org/property/title,Big Kiss,Incorrect,86,297.35311794281006,16
+http://dbpedia.org/resource/Rock_&_Roll_Heart_Attack,http://dbpedia.org/property/length,300.0,Incorrect,86,297.35311794281006,16
+http://dbpedia.org/resource/Rock_&_Roll_Heart_Attack,http://dbpedia.org/property/writer,"C. Valentine, T. Green",Correct,86,297.35311794281006,16
+http://dbpedia.org/resource/Rock_&_Roll_Heart_Attack,http://dbpedia.org/property/length,243.0,Incorrect,86,297.35311794281006,16
+http://dbpedia.org/resource/Rock_&_Roll_Heart_Attack,http://dbpedia.org/property/label,Magada Records,Correct,86,297.35311794281006,16
+http://dbpedia.org/resource/Ramot_Menashe,http://dbpedia.org/property/foundedBy,Polish immigrants,Correct,87,137.19908356666565,16
+http://dbpedia.org/resource/Ramot_Menashe,http://dbpedia.org/property/foundation,1948,Correct,87,137.19908356666565,16
+http://dbpedia.org/resource/Ramot_Menashe,http://xmlns.com/foaf/0.1/homepage,http://www.megido.org.il/cgi-webaxy/sal/sal.pl?lang=he&ID=277496&act=show&dbid=pages&dataid=info_yesh_ramot-menashe,I Don't Know,87,137.19908356666565,16
+http://dbpedia.org/resource/Ramot_Menashe,http://dbpedia.org/property/industry,"Agriculture, manufacturing, tourism",Correct,87,137.19908356666565,16
+http://dbpedia.org/resource/Ramot_Menashe,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Kibbutz,Correct,87,137.19908356666565,16
+"http://dbpedia.org/resource/Bahçecik,_Bilecik",http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Populated_places_in_Bilecik_Province,Correct,88,70.94757771492004,16
+"http://dbpedia.org/resource/Bahçecik,_Bilecik",http://dbpedia.org/property/provname,Bilecik,I Don't Know,88,70.94757771492004,16
+"http://dbpedia.org/resource/Bahçecik,_Bilecik",http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Bilecik_District,Correct,88,70.94757771492004,16
+"http://dbpedia.org/resource/Bahçecik,_Bilecik",http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Town,Correct,88,70.94757771492004,16
+"http://dbpedia.org/resource/Bahçecik,_Bilecik",http://dbpedia.org/ontology/abstract,Bahçecik is a town in Bilecik Province in the Marmara region of Turkey.,Correct,88,70.94757771492004,16
+http://dbpedia.org/resource/Underwater_hockey,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Underwater_hockey,Correct,89,94.2832100391388,16
+http://dbpedia.org/resource/Underwater_hockey,http://dbpedia.org/property/nickname,"UWH, Octopush",Correct,89,94.2832100391388,16
+http://dbpedia.org/resource/Underwater_hockey,http://dbpedia.org/property/venue,http://dbpedia.org/resource/Swimming_pool,Correct,89,94.2832100391388,16
+http://dbpedia.org/resource/Underwater_hockey,http://dbpedia.org/property/name,Underwater Hockey,Correct,89,94.2832100391388,16
+http://dbpedia.org/resource/Underwater_hockey,http://xmlns.com/foaf/0.1/nick,"UWH, Octopush",Correct,89,94.2832100391388,16
+http://dbpedia.org/resource/Alex_Troup,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Forfar,Correct,90,231.71598291397092,16
+http://dbpedia.org/resource/Alex_Troup,http://dbpedia.org/ontology/team,http://dbpedia.org/resource/Everton_F.C.,Correct,90,231.71598291397092,16
+http://dbpedia.org/resource/Alex_Troup,http://dbpedia.org/property/nationalteam,http://dbpedia.org/resource/Scotland_national_football_team,Correct,90,231.71598291397092,16
+http://dbpedia.org/resource/Alex_Troup,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Scotland_national_football_team,Incorrect,90,231.71598291397092,16
+http://dbpedia.org/resource/Alex_Troup,http://dbpedia.org/ontology/team,http://dbpedia.org/resource/Scotland_national_football_team,Incorrect,90,231.71598291397092,16
+http://dbpedia.org/resource/Boston,http://www.w3.org/2000/01/rdf-schema#label,Boston,Correct,91,4.200368404388428,16
+http://dbpedia.org/resource/Salih_Omurtak,http://dbpedia.org/ontology/restingPlace,http://dbpedia.org/resource/Turkish_State_Cemetery,I Don't Know,92,177.56831812858582,16
+http://dbpedia.org/resource/Cycling_at_the_1924_Summer_Olympics_–_Men's_team_pursuit,http://dbpedia.org/ontology/silverMedalist,http://dbpedia.org/resource/Franciszek_Szymczyk,I Don't Know,93,161.8822045326233,16
+http://dbpedia.org/resource/Cycling_at_the_1924_Summer_Olympics_–_Men's_team_pursuit,http://dbpedia.org/ontology/silverMedalist,http://dbpedia.org/resource/Tomasz_Stankiewicz,I Don't Know,93,161.8822045326233,16
+http://dbpedia.org/resource/Cycling_at_the_1924_Summer_Olympics_–_Men's_team_pursuit,http://dbpedia.org/ontology/silverMedalist,http://dbpedia.org/resource/Jan_Łazarski,I Don't Know,93,161.8822045326233,16
+http://dbpedia.org/resource/Cycling_at_the_1924_Summer_Olympics_–_Men's_team_pursuit,http://dbpedia.org/ontology/bronzeMedalist,http://dbpedia.org/resource/Jean_Van_Den_Bosch,I Don't Know,93,161.8822045326233,16
+http://dbpedia.org/resource/Cycling_at_the_1924_Summer_Olympics_–_Men's_team_pursuit,http://dbpedia.org/ontology/bronzeMedalist,http://dbpedia.org/resource/Henri_Hoevenaers,I Don't Know,93,161.8822045326233,16
+http://dbpedia.org/resource/Snježana_Kordić,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Osijek,Correct,94,4.126041650772095,16
+http://dbpedia.org/resource/2010_President's_Cup_(tennis),http://dbpedia.org/ontology/championInDoubleMale,http://dbpedia.org/resource/Colin_Fleming,I Don't Know,95,211.93981051445007,18
+http://dbpedia.org/resource/2010_President's_Cup_(tennis),http://dbpedia.org/ontology/championInDoubleMale,http://dbpedia.org/resource/Ross_Hutchins,I Don't Know,95,211.93981051445007,18
+http://dbpedia.org/resource/Denis_Perger,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Slovenian_footballers,Correct,96,525.7978057861328,18
+http://dbpedia.org/resource/Denis_Perger,http://dbpedia.org/property/fullname,Denis Perger,Correct,96,525.7978057861328,18
+http://dbpedia.org/resource/Denis_Perger,http://www.w3.org/2000/01/rdf-schema#label,Denis Perger,Correct,96,525.7978057861328,18
+http://dbpedia.org/resource/Denis_Perger,http://dbpedia.org/property/nationalcaps,4,I Don't Know,96,525.7978057861328,18
+http://dbpedia.org/resource/Denis_Perger,http://dbpedia.org/property/birthPlace,"Ptuj, Slovenia",Correct,96,525.7978057861328,18
+"http://dbpedia.org/resource/Sir_John_Barker,_4th_Baronet",http://dbpedia.org/property/hasPhotoCollection,"http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Sir_John_Barker,_4th_Baronet",Incorrect,97,155.82026267051697,18
+"http://dbpedia.org/resource/Sir_John_Barker,_4th_Baronet",http://dbpedia.org/property/years,1680,Incorrect,97,155.82026267051697,18
+"http://dbpedia.org/resource/Sir_John_Barker,_4th_Baronet",http://xmlns.com/foaf/0.1/isPrimaryTopicOf,"http://en.wikipedia.org/wiki/Sir_John_Barker,_4th_Baronet",Correct,97,155.82026267051697,18
+"http://dbpedia.org/resource/Sir_John_Barker,_4th_Baronet",http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:People_of_the_Stuart_period,Correct,97,155.82026267051697,18
+"http://dbpedia.org/resource/Sir_John_Barker,_4th_Baronet",http://dbpedia.org/property/with,John Wright 1680–1685,Incorrect,97,155.82026267051697,18
+http://dbpedia.org/resource/Lujo_Brentano,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/University_of_Göttingen,Correct,98,140.2794680595398,18
+http://dbpedia.org/resource/Lujo_Brentano,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Werner_Hegemann,I Don't Know,98,140.2794680595398,18
+http://dbpedia.org/resource/Lujo_Brentano,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Hans_Ehrenberg,I Don't Know,98,140.2794680595398,18
+http://dbpedia.org/resource/Lujo_Brentano,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Aschaffenburg,Correct,98,140.2794680595398,18
+http://dbpedia.org/resource/Lujo_Brentano,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Germany,Correct,98,140.2794680595398,18
+http://dbpedia.org/resource/Shannon_RFC,http://dbpedia.org/property/founded,1884,Correct,99,231.58855390548703,18
+http://dbpedia.org/resource/Shannon_RFC,http://dbpedia.org/property/x,0.14,Incorrect,99,231.58855390548703,18
+http://dbpedia.org/resource/Shannon_RFC,http://dbpedia.org/property/league,http://dbpedia.org/resource/All-Ireland_League_(rugby_union),Correct,99,231.58855390548703,18
+http://dbpedia.org/resource/Shannon_RFC,http://dbpedia.org/property/president,Darragh Little,Incorrect,99,231.58855390548703,18
+http://dbpedia.org/resource/Shannon_RFC,http://dbpedia.org/property/y,0.61,Incorrect,99,231.58855390548703,18
+http://dbpedia.org/resource/Jeff_Oster,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,100,33.01103186607361,18
+http://dbpedia.org/resource/Jane_Wall,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Lagos,Correct,101,36.79357647895813,18
+http://dbpedia.org/resource/C._D._Gopinath,http://dbpedia.org/property/100s/50s,9,Incorrect,102,220.7511773109436,18
+http://dbpedia.org/resource/C._D._Gopinath,http://dbpedia.org/property/international,true,Correct,102,220.7511773109436,18
+http://dbpedia.org/resource/C._D._Gopinath,http://dbpedia.org/property/batAvg,42.16,Incorrect,102,220.7511773109436,18
+http://dbpedia.org/resource/C._D._Gopinath,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:South_Zone_cricketers,Correct,102,220.7511773109436,18
+http://dbpedia.org/resource/C._D._Gopinath,http://dbpedia.org/property/testdebutdate,--12-14,Incorrect,102,220.7511773109436,18
+"http://dbpedia.org/resource/Lompoc,_California",http://dbpedia.org/property/julLowF,56,I Don't Know,103,22.541821718215942,18
+"http://dbpedia.org/resource/Lompoc,_California",http://dbpedia.org/property/aprLowF,47,I Don't Know,103,22.541821718215942,18
+"http://dbpedia.org/resource/Lompoc,_California",http://dbpedia.org/property/populationDensitySqMi,auto,Incorrect,103,22.541821718215942,18
+"http://dbpedia.org/resource/Lompoc,_California",http://xmlns.com/foaf/0.1/name,City of Lompoc,Correct,103,22.541821718215942,18
+"http://dbpedia.org/resource/Lompoc,_California",http://dbpedia.org/property/namedFor,"Chumash: Lompo': ""Stagnant Water""",I Don't Know,103,22.541821718215942,18
+http://dbpedia.org/resource/Maxime_de_Zeeuw,http://dbpedia.org/property/years,2011,Incorrect,104,98.50468158721924,18
+http://dbpedia.org/resource/Maxime_de_Zeeuw,http://dbpedia.org/property/spg,0.7,Incorrect,104,98.50468158721924,18
+http://dbpedia.org/resource/Maxime_de_Zeeuw,http://dbpedia.org/property/gp,23,Incorrect,104,98.50468158721924,18
+http://dbpedia.org/resource/Maxime_de_Zeeuw,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Belgian_basketball_players,Correct,104,98.50468158721924,18
+http://dbpedia.org/resource/Maxime_de_Zeeuw,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:VOO_Wolves_Verviers-Pepinster_players,I Don't Know,104,98.50468158721924,18
+http://dbpedia.org/resource/Stoof_Bezuidenhout,http://dbpedia.org/property/school,http://dbpedia.org/resource/HTS_Potchefstroom,I Don't Know,105,300.0373616218567,18
+http://dbpedia.org/resource/Stoof_Bezuidenhout,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1986_births,Correct,105,300.0373616218567,18
+http://dbpedia.org/resource/Stoof_Bezuidenhout,http://dbpedia.org/property/placeOfBirth,"Vereeniging, South Africa",Correct,105,300.0373616218567,18
+http://dbpedia.org/resource/Stoof_Bezuidenhout,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Rugby_union_props,Correct,105,300.0373616218567,18
+http://dbpedia.org/resource/Stoof_Bezuidenhout,http://xmlns.com/foaf/0.1/name,"Bezuidenhout, Stoof",Correct,105,300.0373616218567,18
+http://dbpedia.org/resource/Michaela_Paetsch,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,106,47.14183115959168,18
+http://dbpedia.org/resource/George_Goodman_(politician),http://dbpedia.org/ontology/monarch,http://dbpedia.org/resource/Queen_Victoria,Correct,107,84.55691051483154,18
+http://dbpedia.org/resource/Pazuzu_(The_Exorcist),http://dbpedia.org/ontology/portrayer,http://dbpedia.org/resource/Linda_Blair,Correct,108,224.5677936077118,18
+http://dbpedia.org/resource/Pazuzu_(The_Exorcist),http://dbpedia.org/ontology/portrayer,http://dbpedia.org/resource/Colleen_Dewhurst,I Don't Know,108,224.5677936077118,18
+http://dbpedia.org/resource/Pazuzu_(The_Exorcist),http://dbpedia.org/ontology/portrayer,http://dbpedia.org/resource/Mary_Beth_Hurt,I Don't Know,108,224.5677936077118,18
+http://dbpedia.org/resource/Pazuzu_(The_Exorcist),http://dbpedia.org/ontology/portrayer,http://dbpedia.org/resource/Eileen_Dietz,Correct,108,224.5677936077118,18
+http://dbpedia.org/resource/Pazuzu_(The_Exorcist),http://dbpedia.org/ontology/portrayer,http://dbpedia.org/resource/Rupert_Degas,I Don't Know,108,224.5677936077118,18
+http://dbpedia.org/resource/Valis_II,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:PlayStation_Network_games,Incorrect,109,241.9480118751526,18
+http://dbpedia.org/resource/Valis_II,http://dbpedia.org/property/composer,http://dbpedia.org/resource/Tenpei_Sato,Incorrect,109,241.9480118751526,18
+http://dbpedia.org/resource/Valis_II,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Valis_series,Correct,109,241.9480118751526,18
+http://dbpedia.org/resource/Valis_II,http://dbpedia.org/ontology/computingPlatform,http://dbpedia.org/resource/MSX,Correct,109,241.9480118751526,18
+http://dbpedia.org/resource/Valis_II,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Sega_Genesis_games,Incorrect,109,241.9480118751526,18
+http://dbpedia.org/resource/Luis_Cruz,http://dbpedia.org/property/bats,Right,I Don't Know,110,139.15246748924255,18
+http://dbpedia.org/resource/Luis_Cruz,http://dbpedia.org/property/statyear,2013,Incorrect,110,139.15246748924255,18
+http://dbpedia.org/resource/Luis_Cruz,http://dbpedia.org/property/team,Chiba Lotte Marines,I Don't Know,110,139.15246748924255,18
+http://dbpedia.org/resource/Luis_Cruz,http://dbpedia.org/property/cube,Luis-Cruz,Incorrect,110,139.15246748924255,18
+http://dbpedia.org/resource/Luis_Cruz,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Major_League_Baseball_players_from_Mexico,Correct,110,139.15246748924255,18
+http://dbpedia.org/resource/The_Sky_Ranger,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Black-and-white_films,Correct,111,204.51292991638184,18
+http://dbpedia.org/resource/The_Sky_Ranger,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-movie-noun-1,Incorrect,111,204.51292991638184,18
+http://dbpedia.org/resource/The_Sky_Ranger,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,111,204.51292991638184,18
+http://dbpedia.org/resource/The_Sky_Ranger,http://dbpedia.org/property/country,United States,Correct,111,204.51292991638184,18
+http://dbpedia.org/resource/The_Sky_Ranger,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_comedy_films,I Don't Know,111,204.51292991638184,18
+http://dbpedia.org/resource/WVPG,http://dbpedia.org/ontology/sisterStation,http://dbpedia.org/resource/WVEP,I Don't Know,112,268.3620581626892,19
+http://dbpedia.org/resource/WVPG,http://dbpedia.org/ontology/sisterStation,http://dbpedia.org/resource/WVWS,I Don't Know,112,268.3620581626892,19
+http://dbpedia.org/resource/WVPG,http://dbpedia.org/property/sisterStations,http://dbpedia.org/resource/WVPB_(FM),Correct,112,268.3620581626892,19
+http://dbpedia.org/resource/WVPG,http://dbpedia.org/ontology/broadcastArea,"http://dbpedia.org/resource/Marietta,_Ohio",Correct,112,268.3620581626892,19
+http://dbpedia.org/resource/WVPG,http://dbpedia.org/property/affiliations,http://dbpedia.org/resource/American_Public_Media,I Don't Know,112,268.3620581626892,19
+http://dbpedia.org/resource/Robert_Kegan,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Minnesota,Correct,113,82.48749876022339,19
+http://dbpedia.org/resource/Oliver_Parker,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English_film_directors,Correct,114,46.87695360183716,19
+http://dbpedia.org/resource/Oliver_Parker,http://dbpedia.org/property/dateOfBirth,1960-09-06,Correct,114,46.87695360183716,19
+http://dbpedia.org/resource/Oliver_Parker,http://dbpedia.org/property/shortDescription,British film director and screenwriter,Correct,114,46.87695360183716,19
+http://dbpedia.org/resource/Oliver_Parker,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Director,Correct,114,46.87695360183716,19
+http://dbpedia.org/resource/Oliver_Parker,http://dbpedia.org/ontology/birthYear,1960,Correct,114,46.87695360183716,19
+http://dbpedia.org/resource/2012–13_Pittsburgh_Penguins_season,http://dbpedia.org/property/birthplace,"http://dbpedia.org/resource/Virginia,_Minnesota",Incorrect,115,26.52668786048889,19
+http://dbpedia.org/resource/2012–13_Pittsburgh_Penguins_season,http://dbpedia.org/property/birthplace,http://dbpedia.org/resource/Bromma,Incorrect,115,26.52668786048889,19
+http://dbpedia.org/resource/2012–13_Pittsburgh_Penguins_season,http://dbpedia.org/property/birthplace,"http://dbpedia.org/resource/Belleville,_Ontario",Incorrect,115,26.52668786048889,19
+http://dbpedia.org/resource/2012–13_Pittsburgh_Penguins_season,http://dbpedia.org/property/birthplace,http://dbpedia.org/resource/Magnitogorsk,Incorrect,115,26.52668786048889,19
+http://dbpedia.org/resource/2012–13_Pittsburgh_Penguins_season,http://dbpedia.org/property/birthplace,http://dbpedia.org/resource/St._Louis,Incorrect,115,26.52668786048889,19
+http://dbpedia.org/resource/V._P._Sathyan,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Kannur,Correct,116,64.71310687065125,19
+http://dbpedia.org/resource/Theodor_Zincke,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Otto_Hahn,I Don't Know,117,4.240698337554932,19
+http://dbpedia.org/resource/Theodor_Zincke,http://dbpedia.org/ontology/doctoralAdvisor,http://dbpedia.org/resource/Friedrich_Wöhler,I Don't Know,117,4.240698337554932,19
+http://dbpedia.org/resource/Theodor_Zincke,http://dbpedia.org/ontology/doctoralAdvisor,http://dbpedia.org/resource/August_Kekulé,I Don't Know,117,4.240698337554932,19
+http://dbpedia.org/resource/Theodor_Zincke,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Alfred_Walter_Stewart,I Don't Know,117,4.240698337554932,19
+http://dbpedia.org/resource/Theodor_Zincke,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Karl_Theophil_Fries,I Don't Know,117,4.240698337554932,19
+http://dbpedia.org/resource/Maria_Amalia_of_Saxony,http://dbpedia.org/ontology/parent,http://dbpedia.org/resource/Augustus_III_of_Poland,Correct,118,192.3114893436432,19
+http://dbpedia.org/resource/Maria_Amalia_of_Saxony,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Dresden,Correct,118,192.3114893436432,19
+http://dbpedia.org/resource/Frank_Archibald_MacDougall,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Canada,Correct,119,59.10757851600647,19
+http://dbpedia.org/resource/Frank_Archibald_MacDougall,http://www.w3.org/2000/01/rdf-schema#label,Frank Archibald MacDougall,Correct,119,59.10757851600647,19
+http://dbpedia.org/resource/Frank_Archibald_MacDougall,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Toronto,Correct,119,59.10757851600647,19
+http://dbpedia.org/resource/Joachim_Fernandez,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Senegal,Correct,120,132.26523613929749,19
+http://dbpedia.org/resource/WAYF,http://dbpedia.org/property/haat,321,I Don't Know,121,106.72287774086,19
+http://dbpedia.org/resource/WAYF,http://xmlns.com/foaf/0.1/name,WAYF,Correct,121,106.72287774086,19
+http://dbpedia.org/resource/WAYF,http://dbpedia.org/property/format,http://dbpedia.org/resource/Contemporary_Christian_music,Correct,121,106.72287774086,19
+http://dbpedia.org/resource/WAYF,http://dbpedia.org/property/call,W212CG,I Don't Know,121,106.72287774086,19
+http://dbpedia.org/resource/WAYF,http://dbpedia.org/ontology/owner,http://dbpedia.org/resource/WAY-FM_Network,Correct,121,106.72287774086,19
+http://dbpedia.org/resource/The_Violet_Lights,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,122,17.208231210708618,19
+http://dbpedia.org/resource/A_Lowland_Cinderella,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_films,Correct,123,46.83772468566895,19
+http://dbpedia.org/resource/A_Lowland_Cinderella,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:British_films,Correct,123,46.83772468566895,19
+http://dbpedia.org/resource/A_Lowland_Cinderella,http://dbpedia.org/property/language,English intertitles,Correct,123,46.83772468566895,19
+http://dbpedia.org/resource/A_Lowland_Cinderella,http://dbpedia.org/property/country,United Kingdom,I Don't Know,123,46.83772468566895,19
+http://dbpedia.org/resource/A_Lowland_Cinderella,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Black-and-white_films,Correct,123,46.83772468566895,19
+http://dbpedia.org/resource/Birth_of_a_Notion_(film),http://www.w3.org/2000/01/rdf-schema#comment,"Birth of a Notion is a Looney Tunes cartoon animated in 1946 and released in 1947.  It was reissued as a Blue Ribbon Merrie Melodies cartoon, with the ending theme song still being that of the Looney Tunes cartoon.  It features Daffy Duck, as well as a dog named Leopold and an unnamed mad scientist. Director Robert McKimson used his ""Barnyard Dawg"" character design as Leopold, while the scientist is a caricature, both visually and vocally, of Peter Lorre.",Correct,124,134.13605165481567,19
+http://dbpedia.org/resource/Birth_of_a_Notion_(film),http://dbpedia.org/property/animator,Fred Jones,Correct,124,134.13605165481567,19
+http://dbpedia.org/resource/Birth_of_a_Notion_(film),http://dbpedia.org/ontology/series,http://dbpedia.org/resource/Looney_Tunes,Correct,124,134.13605165481567,19
+http://dbpedia.org/resource/Birth_of_a_Notion_(film),http://dbpedia.org/property/storyArtist,http://dbpedia.org/resource/Warren_Foster,Correct,124,134.13605165481567,19
+http://dbpedia.org/resource/Birth_of_a_Notion_(film),http://dbpedia.org/property/producer,http://dbpedia.org/resource/Edward_Selzer,Correct,124,134.13605165481567,19
+http://dbpedia.org/resource/Georgios_Vikhos,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Athens,Correct,125,134.58519744873047,19
+http://dbpedia.org/resource/Iris_Runge,http://dbpedia.org/ontology/doctoralAdvisor,http://dbpedia.org/resource/Gustav_Heinrich_Johann_Apollon_Tammann,I Don't Know,126,123.00861144065856,20
+http://dbpedia.org/resource/Iris_Runge,http://dbpedia.org/ontology/citizenship,http://dbpedia.org/resource/Germany,Correct,126,123.00861144065856,20
+http://dbpedia.org/resource/Iris_Runge,http://dbpedia.org/ontology/academicAdvisor,http://dbpedia.org/resource/Arnold_Sommerfeld,I Don't Know,126,123.00861144065856,20
+http://dbpedia.org/resource/Iris_Runge,http://dbpedia.org/ontology/field,http://dbpedia.org/resource/Physics,Correct,126,123.00861144065856,20
+http://dbpedia.org/resource/La_Badil,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_films,Correct,127,104.54525756835938,20
+http://dbpedia.org/resource/La_Badil,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:British_films,Correct,127,104.54525756835938,20
+http://dbpedia.org/resource/Al-Muthanna_Club,http://dbpedia.org/ontology/colourName,Black,Correct,128,47.1675980091095,20
+http://dbpedia.org/resource/Al-Muthanna_Club,http://dbpedia.org/ontology/ideology,http://dbpedia.org/resource/Antisemitism,Correct,128,47.1675980091095,20
+http://dbpedia.org/resource/Felix_Hoffmann,http://dbpedia.org/property/dateOfBirth,1868-01-21,Correct,129,96.60883831977844,20
+http://dbpedia.org/resource/Felix_Hoffmann,http://xmlns.com/foaf/0.1/givenName,Felix,Correct,129,96.60883831977844,20
+http://dbpedia.org/resource/Felix_Hoffmann,http://dbpedia.org/ontology/birthDate,1868-01-21,Correct,129,96.60883831977844,20
+http://dbpedia.org/resource/Felix_Hoffmann,http://xmlns.com/foaf/0.1/name,Felix Hoffman,Correct,129,96.60883831977844,20
+http://dbpedia.org/resource/Felix_Hoffmann,http://purl.org/dc/elements/1.1/description,German chemist,Correct,129,96.60883831977844,20
+http://dbpedia.org/resource/Bunker_Bean,http://dbpedia.org/property/country,United States,Correct,130,53.62514400482178,20
+http://dbpedia.org/resource/Bunker_Bean,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Correct,130,53.62514400482178,20
+http://dbpedia.org/resource/Bunker_Bean,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,130,53.62514400482178,20
+http://dbpedia.org/resource/Bunker_Bean,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-movie-noun-1,Incorrect,130,53.62514400482178,20
+http://dbpedia.org/resource/2011_Incheon_United_FC_season,http://dbpedia.org/property/shorts,0,Incorrect,131,142.66875624656677,20
+http://dbpedia.org/resource/2011_Incheon_United_FC_season,http://dbpedia.org/property/referee,Ko Hyung-Jin,Incorrect,131,142.66875624656677,20
+http://dbpedia.org/resource/2011_Incheon_United_FC_season,http://dbpedia.org/property/score,4,Incorrect,131,142.66875624656677,20
+http://dbpedia.org/resource/2011_Incheon_United_FC_season,http://dbpedia.org/property/stadium,http://dbpedia.org/resource/Daejeon_World_Cup_Stadium,Incorrect,131,142.66875624656677,20
+http://dbpedia.org/resource/2011_Incheon_United_FC_season,http://dbpedia.org/property/attendance,1368,Incorrect,131,142.66875624656677,20
+"http://dbpedia.org/resource/Tacoma,_Washington",http://dbpedia.org/property/areaWaterSqMi,12.62,I Don't Know,132,101.10259652137756,20
+"http://dbpedia.org/resource/Tacoma,_Washington",http://dbpedia.org/property/longew,W,I Don't Know,132,101.10259652137756,20
+"http://dbpedia.org/resource/Tacoma,_Washington",http://dbpedia.org/property/sepHighF,71,I Don't Know,132,101.10259652137756,20
+"http://dbpedia.org/resource/Tacoma,_Washington",http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/List_of_counties_in_Washington,Incorrect,132,101.10259652137756,20
+"http://dbpedia.org/resource/Tacoma,_Washington",http://dbpedia.org/property/augLowF,56,I Don't Know,132,101.10259652137756,20
+http://dbpedia.org/resource/Danilo_Carando,http://dbpedia.org/property/clubs,http://dbpedia.org/resource/FC_Astra,Correct,133,167.2755823135376,20
+http://dbpedia.org/resource/Danilo_Carando,http://dbpedia.org/property/goals,15,Incorrect,133,167.2755823135376,20
+http://dbpedia.org/resource/Danilo_Carando,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Argentine_expatriates_in_Chile,Incorrect,133,167.2755823135376,20
+http://dbpedia.org/resource/Danilo_Carando,http://dbpedia.org/ontology/birthDate,1988-08-05,Correct,133,167.2755823135376,20
+http://dbpedia.org/resource/Danilo_Carando,http://dbpedia.org/property/years,2010,Incorrect,133,167.2755823135376,20
+http://dbpedia.org/resource/Gina_Torres,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/New_York_City,Correct,134,148.18781185150146,20
+http://dbpedia.org/resource/Gina_Torres,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Gina_Torres__1,Incorrect,134,148.18781185150146,20
+http://dbpedia.org/resource/Gina_Torres,http://xmlns.com/foaf/0.1/name,Gina Torres,Correct,134,148.18781185150146,20
+http://dbpedia.org/resource/Gina_Torres,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/New_York,Correct,134,148.18781185150146,20
+http://dbpedia.org/resource/Gina_Torres,http://xmlns.com/foaf/0.1/name,Gina Fernando Torres,Incorrect,134,148.18781185150146,20
+http://dbpedia.org/resource/Neil_Simon's_I_Ought_to_Be_in_Pictures,http://dbpedia.org/ontology/director,http://dbpedia.org/resource/Herbert_Ross,Correct,135,66.08479452133179,20
+http://dbpedia.org/resource/Vital_Valadzyankow,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Minsk,Correct,136,48.9420690536499,20
+http://dbpedia.org/resource/Radio_America_(band),http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,137,88.92176604270935,20
+http://dbpedia.org/resource/Stone_Poneys,http://dbpedia.org/property/pastMembers,Bill Martin,Correct,138,379.42482233047485,20
+http://dbpedia.org/resource/Stone_Poneys,http://dbpedia.org/property/pastMembers,http://dbpedia.org/resource/Linda_Ronstadt,Correct,138,379.42482233047485,20
+http://dbpedia.org/resource/Stone_Poneys,http://dbpedia.org/property/pastMembers,Kit Alderson,Correct,138,379.42482233047485,20
+http://dbpedia.org/resource/Stone_Poneys,http://dbpedia.org/property/pastMembers,Shep Cooke,Correct,138,379.42482233047485,20
+http://dbpedia.org/resource/Stone_Poneys,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Country_rock,Correct,138,379.42482233047485,20
+http://dbpedia.org/resource/WXKB,http://www.w3.org/2000/01/rdf-schema#comment,"WXKB is a commercial radio station located in Cape Coral, Florida, broadcasting to Fort Myers and Naples, Florida on 103.9 FM.  WXKB airs a Rhythmic Top 40 music format branded as ""B-103.9 All The Hits"", sometimes called ""The Killer B"".",I Don't Know,139,7.100086688995361,20
+http://dbpedia.org/resource/WXKB,http://dbpedia.org/ontology/abstract,"WXKB is a commercial radio station located in Cape Coral, Florida, broadcasting to Fort Myers and Naples, Florida on 103.9 FM.  WXKB airs a Rhythmic Top 40 music format branded as ""B-103.9 All The Hits"", sometimes called ""The Killer B"".",I Don't Know,139,7.100086688995361,20
+http://dbpedia.org/resource/WXKB,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Rhythmic_contemporary_radio_stations_in_the_United_States,I Don't Know,139,7.100086688995361,20
+http://dbpedia.org/resource/WXKB,http://dbpedia.org/property/webcast,http://b1039.com/streamer/,I Don't Know,139,7.100086688995361,20
+http://dbpedia.org/resource/WXKB,http://dbpedia.org/ontology/broadcastStationClass,C,I Don't Know,139,7.100086688995361,20
+http://dbpedia.org/resource/Edinho_Campos,http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Edinho_Campos__3,Incorrect,140,68.68763661384583,20
+http://dbpedia.org/resource/Edinho_Campos,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Brazil,Correct,140,68.68763661384583,20
+http://dbpedia.org/resource/Edinho_Campos,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Niterói,Correct,140,68.68763661384583,20
+http://dbpedia.org/resource/Edinho_Campos,http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Edinho_Campos__2,Incorrect,140,68.68763661384583,20
+http://dbpedia.org/resource/Edinho_Campos,http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Edinho_Campos__6,Incorrect,140,68.68763661384583,20
+http://dbpedia.org/resource/Hur_Seung-wook,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/South_Korea,Correct,141,13.596186637878418,20
+http://dbpedia.org/resource/Nathan_Douglas,http://dbpedia.org/ontology/abstract,"Nathan James Douglas (born 4 December 1982 in Oxford) is an English athlete who specialises in the triple jump. He won the silver medal at the 2006 European Athletics Championships in Gothenburg with a jump of 17.21 metres. He suffered a major injury in 2007 and, although he managed to compete at the 2008 Beijing Olympics, he struggled to find form as the injury had upset his technique.His personal best is 17.64 m (57 ft 101⁄4 in), set in 2005.",I Don't Know,142,26.89480996131897,20
+http://dbpedia.org/resource/Nathan_Douglas,http://xmlns.com/foaf/0.1/name,"Douglas, Nathan",Correct,142,26.89480996131897,20
+http://dbpedia.org/resource/Nathan_Douglas,http://xmlns.com/foaf/0.1/name,Nathan Douglas,Correct,142,26.89480996131897,20
+http://dbpedia.org/resource/Sam_Coghlan_Murray,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Australia,I Don't Know,143,175.14915418624878,20
+"http://dbpedia.org/resource/Carnarvon,_Western_Australia",http://dbpedia.org/property/decRainMm,5.5,I Don't Know,144,54.59195160865784,20
+"http://dbpedia.org/resource/Carnarvon,_Western_Australia",http://dbpedia.org/property/name,Carnarvon,Correct,144,54.59195160865784,20
+"http://dbpedia.org/resource/Carnarvon,_Western_Australia",http://dbpedia.org/property/maxtemp,27.2,I Don't Know,144,54.59195160865784,20
+"http://dbpedia.org/resource/Carnarvon,_Western_Australia",http://dbpedia.org/property/octLowC,16.4,I Don't Know,144,54.59195160865784,20
+"http://dbpedia.org/resource/Carnarvon,_Western_Australia",http://dbpedia.org/property/yearRecordLowC,2.4,I Don't Know,144,54.59195160865784,20
+http://dbpedia.org/resource/2011–12_St._Louis_Blues_season,http://dbpedia.org/property/birthplace,http://dbpedia.org/resource/Ostrava,Incorrect,145,10.262035369873049,20
+http://dbpedia.org/resource/2011–12_St._Louis_Blues_season,http://dbpedia.org/property/birthplace,http://dbpedia.org/resource/Sherbrooke,Incorrect,145,10.262035369873049,20
+http://dbpedia.org/resource/2011–12_St._Louis_Blues_season,http://dbpedia.org/property/birthplace,"http://dbpedia.org/resource/Newmarket,_Ontario",Incorrect,145,10.262035369873049,20
+http://dbpedia.org/resource/2011–12_St._Louis_Blues_season,http://dbpedia.org/property/birthplace,"http://dbpedia.org/resource/Trail,_British_Columbia",Incorrect,145,10.262035369873049,20
+http://dbpedia.org/resource/2011–12_St._Louis_Blues_season,http://dbpedia.org/property/birthplace,"http://dbpedia.org/resource/King_City,_Ontario",Incorrect,145,10.262035369873049,20
+http://dbpedia.org/resource/Jack_Dempsey_(politician),http://purl.org/dc/elements/1.1/description,Australian politician,Correct,146,141.1155161857605,20
+http://dbpedia.org/resource/Jack_Dempsey_(politician),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Living_people,Correct,146,141.1155161857605,20
+http://dbpedia.org/resource/Jack_Dempsey_(politician),http://xmlns.com/foaf/0.1/homepage,http://jackdempseymp.com/,Incorrect,146,141.1155161857605,20
+http://dbpedia.org/resource/Jack_Dempsey_(politician),http://dbpedia.org/property/office,"Minister for Aboriginal, Torres Strait Islander and Multicultural Affairs of Queensland",I Don't Know,146,141.1155161857605,20
+http://dbpedia.org/resource/Jack_Dempsey_(politician),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people),Incorrect,146,141.1155161857605,20
+http://dbpedia.org/resource/Masha-ye_Pang_Posht_Kuh_Do_Sari,http://dbpedia.org/property/subdivisionName,http://dbpedia.org/resource/Anbarabad_County,Incorrect,147,54.6987509727478,20
+http://dbpedia.org/resource/Masha-ye_Pang_Posht_Kuh_Do_Sari,http://dbpedia.org/ontology/isPartOf,http://dbpedia.org/resource/Anbarabad_County,Correct,147,54.6987509727478,20
+http://dbpedia.org/resource/Nikolai_Timkov,http://dbpedia.org/ontology/training,http://dbpedia.org/resource/Imperial_Academy_of_Arts,Incorrect,148,213.00073885917664,20
+http://dbpedia.org/resource/Nikolai_Timkov,http://dbpedia.org/ontology/movement,http://dbpedia.org/resource/Realism_(arts),Incorrect,148,213.00073885917664,20
+http://dbpedia.org/resource/Eleanor_of_Navarre,http://dbpedia.org/ontology/parent,http://dbpedia.org/resource/John_II_of_Aragon,Correct,149,42.66316533088684,20
+http://dbpedia.org/resource/Eleanor_of_Navarre,http://dbpedia.org/ontology/parent,http://dbpedia.org/resource/Blanche_I_of_Navarre,Correct,149,42.66316533088684,20
+http://dbpedia.org/resource/Argyro_Strataki,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Heraklion,Correct,150,97.13283181190492,20
+http://dbpedia.org/resource/Argyro_Strataki,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Athletes_(track_and_field)_at_the_2004_Summer_Olympics,Correct,150,97.13283181190492,20
+http://dbpedia.org/resource/Tate_Donovan,http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Tenafly,_New_Jersey",Correct,151,33.032538652420044,20
+http://dbpedia.org/resource/Ivan_Khomutov,http://dbpedia.org/ontology/league,http://dbpedia.org/resource/Professional_Hockey_League,Correct,152,51.02831816673279,22
+http://dbpedia.org/resource/Arthur_Lakes,http://dbpedia.org/ontology/deathPlace,"http://dbpedia.org/resource/Ymir,_British_Columbia",Incorrect,153,184.6892411708832,22
+http://dbpedia.org/resource/Arthur_Lakes,http://dbpedia.org/ontology/almaMater,"http://dbpedia.org/resource/The_Queen's_College,_Oxford",Correct,153,184.6892411708832,22
+http://dbpedia.org/resource/Arthur_Lakes,http://dbpedia.org/property/religion,http://dbpedia.org/resource/Episcopal_Church_(United_States),I Don't Know,153,184.6892411708832,22
+http://dbpedia.org/resource/Arthur_Lakes,http://dbpedia.org/property/deathPlace,"http://dbpedia.org/resource/Nelson,_British_Columbia",Correct,153,184.6892411708832,22
+http://dbpedia.org/resource/Arthur_Lakes,http://dbpedia.org/property/almaMater,"http://dbpedia.org/resource/The_Queen's_College,_Oxford",Correct,153,184.6892411708832,22
+http://dbpedia.org/resource/Sodagreen,http://dbpedia.org/ontology/activeYearsEndYear,2004,Incorrect,154,257.5031485557556,22
+http://dbpedia.org/resource/Sodagreen,http://dbpedia.org/property/currentmembers,http://dbpedia.org/resource/Ho_Jing-Yang,Correct,154,257.5031485557556,22
+http://dbpedia.org/resource/Sodagreen,http://dbpedia.org/ontology/currentMember,http://dbpedia.org/resource/Wu_Tsing-Fong,Correct,154,257.5031485557556,22
+http://dbpedia.org/resource/Sodagreen,http://dbpedia.org/property/genre,http://dbpedia.org/resource/Indie_pop,Correct,154,257.5031485557556,22
+http://dbpedia.org/resource/Sodagreen,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Taiwanese_rock_music_groups,Correct,154,257.5031485557556,22
+http://dbpedia.org/resource/Hellville_de_Luxe,http://dbpedia.org/property/nosales,yes,Incorrect,155,211.87473225593567,22
+http://dbpedia.org/resource/Hellville_de_Luxe,http://dbpedia.org/property/nextAlbum,Las Consecuencias,Correct,155,211.87473225593567,22
+http://dbpedia.org/resource/Hellville_de_Luxe,http://dbpedia.org/property/length,276.0,Incorrect,155,211.87473225593567,22
+http://dbpedia.org/resource/Hellville_de_Luxe,http://dbpedia.org/property/length,249.0,Incorrect,155,211.87473225593567,22
+http://dbpedia.org/resource/Hellville_de_Luxe,http://dbpedia.org/property/artist,Enrique Bunbury,Correct,155,211.87473225593567,22
+http://dbpedia.org/resource/Alifakovac,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Sarajevo,Correct,156,32.69916224479675,22
+http://dbpedia.org/resource/Alifakovac,http://dbpedia.org/property/settlementType,Neighborhood,Correct,156,32.69916224479675,22
+http://dbpedia.org/resource/Alifakovac,http://dbpedia.org/property/imageSkyline,Alifakovac1.jpg,Incorrect,156,32.69916224479675,22
+http://dbpedia.org/resource/Alifakovac,http://dbpedia.org/ontology/utcOffset,+1,I Don't Know,156,32.69916224479675,22
+http://dbpedia.org/resource/Alifakovac,http://dbpedia.org/property/pushpinLabelPosition,bottom,I Don't Know,156,32.69916224479675,22
+http://dbpedia.org/resource/Mattia_Lanzano,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Mattia_Lanzano,I Don't Know,157,183.70270800590515,22
+http://dbpedia.org/resource/Mattia_Lanzano,http://dbpedia.org/property/totalcaps,83,I Don't Know,157,183.70270800590515,22
+http://dbpedia.org/resource/Mattia_Lanzano,http://dbpedia.org/property/nationalcaps,1,Correct,157,183.70270800590515,22
+http://dbpedia.org/resource/Mattia_Lanzano,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Italian_footballers,Correct,157,183.70270800590515,22
+http://dbpedia.org/resource/Mattia_Lanzano,http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Mattia_Lanzano__1,Incorrect,157,183.70270800590515,22
+http://dbpedia.org/resource/Itbox,http://dbpedia.org/ontology/abstract,"itbox is a networked gambling games terminal which is found in thousands of pubs, leisure centres and amusement arcades in the United Kingdom. Classified as a ""skill with prizes"" (SWP) machine, each itbox terminal typically includes 25 different games. Each game costs 50p or £1 to play and lasts between 10 seconds and several minutes. From most of these games it is possible to win modest cash prizes. Although strictly the name 'itbox' refers only to Leisure Link-made terminals, the name is often casually applied as a genericized trademark to other SWP terminals such as Paragon SWP, Gamesnet, ind:e and Fatbox.",I Don't Know,158,71.92557549476624,22
+http://dbpedia.org/resource/Itbox,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Itbox,I Don't Know,158,71.92557549476624,22
+http://dbpedia.org/resource/Itbox,http://www.w3.org/2000/01/rdf-schema#comment,"itbox is a networked gambling games terminal which is found in thousands of pubs, leisure centres and amusement arcades in the United Kingdom. Classified as a ""skill with prizes"" (SWP) machine, each itbox terminal typically includes 25 different games. Each game costs 50p or £1 to play and lasts between 10 seconds and several minutes. From most of these games it is possible to win modest cash prizes.",I Don't Know,158,71.92557549476624,22
+http://dbpedia.org/resource/Itbox,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Terminal,I Don't Know,158,71.92557549476624,22
+http://dbpedia.org/resource/Itbox,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Video_game_hardware,I Don't Know,158,71.92557549476624,22
+http://dbpedia.org/resource/2012_UniCredit_Czech_Open_–_Doubles,http://dbpedia.org/property/rd1Team,Pavel Krček,Incorrect,159,34.925161600112915,22
+http://dbpedia.org/resource/2012_UniCredit_Czech_Open_–_Doubles,http://dbpedia.org/property/rd1Score,'''6,Incorrect,159,34.925161600112915,22
+http://dbpedia.org/resource/2012_UniCredit_Czech_Open_–_Doubles,http://dbpedia.org/property/rd2Team,A Menéndez,Incorrect,159,34.925161600112915,22
+http://dbpedia.org/resource/2012_UniCredit_Czech_Open_–_Doubles,http://dbpedia.org/property/rd1Seed,WC,Incorrect,159,34.925161600112915,22
+http://dbpedia.org/resource/2012_UniCredit_Czech_Open_–_Doubles,http://dbpedia.org/property/rd1Team,W Odesnik,Incorrect,159,34.925161600112915,22
+http://dbpedia.org/resource/José_Domingues_dos_Santos,http://purl.org/dc/elements/1.1/description,Portuguese prime-minister,Correct,160,157.47116827964783,22
+http://dbpedia.org/resource/José_Domingues_dos_Santos,http://xmlns.com/foaf/0.1/surname,Santos,Incorrect,160,157.47116827964783,22
+http://dbpedia.org/resource/José_Domingues_dos_Santos,http://dbpedia.org/property/years,1924,Incorrect,160,157.47116827964783,22
+http://dbpedia.org/resource/José_Domingues_dos_Santos,http://dbpedia.org/ontology/abstract,"José Domingues dos Santos (Lavra, Matosinhos, August 5, 1885 – Porto, August 16, 1958) was a Portuguese politician, jurist, professor and journalist who, among other positions, served as President of the Council of Ministers (Prime Minister) of one of the many governments of the Portuguese First Republic (1924-1925). He was a member of the free masonry, at least since 1922.",Correct,160,157.47116827964783,22
+http://dbpedia.org/resource/José_Domingues_dos_Santos,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Portuguese_journalists,Correct,160,157.47116827964783,22
+http://dbpedia.org/resource/Phillip_Johnston,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Tzadik_Records_artists,I Don't Know,161,213.10847282409668,22
+http://dbpedia.org/resource/Phillip_Johnston,http://dbpedia.org/property/name,Phillip Johnston,Correct,161,213.10847282409668,22
+http://dbpedia.org/resource/Phillip_Johnston,http://dbpedia.org/property/genre,"Avant-Garde Jazz, Classical, Film Music",Correct,161,213.10847282409668,22
+http://dbpedia.org/resource/Phillip_Johnston,http://dbpedia.org/property/associatedActs,Transparent Quartet,I Don't Know,161,213.10847282409668,22
+http://dbpedia.org/resource/Phillip_Johnston,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Living_people,Correct,161,213.10847282409668,22
+http://dbpedia.org/resource/Anti-Scrunti_Faction,http://dbpedia.org/ontology/bandMember,http://dbpedia.org/resource/Leslie_Mah,Correct,162,140.62845730781555,22
+http://dbpedia.org/resource/Anti-Scrunti_Faction,http://dbpedia.org/property/origin,http://dbpedia.org/resource/United_States,Correct,162,140.62845730781555,22
+http://dbpedia.org/resource/Anti-Scrunti_Faction,http://dbpedia.org/ontology/bandMember,http://dbpedia.org/resource/Tracie_Thomas,Correct,162,140.62845730781555,22
+http://dbpedia.org/resource/Anti-Scrunti_Faction,http://dbpedia.org/property/currentMembers,Leslie Mah,Incorrect,162,140.62845730781555,22
+http://dbpedia.org/resource/Anti-Scrunti_Faction,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1984_establishments_in_Colorado,I Don't Know,162,140.62845730781555,22
+http://dbpedia.org/resource/Pula,http://dbpedia.org/ontology/timeZone,http://dbpedia.org/resource/Central_European_Time,Correct,163,54.51239895820618,22
+http://dbpedia.org/resource/Pula,http://dbpedia.org/property/populationAsOf,2011,Incorrect,163,54.51239895820618,22
+http://dbpedia.org/resource/Pula,http://dbpedia.org/property/populationDensityKm,auto,Incorrect,163,54.51239895820618,22
+http://dbpedia.org/resource/Pula,http://dbpedia.org/ontology/utcOffset,+2,I Don't Know,163,54.51239895820618,22
+http://dbpedia.org/resource/Pula,http://dbpedia.org/property/metricFirst,yes,Incorrect,163,54.51239895820618,22
+http://dbpedia.org/resource/Sing_It_Loud,http://xmlns.com/foaf/0.1/name,Sing It Loud,Correct,164,102.58990907669067,22
+http://dbpedia.org/resource/Sing_It_Loud,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Pop_rock,Correct,164,102.58990907669067,22
+http://dbpedia.org/resource/Sing_It_Loud,http://xmlns.com/foaf/0.1/homepage,http://www.myspace.com/singitloud,Correct,164,102.58990907669067,22
+http://dbpedia.org/resource/Nagoya_Seirei_Junior_College,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Private_university,Correct,165,45.069817543029785,22
+http://dbpedia.org/resource/Nagoya_Seirei_Junior_College,http://dbpedia.org/property/type,http://dbpedia.org/resource/Private_university,Correct,165,45.069817543029785,22
+http://dbpedia.org/resource/Nagoya_Seirei_Junior_College,http://www.w3.org/2000/01/rdf-schema#label,Nagoya Seirei Junior College,Correct,165,45.069817543029785,22
+http://dbpedia.org/resource/Karl_Sarkis,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Lebanon,Correct,166,62.85245656967163,22
+http://dbpedia.org/resource/Newcastle_Rebels,http://dbpedia.org/property/season,1909,Incorrect,167,613.8803777694702,22
+http://dbpedia.org/resource/Newcastle_Rebels,http://dbpedia.org/property/clubname,Newcastle Rebels,Correct,167,613.8803777694702,22
+http://dbpedia.org/resource/Newcastle_Rebels,http://dbpedia.org/property/league,http://dbpedia.org/resource/New_South_Wales_Rugby_Football_League,Correct,167,613.8803777694702,22
+http://dbpedia.org/resource/Newcastle_Rebels,http://dbpedia.org/property/founded,1908-04-10,I Don't Know,167,613.8803777694702,22
+http://dbpedia.org/resource/Newcastle_Rebels,http://dbpedia.org/ontology/abstract,"Newcastle were a rugby league team who played in the New South Wales Rugby Football League premiership from 1908–1909, one of the nine foundation clubs. After the formation of several clubs in January 1908, members of the NSWRFL came to Newcastle to hold talks with the local footballing community at a meeting on 8 February 1908. However, at this meeting the motion to have a public meeting was lost. The local rugby union fraternity threatened sanctions and further recruitment occurred in secret. Finally a band of Rebel Pioneers assembled and signed up on 10 April, just days before the start of the competition. Sometimes called the Rebels, Newcastle played in a strip of red and white hoops. They boasted the likes of dual-code international Pat Walsh in their side. Their moment of glory came in the latter weeks of 1909 when they beat league leaders South Sydney 7-6 on 7 August in front of 3,000 spectators at the Newcastle Showground. It was Souths' only loss for the season. This had come three days after beating a New Zealand Maori team.Newcastle finished fourth and made the semis but were beaten by Souths 20-0.The following year, the team left the NSWRL as a local Newcastle Rugby League competition was established and many players joined the four Newcastle foundation clubs. They were replaced by Annandale in the NSWRL.In 1988, a new team, the Newcastle Knights again represented the Newcastle district in the NSWRL and its successors.In 2008 the Newcastle Knights wore a special replica red and white hooped jersey to celebrate the region's rugby league heritage for the NRL's heritage round.",I Don't Know,167,613.8803777694702,22
+http://dbpedia.org/resource/Bordertown_(2006_film),http://dbpedia.org/ontology/distributor,http://dbpedia.org/resource/ThinkFilm,Incorrect,168,161.05169701576233,22
+http://dbpedia.org/resource/Bordertown_(2006_film),http://dbpedia.org/property/distributor,http://dbpedia.org/resource/THINKFilm,Correct,168,161.05169701576233,22
+http://dbpedia.org/resource/Bordertown_(2006_film),http://dbpedia.org/ontology/distributor,http://dbpedia.org/resource/Capitol_Films,Correct,168,161.05169701576233,22
+http://dbpedia.org/resource/Bordertown_(2006_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,168,161.05169701576233,22
+http://dbpedia.org/resource/Bordertown_(2006_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_films,Correct,168,161.05169701576233,22
+http://dbpedia.org/resource/1989–90_European_Cup,http://dbpedia.org/property/stadium,http://dbpedia.org/resource/Lucerne,Correct,169,157.09916734695437,22
+http://dbpedia.org/resource/1989–90_European_Cup,http://dbpedia.org/property/stadium,http://dbpedia.org/resource/Trondheim,Correct,169,157.09916734695437,22
+http://dbpedia.org/resource/1989–90_European_Cup,http://dbpedia.org/property/stadium,http://dbpedia.org/resource/Argosstadion_Achter_de_Kazerne,Correct,169,157.09916734695437,22
+http://dbpedia.org/resource/Matthías_Vilhjálmsson,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Iceland,Correct,170,28.6040461063385,22
+http://dbpedia.org/resource/Giorgi_Dekanosidze,http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Giorgi_Dekanosidze__3,Incorrect,171,75.16354131698608,22
+http://dbpedia.org/resource/Giorgi_Dekanosidze,http://dbpedia.org/property/clubs,http://dbpedia.org/resource/TSU_Tbilisi,Correct,171,75.16354131698608,22
+http://dbpedia.org/resource/Giorgi_Dekanosidze,http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Giorgi_Dekanosidze__2,Incorrect,171,75.16354131698608,22
+http://dbpedia.org/resource/Giorgi_Dekanosidze,http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Giorgi_Dekanosidze__6,Incorrect,171,75.16354131698608,22
+http://dbpedia.org/resource/Giorgi_Dekanosidze,http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Giorgi_Dekanosidze__7,Incorrect,171,75.16354131698608,22
+http://dbpedia.org/resource/Miroslav_Svoboda_(ice_hockey),http://dbpedia.org/ontology/draftTeam,http://dbpedia.org/resource/Edmonton_Oilers,I Don't Know,172,43.94742107391357,22
+http://dbpedia.org/resource/Miroslav_Svoboda_(ice_hockey),http://www.w3.org/2000/01/rdf-schema#label,Miroslav Svoboda (ice hockey),Correct,172,43.94742107391357,22
+http://dbpedia.org/resource/Miroslav_Svoboda_(ice_hockey),http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Vsetín,Correct,172,43.94742107391357,22
+http://dbpedia.org/resource/Lee_Hyeri,http://dbpedia.org/ontology/birthDate,1994-06-09,Correct,173,20.0469434261322,22
+http://dbpedia.org/resource/Nashville_West,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,174,10.964766263961792,22
+http://dbpedia.org/resource/Zoya_Ivanova,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Soviet_long-distance_runners,Correct,175,117.6405246257782,22
+http://dbpedia.org/resource/Zoya_Ivanova,http://purl.org/dc/elements/1.1/description,Athletics (sport)competitor,Correct,175,117.6405246257782,22
+http://dbpedia.org/resource/Zoya_Ivanova,http://dbpedia.org/property/name,"Ivanova, Zoya",Correct,175,117.6405246257782,22
+http://dbpedia.org/resource/Zoya_Ivanova,http://xmlns.com/foaf/0.1/surname,Ivanova,Correct,175,117.6405246257782,22
+http://dbpedia.org/resource/Zoya_Ivanova,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Kazakhstani_marathon_runners,I Don't Know,175,117.6405246257782,22
+http://dbpedia.org/resource/South_Korea,http://dbpedia.org/ontology/governmentType,http://dbpedia.org/resource/Presidential_system,Correct,176,148.60278177261353,22
+http://dbpedia.org/resource/South_Korea,http://dbpedia.org/ontology/leader,http://dbpedia.org/resource/Park_Geun-hye,Correct,176,148.60278177261353,22
+http://dbpedia.org/resource/South_Korea,http://dbpedia.org/ontology/governmentType,http://dbpedia.org/resource/Republic,Correct,176,148.60278177261353,22
+http://dbpedia.org/resource/South_Korea,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_South_Korea.svg?width=300,Correct,176,148.60278177261353,22
+http://dbpedia.org/resource/South_Korea,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations,Correct,176,148.60278177261353,22
+http://dbpedia.org/resource/La_Robla,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/Spain,Correct,177,17.37794852256775,22
+http://dbpedia.org/resource/Patric_Blomdahl,http://dbpedia.org/ontology/league,http://dbpedia.org/resource/Swedish_Hockey_League,Correct,178,101.84540009498596,22
+http://dbpedia.org/resource/Patric_Blomdahl,http://dbpedia.org/property/league,http://dbpedia.org/resource/Swedish_Hockey_League,Correct,178,101.84540009498596,22
+http://dbpedia.org/resource/The_Whispers,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,179,26.36974549293518,22
+http://dbpedia.org/resource/Norfolk_Ridge,http://www.w3.org/2000/01/rdf-schema#label,Norfolk Ridge,Correct,180,268.7571783065796,22
+http://dbpedia.org/resource/Thunderbolt_and_Lightfoot,http://dbpedia.org/ontology/director,http://dbpedia.org/resource/Michael_Cimino,Correct,181,184.19916248321533,22
+http://dbpedia.org/resource/Thunderbolt_and_Lightfoot,http://dbpedia.org/ontology/producer,http://dbpedia.org/resource/Robert_Daley_(producer),Correct,181,184.19916248321533,22
+http://dbpedia.org/resource/Thunderbolt_and_Lightfoot,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_set_in_Montana,Correct,181,184.19916248321533,22
+http://dbpedia.org/resource/Thunderbolt_and_Lightfoot,http://dbpedia.org/property/producer,http://dbpedia.org/resource/Robert_Daley_(producer),Correct,181,184.19916248321533,22
+http://dbpedia.org/resource/Thunderbolt_and_Lightfoot,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1970s_comedy-drama_films,Correct,181,184.19916248321533,22
+http://dbpedia.org/resource/Karl_Theodor_Menke,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Karl_Theodor_Menke,I Don't Know,182,37.35965204238892,22
+http://dbpedia.org/resource/Karl_Theodor_Menke,http://xmlns.com/foaf/0.1/surname,Menke,Correct,182,37.35965204238892,22
+http://dbpedia.org/resource/Karl_Theodor_Menke,http://www.w3.org/2000/01/rdf-schema#label,Karl Theodor Menke,Correct,182,37.35965204238892,22
+http://dbpedia.org/resource/Karl_Theodor_Menke,http://dbpedia.org/property/deathDate,1861,Correct,182,37.35965204238892,22
+http://dbpedia.org/resource/Karl_Theodor_Menke,http://dbpedia.org/property/shortDescription,German zoologist,Correct,182,37.35965204238892,22
+http://dbpedia.org/resource/Heinrich_Klebahn,http://xmlns.com/foaf/0.1/name,"Klebahn, Heinrich",Correct,183,9.73824143409729,22
+http://dbpedia.org/resource/Heinrich_Klebahn,http://xmlns.com/foaf/0.1/name,Heinrich Klebahn,Correct,183,9.73824143409729,22
+http://dbpedia.org/resource/Keegan_DeWitt,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,184,27.00989079475403,22
+http://dbpedia.org/resource/Lesotho,http://dbpedia.org/property/establishedDate,1966-10-04,Correct,185,88.04938745498657,22
+http://dbpedia.org/resource/Lesotho,http://dbpedia.org/ontology/officialLanguage,http://dbpedia.org/resource/South_African_English,Correct,185,88.04938745498657,22
+http://dbpedia.org/resource/Lesotho,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations,Correct,185,88.04938745498657,22
+http://dbpedia.org/resource/Lesotho,http://dbpedia.org/ontology/anthem,http://dbpedia.org/resource/Lesotho_Fatse_La_Bontata_Rona,Correct,185,88.04938745498657,22
+http://dbpedia.org/resource/Lesotho,http://dbpedia.org/property/longd,27,I Don't Know,185,88.04938745498657,22
+http://dbpedia.org/resource/Kauai_King,http://dbpedia.org/property/race,"Fountain of Youth Stakes 
+
+American Triple Crown wins:",I Don't Know,186,40.05060338973999,22
+http://dbpedia.org/resource/Kauai_King,http://xmlns.com/foaf/0.1/name,Kauai King,Correct,186,40.05060338973999,22
+http://dbpedia.org/resource/Kauai_King,http://dbpedia.org/property/fmf,http://dbpedia.org/resource/Discovery_(horse),Incorrect,186,40.05060338973999,22
+http://dbpedia.org/resource/Kauai_King,http://dbpedia.org/property/mmff,http://dbpedia.org/resource/Ben_Brush_(horse),Incorrect,186,40.05060338973999,22
+http://dbpedia.org/resource/Kauai_King,http://dbpedia.org/property/mmmf,Sempronius,Incorrect,186,40.05060338973999,22
+http://dbpedia.org/resource/Oceans_(film),http://dbpedia.org/property/distributor,http://dbpedia.org/resource/Walt_Disney_Studios_Motion_Pictures,Correct,187,93.6627550125122,22
+http://dbpedia.org/resource/Oceans_(film),http://dbpedia.org/property/language,English,Correct,187,93.6627550125122,22
+http://dbpedia.org/resource/Oceans_(film),http://dbpedia.org/property/name,Oceans,Correct,187,93.6627550125122,22
+http://dbpedia.org/resource/Oceans_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_films,Correct,187,93.6627550125122,22
+http://dbpedia.org/resource/Oceans_(film),http://dbpedia.org/property/distributor,http://dbpedia.org/resource/Warner_Bros.,Incorrect,187,93.6627550125122,22
+http://dbpedia.org/resource/The_Cossacks_(1961_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Soviet_films,Correct,188,59.910682678222656,22
+http://dbpedia.org/resource/The_Cossacks_(1961_film),http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Correct,188,59.910682678222656,22
+http://dbpedia.org/resource/The_Cossacks_(1961_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Russian-language_films,Correct,188,59.910682678222656,22
+http://dbpedia.org/resource/Graham_Stokoe,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Living_people,Correct,189,79.38416957855225,22
+http://dbpedia.org/resource/Graham_Stokoe,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/England,Correct,189,79.38416957855225,22
+http://dbpedia.org/resource/Graham_Stokoe,http://dbpedia.org/property/name,"Stokoe, Graham",Correct,189,79.38416957855225,22
+http://dbpedia.org/resource/Graham_Stokoe,http://dbpedia.org/property/clubs,→ Hartlepool United,Correct,189,79.38416957855225,22
+http://dbpedia.org/resource/Graham_Stokoe,http://dbpedia.org/property/caps,8,I Don't Know,189,79.38416957855225,22
+http://dbpedia.org/resource/Bill_Gray_(Canadian_football),http://xmlns.com/foaf/0.1/name,Bill Gray,Correct,190,90.49675679206848,25
+http://dbpedia.org/resource/Bill_Gray_(Canadian_football),http://dbpedia.org/ontology/abstract,"Bill Gray was a running back for the Saskatchewan Roughriders of the Canadian Football League from 1961 to 1965.Bill Gray played college football as a running back at Maryland State College, now called University of Maryland Eastern Shore, rushing for 4.6 yards per carry. Gray joined the Saskatchewan Roughriders as a rookie in 1961 and rushed for 312 yards (5.8 yards per carry) and 25.9 yards per kick return. He earned his chance to start on offense in 1962 after an injury to Ray Purdin, and quickly profited by it by rushing for 140 yards in a single game against the Montreal Alouettes. Although his yards per carry dipped to 4.5, 1962 was his best year with 673 rushing yards and 30 receptions for 419 yards. However, the following year, Gray was hampered by injuries and replaced by Ed Buchanan, eventually playing behind him in 1964 and 1965 until signing with the Montreal Alouettes. But he was then released on 19 July 1966.",I Don't Know,190,90.49675679206848,25
+http://dbpedia.org/resource/Bill_Gray_(Canadian_football),http://xmlns.com/foaf/0.1/name,"Gray, Bill",Correct,190,90.49675679206848,25
+http://dbpedia.org/resource/UD_Melilla,http://dbpedia.org/property/clubname,Melilla,Correct,191,63.85433626174927,25
+http://dbpedia.org/resource/UD_Melilla,http://dbpedia.org/property/body,FF0011,Incorrect,191,63.85433626174927,25
+http://dbpedia.org/resource/UD_Melilla,http://dbpedia.org/property/position,2,Incorrect,191,63.85433626174927,25
+http://dbpedia.org/resource/UD_Melilla,http://dbpedia.org/ontology/ground,http://dbpedia.org/resource/Estadio_Municipal_Álvarez_Claro,Correct,191,63.85433626174927,25
+http://dbpedia.org/resource/UD_Melilla,http://dbpedia.org/property/name,http://dbpedia.org/resource/Ricardo_Segura_Martínez,Incorrect,191,63.85433626174927,25
+http://dbpedia.org/resource/Ride_(2014_film),http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Brenton_Thwaites,Correct,192,28.497132062911987,25
+http://dbpedia.org/resource/Nenad_Bogdanović,http://xmlns.com/foaf/0.1/name,Ненад Богдановић,Correct,193,129.17785453796387,25
+http://dbpedia.org/resource/Nenad_Bogdanović,http://dbpedia.org/ontology/abstract,"Nenad Bogdanović (Serbian Cyrillic: Ненад Богдановић, pronounced [nênaːd bogdǎːnoʋit͡ɕ]; 12 May 1954, Beška, FPR Yugoslavia, – 27 September  2007, Belgrade, Serbia) was the Mayor of Belgrade, elected to office in October 2004.",Correct,193,129.17785453796387,25
+http://dbpedia.org/resource/Nenad_Bogdanović,http://xmlns.com/foaf/0.1/name,Nenad Bogdanovic,Correct,193,129.17785453796387,25
+http://dbpedia.org/resource/Nenad_Bogdanović,http://xmlns.com/foaf/0.1/name,"Bogdanovic, Nenad",Correct,193,129.17785453796387,25
+http://dbpedia.org/resource/Nenad_Bogdanović,http://xmlns.com/foaf/0.1/name,Nenad Bogdanović,Correct,193,129.17785453796387,25
+http://dbpedia.org/resource/Nashville_(season_1),http://dbpedia.org/property/writtenby,http://dbpedia.org/resource/Callie_Khouri,Correct,194,57.148459672927856,25
+http://dbpedia.org/resource/Nashville_(season_1),http://dbpedia.org/property/title,I Can't Help It,Incorrect,194,57.148459672927856,25
+http://dbpedia.org/resource/Nashville_(season_1),http://dbpedia.org/property/episodenumber,19,Incorrect,194,57.148459672927856,25
+http://dbpedia.org/resource/Nashville_(season_1),http://dbpedia.org/property/viewers,5.96,Incorrect,194,57.148459672927856,25
+http://dbpedia.org/resource/Nashville_(season_1),http://dbpedia.org/property/writtenby,Dana Greenblatt,Correct,194,57.148459672927856,25
+http://dbpedia.org/resource/El_Topo,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_independent_films,Incorrect,195,105.16580700874329,25
+http://dbpedia.org/resource/El_Topo,http://dbpedia.org/property/producer,Moshe Rosemberg,Correct,195,105.16580700874329,25
+http://dbpedia.org/resource/El_Topo,http://dbpedia.org/property/music,Alejandro Jodorowsky,Correct,195,105.16580700874329,25
+http://dbpedia.org/resource/El_Topo,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1970_films,Correct,195,105.16580700874329,25
+http://dbpedia.org/resource/El_Topo,http://dbpedia.org/ontology/writer,http://dbpedia.org/resource/Alejandro_Jodorowsky,Correct,195,105.16580700874329,25
+http://dbpedia.org/resource/The_New_Cars,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,196,51.95608139038086,25
+http://dbpedia.org/resource/Barry_Gibbs,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Saskatchewan,Correct,197,105.96237015724182,25
+http://dbpedia.org/resource/Barry_Gibbs,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Canada,Correct,197,105.96237015724182,25
+http://dbpedia.org/resource/Barry_Gibbs,http://www.w3.org/2000/01/rdf-schema#label,Barry Gibbs,Correct,197,105.96237015724182,25
+http://dbpedia.org/resource/Barry_Gibbs,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Lloydminster,Correct,197,105.96237015724182,25
+http://dbpedia.org/resource/24_Hour_Party_People,http://dbpedia.org/property/starring,http://dbpedia.org/resource/Andy_Serkis,Correct,198,90.8210949897766,25
+http://dbpedia.org/resource/24_Hour_Party_People,http://www.w3.org/2000/01/rdf-schema#label,24 Hour Party People,Correct,198,90.8210949897766,25
+http://dbpedia.org/resource/24_Hour_Party_People,http://dbpedia.org/ontology/abstract,"24 Hour Party People (FAC-401) is a 2002 British comedy-drama film about Manchester's popular music community from 1976 to 1992, and specifically about Factory Records. It was written by Frank Cottrell Boyce and directed by Michael Winterbottom. The film was entered into the 2002 Cannes Film Festival. It received positive reviews.It begins with the punk rock era of the late 1970s and moves through the 1980s into the ""Madchester"" scene of the late 1980s and early 1990s. The main character is Tony Wilson (played by Steve Coogan), a news reporter for Granada Television and the head of Factory Records. The narrative largely follows his career, while also covering the major Factory artists, especially Joy Division and New Order, A Certain Ratio, The Durutti Column and Happy Mondays.The film is a dramatisation based on a combination of real events, rumours, urban legends, and the imaginings of the scriptwriter – as the film makes clear. In one scene, one-time Buzzcocks member Howard Devoto (played by Martin Hancock) is shown having sex with Wilson's first wife in the toilets of a club; the real Devoto, an extra in the scene, turns to the camera and says, ""I definitely don't remember this happening"". The fourth wall is frequently broken, with Wilson (who also acts as the narrator) frequently commenting on events directly to camera as they occur, at one point declaring that he is ""being postmodern, before it's fashionable"". The actors are often intercut with real contemporary concert footage, including the Sex Pistols gig at the Lesser Free Trade Hall.",Correct,198,90.8210949897766,25
+http://dbpedia.org/resource/Kingdom_of_Saxony,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Dresden,Correct,199,157.5557463169098,25
+http://dbpedia.org/resource/Kingdom_of_Saxony,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Saxon_vereinsthaler,Correct,199,157.5557463169098,25
+http://dbpedia.org/resource/Kingdom_of_Saxony,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/German_Papiermark,I Don't Know,199,157.5557463169098,25
+http://dbpedia.org/resource/Kingdom_of_Saxony,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/German_gold_mark,I Don't Know,199,157.5557463169098,25
+http://dbpedia.org/resource/Kingdom_of_Saxony,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Saxon_thaler,Correct,199,157.5557463169098,25
+http://dbpedia.org/resource/Draga_pri_Šentrupertu,http://dbpedia.org/ontology/areaTotal,2.25e+06,Incorrect,200,127.67467856407166,25
+http://dbpedia.org/resource/Draga_pri_Šentrupertu,http://dbpedia.org/property/subdivisionType,Country,Incorrect,200,127.67467856407166,25
+http://dbpedia.org/resource/Draga_pri_Šentrupertu,http://dbpedia.org/property/subdivisionName,http://dbpedia.org/resource/Southeast_Slovenia_Statistical_Region,Incorrect,200,127.67467856407166,25
+http://dbpedia.org/resource/Draga_pri_Šentrupertu,http://dbpedia.org/ontology/isPartOf,http://dbpedia.org/resource/Šentrupert,Correct,200,127.67467856407166,25
+http://dbpedia.org/resource/Draga_pri_Šentrupertu,http://dbpedia.org/property/latns,N,Incorrect,200,127.67467856407166,25
+http://dbpedia.org/resource/Hwali,http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/Districts_of_Zimbabwe,Incorrect,201,107.08813834190369,25
+http://dbpedia.org/resource/Hwali,http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/Provinces_of_Zimbabwe,Incorrect,201,107.08813834190369,25
+http://dbpedia.org/resource/Hwali,http://dbpedia.org/property/settlementType,http://dbpedia.org/resource/List_of_wards_of_Zimbabwe,Incorrect,201,107.08813834190369,25
+http://dbpedia.org/resource/Hwali,http://www.w3.org/2000/01/rdf-schema#label,Hwali,Correct,201,107.08813834190369,25
+http://dbpedia.org/resource/Hwali,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/List_of_wards_of_Zimbabwe,Incorrect,201,107.08813834190369,25
+http://dbpedia.org/resource/Magliano_Vetere,http://dbpedia.org/property/imageSkyline,Magliano vetere.jpg,I Don't Know,202,195.50217866897583,25
+http://dbpedia.org/resource/Magliano_Vetere,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Magliano_Vetere,Correct,202,195.50217866897583,25
+http://dbpedia.org/resource/Magliano_Vetere,http://dbpedia.org/property/populationDemonym,Maglianesi,Correct,202,195.50217866897583,25
+http://dbpedia.org/resource/Magliano_Vetere,http://www.w3.org/2003/01/geo/wgs84_pos#long,15.2333,I Don't Know,202,195.50217866897583,25
+http://dbpedia.org/resource/Magliano_Vetere,http://dbpedia.org/property/mayor,Carmine D'Alessandro,Correct,202,195.50217866897583,25
+http://dbpedia.org/resource/John_Darrell_Sherwood,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Naval_history,I Don't Know,203,23.406062602996823,25
+http://dbpedia.org/resource/John_Darrell_Sherwood,http://www.w3.org/2000/01/rdf-schema#label,John Darrell Sherwood,Correct,203,23.406062602996823,25
+http://dbpedia.org/resource/John_Darrell_Sherwood,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Military_history,I Don't Know,203,23.406062602996823,25
+http://dbpedia.org/resource/John_Darrell_Sherwood,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/African-American_history,I Don't Know,203,23.406062602996823,25
+http://dbpedia.org/resource/John_Darrell_Sherwood,http://dbpedia.org/ontology/nationality,http://dbpedia.org/resource/United_States,Correct,203,23.406062602996823,25

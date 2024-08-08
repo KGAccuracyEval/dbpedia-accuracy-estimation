@@ -1,0 +1,67 @@
+Subject,Predicate,Object,Error,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/Horam,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-location-noun-1,Predicate;Object,0,16.34504461288452,16
+http://dbpedia.org/resource/Horam,http://dbpedia.org/property/staticImage,240,Predicate;Object,0,16.34504461288452,16
+http://dbpedia.org/resource/Richard_C._Mangam,http://dbpedia.org/property/placeofburialLabel,Place of burial,Subject,1,12.723682403564451,16
+http://dbpedia.org/resource/I'm_No_Dummy,http://dbpedia.org/ontology/distributor,http://dbpedia.org/resource/NBCUniversal,Object,3,7.600289821624756,18
+http://dbpedia.org/resource/I'm_No_Dummy,http://dbpedia.org/property/distributor,http://dbpedia.org/resource/NBCUniversal,Object,3,7.600289821624756,18
+http://dbpedia.org/resource/Urmia_Khanate,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Urmia,Predicate,4,4.554474353790283,18
+http://dbpedia.org/resource/Imouto_Paradise!,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Windows_games,Object,7,5.558614253997803,18
+http://dbpedia.org/resource/Lionel_Messi,http://dbpedia.org/ontology/team,http://dbpedia.org/resource/Argentina_national_under-23_football_team,Object,12,11.35744023323059,18
+http://dbpedia.org/resource/Lionel_Messi,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Argentina_national_football_team,Object,12,11.35744023323059,18
+http://dbpedia.org/resource/Drøbak,http://dbpedia.org/ontology/leaderName,http://dbpedia.org/resource/Joseph_Stalin,Object,15,5.759746313095093,18
+http://dbpedia.org/resource/Langenthal,http://dbpedia.org/ontology/twinTown,http://dbpedia.org/resource/Brig-Glis,Object,18,12.335586547851562,24
+http://dbpedia.org/resource/Budapest_Reference_Connectome,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/JavaScript,Object,21,5.08233118057251,24
+http://dbpedia.org/resource/Budapest_Reference_Connectome,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/WebGL,Object,21,5.08233118057251,24
+http://dbpedia.org/resource/Budapest_Reference_Connectome,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/Perl,Object,21,5.08233118057251,24
+http://dbpedia.org/resource/Zantedeschia_elliottiana,http://dbpedia.org/property/tribus,http://dbpedia.org/resource/Zantedeschieae,Predicate;Object,22,8.159696340560913,24
+http://dbpedia.org/resource/Zantedeschia_elliottiana,http://dbpedia.org/ontology/abstract,"Zantedeschia elliottiana, Golden Arum or Calla Lily, is a herbaceous ornamental plant in the Araceae family. Zantedeschia elliottiana occurs in the province of Mpumalanga in South Africa, but appears to be a hybrid of garden origin.",Predicate;Object,22,8.159696340560913,24
+http://dbpedia.org/resource/Zantedeschia_elliottiana,http://www.w3.org/2000/01/rdf-schema#comment,"Zantedeschia elliottiana, Golden Arum or Calla Lily, is a herbaceous ornamental plant in the Araceae family. Zantedeschia elliottiana occurs in the province of Mpumalanga in South Africa, but appears to be a hybrid of garden origin.",Predicate;Object,22,8.159696340560913,24
+http://dbpedia.org/resource/Zantedeschia_elliottiana,http://dbpedia.org/ontology/family,http://dbpedia.org/resource/Aroideae,Predicate;Object,22,8.159696340560913,24
+http://dbpedia.org/resource/Shahid_(film),http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Kay_Kay_Menon,Object,24,7.945071220397949,24
+http://dbpedia.org/resource/Shahid_(film),http://dbpedia.org/property/starring,http://dbpedia.org/resource/Tigmanshu_Dhulia,Object,24,7.945071220397949,24
+http://dbpedia.org/resource/Friedrich_von_Rabenau,http://dbpedia.org/ontology/deathDate,1945-04-15,Object,31,5.076138257980347,24
+http://dbpedia.org/resource/Barry_Davis_(footballer),http://dbpedia.org/property/years,1973,Object,38,6.258248805999756,24
+http://dbpedia.org/resource/Barry_Davis_(footballer),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Living_people,Predicate;Object,38,6.258248805999756,24
+http://dbpedia.org/resource/Ray_(film),http://dbpedia.org/ontology/budget,4.0E7,Predicate;Object,39,4.2013092041015625,24
+http://dbpedia.org/resource/Joseph_Stalin,http://dbpedia.org/property/years,1945,Predicate;Object,42,5.361187696456909,24
+http://dbpedia.org/resource/Joseph_Stalin,http://dbpedia.org/property/spouse,http://dbpedia.org/resource/Ekaterina_Svanidze,Predicate;Object,42,5.361187696456909,24
+http://dbpedia.org/resource/Will_Haven,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Predicate,45,2.3646891117095947,24
+http://dbpedia.org/resource/Sanjak_of_Ohrid,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Bitola,Object,46,3.5919182300567627,24
+http://dbpedia.org/resource/Zizyphia_zizyphella,http://www.w3.org/2000/01/rdf-schema#comment,Zizyphia zizyphella is a moth in the Gelechiidae family. It was described by Amsel in 1935. It is found in Palestine.,Predicate;Object,47,17.48488759994507,31
+http://dbpedia.org/resource/Zizyphia_zizyphella,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Moth,Predicate;Object,47,17.48488759994507,31
+http://dbpedia.org/resource/Zizyphia_zizyphella,http://dbpedia.org/ontology/class,http://dbpedia.org/resource/Insect,Predicate;Object,47,17.48488759994507,31
+http://dbpedia.org/resource/Zizyphia_zizyphella,http://dbpedia.org/property/binomialAuthority,"Amsel, 1935",Predicate;Object,47,17.48488759994507,31
+http://dbpedia.org/resource/Zizyphia_zizyphella,http://dbpedia.org/property/genus,Zizyphia,Predicate;Object,47,17.48488759994507,31
+http://dbpedia.org/resource/Ivesia_pickeringii,http://dbpedia.org/ontology/binomialAuthority,http://dbpedia.org/resource/John_Torrey,Predicate;Object,48,7.611984968185425,31
+http://dbpedia.org/resource/Ivesia_pickeringii,http://dbpedia.org/property/binomialAuthority,Torr. ex Gray,Predicate;Object,48,7.611984968185425,31
+http://dbpedia.org/resource/Chris_Carrabba,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Object,50,3.330997943878174,31
+http://dbpedia.org/resource/The_Killing_Fields_(film),http://dbpedia.org/property/starring,*,Object,52,4.605098724365234,31
+http://dbpedia.org/resource/Jimmy_Wales,http://dbpedia.org/ontology/personFunction,http://dbpedia.org/resource/Jimmy_Wales__8,Predicate;Object,53,6.784492254257202,31
+http://dbpedia.org/resource/Jimmy_Wales,http://dbpedia.org/ontology/personFunction,http://dbpedia.org/resource/Jimmy_Wales__10,Predicate;Object,53,6.784492254257202,31
+http://dbpedia.org/resource/Jean_Dieudonné,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Kishore_Marathe,Predicate;Object,54,7.931084156036377,31
+http://dbpedia.org/resource/Jean_Dieudonné,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Alexander_Grothendieck,Predicate;Object,54,7.931084156036377,31
+http://dbpedia.org/resource/Robert_Lepage,http://xmlns.com/foaf/0.1/homepage,http://www.robertlepage.com/,Object,55,3.725218772888184,31
+"http://dbpedia.org/resource/St_George's_Church,_Poynton",http://xmlns.com/foaf/0.1/page,http://www.poyntonpc.net/,Object,56,2.296560287475586,31
+http://dbpedia.org/resource/Rusnano,http://dbpedia.org/ontology/foundingYear,2007,Object,57,5.596348285675049,31
+http://dbpedia.org/resource/Charles_Pfizer,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Ludwigsburg,Object,60,8.267925500869751,31
+http://dbpedia.org/resource/Iban_people,http://dbpedia.org/property/languages,http://dbpedia.org/resource/Indonesian_language,Predicate;Object,63,8.518816232681274,31
+http://dbpedia.org/resource/Iban_people,http://dbpedia.org/property/languages,http://dbpedia.org/resource/Malay_language,Predicate;Object,63,8.518816232681274,31
+http://dbpedia.org/resource/Helen_Atkinson-Wood,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Cheshire,Object,69,3.647925853729248,31
+http://dbpedia.org/resource/Longobardia,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Bari,Object,73,14.22454309463501,31
+http://dbpedia.org/resource/Gazankulu,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Giyani,Predicate;Object,77,11.05759596824646,31
+http://dbpedia.org/resource/Montagu_Sherard_Dawes_Butler,http://dbpedia.org/property/honorificSuffix,http://dbpedia.org/resource/Order_of_the_Indian_Empire,Object,80,5.915202379226685,31
+http://dbpedia.org/resource/Inception,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_set_in_Paris,Object,82,4.907776355743408,31
+http://dbpedia.org/resource/Inception,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_shot_in_Tokyo,Object,82,4.907776355743408,31
+http://dbpedia.org/resource/Debenhams,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/Magasin_du_Nord,Predicate,85,6.877642393112183,31
+http://dbpedia.org/resource/Knights_Hospitaller,http://dbpedia.org/ontology/garrison,http://dbpedia.org/resource/Malta,Object,86,5.95412802696228,31
+http://dbpedia.org/resource/Donna_Summer,http://dbpedia.org/property/name,"Gaines, LaDonna Adrian",Object,87,5.933619022369385,31
+http://dbpedia.org/resource/2010_Prosperita_Open,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2010_in_Czech_sport,Object,89,4.217113971710205,32
+http://dbpedia.org/resource/2010_Prosperita_Open,http://xmlns.com/foaf/0.1/homepage,http://www.prosperitaopen.cz/,Object,89,4.217113971710205,32
+http://dbpedia.org/resource/Hermann_Schubert,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Kingdom_of_Prussia,Object,97,2.8880162239074707,32
+http://dbpedia.org/resource/Hermann_Schubert,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Kingdom_of_Prussia,Object,97,2.8880162239074707,32
+http://dbpedia.org/resource/John_Sanctuary_Nicholson,http://dbpedia.org/property/years,1921,Object,101,1.8340773582458496,32
+http://dbpedia.org/resource/Heliotropium_curassavicum,http://dbpedia.org/property/unrankedOrdo,http://dbpedia.org/resource/Asterids,Object,102,6.011892080307007,32
+http://dbpedia.org/resource/Gilan_Province,http://dbpedia.org/property/p,16,Object,103,2.33786416053772,32
+http://dbpedia.org/resource/Yellow-vented_woodpecker,http://dbpedia.org/property/regnum,http://dbpedia.org/resource/Animalia,Object,109,5.94560694694519,32
+http://dbpedia.org/resource/Bryan_Forbes,http://dbpedia.org/property/spouse,2013,Object,117,2.269894599914551,32
+http://dbpedia.org/resource/Dugong,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Mammals_of_Indonesia,Object,126,7.195775270462036,32

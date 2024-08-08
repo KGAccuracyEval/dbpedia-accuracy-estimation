@@ -1,0 +1,116 @@
+Subject,Predicate,Object,Error,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/Andrew_Sterett,http://dbpedia.org/property/deathDate,1807-06-09,Object,0,14.09703803062439,14
+http://dbpedia.org/resource/Estonia,http://dbpedia.org/ontology/language,http://dbpedia.org/resource/Seto_dialect,Object,2,2.513427972793579,14
+http://dbpedia.org/resource/Estonia,http://dbpedia.org/property/ethnicGroups,http://dbpedia.org/resource/Belarusians,Object,2,2.513427972793579,14
+http://dbpedia.org/resource/Ulania,http://xmlns.com/foaf/0.1/homepage,http://www.bangladesh.gov.bd/maps/images/barisal/Mehendiganj.gif,Object,5,2.0066568851470947,14
+http://dbpedia.org/resource/Ulania,http://dbpedia.org/property/longm,0.60899,Object,5,2.0066568851470947,14
+http://dbpedia.org/resource/Parliament_of_the_Federation_of_Bosnia_and_Herzegovina,http://dbpedia.org/ontology/politicalPartyInLegislature,http://dbpedia.org/resource/Our_Party_(Bosnia_and_Herzegovina),Predicate,7,135.03446888923645,14
+http://dbpedia.org/resource/Parliament_of_the_Federation_of_Bosnia_and_Herzegovina,http://dbpedia.org/ontology/politicalPartyInLegislature,http://dbpedia.org/resource/Croatian_Party_of_Rights_of_Bosnia_and_Herzegovina,Predicate,7,135.03446888923645,14
+http://dbpedia.org/resource/Parliament_of_the_Federation_of_Bosnia_and_Herzegovina,http://dbpedia.org/ontology/politicalPartyOfLeader,http://dbpedia.org/resource/Union_for_a_Better_Future_of_BiH,Predicate,7,135.03446888923645,14
+"http://dbpedia.org/resource/Bridal_Veil,_Oregon",http://dbpedia.org/property/utcOffset,-8,Object,9,2.3842861652374268,14
+http://dbpedia.org/resource/Maseru,http://dbpedia.org/property/subdivisionName,http://dbpedia.org/resource/Lesotho,Predicate,12,2.4768757820129395,14
+http://dbpedia.org/resource/The_National_Memo,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_online_magazines,Subject;Predicate;Object,13,15.84883999824524,14
+http://dbpedia.org/resource/The_National_Memo,http://xmlns.com/foaf/0.1/homepage,http://www.nationalmemo.com,Subject;Predicate;Object,13,15.84883999824524,14
+http://dbpedia.org/resource/The_National_Memo,http://dbpedia.org/ontology/abstract,"The National Memo is an American online news site and newsletter. Founded in 2011, The National Memo features daily breaking news and commentary as well as analysis from Americas top progressive thinkers. With a focus on american politics, The National Memo also covers world news and events, consumer finance, health, travel and entertainment.  The National Memo emphasizes coverage on the key issues of education, infrastructure and the environment.  Its ""About"" page says, ""Our own journalism — as well as our selections of the smartest stories available every day — reflects a clear and strong perspective, without the kind of propaganda, ultra-partisanship and overwrought ideology that burden so much of our political discourse."" Its founder and editor-in-chief is Joe Conason.Its featured writers include Editor-in-Chief Joe Conason, E. J. Dionne, Gene Lyons, David Cay Johnson, Cynthia Tucker, Leonard Pitts, David Sirota, James Carville and Stan Greenberg. It also has other contributors, such as Jason Sattler.",Subject;Predicate;Object,13,15.84883999824524,14
+http://dbpedia.org/resource/The_National_Memo,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_news_websites,Subject;Predicate;Object,13,15.84883999824524,14
+http://dbpedia.org/resource/The_National_Memo,http://dbpedia.org/property/commercial,Yes,Subject;Predicate;Object,13,15.84883999824524,14
+"http://dbpedia.org/resource/Auburn_Hills,_Michigan",http://dbpedia.org/ontology/abstract,"Auburn Hills (formerly Pontiac Township) is a city in Oakland County, in the U.S. state of Michigan. The population was 21,412 at the 2010 census.",Object,15,3.463387966156006,14
+"http://dbpedia.org/resource/Auburn_Hills,_Michigan",http://dbpedia.org/property/northeast,"http://dbpedia.org/resource/Oakland_Township,_Michigan",Predicate,15,3.463387966156006,14
+http://dbpedia.org/resource/Dries_van_der_Lof,http://dbpedia.org/property/name,"Lof, Andre van der",Object,18,3.88573169708252,14
+http://dbpedia.org/resource/Boalkhali_Upazila,http://dbpedia.org/property/website,http://www.banglapedia.org/Maps/BoalkhaliUpazila.jpg,Predicate;Object,20,9.889071941375732,14
+http://dbpedia.org/resource/Boalkhali_Upazila,http://dbpedia.org/ontology/populationTotal,223125,Object,20,9.889071941375732,14
+http://dbpedia.org/resource/Boalkhali_Upazila,http://dbpedia.org/property/populationTotal,223125,Object,20,9.889071941375732,14
+http://dbpedia.org/resource/Dajabón_Province,http://dbpedia.org/property/populationDensity,auto,Object,22,1.7338907718658447,14
+http://dbpedia.org/resource/Nicaragua,http://dbpedia.org/property/populationCensus,6071045,Object,23,2.007842779159546,14
+http://dbpedia.org/resource/Cyprus,http://dbpedia.org/ontology/populationTotal,1141166,Object,25,1.9169950485229488,14
+http://dbpedia.org/resource/Xin_dynasty,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Seashell,Object,29,3.7603039741516113,14
+http://dbpedia.org/resource/Salamanca,http://dbpedia.org/property/website,http://www.salamanca.es/,Object,35,13.640394926071169,18
+http://dbpedia.org/resource/Salamanca,http://dbpedia.org/property/latm,58,Object,35,13.640394926071169,18
+http://dbpedia.org/resource/Santa_Cruz_de_Tenerife,http://dbpedia.org/property/blankInfoSec,Spanish,Predicate,42,2.1235640048980717,18
+http://dbpedia.org/resource/Frederica_of_Mecklenburg-Strelitz,http://dbpedia.org/ontology/parent,"http://dbpedia.org/resource/Charles_II,_Grand_Duke_of_Mecklenburg-Strelitz",Predicate,46,2.699281930923462,19
+http://dbpedia.org/resource/Zarangush,http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/List_of_countries,Object,48,9.659299850463867,19
+http://dbpedia.org/resource/Zarangush,http://dbpedia.org/ontology/isPartOf,http://dbpedia.org/resource/Badreh_District,Object,48,9.659299850463867,19
+http://dbpedia.org/resource/French_Algeria,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/French_franc,Object,51,2.663059949874878,19
+http://dbpedia.org/resource/Malawi,http://dbpedia.org/ontology/populationTotal,16407000,Object,52,2.130775690078736,19
+http://dbpedia.org/resource/Malawi,http://dbpedia.org/property/populationEstimate,16407000,Object,52,2.130775690078736,19
+http://dbpedia.org/resource/Nuku_Hiva,http://dbpedia.org/property/country,http://dbpedia.org/resource/France,Object,54,2.473552942276001,19
+http://dbpedia.org/resource/Seychelles,http://dbpedia.org/ontology/populationTotal,92000,Object,55,1.9299461841583248,19
+http://dbpedia.org/resource/Almere_City_FC,http://dbpedia.org/property/name,http://dbpedia.org/resource/Enzio_Boldewijn,Predicate,58,3.304957151412964,19
+http://dbpedia.org/resource/Princess_Maria_Francesca_of_Savoy,http://dbpedia.org/ontology/parent,http://dbpedia.org/resource/Victor_Emmanuel_III_of_Italy,Predicate,61,14.179019212722778,19
+http://dbpedia.org/resource/Princess_Maria_Francesca_of_Savoy,http://dbpedia.org/property/placeOfBirth,http://dbpedia.org/resource/Kingdom_of_Italy,Object,61,14.179019212722778,19
+http://dbpedia.org/resource/Princess_Maria_Francesca_of_Savoy,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Mandelieu-la-Napoule,Object,61,14.179019212722778,19
+http://dbpedia.org/resource/Princess_Maria_Francesca_of_Savoy,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/France,Object,61,14.179019212722778,19
+http://dbpedia.org/resource/Magadan,http://dbpedia.org/property/febSnowDays,14,Object,62,1.9264767169952397,19
+http://dbpedia.org/resource/ArmorGroup,http://dbpedia.org/ontology/abstract,"ArmorGroup International is a British company providing private security.  It was founded in 1981 and was listed on the London Stock Exchange until 6 June 2008 (it was acquired by G4S plc in April 2008).ArmorGroup provides protective security services, risk management consultancy, security training and mine action services.  It has 38 offices in 27 countries, including Afghanistan, Bahrain, Colombia, Iraq, Lebanon, Nigeria and Sudan.It is a founder and full member of the International Peace Operations Association (IPOA), the British Association of Private Security Companies (BAPSC) and the Private Security Company Association of Iraq (PSCAI).ArmorGroup is managed by Noel Philp, Chief Operating Officer; Matthew Brabin, M.D. and Christopher Beese, chief administrative officer.",Object,63,17.27847719192505,23
+http://dbpedia.org/resource/London,http://dbpedia.org/property/sepHighC,20.8,Object,66,10.883458137512209,23
+http://dbpedia.org/resource/London,http://dbpedia.org/property/caption,White,Predicate;Object,66,10.883458137512209,23
+http://dbpedia.org/resource/London,http://dbpedia.org/property/leaderName,14,Predicate;Object,66,10.883458137512209,23
+http://dbpedia.org/resource/Kastamonu,http://dbpedia.org/property/singleLine,Yes,Object,70,6.6336328983306885,29
+http://dbpedia.org/resource/Russia_Wharf_Buildings,http://dbpedia.org/property/longDirection,W,Object,72,4.640271186828613,29
+http://dbpedia.org/resource/Russia_Wharf_Buildings,http://dbpedia.org/property/latDirection,N,Object,72,4.640271186828613,29
+http://dbpedia.org/resource/Niger_Coast_Protectorate,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Akwa_Akpa,Predicate,73,2.9910881519317627,29
+http://dbpedia.org/resource/Giluyeh,http://dbpedia.org/property/longd,54,Subject;Predicate;Object,74,50.50529098510742,29
+http://dbpedia.org/resource/Giluyeh,http://dbpedia.org/ontology/isPartOf,http://dbpedia.org/resource/Central_District_(Bastak_County),Subject;Predicate;Object,74,50.50529098510742,29
+http://dbpedia.org/resource/Giluyeh,http://dbpedia.org/property/officialName,Giluyeh,Subject;Predicate;Object,74,50.50529098510742,29
+http://dbpedia.org/resource/Giluyeh,http://dbpedia.org/property/mapsize,150,Subject;Predicate;Object,74,50.50529098510742,29
+http://dbpedia.org/resource/Giluyeh,http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/List_of_sovereign_states,Subject;Predicate;Object,74,50.50529098510742,29
+http://dbpedia.org/resource/Denmark–Norway,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Danish_rigsdaler,Predicate,77,8.276175260543823,29
+http://dbpedia.org/resource/Denmark–Norway,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Norwegian_rigsdaler,Predicate,77,8.276175260543823,29
+http://dbpedia.org/resource/Truckin'_Magazine,http://dbpedia.org/property/title,Truckin Magazine,Subject,78,5.773841857910156,29
+http://dbpedia.org/resource/Truckin'_Magazine,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Truckin'_Magazine,Subject,78,5.773841857910156,29
+http://dbpedia.org/resource/Truckin'_Magazine,http://dbpedia.org/ontology/depictionDescription,"Truckin Magazine, April 2012",Subject,78,5.773841857910156,29
+http://dbpedia.org/resource/Truckin'_Magazine,http://dbpedia.org/property/website,http://www.truckinweb.com/,Subject,78,5.773841857910156,29
+http://dbpedia.org/resource/Truckin'_Magazine,http://dbpedia.org/property/circulationYear,2011,Subject,78,5.773841857910156,29
+http://dbpedia.org/resource/Traffic_reporting,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Distribution,Predicate,81,8.722385883331299,29
+http://dbpedia.org/resource/Luis_Congo,http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Luis_Congo__5,Predicate;Object,89,7.205538034439087,29
+http://dbpedia.org/resource/Luis_Congo,http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Luis_Congo__3,Predicate;Object,89,7.205538034439087,29
+http://dbpedia.org/resource/Luis_Congo,http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Luis_Congo__1,Predicate;Object,89,7.205538034439087,29
+http://dbpedia.org/resource/Chengdu,http://dbpedia.org/property/populationTotal,14047625,Object,94,11.391472816467283,29
+http://dbpedia.org/resource/Chengdu,http://dbpedia.org/property/populationDensityUrbanKm,auto,Object,94,11.391472816467283,29
+http://dbpedia.org/resource/Chengdu,http://dbpedia.org/property/x,870,Predicate;Object,94,11.391472816467283,29
+http://dbpedia.org/resource/Chengdu,http://dbpedia.org/property/x,1230,Predicate;Object,94,11.391472816467283,29
+http://dbpedia.org/resource/Raid_on_St_Malo,http://dbpedia.org/ontology/strength,22 Ships of the line,Object,96,3.36569619178772,29
+http://dbpedia.org/resource/William_the_Lion,http://dbpedia.org/property/years,1152,Object,98,2.84091591835022,29
+"http://dbpedia.org/resource/Dallas_County,_Texas",http://dbpedia.org/property/foundedDate,--03-30,Object,99,2.0747499465942383,30
+"http://dbpedia.org/resource/Heber_City,_Utah",http://dbpedia.org/property/lats,24,Object,101,2.352783203125,30
+http://dbpedia.org/resource/Gilan_Province,http://dbpedia.org/property/seatType,http://dbpedia.org/resource/Capital_city,Predicate,102,2.107177972793579,30
+http://dbpedia.org/resource/United_States,http://dbpedia.org/property/areaLabel,Total Area,Predicate;Object,107,11.302483081817629,30
+http://dbpedia.org/resource/United_States,http://dbpedia.org/property/efYear,2007,Object,107,11.302483081817629,30
+http://dbpedia.org/resource/United_States,http://dbpedia.org/ontology/language,http://dbpedia.org/resource/Federal_government_of_the_United_States,Predicate,107,11.302483081817629,30
+http://dbpedia.org/resource/United_States,http://dbpedia.org/ontology/PopulatedPlace/areaTotal,9857305.678806761,Predicate;Object,107,11.302483081817629,30
+http://dbpedia.org/resource/Sivakorn_Pu-Udom,http://dbpedia.org/property/years,2013,Predicate;Object,108,8.387794971466064,30
+http://dbpedia.org/resource/Sivakorn_Pu-Udom,http://dbpedia.org/property/internationalyears,2013,Predicate;Object,108,8.387794971466064,30
+http://dbpedia.org/resource/Ibarreta,http://www.georss.org/georss/point,-25.216666666666665 -59.85,Predicate;Object,109,6.402622938156128,30
+http://dbpedia.org/resource/Thomas_N'Kono,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Cameroon,Subject,111,1.8515629768371584,30
+http://dbpedia.org/resource/Großharthau,http://dbpedia.org/property/areaCode,35954035200,Object,112,4.063094139099121,30
+http://dbpedia.org/resource/Großharthau,http://dbpedia.org/ontology/populationTotal,3280,Object,112,4.063094139099121,30
+http://dbpedia.org/resource/Großharthau,http://dbpedia.org/property/elevation,270,Object,112,4.063094139099121,30
+http://dbpedia.org/resource/Los_Pintanos,http://dbpedia.org/ontology/utcOffset,+2,Object,113,3.40582013130188,30
+http://dbpedia.org/resource/Burkina_Faso,http://dbpedia.org/ontology/populationTotal,17322796,Predicate;Object,114,8.53015398979187,30
+http://dbpedia.org/resource/Burkina_Faso,http://dbpedia.org/property/populationEstimate,17322796,Predicate;Object,114,8.53015398979187,30
+"http://dbpedia.org/resource/Enterprise,_Utah",http://dbpedia.org/ontology/PopulatedPlace/areaTotal,7.5109655199744,Object,115,2.355676889419556,30
+http://dbpedia.org/resource/Saravak,http://dbpedia.org/property/populationTotal,1474,Object,118,2.062031984329224,30
+http://dbpedia.org/resource/Kingdom_of_Burundi,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/German_East_African_rupie,Object,119,3.880300998687744,30
+http://dbpedia.org/resource/Kingdom_of_Burundi,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Gitega,Object,119,3.880300998687744,30
+http://dbpedia.org/resource/Kingdom_of_Burundi,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Ruanda-Urundi_franc,Object,119,3.880300998687744,30
+http://dbpedia.org/resource/Netviewer,http://dbpedia.org/property/homepage,http://netviewer.com,Object,120,3.754556179046631,30
+http://dbpedia.org/resource/Zagreb,http://dbpedia.org/property/source,World Meteorological Organisation,Predicate;Object,121,8.68512511253357,30
+http://dbpedia.org/resource/Zagreb,http://dbpedia.org/property/janRecordHighC,19.4,Object,121,8.68512511253357,30
+http://dbpedia.org/resource/Zagreb,http://dbpedia.org/property/julHighC,26.7,Object,121,8.68512511253357,30
+http://dbpedia.org/resource/Kabul,http://dbpedia.org/property/sepHumidity,39,Object,126,3.412897825241089,30
+http://dbpedia.org/resource/Kabul,http://dbpedia.org/property/marRainDays,10,Object,126,3.412897825241089,30
+http://dbpedia.org/resource/Spain,http://dbpedia.org/ontology/ethnicGroupsInYear,2015,Predicate;Object,134,9.591565132141112,30
+http://dbpedia.org/resource/Spain,http://dbpedia.org/property/populationEstimateYear,2015,Predicate;Object,134,9.591565132141112,30
+http://dbpedia.org/resource/Spain,http://dbpedia.org/property/gdpNominal,1.23E12,Predicate;Object,134,9.591565132141112,30
+http://dbpedia.org/resource/Spain,http://dbpedia.org/property/gdpNominalYear,2014,Predicate;Object,134,9.591565132141112,30
+http://dbpedia.org/resource/State_of_Brazil,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Portuguese_real,Object,140,6.280135869979858,30
+http://dbpedia.org/resource/State_of_Brazil,http://dbpedia.org/ontology/capital,"http://dbpedia.org/resource/Salvador,_Bahia",Object,140,6.280135869979858,30
+http://dbpedia.org/resource/State_of_Brazil,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Rio_de_Janeiro,Object,140,6.280135869979858,30
+http://dbpedia.org/resource/Zürich,http://dbpedia.org/property/sepHighC,18.8,Object,143,6.072020053863525,30
+http://dbpedia.org/resource/Zürich,http://dbpedia.org/property/aprSnowCm,3,Object,143,6.072020053863525,30
+http://dbpedia.org/resource/Zürich,http://dbpedia.org/property/febPrecipitationDays,9.3,Object,143,6.072020053863525,30
+http://dbpedia.org/resource/Liešno,http://dbpedia.org/property/populationDensity,auto,Predicate;Object,145,3.8636879920959473,30
+http://dbpedia.org/resource/Operation_Harpoon_(1942),http://dbpedia.org/ontology/strength,17 destroyers,Object,150,3.784043073654175,31
+http://dbpedia.org/resource/Operation_Harpoon_(1942),http://dbpedia.org/ontology/causalties,3 destroyers damaged,Object,150,3.784043073654175,31
+http://dbpedia.org/resource/Pha_Taem_National_Park,http://dbpedia.org/property/latD,15,Object,166,4.07589602470398,31
+"http://dbpedia.org/resource/John_of_Eltham,_Earl_of_Cornwall",http://dbpedia.org/property/years,--10-06,Object,168,4.258123159408569,32

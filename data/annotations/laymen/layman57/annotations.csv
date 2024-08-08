@@ -1,0 +1,606 @@
+Subject,Predicate,Object,Annotation,BatchID,BatchTime,BatchDate
+"http://dbpedia.org/resource/Charles_H._Swannack,_Jr.",http://dbpedia.org/property/rank,http://dbpedia.org/resource/Major_general,Correct,0,22192.337447166443,6
+"http://dbpedia.org/resource/Charles_H._Swannack,_Jr.",http://dbpedia.org/ontology/allegiance,U.S. Army,Correct,0,22192.337447166443,6
+"http://dbpedia.org/resource/Charles_H._Swannack,_Jr.",http://xmlns.com/foaf/0.1/isPrimaryTopicOf,"http://en.wikipedia.org/wiki/Charles_H._Swannack,_Jr.",Correct,0,22192.337447166443,6
+"http://dbpedia.org/resource/Charles_H._Swannack,_Jr.",http://dbpedia.org/property/shortDescription,United States general,Correct,0,22192.337447166443,6
+"http://dbpedia.org/resource/Charles_H._Swannack,_Jr.",http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Living_people,Correct,0,22192.337447166443,6
+http://dbpedia.org/resource/Curiel_de_Duero,http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/Autonomous_communities_of_Spain,Correct,1,251.30591988563535,7
+http://dbpedia.org/resource/Curiel_de_Duero,http://dbpedia.org/property/timezone,http://dbpedia.org/resource/Central_European_Time,Correct,1,251.30591988563535,7
+http://dbpedia.org/resource/Curiel_de_Duero,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-city-noun-3,I Don't Know,1,251.30591988563535,7
+http://dbpedia.org/resource/Curiel_de_Duero,http://dbpedia.org/ontology/timeZone,http://dbpedia.org/resource/Central_European_Time,Correct,1,251.30591988563535,7
+http://dbpedia.org/resource/Curiel_de_Duero,http://dbpedia.org/property/utcOffset,+1,Correct,1,251.30591988563535,7
+http://dbpedia.org/resource/Delaware_Colony,http://dbpedia.org/property/capital,"http://dbpedia.org/resource/New_Castle,_Delaware",Incorrect,2,68.6505913734436,7
+http://dbpedia.org/resource/Delaware_Colony,http://www.w3.org/2000/01/rdf-schema#label,Delaware Colony,Correct,2,68.6505913734436,7
+"http://dbpedia.org/resource/Patrick_Boyle,_8th_Earl_of_Glasgow",http://www.w3.org/2000/01/rdf-schema#label,"Patrick Boyle, 8th Earl of Glasgow",Correct,3,32087.54135131836,7
+http://dbpedia.org/resource/Sánchez_Ramírez_Province,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Cotuí,Correct,4,52.48718762397766,7
+"http://dbpedia.org/resource/Auburn_Hills,_Michigan",http://dbpedia.org/ontology/abstract,"Auburn Hills (formerly Pontiac Township) is a city in Oakland County, in the U.S. state of Michigan. The population was 21,412 at the 2010 census.",Incorrect,5,6147.710340023041,7
+"http://dbpedia.org/resource/Auburn_Hills,_Michigan",http://dbpedia.org/property/northeast,"http://dbpedia.org/resource/Oakland_Township,_Michigan",Correct,5,6147.710340023041,7
+"http://dbpedia.org/resource/Auburn_Hills,_Michigan",http://dbpedia.org/property/west,"http://dbpedia.org/resource/Pontiac,_Michigan",Correct,5,6147.710340023041,7
+"http://dbpedia.org/resource/Auburn_Hills,_Michigan",http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/City,Correct,5,6147.710340023041,7
+"http://dbpedia.org/resource/Auburn_Hills,_Michigan",http://dbpedia.org/ontology/areaCode,"248,947",Correct,5,6147.710340023041,7
+http://dbpedia.org/resource/Raid_on_St_Malo,http://dbpedia.org/ontology/strength,22 Ships of the line,Incorrect,6,551.8363225460052,7
+http://dbpedia.org/resource/Raid_on_St_Malo,http://dbpedia.org/ontology/place,http://dbpedia.org/resource/Saint-Malo,Correct,6,551.8363225460052,7
+http://dbpedia.org/resource/Raid_on_St_Malo,http://dbpedia.org/property/partof,http://dbpedia.org/resource/Seven_Years'_War,Correct,6,551.8363225460052,7
+http://dbpedia.org/resource/Raid_on_St_Malo,http://dbpedia.org/property/commander,Lord George Sackville,Correct,6,551.8363225460052,7
+http://dbpedia.org/resource/Raid_on_St_Malo,http://dbpedia.org/ontology/abstract,"The Raid on St Malo took place in June 1758 when an amphibious British naval expedition landed close to the French port of St Malo in Brittany. While the town itself was not attacked, as had been initially planned, the British destroyed large amounts of shipping before re-embarking a week later. The naval forces were under the command of Richard Howe while the army was led by the Duke of Marlborough and Lord Sackville.",Correct,6,551.8363225460052,7
+http://dbpedia.org/resource/Ibrahim_al-Jaafari,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Al-Hindiya,Incorrect,7,263.66065430641174,7
+http://dbpedia.org/resource/Ibrahim_al-Jaafari,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/University_of_Mosul,Correct,7,263.66065430641174,7
+http://dbpedia.org/resource/Ibrahim_al-Jaafari,http://dbpedia.org/property/b,no,I Don't Know,7,263.66065430641174,7
+http://dbpedia.org/resource/Ibrahim_al-Jaafari,http://dbpedia.org/property/placeOfBirth,http://dbpedia.org/resource/Kingdom_of_Iraq,Incorrect,7,263.66065430641174,7
+http://dbpedia.org/resource/Ibrahim_al-Jaafari,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Kingdom_of_Iraq,Incorrect,7,263.66065430641174,7
+http://dbpedia.org/resource/Joseph_Henderson_(Medal_of_Honor),http://dbpedia.org/ontology/militaryUnit,http://dbpedia.org/resource/6th_Cavalry_Regiment,Correct,8,76.43148303031921,7
+http://dbpedia.org/resource/Joseph_Henderson_(Medal_of_Honor),http://dbpedia.org/ontology/militaryBranch,http://dbpedia.org/resource/United_States_Army,Correct,8,76.43148303031921,7
+http://dbpedia.org/resource/Mark_Miloscia,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/Chapman_University,Correct,9,338.36087560653687,7
+http://dbpedia.org/resource/Mark_Miloscia,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/University_of_North_Dakota,Correct,9,338.36087560653687,7
+http://dbpedia.org/resource/Mark_Miloscia,http://dbpedia.org/property/profession,http://dbpedia.org/resource/Pilot_(aircraft),Correct,9,338.36087560653687,7
+http://dbpedia.org/resource/Mark_Miloscia,http://dbpedia.org/property/birthDate,1958-09-13,Correct,9,338.36087560653687,7
+http://dbpedia.org/resource/Mark_Miloscia,http://dbpedia.org/ontology/militaryBranch,http://dbpedia.org/resource/United_States_Air_Force,Correct,9,338.36087560653687,7
+http://dbpedia.org/resource/Spanish_Formosa,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Keelung,Incorrect,10,185.39408206939697,7
+http://dbpedia.org/resource/Verran_Sparebank,http://dbpedia.org/property/industry,Banking,Correct,11,133.02470922470093,7
+http://dbpedia.org/resource/Verran_Sparebank,http://dbpedia.org/property/location,http://dbpedia.org/resource/Norway,Correct,11,133.02470922470093,7
+http://dbpedia.org/resource/Verran_Sparebank,http://dbpedia.org/property/foundation,1907,Incorrect,11,133.02470922470093,7
+http://dbpedia.org/resource/Verran_Sparebank,http://dbpedia.org/ontology/industry,http://dbpedia.org/resource/Bank,Correct,11,133.02470922470093,7
+http://dbpedia.org/resource/Verran_Sparebank,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Norway,Correct,11,133.02470922470093,7
+http://dbpedia.org/resource/Toronto,http://dbpedia.org/property/subdivisionName,"http://dbpedia.org/resource/York,_Toronto",Correct,12,385.8715989589691,7
+http://dbpedia.org/resource/Toronto,http://dbpedia.org/property/b,no,I Don't Know,12,385.8715989589691,7
+http://dbpedia.org/resource/Toronto,http://dbpedia.org/ontology/leaderName,http://dbpedia.org/resource/John_Tory,Correct,12,385.8715989589691,7
+http://dbpedia.org/resource/Toronto,http://dbpedia.org/property/subdivisionName,http://dbpedia.org/resource/Etobicoke,Correct,12,385.8715989589691,7
+http://dbpedia.org/resource/Toronto,http://www.georss.org/georss/point,43.7 -79.4,I Don't Know,12,385.8715989589691,7
+http://dbpedia.org/resource/Kingdom_of_Great_Britain,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/London,Correct,13,18.73636269569397,7
+"http://dbpedia.org/resource/Escuintla,_Chiapas",http://dbpedia.org/ontology/country,http://dbpedia.org/resource/Mexico,Correct,14,1322.3850765228271,7
+"http://dbpedia.org/resource/Escuintla,_Chiapas",http://dbpedia.org/property/latns,N,I Don't Know,14,1322.3850765228271,7
+"http://dbpedia.org/resource/Escuintla,_Chiapas",http://dbpedia.org/property/pushpinMapCaption,Location in Mexico,Correct,14,1322.3850765228271,7
+"http://dbpedia.org/resource/Escuintla,_Chiapas",http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/Administrative_divisions_of_Mexico,Correct,14,1322.3850765228271,7
+"http://dbpedia.org/resource/Escuintla,_Chiapas",http://dbpedia.org/property/populationBlank1Title,Ethnicities,I Don't Know,14,1322.3850765228271,7
+http://dbpedia.org/resource/The_Lion_of_Punjab_(film),http://dbpedia.org/ontology/basedOn,http://dbpedia.org/resource/Jyothika,Incorrect,15,233.95625376701355,7
+http://dbpedia.org/resource/The_Lion_of_Punjab_(film),http://dbpedia.org/ontology/basedOn,http://dbpedia.org/resource/Dhool,Correct,15,233.95625376701355,7
+http://dbpedia.org/resource/Dewan_Rakyat,http://dbpedia.org/ontology/politicalPartyInLegislature,http://dbpedia.org/resource/Parti_Gerakan_Rakyat_Malaysia,Correct,16,1133.0833630561829,7
+http://dbpedia.org/resource/Dewan_Rakyat,http://dbpedia.org/ontology/politicalPartyInLegislature,http://dbpedia.org/resource/Parti_Bersatu_Sabah,Correct,16,1133.0833630561829,7
+http://dbpedia.org/resource/Dewan_Rakyat,http://dbpedia.org/ontology/politicalPartyInLegislature,http://dbpedia.org/resource/Malaysian_Chinese_Association,Correct,16,1133.0833630561829,7
+http://dbpedia.org/resource/Dewan_Rakyat,http://dbpedia.org/ontology/politicalPartyInLegislature,http://dbpedia.org/resource/United_Pasokmomogun_Kadazandusun_Murut_Organisation,I Don't Know,16,1133.0833630561829,7
+http://dbpedia.org/resource/Dewan_Rakyat,http://dbpedia.org/ontology/politicalPartyInLegislature,http://dbpedia.org/resource/Parti_Rakyat_Sarawak,Correct,16,1133.0833630561829,7
+http://dbpedia.org/resource/Seychelles,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Seychelles.svg?width=300,Correct,17,93171.08645629884,13
+http://dbpedia.org/resource/Seychelles,http://dbpedia.org/ontology/language,http://dbpedia.org/resource/English_language,Correct,17,93171.08645629884,13
+http://dbpedia.org/resource/Seychelles,http://dbpedia.org/ontology/demonym,Seselwa,Incorrect,17,93171.08645629884,13
+http://dbpedia.org/resource/Seychelles,http://dbpedia.org/ontology/demonym,Seychellois,Correct,17,93171.08645629884,13
+http://dbpedia.org/resource/Seychelles,http://dbpedia.org/ontology/populationTotal,92000,Incorrect,17,93171.08645629884,13
+http://dbpedia.org/resource/Alsace-Lorraine,http://dbpedia.org/property/statusText,Imperial Territory of the German Empire,Correct,18,557.1414499282837,14
+http://dbpedia.org/resource/Alsace-Lorraine,http://dbpedia.org/property/eventStart,http://dbpedia.org/resource/Treaty_of_Frankfurt_(1871),Incorrect,18,557.1414499282837,14
+http://dbpedia.org/resource/Alsace-Lorraine,http://dbpedia.org/property/flagP,Flag of France.svg,Correct,18,557.1414499282837,14
+http://dbpedia.org/resource/Alsace-Lorraine,http://dbpedia.org/property/imageMapCaption,Alsace-Lorraine within the German Empire,Correct,18,557.1414499282837,14
+http://dbpedia.org/resource/Alsace-Lorraine,http://dbpedia.org/property/deputy,Eduard von Möller,Incorrect,18,557.1414499282837,14
+http://dbpedia.org/resource/Misrata_District,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Misrata,Correct,19,43.76988673210144,14
+http://dbpedia.org/resource/Luis_Congo,http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Luis_Congo__5,I Don't Know,20,278.09832096099854,17
+http://dbpedia.org/resource/Luis_Congo,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Mira_Canton,Correct,20,278.09832096099854,17
+http://dbpedia.org/resource/Luis_Congo,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Ecuador,Correct,20,278.09832096099854,17
+http://dbpedia.org/resource/Luis_Congo,http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Luis_Congo__3,I Don't Know,20,278.09832096099854,17
+http://dbpedia.org/resource/Luis_Congo,http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Luis_Congo__1,I Don't Know,20,278.09832096099854,17
+http://dbpedia.org/resource/David_Grose,http://xmlns.com/foaf/0.1/surname,Grose,Correct,21,62.680450439453125,17
+http://dbpedia.org/resource/David_Grose,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_classical_scholars,Correct,21,62.680450439453125,17
+http://dbpedia.org/resource/David_Grose,http://dbpedia.org/ontology/birthYear,1944,Correct,21,62.680450439453125,17
+http://dbpedia.org/resource/David_Grose,http://dbpedia.org/property/shortDescription,American archaeologist,Correct,21,62.680450439453125,17
+http://dbpedia.org/resource/David_Grose,http://xmlns.com/foaf/0.1/name,David Grose,Correct,21,62.680450439453125,17
+http://dbpedia.org/resource/Bolesław_III_Wrymouth,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Poland,Correct,22,64.5842399597168,17
+http://dbpedia.org/resource/Turóc_County,http://dbpedia.org/ontology/capital,"http://dbpedia.org/resource/Martin,_Slovakia",Correct,23,103.52172255516052,17
+http://dbpedia.org/resource/Zarqan_Rural_District,http://www.w3.org/2000/01/rdf-schema#label,Zarqan Rural District,Correct,24,12.675632238388062,17
+http://dbpedia.org/resource/Amzići,http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/List_of_districts_of_Serbia,Correct,25,43.28036165237427,17
+http://dbpedia.org/resource/Amzići,http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/Municipalities_and_cities_of_Serbia,Correct,25,43.28036165237427,17
+http://dbpedia.org/resource/Nizar_Qabbani,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Damascus,Correct,26,57.78051543235779,17
+"http://dbpedia.org/resource/Bridal_Veil,_Oregon",http://dbpedia.org/property/coordinatesType,type:city_region:US-OR,Correct,27,78.64439344406128,17
+"http://dbpedia.org/resource/Bridal_Veil,_Oregon",http://dbpedia.org/ontology/areaCode,503/971,Correct,27,78.64439344406128,17
+"http://dbpedia.org/resource/Bridal_Veil,_Oregon",http://dbpedia.org/property/coordinatesDisplay,"inline,title",Correct,27,78.64439344406128,17
+"http://dbpedia.org/resource/Bridal_Veil,_Oregon",http://dbpedia.org/property/utcOffset,-8,Correct,27,78.64439344406128,17
+"http://dbpedia.org/resource/Bridal_Veil,_Oregon",http://dbpedia.org/property/settlementType,http://dbpedia.org/resource/Unincorporated_area,Correct,27,78.64439344406128,17
+http://dbpedia.org/resource/United_States_Department_of_the_Air_Force,http://dbpedia.org/ontology/parentOrganisation,http://dbpedia.org/resource/United_States_Department_of_Defense,Correct,28,244.9543364048004,17
+http://dbpedia.org/resource/United_States_Department_of_the_Air_Force,http://dbpedia.org/ontology/leader,http://dbpedia.org/resource/United_States_Secretary_of_the_Air_Force,Incorrect,28,244.9543364048004,17
+http://dbpedia.org/resource/State_of_Brazil,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Portuguese_real,Incorrect,29,83.42607307434082,17
+http://dbpedia.org/resource/State_of_Brazil,http://dbpedia.org/ontology/capital,"http://dbpedia.org/resource/Salvador,_Bahia",Incorrect,29,83.42607307434082,17
+http://dbpedia.org/resource/State_of_Brazil,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Rio_de_Janeiro,Incorrect,29,83.42607307434082,17
+http://dbpedia.org/resource/Giluyeh,http://dbpedia.org/property/longd,54,Correct,30,183.85277318954468,17
+http://dbpedia.org/resource/Giluyeh,http://dbpedia.org/ontology/isPartOf,http://dbpedia.org/resource/Central_District_(Bastak_County),Correct,30,183.85277318954468,17
+http://dbpedia.org/resource/Giluyeh,http://dbpedia.org/property/officialName,Giluyeh,Correct,30,183.85277318954468,17
+http://dbpedia.org/resource/Giluyeh,http://dbpedia.org/property/mapsize,150,Correct,30,183.85277318954468,17
+http://dbpedia.org/resource/Giluyeh,http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/List_of_sovereign_states,I Don't Know,30,183.85277318954468,17
+http://dbpedia.org/resource/Yedida,http://www.w3.org/2000/01/rdf-schema#label,Yedida,Correct,31,10.157737731933594,17
+"http://dbpedia.org/resource/Sacred_Heart,_Oklahoma",http://dbpedia.org/property/governingBody,Private,Correct,32,99.86101222038268,17
+"http://dbpedia.org/resource/Sacred_Heart,_Oklahoma",http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/List_of_counties_in_Oklahoma,Incorrect,32,99.86101222038268,17
+"http://dbpedia.org/resource/Sacred_Heart,_Oklahoma",http://dbpedia.org/property/locmapin,Oklahoma,Correct,32,99.86101222038268,17
+http://dbpedia.org/resource/Estonia,http://dbpedia.org/ontology/leaderTitle,President,Correct,33,92.38415837287904,17
+http://dbpedia.org/resource/Estonia,http://dbpedia.org/ontology/governmentType,http://dbpedia.org/resource/Parliamentary_republic,Correct,33,92.38415837287904,17
+http://dbpedia.org/resource/Estonia,http://dbpedia.org/property/establishedDate,1920-02-02,Correct,33,92.38415837287904,17
+http://dbpedia.org/resource/Estonia,http://dbpedia.org/ontology/language,http://dbpedia.org/resource/Seto_dialect,Correct,33,92.38415837287904,17
+http://dbpedia.org/resource/Estonia,http://dbpedia.org/property/ethnicGroups,http://dbpedia.org/resource/Belarusians,Correct,33,92.38415837287904,17
+"http://dbpedia.org/resource/Dallas_County,_Texas",http://dbpedia.org/property/south,"http://dbpedia.org/resource/Ellis_County,_Texas",Correct,34,313881.2239832878,17
+"http://dbpedia.org/resource/Dallas_County,_Texas",http://dbpedia.org/property/northwest,"http://dbpedia.org/resource/Denton_County,_Texas",Incorrect,34,313881.2239832878,17
+"http://dbpedia.org/resource/Dallas_County,_Texas",http://dbpedia.org/property/foundedDate,--03-30,Correct,34,313881.2239832878,17
+"http://dbpedia.org/resource/Dallas_County,_Texas",http://dbpedia.org/property/timeZone,Central,Correct,34,313881.2239832878,17
+"http://dbpedia.org/resource/Dallas_County,_Texas",http://dbpedia.org/property/north,"http://dbpedia.org/resource/Collin_County,_Texas",Incorrect,34,313881.2239832878,17
+http://dbpedia.org/resource/Aghbulagh,http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/Administrative_divisions_of_Armenia,Incorrect,35,368.4824275970459,21
+http://dbpedia.org/resource/Aghbulagh,http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/List_of_municipalities_of_Armenia,I Don't Know,35,368.4824275970459,21
+http://dbpedia.org/resource/Nicaragua,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Spanish-speaking_countries_and_territories,Correct,36,171.89909958839417,23
+http://dbpedia.org/resource/Nicaragua,http://dbpedia.org/property/populationCensus,6071045,Correct,36,171.89909958839417,23
+http://dbpedia.org/resource/Nicaragua,http://dbpedia.org/property/currency,http://dbpedia.org/resource/Nicaraguan_córdoba,Correct,36,171.89909958839417,23
+http://dbpedia.org/resource/Nicaragua,http://dbpedia.org/ontology/regionalLanguage,http://dbpedia.org/resource/Miskito_language,Correct,36,171.89909958839417,23
+http://dbpedia.org/resource/Nicaragua,http://dbpedia.org/property/officialLanguages,http://dbpedia.org/resource/Spanish_language,Correct,36,171.89909958839417,23
+http://dbpedia.org/resource/Mathilde_Santing,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Amstelveen,Correct,37,62.008602142333984,23
+http://dbpedia.org/resource/ArmorGroup,http://dbpedia.org/ontology/abstract,"ArmorGroup International is a British company providing private security.  It was founded in 1981 and was listed on the London Stock Exchange until 6 June 2008 (it was acquired by G4S plc in April 2008).ArmorGroup provides protective security services, risk management consultancy, security training and mine action services.  It has 38 offices in 27 countries, including Afghanistan, Bahrain, Colombia, Iraq, Lebanon, Nigeria and Sudan.It is a founder and full member of the International Peace Operations Association (IPOA), the British Association of Private Security Companies (BAPSC) and the Private Security Company Association of Iraq (PSCAI).ArmorGroup is managed by Noel Philp, Chief Operating Officer; Matthew Brabin, M.D. and Christopher Beese, chief administrative officer.",I Don't Know,38,89.9925787448883,23
+http://dbpedia.org/resource/Ethnic_Germans_in_Bolivia,http://dbpedia.org/ontology/language,http://dbpedia.org/resource/Spanish_language,Correct,39,59.110010623931885,23
+http://dbpedia.org/resource/Defining_Issues_Test,http://dbpedia.org/ontology/abstract,"The Defining Issues Test or the DIT is a component model of moral development devised by James Rest in 1974. The University of Minnesota formally established the Center for the Study of Ethical Development as a vehicle for research around this test in 1982.The DIT uses a Likert-type scale to give quantitative ratings and rankings to issues surrounding five different moral dilemmas, or stories.  Specifically, respondents rate 12 issues in terms of their importance to the corresponding dilemma and then rank the four most important issues.  The issue statements that respondents respond to are not fully developed stances which fall on one side or another of the presented dilemma.  Rather, they are conceptualized as fragments of reasoning, to which respondents must project meaning.  Meaning is projected by means of moral reasoning schemas (each of which is explained below).  A schema is a mental representation of stimuli that has previously been encountered, which allows one to make sense of newly experienced, but related, stimuli.  So, when a respondent reads an issue statement that both makes sense to them, as well as triggers a preferred schema, that statement is given a high rating and ranking.  Conversely, when a respondent reads an issue statement that is either construed as nonsensical or overly simplistic, the item receives a low rating.  Patterns of ratings and rankings reveal information about three specific schemas of moral reasoning: the Personal Interests Schema, the Maintaining Norms Schema and the Postconventional Schema. The Personal Interests Schema is regarded as the least developmentally advanced level of moral reasoning.  In operating primarily at the Personal Interests level, the respondent takes into consideration what the protagonist of the story, or those close to the protagonist, has to gain or lose.  The Maintaining Norms Schema is considered more advanced than the Personal Interests Schema, as it emphasizes more than the individual.  At the Maintaining Norms reasoning level, law and authority are important, as each of these helps to uphold social order, which is paramount to this schema.  So, a respondent who is predominantly using this schema will take into consideration what needs to be done in order to be compliant with the social order of society.  Finally, the Postconventional Schema is regarded as the most developmentally advanced.  At the Postconventional reasoning level, laws are not simply blindly accepted (as with the Maintaining Norms Schema), but are scrutinized in order to ensure society-wide benefit.  So, a respondent who is primarily using this schema will focus on what is best for society as a whole.  For example, the Civil Rights movement was a product of Postconventional reasoning, as followers were most concerned with the society-wide effects of (in)equality.  It should be noted that, though an individual may rely more heavily on one of the aforementioned schemas, moral reasoning is typically informed, to varying degrees, by each of the schemas.One of the Defining Issues Test's original purposes was to assess the transition of moral development from adolescence to adulthood. In 1999 the test was revised in the DIT-2 for brevity, clarity and more powerful validity criteria.The DIT has been dubbed ""Neo-Kohlbergian"" by its constituents as it emphasizes cognition, personal construction, development and postconventional moral thinking - reflective of the work by Lawrence Kohlberg and his stages of moral development.",I Don't Know,40,127.14478611946106,23
+http://dbpedia.org/resource/Defining_Issues_Test,http://www.w3.org/2000/01/rdf-schema#label,Defining Issues Test,Correct,40,127.14478611946106,23
+http://dbpedia.org/resource/Defining_Issues_Test,http://www.w3.org/2000/01/rdf-schema#comment,"The Defining Issues Test or the DIT is a component model of moral development devised by James Rest in 1974. The University of Minnesota formally established the Center for the Study of Ethical Development as a vehicle for research around this test in 1982.The DIT uses a Likert-type scale to give quantitative ratings and rankings to issues surrounding five different moral dilemmas, or stories.",Correct,40,127.14478611946106,23
+http://dbpedia.org/resource/Defining_Issues_Test,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Moral_psychology,Correct,40,127.14478611946106,23
+http://dbpedia.org/resource/Defining_Issues_Test,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Model,Correct,40,127.14478611946106,23
+http://dbpedia.org/resource/Lingza,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/China,Correct,41,226.4792811870575,23
+http://dbpedia.org/resource/Lingza,http://dbpedia.org/ontology/isPartOf,http://dbpedia.org/resource/Zhaxizê,Correct,41,226.4792811870575,23
+http://dbpedia.org/resource/Lingza,http://dbpedia.org/ontology/isPartOf,http://dbpedia.org/resource/Baimai,Incorrect,41,226.4792811870575,23
+http://dbpedia.org/resource/Lingza,http://dbpedia.org/ontology/isPartOf,http://dbpedia.org/resource/Dungro,Incorrect,41,226.4792811870575,23
+http://dbpedia.org/resource/Lingza,http://dbpedia.org/property/subdivisionName,http://dbpedia.org/resource/China,Correct,41,226.4792811870575,23
+http://dbpedia.org/resource/Xin_dynasty,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Tortoiseshell,Incorrect,42,262.11456513404846,23
+http://dbpedia.org/resource/Xin_dynasty,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Silver,Incorrect,42,262.11456513404846,23
+http://dbpedia.org/resource/Xin_dynasty,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Ancient_Chinese_coinage,Correct,42,262.11456513404846,23
+http://dbpedia.org/resource/Xin_dynasty,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Seashell,Incorrect,42,262.11456513404846,23
+http://dbpedia.org/resource/Xin_dynasty,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Gold,Incorrect,42,262.11456513404846,23
+http://dbpedia.org/resource/V_Corps_(Grande_Armée),http://dbpedia.org/ontology/notableCommander,http://dbpedia.org/resource/Józef_Poniatowski,Correct,43,56.44346475601196,23
+http://dbpedia.org/resource/V_Corps_(Grande_Armée),http://dbpedia.org/ontology/notableCommander,http://dbpedia.org/resource/André_Masséna,Incorrect,43,56.44346475601196,23
+http://dbpedia.org/resource/V_Corps_(Grande_Armée),http://dbpedia.org/ontology/notableCommander,"http://dbpedia.org/resource/Édouard_Mortier,_duc_de_Trévise",Correct,43,56.44346475601196,23
+http://dbpedia.org/resource/V_Corps_(Grande_Armée),http://dbpedia.org/ontology/notableCommander,http://dbpedia.org/resource/Jean_Rapp,Correct,43,56.44346475601196,23
+http://dbpedia.org/resource/V_Corps_(Grande_Armée),http://dbpedia.org/ontology/notableCommander,http://dbpedia.org/resource/Jean_Lannes,Incorrect,43,56.44346475601196,23
+http://dbpedia.org/resource/Sivakorn_Pu-Udom,http://dbpedia.org/property/years,2013,Correct,44,185.87597155570984,23
+http://dbpedia.org/resource/Sivakorn_Pu-Udom,http://dbpedia.org/property/confederation,http://dbpedia.org/resource/FIFA_International_Referees_List,Correct,44,185.87597155570984,23
+http://dbpedia.org/resource/Sivakorn_Pu-Udom,http://dbpedia.org/property/birthDate,1987-11-26,Correct,44,185.87597155570984,23
+http://dbpedia.org/resource/Sivakorn_Pu-Udom,http://dbpedia.org/property/internationalyears,2013,Correct,44,185.87597155570984,23
+http://dbpedia.org/resource/Sivakorn_Pu-Udom,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Thai_football_referees,Correct,44,185.87597155570984,23
+http://dbpedia.org/resource/Giovanni_Bondioni,http://dbpedia.org/ontology/birthDate,1894-09-29,Correct,45,96.76077365875244,23
+http://dbpedia.org/resource/Giovanni_Bondioni,http://dbpedia.org/property/dateOfDeath,1918-08-17,Correct,45,96.76077365875244,23
+http://dbpedia.org/resource/Giovanni_Bondioni,http://purl.org/dc/elements/1.1/description,lieutenant inWorld War I,Correct,45,96.76077365875244,23
+http://dbpedia.org/resource/Giovanni_Bondioni,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Lieutenant,Correct,45,96.76077365875244,23
+http://dbpedia.org/resource/Giovanni_Bondioni,http://dbpedia.org/property/name,Giovanni Bondioni,Correct,45,96.76077365875244,23
+http://dbpedia.org/resource/Karipey_Rural_District,http://www.w3.org/2000/01/rdf-schema#label,Karipey Rural District,Correct,46,32.37398052215576,23
+http://dbpedia.org/resource/Karipey_Rural_District,http://dbpedia.org/ontology/isPartOf,http://dbpedia.org/resource/Babol_County,Correct,46,32.37398052215576,23
+http://dbpedia.org/resource/Karipey_Rural_District,http://dbpedia.org/property/subdivisionName,http://dbpedia.org/resource/Babol_County,Correct,46,32.37398052215576,23
+http://dbpedia.org/resource/Ricardo_Bofill,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Spain,Correct,47,17.572410106658936,23
+http://dbpedia.org/resource/Ricardo_Bofill,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Barcelona,Correct,47,17.572410106658936,23
+http://dbpedia.org/resource/Taiwan,http://dbpedia.org/property/poj,Tâi-oân,I Don't Know,48,135.42469358444214,23
+http://dbpedia.org/resource/Taiwan,http://dbpedia.org/property/p,Táiwān,I Don't Know,48,135.42469358444214,23
+http://dbpedia.org/resource/Taiwan,http://dbpedia.org/property/t,臺灣 or 台灣,I Don't Know,48,135.42469358444214,23
+http://dbpedia.org/resource/Taiwan,http://dbpedia.org/property/leaderTitle,http://dbpedia.org/resource/Vice_President_of_the_Republic_of_China,Incorrect,48,135.42469358444214,23
+http://dbpedia.org/resource/Taiwan,http://dbpedia.org/property/ethnicGroups,∟ 70%,I Don't Know,48,135.42469358444214,23
+http://dbpedia.org/resource/Mike_Halsey,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland,I Don't Know,49,49.44314908981323,23
+http://dbpedia.org/resource/Dries_van_der_Lof,http://dbpedia.org/property/placeOfDeath,"Enschede, Netherlands",Correct,50,138.68156051635742,23
+http://dbpedia.org/resource/Dries_van_der_Lof,http://dbpedia.org/property/name,"Lof, Andre van der",Correct,50,138.68156051635742,23
+http://dbpedia.org/resource/Dries_van_der_Lof,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Dries_van_der_Lof,Correct,50,138.68156051635742,23
+http://dbpedia.org/resource/Dries_van_der_Lof,http://dbpedia.org/property/firstRace,1952,Correct,50,138.68156051635742,23
+http://dbpedia.org/resource/Dries_van_der_Lof,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1990_deaths,Correct,50,138.68156051635742,23
+http://dbpedia.org/resource/Boalkhali_Upazila,http://dbpedia.org/ontology/utcOffset,+6,Correct,51,118.83925604820251,23
+http://dbpedia.org/resource/Boalkhali_Upazila,http://dbpedia.org/property/website,http://www.banglapedia.org/Maps/BoalkhaliUpazila.jpg,I Don't Know,51,118.83925604820251,23
+http://dbpedia.org/resource/Boalkhali_Upazila,http://dbpedia.org/ontology/populationTotal,223125,Correct,51,118.83925604820251,23
+http://dbpedia.org/resource/Boalkhali_Upazila,http://dbpedia.org/property/populationTotal,223125,Correct,51,118.83925604820251,23
+http://dbpedia.org/resource/Boalkhali_Upazila,http://dbpedia.org/ontology/timeZone,http://dbpedia.org/resource/Bangladesh_Standard_Time,Correct,51,118.83925604820251,23
+"http://dbpedia.org/resource/Louis,_Duke_of_Burgundy",http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/France,Correct,52,153.77422213554382,23
+"http://dbpedia.org/resource/Louis,_Duke_of_Burgundy",http://dbpedia.org/ontology/parent,http://dbpedia.org/resource/Duchess_Maria_Anna_Victoria_of_Bavaria,Correct,52,153.77422213554382,23
+"http://dbpedia.org/resource/Louis,_Duke_of_Burgundy",http://dbpedia.org/ontology/restingPlace,http://dbpedia.org/resource/France,Correct,52,153.77422213554382,23
+"http://dbpedia.org/resource/Louis,_Duke_of_Burgundy",http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Son,I Don't Know,52,153.77422213554382,23
+"http://dbpedia.org/resource/Louis,_Duke_of_Burgundy",http://dbpedia.org/ontology/restingPlace,http://dbpedia.org/resource/Basilica_of_St_Denis,Correct,52,153.77422213554382,23
+http://dbpedia.org/resource/William_the_Lion,http://dbpedia.org/property/succession,http://dbpedia.org/resource/King_of_the_Scots,Correct,53,419.2465624809265,23
+http://dbpedia.org/resource/William_the_Lion,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Earls_in_the_Peerage_of_England,Correct,53,419.2465624809265,23
+http://dbpedia.org/resource/William_the_Lion,http://dbpedia.org/property/years,1152,Correct,53,419.2465624809265,23
+http://dbpedia.org/resource/William_the_Lion,http://dbpedia.org/ontology/deathYear,1214,Correct,53,419.2465624809265,23
+http://dbpedia.org/resource/William_the_Lion,http://dbpedia.org/property/before,http://dbpedia.org/resource/Henry_of_Scotland,Incorrect,53,419.2465624809265,23
+"http://dbpedia.org/resource/Mura,_Barcelona",http://dbpedia.org/property/coordinatesDisplay,"inline,title",Correct,54,122.4945352077484,23
+"http://dbpedia.org/resource/Mura,_Barcelona",http://dbpedia.org/property/timezone,http://dbpedia.org/resource/Central_European_Time,Correct,54,122.4945352077484,23
+"http://dbpedia.org/resource/Mura,_Barcelona",http://dbpedia.org/property/populationDensityKm,auto,I Don't Know,54,122.4945352077484,23
+"http://dbpedia.org/resource/Mura,_Barcelona",http://dbpedia.org/ontology/timeZone,http://dbpedia.org/resource/Central_European_Summer_Time,Correct,54,122.4945352077484,23
+"http://dbpedia.org/resource/Mura,_Barcelona",http://dbpedia.org/ontology/isPartOf,http://dbpedia.org/resource/Province_of_Barcelona,Correct,54,122.4945352077484,23
+http://dbpedia.org/resource/Spain,http://dbpedia.org/ontology/ethnicGroupsInYear,2015,I Don't Know,55,119.35136342048644,23
+http://dbpedia.org/resource/Spain,http://dbpedia.org/property/timeZone,CET,Correct,55,119.35136342048644,23
+http://dbpedia.org/resource/Spain,http://dbpedia.org/property/populationEstimateYear,2015,Correct,55,119.35136342048644,23
+http://dbpedia.org/resource/Spain,http://dbpedia.org/property/gdpNominal,1.23E12,I Don't Know,55,119.35136342048644,23
+http://dbpedia.org/resource/Spain,http://dbpedia.org/property/gdpNominalYear,2014,Correct,55,119.35136342048644,23
+http://dbpedia.org/resource/Stratified_squamous_epithelium,http://www.w3.org/2000/01/rdf-schema#comment,"A stratified squamous epithelium consists of squamous (flattened) epithelial cells arranged in layers upon a basal membrane. Only one layer is in contact with the basement membrane; the other layers adhere to one another to maintain structural integrity. Although this epithelium is referred to as squamous, many cells within the layers may not be flattened; this is due to the convention of naming epithelia according to the cell type at the surface.",Correct,56,52.313507318496704,23
+http://dbpedia.org/resource/Stratified_squamous_epithelium,http://dbpedia.org/ontology/abstract,"A stratified squamous epithelium consists of squamous (flattened) epithelial cells arranged in layers upon a basal membrane. Only one layer is in contact with the basement membrane; the other layers adhere to one another to maintain structural integrity. Although this epithelium is referred to as squamous, many cells within the layers may not be flattened; this is due to the convention of naming epithelia according to the cell type at the surface. In the deeper layers, the cells may be columnar or cuboidal.. There are no intercellular spaces. This type of epithelium is well suited to areas in the body subject to constant abrasion, as it is the thickest and layers can be sequentially sloughed off and replaced before the basement membrane is exposed. It forms the outermost layer of the skin and the inner lining of the mouth, esophagus, and vagina.",Correct,56,52.313507318496704,23
+http://dbpedia.org/resource/Stratified_squamous_epithelium,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Stratified_squamous_epithelium,Correct,56,52.313507318496704,23
+http://dbpedia.org/resource/Charles_Borromeo_(athlete),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Asian_Games_medalists_in_athletics_(track_and_field),Correct,57,62190.10564661026,23
+http://dbpedia.org/resource/Maseru,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/Lesotho,Correct,58,96.95125341415404,24
+http://dbpedia.org/resource/Maseru,http://dbpedia.org/property/subdivisionName,http://dbpedia.org/resource/Lesotho,Correct,58,96.95125341415404,24
+http://dbpedia.org/resource/Maseru,http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/Districts_of_Lesotho,Incorrect,58,96.95125341415404,24
+"http://dbpedia.org/resource/John_of_Eltham,_Earl_of_Cornwall",http://dbpedia.org/property/years,--10-06,I Don't Know,59,435.7811348438263,24
+"http://dbpedia.org/resource/John_of_Eltham,_Earl_of_Cornwall",http://xmlns.com/foaf/0.1/name,Earl Of Cornwall John of Eltham,Correct,59,435.7811348438263,24
+"http://dbpedia.org/resource/John_of_Eltham,_Earl_of_Cornwall",http://dbpedia.org/property/dateOfBirth,1316-08-25,Incorrect,59,435.7811348438263,24
+"http://dbpedia.org/resource/John_of_Eltham,_Earl_of_Cornwall",http://purl.org/dc/elements/1.1/description,English Earl,Correct,59,435.7811348438263,24
+"http://dbpedia.org/resource/John_of_Eltham,_Earl_of_Cornwall",http://dbpedia.org/property/reason,Elevation to Dukedom,Correct,59,435.7811348438263,24
+http://dbpedia.org/resource/Battle_of_Belleau_Wood,http://dbpedia.org/property/strength,5,I Don't Know,60,641.124749660492,24
+http://dbpedia.org/resource/Battle_of_Belleau_Wood,http://xmlns.com/foaf/0.1/name,Battle of Belleau Wood,Correct,60,641.124749660492,24
+http://dbpedia.org/resource/Battle_of_Belleau_Wood,http://www.w3.org/2003/01/geo/wgs84_pos#long,3.29,I Don't Know,60,641.124749660492,24
+http://dbpedia.org/resource/Battle_of_Belleau_Wood,http://dbpedia.org/ontology/causalties,"1,811 killed",Correct,60,641.124749660492,24
+http://dbpedia.org/resource/Battle_of_Belleau_Wood,http://dbpedia.org/property/commander,Crown Prince Wilhelm,Incorrect,60,641.124749660492,24
+http://dbpedia.org/resource/Niger_Coast_Protectorate,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Pound_sterling,Correct,61,61.13841700553894,24
+http://dbpedia.org/resource/Niger_Coast_Protectorate,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Akwa_Akpa,Incorrect,61,61.13841700553894,24
+"http://dbpedia.org/resource/Horicon,_New_York",http://dbpedia.org/property/coordinatesRegion,US-NY,Correct,62,306.4938967227936,24
+"http://dbpedia.org/resource/Horicon,_New_York",http://dbpedia.org/property/blank1Name,GNIS feature ID,Correct,62,306.4938967227936,24
+"http://dbpedia.org/resource/Horicon,_New_York",http://dbpedia.org/ontology/timeZone,http://dbpedia.org/resource/Eastern_Time_Zone,Correct,62,306.4938967227936,24
+"http://dbpedia.org/resource/Horicon,_New_York",http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Towns_in_New_York,Correct,62,306.4938967227936,24
+"http://dbpedia.org/resource/Horicon,_New_York",http://dbpedia.org/property/blankName,http://dbpedia.org/resource/Federal_Information_Processing_Standard,Correct,62,306.4938967227936,24
+http://dbpedia.org/resource/Argentina,http://www.w3.org/2000/01/rdf-schema#label,Argentina,Correct,63,44.40914845466614,24
+http://dbpedia.org/resource/Argentina,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Argentine_peso,Correct,63,44.40914845466614,24
+http://dbpedia.org/resource/Argentina,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Buenos_Aires,Correct,63,44.40914845466614,24
+http://dbpedia.org/resource/Pha_Taem_National_Park,http://dbpedia.org/property/latNs,N,Correct,64,197.0738034248352,24
+http://dbpedia.org/resource/Pha_Taem_National_Park,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:National_parks_of_Thailand,Correct,64,197.0738034248352,24
+http://dbpedia.org/resource/Pha_Taem_National_Park,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Thailand,Correct,64,197.0738034248352,24
+http://dbpedia.org/resource/Pha_Taem_National_Park,http://dbpedia.org/property/photo,Pha taem figures1.JPG,Correct,64,197.0738034248352,24
+http://dbpedia.org/resource/Pha_Taem_National_Park,http://dbpedia.org/property/latD,15,Correct,64,197.0738034248352,24
+http://dbpedia.org/resource/List_of_Crayon_Shin-chan_episodes_(2012–present),http://dbpedia.org/property/englishtitlea,Special Training for Shiro,Correct,65,85.23177719116211,27
+http://dbpedia.org/resource/List_of_Crayon_Shin-chan_episodes_(2012–present),http://dbpedia.org/property/romajititleb,Tezukuri Gyōza da zo,I Don't Know,65,85.23177719116211,27
+http://dbpedia.org/resource/List_of_Crayon_Shin-chan_episodes_(2012–present),http://dbpedia.org/property/episodenumber,759,Incorrect,65,85.23177719116211,27
+http://dbpedia.org/resource/List_of_Crayon_Shin-chan_episodes_(2012–present),http://dbpedia.org/property/kanjititlec,金環日食だゾ,I Don't Know,65,85.23177719116211,27
+http://dbpedia.org/resource/List_of_Crayon_Shin-chan_episodes_(2012–present),http://dbpedia.org/property/romajititlea,Suika wo Hiyasu zo,I Don't Know,65,85.23177719116211,27
+http://dbpedia.org/resource/Ljungby,http://dbpedia.org/property/augRecordLowC,-0.7,I Don't Know,66,358.84011483192444,27
+http://dbpedia.org/resource/Ljungby,http://dbpedia.org/property/source,SMHI Monthly Data 2002-2014,Correct,66,358.84011483192444,27
+http://dbpedia.org/resource/Ljungby,http://dbpedia.org/property/longm,56,Correct,66,358.84011483192444,27
+http://dbpedia.org/resource/Ljungby,http://dbpedia.org/property/junRecordLowC,-2.9,Correct,66,358.84011483192444,27
+http://dbpedia.org/resource/Ljungby,http://dbpedia.org/property/precipitationColour,green,Incorrect,66,358.84011483192444,27
+http://dbpedia.org/resource/Hermann_Glöckner,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Dresden,Correct,67,19.14078426361084,28
+http://dbpedia.org/resource/Mali_Empire,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Copper,Correct,68,228.0273368358612,28
+http://dbpedia.org/resource/Mali_Empire,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Kangaba,Incorrect,68,228.0273368358612,28
+http://dbpedia.org/resource/Mali_Empire,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Gold,Correct,68,228.0273368358612,28
+http://dbpedia.org/resource/Mali_Empire,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Shell_money,I Don't Know,68,228.0273368358612,28
+http://dbpedia.org/resource/Mali_Empire,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Salt,Correct,68,228.0273368358612,28
+http://dbpedia.org/resource/Sun_Media,http://dbpedia.org/ontology/keyPerson,http://dbpedia.org/resource/Pierre_Karl_Péladeau,Correct,69,29.517642736434937,28
+http://dbpedia.org/resource/Salamanca,http://dbpedia.org/property/janPrecipitationDays,6,Incorrect,70,269.30592679977417,28
+http://dbpedia.org/resource/Salamanca,http://dbpedia.org/property/website,http://www.salamanca.es/,I Don't Know,70,269.30592679977417,28
+http://dbpedia.org/resource/Salamanca,http://dbpedia.org/property/utcOffsetDst,+2,Correct,70,269.30592679977417,28
+http://dbpedia.org/resource/Salamanca,http://dbpedia.org/property/latm,58,Incorrect,70,269.30592679977417,28
+http://dbpedia.org/resource/Salamanca,http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/Province,Correct,70,269.30592679977417,28
+http://dbpedia.org/resource/Çerkezköy,http://www.w3.org/2000/01/rdf-schema#label,Çerkezköy,Correct,71,5.603808164596558,28
+http://dbpedia.org/resource/Gangakhed,http://www.w3.org/2000/01/rdf-schema#label,Gangakhed,Correct,72,3.475410223007202,28
+http://dbpedia.org/resource/Sakyo_Komatsu,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Osaka,Correct,73,29.565305471420288,28
+http://dbpedia.org/resource/Sakyo_Komatsu,http://dbpedia.org/ontology/notableWork,http://dbpedia.org/resource/Japan_Sinks,Correct,73,29.565305471420288,28
+http://dbpedia.org/resource/Sakyo_Komatsu,http://dbpedia.org/ontology/nationality,http://dbpedia.org/resource/Japanese_people,Correct,73,29.565305471420288,28
+http://dbpedia.org/resource/Sakyo_Komatsu,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Science_fiction,Correct,73,29.565305471420288,28
+http://dbpedia.org/resource/Nuku_Hiva,http://dbpedia.org/ontology/archipelago,http://dbpedia.org/resource/Marquesas_Islands,Correct,74,112.56295680999756,28
+http://dbpedia.org/resource/Nuku_Hiva,http://www.w3.org/2000/01/rdf-schema#label,Nuku Hiva,Correct,74,112.56295680999756,28
+http://dbpedia.org/resource/Nuku_Hiva,http://dbpedia.org/property/country,http://dbpedia.org/resource/France,Incorrect,74,112.56295680999756,28
+http://dbpedia.org/resource/Nuku_Hiva,http://dbpedia.org/property/countryAdminDivisions,http://dbpedia.org/resource/French_Polynesia,Correct,74,112.56295680999756,28
+http://dbpedia.org/resource/Croatia,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Member_states_of_the_Union_for_the_Mediterranean,Incorrect,75,118.08265542984007,28
+http://dbpedia.org/resource/Croatia,http://dbpedia.org/property/governmentType,http://dbpedia.org/resource/Constitutional_republic,Correct,75,118.08265542984007,28
+http://dbpedia.org/resource/Croatia,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Member_states_of_NATO,Correct,75,118.08265542984007,28
+http://dbpedia.org/resource/Croatia,http://dbpedia.org/ontology/demonym,Croatian,Correct,75,118.08265542984007,28
+http://dbpedia.org/resource/Croatia,http://dbpedia.org/property/legislature,http://dbpedia.org/resource/Sabor,Correct,75,118.08265542984007,28
+http://dbpedia.org/resource/Philippe_Bena,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Paris,Correct,76,70.49826264381409,28
+http://dbpedia.org/resource/Jaime_Marquet,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Paris,Correct,77,43.333669900894165,28
+"http://dbpedia.org/resource/Shooting_at_the_1900_Summer_Olympics_–_Men's_300_metre_free_rifle,_standing",http://dbpedia.org/ontology/bronzeMedalist,http://dbpedia.org/resource/Charles_Paumier_du_Verger,Correct,78,129.30893206596377,28
+"http://dbpedia.org/resource/Shooting_at_the_1900_Summer_Olympics_–_Men's_300_metre_free_rifle,_standing",http://dbpedia.org/ontology/silverMedalist,http://dbpedia.org/resource/Ole_Østmo,Correct,78,129.30893206596377,28
+http://dbpedia.org/resource/Recordland,http://dbpedia.org/property/products,"Compact Discs, DVDs",Correct,79,27.511651277542114,28
+http://dbpedia.org/resource/Recordland,http://dbpedia.org/property/locationCity,Caracas,Correct,79,27.511651277542114,28
+http://dbpedia.org/resource/Recordland,http://dbpedia.org/ontology/parentCompany,http://dbpedia.org/resource/Empresas_1BC,Correct,79,27.511651277542114,28
+http://dbpedia.org/resource/Recordland,http://dbpedia.org/property/keyPeople,"Marcel Granier, President Empresas 1BC",Correct,79,27.511651277542114,28
+http://dbpedia.org/resource/Recordland,http://dbpedia.org/property/industry,http://dbpedia.org/resource/Retailing,Correct,79,27.511651277542114,28
+http://dbpedia.org/resource/Arnold_Schwarzenegger,http://dbpedia.org/ontology/lieutenant,http://dbpedia.org/resource/Cruz_Bustamante,Correct,80,101.2600724697113,28
+http://dbpedia.org/resource/Arnold_Schwarzenegger,http://www.w3.org/2000/01/rdf-schema#label,Arnold Schwarzenegger,Correct,80,101.2600724697113,28
+http://dbpedia.org/resource/Arnold_Schwarzenegger,http://xmlns.com/foaf/0.1/name,Arnold Schwarzenegger,Correct,80,101.2600724697113,28
+http://dbpedia.org/resource/Arnold_Schwarzenegger,http://dbpedia.org/property/name,Arnold Schwarzenegger,Correct,80,101.2600724697113,28
+http://dbpedia.org/resource/Arnold_Schwarzenegger,http://www.w3.org/2000/01/rdf-schema#comment,"Arnold Alois Schwarzenegger (/ˈʃwɔrtsənɛɡər/; German: [ˈaɐnɔlt ˈalɔʏs ˈʃvaɐtsənɛɡɐ]; born July 30, 1947) is an Austrian-American actor, model, producer, director, activist, businessman, investor, writer, philanthropist, former professional bodybuilder, and politician. Schwarzenegger served two terms as the 38th Governor of California from 2003 until 2011.Schwarzenegger began weight training at the age of 15. He won the Mr. Universe title at age 20 and went on to win the Mr.",Correct,80,101.2600724697113,28
+http://dbpedia.org/resource/Giorgos_Karagounis,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Greece_international_footballers,Correct,81,55.22366952896118,28
+http://dbpedia.org/resource/Giorgos_Karagounis,http://dbpedia.org/ontology/team,http://dbpedia.org/resource/S.L._Benfica,Correct,81,55.22366952896118,28
+http://dbpedia.org/resource/Giorgos_Karagounis,http://dbpedia.org/property/fullname,Georgios Karagounis,Correct,81,55.22366952896118,28
+http://dbpedia.org/resource/Giorgos_Karagounis,http://dbpedia.org/property/caps,55,Incorrect,81,55.22366952896118,28
+http://dbpedia.org/resource/Giorgos_Karagounis,http://dbpedia.org/property/clubs,http://dbpedia.org/resource/S.L._Benfica,Correct,81,55.22366952896118,28
+http://dbpedia.org/resource/Kabul,http://dbpedia.org/property/sepHumidity,39,Correct,82,134.8838803768158,28
+http://dbpedia.org/resource/Kabul,http://dbpedia.org/property/marRainDays,10,Correct,82,134.8838803768158,28
+http://dbpedia.org/resource/Kabul,http://dbpedia.org/property/yearPrecipitationMm,312,Correct,82,134.8838803768158,28
+http://dbpedia.org/resource/Kabul,http://dbpedia.org/property/augPrecipitationMm,1.6,Correct,82,134.8838803768158,28
+http://dbpedia.org/resource/Kabul,http://dbpedia.org/property/octMeanC,13.1,Correct,82,134.8838803768158,28
+"http://dbpedia.org/resource/Kalash,_Ardabil",http://dbpedia.org/property/pushpinMap,Iran,Correct,83,23.20685386657715,28
+"http://dbpedia.org/resource/Kalash,_Ardabil",http://dbpedia.org/property/latns,N,Correct,83,23.20685386657715,28
+"http://dbpedia.org/resource/Kalash,_Ardabil",http://dbpedia.org/property/timezone,http://dbpedia.org/resource/Iran_Standard_Time,Correct,83,23.20685386657715,28
+"http://dbpedia.org/resource/Kalash,_Ardabil",http://dbpedia.org/ontology/country,http://dbpedia.org/resource/Iran,Correct,83,23.20685386657715,28
+"http://dbpedia.org/resource/Kalash,_Ardabil",http://dbpedia.org/property/longd,48,Correct,83,23.20685386657715,28
+http://dbpedia.org/resource/Netviewer,http://dbpedia.org/property/industry,http://dbpedia.org/resource/Information_technology,Correct,84,111.60488176345824,28
+http://dbpedia.org/resource/Netviewer,http://dbpedia.org/property/industry,http://dbpedia.org/resource/Information_Technology,Correct,84,111.60488176345824,28
+http://dbpedia.org/resource/Netviewer,http://dbpedia.org/property/location,"Karlsruhe,",Correct,84,111.60488176345824,28
+http://dbpedia.org/resource/Netviewer,http://dbpedia.org/property/homepage,http://netviewer.com,Correct,84,111.60488176345824,28
+http://dbpedia.org/resource/Netviewer,http://dbpedia.org/property/foundation,2001,Correct,84,111.60488176345824,28
+http://dbpedia.org/resource/11th_Ohio_Cavalry,http://dbpedia.org/ontology/notableCommander,http://dbpedia.org/resource/William_O._Collins,Correct,85,106.7178075313568,28
+http://dbpedia.org/resource/11th_Ohio_Cavalry,http://dbpedia.org/ontology/commandStructure,http://dbpedia.org/resource/Department_of_Kansas,Correct,85,106.7178075313568,28
+http://dbpedia.org/resource/Karat_Rural_District,http://www.w3.org/2000/01/rdf-schema#label,Karat Rural District,Correct,86,4.633625268936157,28
+http://dbpedia.org/resource/Turkish_War_of_Independence,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:History_of_Greece_(1909–24),Incorrect,87,297.1379630565644,28
+http://dbpedia.org/resource/Turkish_War_of_Independence,http://dbpedia.org/ontology/combatant,*French West Africa,I Don't Know,87,297.1379630565644,28
+http://dbpedia.org/resource/Turkish_War_of_Independence,http://dbpedia.org/property/casualties,"~500
+Total: ~112,315",I Don't Know,87,297.1379630565644,28
+http://dbpedia.org/resource/Turkish_War_of_Independence,http://dbpedia.org/ontology/causalties,"7,000-22,000 prisoners",Correct,87,297.1379630565644,28
+http://dbpedia.org/resource/Turkish_War_of_Independence,http://dbpedia.org/ontology/commander,http://dbpedia.org/resource/Charles_Harington_Harington,Correct,87,297.1379630565644,28
+http://dbpedia.org/resource/Magadan,http://dbpedia.org/property/aprRecordHighC,9.7,I Don't Know,88,141.7214424610138,28
+http://dbpedia.org/resource/Magadan,http://dbpedia.org/property/postalCodes,685000,Correct,88,141.7214424610138,28
+http://dbpedia.org/resource/Magadan,http://www.georss.org/georss/point,59.56666666666667 150.8,Correct,88,141.7214424610138,28
+http://dbpedia.org/resource/Magadan,http://dbpedia.org/property/febSnowDays,14,Correct,88,141.7214424610138,28
+http://dbpedia.org/resource/Magadan,http://dbpedia.org/property/popLatestDate,January 2014,Correct,88,141.7214424610138,28
+http://dbpedia.org/resource/Kairana_(Assembly_constituency),http://dbpedia.org/property/district,http://dbpedia.org/resource/Shamli_district,Correct,89,22.43829131126404,28
+http://dbpedia.org/resource/Kairana_(Assembly_constituency),http://www.w3.org/2000/01/rdf-schema#label,Kairana (Assembly constituency),Correct,89,22.43829131126404,28
+http://dbpedia.org/resource/China,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Renminbi,Correct,90,22.38981366157532,28
+http://dbpedia.org/resource/China,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Beijing,Correct,90,22.38981366157532,28
+http://dbpedia.org/resource/China,http://www.w3.org/2000/01/rdf-schema#label,China,Correct,90,22.38981366157532,28
+http://dbpedia.org/resource/Equatorial_Guinea,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Malabo,Correct,91,27.98705673217773,28
+http://dbpedia.org/resource/Equatorial_Guinea,http://xmlns.com/foaf/0.1/name,Equatorial Guinea,Correct,91,27.98705673217773,28
+http://dbpedia.org/resource/Equatorial_Guinea,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Central_African_CFA_franc,Correct,91,27.98705673217773,28
+http://dbpedia.org/resource/Cyprus,http://dbpedia.org/ontology/leader,http://dbpedia.org/resource/Nicos_Anastasiades,Correct,92,114.66360092163086,28
+http://dbpedia.org/resource/Cyprus,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Cyprus.svg?width=300,Correct,92,114.66360092163086,28
+http://dbpedia.org/resource/Cyprus,http://dbpedia.org/ontology/populationTotal,1141166,Incorrect,92,114.66360092163086,28
+http://dbpedia.org/resource/Cyprus,http://www.w3.org/2000/01/rdf-schema#comment,"Cyprus (/ˈsaɪprəs/; Greek: Κύπρος [ˈcipros]; Turkish: Kıbrıs [ˈkɯbɾɯs]), officially the Republic of Cyprus (Greek: Κυπριακή Δημοκρατία; Turkish: Kıbrıs Cumhuriyeti), is an island country in the Eastern Mediterranean Sea. Cyprus is the third largest and third most populous island in the Mediterranean, and a member state of the European Union.",Correct,92,114.66360092163086,28
+http://dbpedia.org/resource/Cyprus,http://dbpedia.org/property/capital,http://dbpedia.org/resource/Nicosia,Correct,92,114.66360092163086,28
+http://dbpedia.org/resource/John_Doyle_(RAF_officer),http://dbpedia.org/property/branch,British Army,Correct,93,232.79384660720825,28
+http://dbpedia.org/resource/John_Doyle_(RAF_officer),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Articles_created_via_the_Article_Wizard,I Don't Know,93,232.79384660720825,28
+http://dbpedia.org/resource/John_Doyle_(RAF_officer),http://dbpedia.org/ontology/thumbnail,"http://en.wikipedia.org/wiki/Special:FilePath/John_E._Doyle_instructing_at_Harling_Road,_Norfolk_in_1917.jpg?width=300",Correct,93,232.79384660720825,28
+http://dbpedia.org/resource/John_Doyle_(RAF_officer),http://dbpedia.org/ontology/deathDate,1974-11-24,Correct,93,232.79384660720825,28
+http://dbpedia.org/resource/John_Doyle_(RAF_officer),http://dbpedia.org/ontology/serviceStartYear,1914,Correct,93,232.79384660720825,28
+http://dbpedia.org/resource/Hereditary_diffuse_leukoencephalopathy_with_spheroids,http://dbpedia.org/ontology/omim,221820,Correct,94,74.9060435295105,28
+http://dbpedia.org/resource/Hereditary_diffuse_leukoencephalopathy_with_spheroids,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Genetic_disorders,Correct,94,74.9060435295105,28
+http://dbpedia.org/resource/Hereditary_diffuse_leukoencephalopathy_with_spheroids,http://xmlns.com/foaf/0.1/name,Hereditary diffuse leukoencephalopathy with spheroids (HDLS),Correct,94,74.9060435295105,28
+http://dbpedia.org/resource/Hereditary_diffuse_leukoencephalopathy_with_spheroids,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Hereditary_diffuse_leukoencephalopathy_with_spheroids,I Don't Know,94,74.9060435295105,28
+http://dbpedia.org/resource/Hereditary_diffuse_leukoencephalopathy_with_spheroids,http://www.w3.org/2000/01/rdf-schema#label,Hereditary diffuse leukoencephalopathy with spheroids,Correct,94,74.9060435295105,28
+http://dbpedia.org/resource/Harry_Vandiver,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Milo_Weaver,Correct,95,67.18590259552002,28
+http://dbpedia.org/resource/Harry_Vandiver,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Ferdinand_Biesele,Correct,95,67.18590259552002,28
+http://dbpedia.org/resource/Alba_Iulia,http://www.w3.org/2000/01/rdf-schema#label,Alba Iulia,Correct,96,3.130080223083496,28
+http://dbpedia.org/resource/Georg_Grimpe,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Leipzig,Correct,97,39.46719074249268,28
+http://dbpedia.org/resource/Los_Pintanos,http://dbpedia.org/property/utcOffset,+1,Correct,98,102.54380631446838,28
+http://dbpedia.org/resource/Los_Pintanos,http://dbpedia.org/ontology/utcOffset,+2,Correct,98,102.54380631446838,28
+http://dbpedia.org/resource/Los_Pintanos,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Populated_places_in_the_Province_of_Zaragoza,Correct,98,102.54380631446838,28
+http://dbpedia.org/resource/Los_Pintanos,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-city-noun-3,Correct,98,102.54380631446838,28
+http://dbpedia.org/resource/Los_Pintanos,http://dbpedia.org/ontology/isPartOf,http://dbpedia.org/resource/Zaragoza_(province),Correct,98,102.54380631446838,28
+http://dbpedia.org/resource/Ba_Sharik,http://dbpedia.org/property/subdivisionName,http://dbpedia.org/resource/Tus_Rural_District,Correct,99,128.94789958000183,28
+http://dbpedia.org/resource/Ba_Sharik,http://www.w3.org/2003/01/geo/wgs84_pos#long,59.5361,Correct,99,128.94789958000183,28
+http://dbpedia.org/resource/Ba_Sharik,http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/List_of_sovereign_states,Incorrect,99,128.94789958000183,28
+http://dbpedia.org/resource/Ba_Sharik,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Ba_Sharik,Correct,99,128.94789958000183,28
+http://dbpedia.org/resource/Ba_Sharik,http://dbpedia.org/property/timezoneDst,http://dbpedia.org/resource/Iran_Standard_Time,Correct,99,128.94789958000183,28
+"http://dbpedia.org/resource/Brookfield,_New_York",http://dbpedia.org/property/settlementType,http://dbpedia.org/resource/Administrative_divisions_of_New_York,Correct,100,45783.575860500336,28
+"http://dbpedia.org/resource/Brookfield,_New_York",http://dbpedia.org/ontology/governmentType,http://dbpedia.org/resource/Town_council,Correct,100,45783.575860500336,28
+"http://dbpedia.org/resource/Brookfield,_New_York",http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Administrative_divisions_of_New_York,Correct,100,45783.575860500336,28
+http://dbpedia.org/resource/Leipzig,http://dbpedia.org/property/metricFirst,Yes,Correct,101,42.81788730621338,28
+http://dbpedia.org/resource/Leipzig,http://dbpedia.org/property/aprSun,181.7,Correct,101,42.81788730621338,28
+http://dbpedia.org/resource/Leipzig,http://dbpedia.org/property/junRecordHighC,34.8,Correct,101,42.81788730621338,28
+http://dbpedia.org/resource/Leipzig,http://dbpedia.org/property/mayHighC,19,Correct,101,42.81788730621338,28
+http://dbpedia.org/resource/Leipzig,http://dbpedia.org/property/areaCode,341,Correct,101,42.81788730621338,28
+http://dbpedia.org/resource/London,http://dbpedia.org/property/sepHighC,20.8,Correct,102,35.77109432220459,28
+http://dbpedia.org/resource/London,http://dbpedia.org/property/octLowC,10.9,Correct,102,35.77109432220459,28
+http://dbpedia.org/resource/London,http://dbpedia.org/property/caption,White,I Don't Know,102,35.77109432220459,28
+http://dbpedia.org/resource/London,http://dbpedia.org/property/latd,51,Correct,102,35.77109432220459,28
+http://dbpedia.org/resource/London,http://dbpedia.org/property/leaderName,14,I Don't Know,102,35.77109432220459,28
+"http://dbpedia.org/resource/East_London,_Eastern_Cape",http://dbpedia.org/property/longm,52,Correct,103,28.594024896621704,28
+"http://dbpedia.org/resource/East_London,_Eastern_Cape",http://dbpedia.org/property/decSun,239.7,Correct,103,28.594024896621704,28
+"http://dbpedia.org/resource/East_London,_Eastern_Cape",http://dbpedia.org/property/junMeanC,15.4,Correct,103,28.594024896621704,28
+"http://dbpedia.org/resource/East_London,_Eastern_Cape",http://dbpedia.org/property/metricFirst,Yes,Correct,103,28.594024896621704,28
+"http://dbpedia.org/resource/East_London,_Eastern_Cape",http://dbpedia.org/property/censuscode,260113,Correct,103,28.594024896621704,28
+http://dbpedia.org/resource/Burgersdorp,http://dbpedia.org/property/leaderParty,http://dbpedia.org/resource/African_National_Congress,Correct,104,84.54550671577454,28
+http://dbpedia.org/resource/Burgersdorp,http://www.w3.org/2000/01/rdf-schema#label,Burgersdorp,Correct,104,84.54550671577454,28
+http://dbpedia.org/resource/Linn_Gossé,http://dbpedia.org/ontology/club,http://dbpedia.org/resource/Randers_HK,Correct,105,107.20445919036864,28
+http://dbpedia.org/resource/Linn_Gossé,http://dbpedia.org/ontology/club,http://dbpedia.org/resource/Tertnes_IL,Correct,105,107.20445919036864,28
+http://dbpedia.org/resource/Sarah_Silverman,http://xmlns.com/foaf/0.1/name,Sarah Kate Silverman,Correct,106,243.55104041099548,28
+http://dbpedia.org/resource/Sarah_Silverman,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Steve_Martin,Correct,106,243.55104041099548,28
+http://dbpedia.org/resource/Sarah_Silverman,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Daniel_Dickey,Correct,106,243.55104041099548,28
+http://dbpedia.org/resource/Sarah_Silverman,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Comedy_music,Incorrect,106,243.55104041099548,28
+http://dbpedia.org/resource/Sarah_Silverman,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/United_States,Correct,106,243.55104041099548,28
+http://dbpedia.org/resource/Code_Two,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,107,48.22859811782837,28
+http://dbpedia.org/resource/Code_Two,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Correct,107,48.22859811782837,28
+http://dbpedia.org/resource/Code_Two,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_films,Correct,107,48.22859811782837,28
+http://dbpedia.org/resource/Code_Two,http://dbpedia.org/ontology/abstract,"Code Two is a 1953 film about men training to be motorcycle cops. It stars Ralph Meeker, Sally Forrest, Elaine Stewart and Robert Horton and was directed by Fred M. Wilcox.",Correct,107,48.22859811782837,28
+http://dbpedia.org/resource/Car_and_Driver,http://dbpedia.org/ontology/language,http://dbpedia.org/resource/Spanish_language,Incorrect,108,51.49012470245361,28
+http://dbpedia.org/resource/Esso_Atlantic_class_supertankers,http://dbpedia.org/property/shipBuilder,http://dbpedia.org/resource/Ariake,Incorrect,109,503.87630796432495,28
+http://dbpedia.org/resource/Esso_Atlantic_class_supertankers,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Esso_Pacific.jpg?width=300,Incorrect,109,503.87630796432495,28
+http://dbpedia.org/resource/Esso_Atlantic_class_supertankers,http://dbpedia.org/property/shipCapacity,after rename,I Don't Know,109,503.87630796432495,28
+http://dbpedia.org/resource/Esso_Atlantic_class_supertankers,http://dbpedia.org/ontology/builder,http://dbpedia.org/resource/Hitachi_Zosen_Corporation,Correct,109,503.87630796432495,28
+http://dbpedia.org/resource/Esso_Atlantic_class_supertankers,http://dbpedia.org/property/shipHorsepower,45000,Correct,109,503.87630796432495,28
+http://dbpedia.org/resource/Zagreb,http://dbpedia.org/property/source,World Meteorological Organisation,I Don't Know,110,63.96266508102417,28
+http://dbpedia.org/resource/Zagreb,http://dbpedia.org/property/novSnowDays,2,Correct,110,63.96266508102417,28
+http://dbpedia.org/resource/Zagreb,http://dbpedia.org/property/establishedTitle,http://dbpedia.org/resource/Andautonia,Correct,110,63.96266508102417,28
+http://dbpedia.org/resource/Zagreb,http://dbpedia.org/property/janRecordHighC,19.4,Correct,110,63.96266508102417,28
+http://dbpedia.org/resource/Zagreb,http://dbpedia.org/property/julHighC,26.7,Correct,110,63.96266508102417,28
+http://dbpedia.org/resource/Jean_Doujat,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:French_academics,Correct,111,354.3860430717468,28
+http://dbpedia.org/resource/Jean_Doujat,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:French_translators,I Don't Know,111,354.3860430717468,28
+http://dbpedia.org/resource/Jean_Doujat,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1609_births,Correct,111,354.3860430717468,28
+http://dbpedia.org/resource/Jean_Doujat,http://dbpedia.org/property/shortDescription,French lawyer,Correct,111,354.3860430717468,28
+http://dbpedia.org/resource/Jean_Doujat,http://www.w3.org/2000/01/rdf-schema#comment,"Jean Doujat (1609, Toulouse – 27 October 1688, Paris) was a French lawyer, juris consultus, professor of canon law at the Collège royal, docteur-régent at the faculté de droit de Paris, preceptor of the Dauphin and historian. His works include histories of the reign of Louis XIV.He wrote an important Grammaire espagnole abrégée.",Correct,111,354.3860430717468,28
+http://dbpedia.org/resource/Malawi,http://dbpedia.org/ontology/populationTotal,16407000,Correct,112,124.42809772491456,28
+http://dbpedia.org/resource/Malawi,http://dbpedia.org/property/populationEstimate,16407000,Correct,112,124.42809772491456,28
+http://dbpedia.org/resource/Malawi,http://dbpedia.org/ontology/largestCity,http://dbpedia.org/resource/Lilongwe,Correct,112,124.42809772491456,28
+http://dbpedia.org/resource/Malawi,http://www.w3.org/2000/01/rdf-schema#label,Malawi,Correct,112,124.42809772491456,28
+http://dbpedia.org/resource/Malawi,http://dbpedia.org/property/commonName,Malawi,Correct,112,124.42809772491456,28
+http://dbpedia.org/resource/Parliament_of_the_Federation_of_Bosnia_and_Herzegovina,http://dbpedia.org/ontology/politicalPartyInLegislature,http://dbpedia.org/resource/Bosnian_Party,Incorrect,113,369.2758581638336,28
+http://dbpedia.org/resource/Parliament_of_the_Federation_of_Bosnia_and_Herzegovina,http://dbpedia.org/ontology/politicalPartyInLegislature,http://dbpedia.org/resource/Party_for_Bosnia_and_Herzegovina,Correct,113,369.2758581638336,28
+http://dbpedia.org/resource/Parliament_of_the_Federation_of_Bosnia_and_Herzegovina,http://dbpedia.org/ontology/politicalPartyInLegislature,http://dbpedia.org/resource/Alliance_of_Independent_Social_Democrats,I Don't Know,113,369.2758581638336,28
+http://dbpedia.org/resource/Parliament_of_the_Federation_of_Bosnia_and_Herzegovina,http://dbpedia.org/ontology/politicalPartyInLegislature,http://dbpedia.org/resource/Democratic_People's_Union,Correct,113,369.2758581638336,28
+http://dbpedia.org/resource/Parliament_of_the_Federation_of_Bosnia_and_Herzegovina,http://dbpedia.org/ontology/politicalPartyInLegislature,http://dbpedia.org/resource/Democratic_People's_Alliance,Correct,113,369.2758581638336,28
+http://dbpedia.org/resource/List_of_Justices_of_the_Supreme_Court_of_the_United_States,http://dbpedia.org/property/appointer,http://dbpedia.org/resource/Franklin_D._Roosevelt,Correct,114,82.67219614982605,28
+http://dbpedia.org/resource/List_of_Justices_of_the_Supreme_Court_of_the_United_States,http://dbpedia.org/property/appointer,http://dbpedia.org/resource/Abraham_Lincoln,Correct,114,82.67219614982605,28
+http://dbpedia.org/resource/List_of_Justices_of_the_Supreme_Court_of_the_United_States,http://dbpedia.org/property/appointer,http://dbpedia.org/resource/William_Howard_Taft,Correct,114,82.67219614982605,28
+http://dbpedia.org/resource/List_of_Justices_of_the_Supreme_Court_of_the_United_States,http://dbpedia.org/property/appointer,http://dbpedia.org/resource/Woodrow_Wilson,Correct,114,82.67219614982605,28
+http://dbpedia.org/resource/List_of_Justices_of_the_Supreme_Court_of_the_United_States,http://dbpedia.org/property/appointer,http://dbpedia.org/resource/Chester_A._Arthur,Correct,114,82.67219614982605,28
+http://dbpedia.org/resource/Santa_Cruz_de_Tenerife,http://dbpedia.org/property/imageShield,Coat of Arms of Santa Cruz de Tenerife.svg,Correct,115,721.8684306144714,28
+http://dbpedia.org/resource/Santa_Cruz_de_Tenerife,http://dbpedia.org/property/latd,28,Correct,115,721.8684306144714,28
+http://dbpedia.org/resource/Santa_Cruz_de_Tenerife,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Collage_Santa_Cruz_de_Tenerife.jpg?width=300,Correct,115,721.8684306144714,28
+http://dbpedia.org/resource/Santa_Cruz_de_Tenerife,http://dbpedia.org/property/blankInfoSec,Spanish,I Don't Know,115,721.8684306144714,28
+http://dbpedia.org/resource/Santa_Cruz_de_Tenerife,http://dbpedia.org/property/source,http://dbpedia.org/resource/Agencia_Estatal_de_Meteorología,Correct,115,721.8684306144714,28
+http://dbpedia.org/resource/Zürich,http://dbpedia.org/property/neighboringMunicipalities,http://dbpedia.org/resource/Uitikon,Correct,116,185.28935027122495,28
+http://dbpedia.org/resource/Zürich,http://dbpedia.org/property/sepHighC,18.8,Correct,116,185.28935027122495,28
+http://dbpedia.org/resource/Zürich,http://dbpedia.org/property/novSun,59,I Don't Know,116,185.28935027122495,28
+http://dbpedia.org/resource/Zürich,http://dbpedia.org/property/aprSnowCm,3,Incorrect,116,185.28935027122495,28
+http://dbpedia.org/resource/Zürich,http://dbpedia.org/property/febPrecipitationDays,9.3,Incorrect,116,185.28935027122495,28
+http://dbpedia.org/resource/Bárcena_de_Cicero,http://dbpedia.org/ontology/leaderParty,http://dbpedia.org/resource/Regionalist_Party_of_Cantabria,Correct,117,183.3554902076721,28
+http://dbpedia.org/resource/Burkina_Faso,http://dbpedia.org/ontology/populationTotal,17322796,Incorrect,118,68.10067009925842,28
+http://dbpedia.org/resource/Burkina_Faso,http://dbpedia.org/property/populationEstimate,17322796,Incorrect,118,68.10067009925842,28
+http://dbpedia.org/resource/Burkina_Faso,http://dbpedia.org/property/capital,http://dbpedia.org/resource/Ouagadougou,Correct,118,68.10067009925842,28
+http://dbpedia.org/resource/Volhynian_Viceroyalty,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Zhytomyr,Correct,119,206.51063919067383,28
+http://dbpedia.org/resource/Volhynian_Viceroyalty,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Novohrad-Volynskyi,Correct,119,206.51063919067383,28
+http://dbpedia.org/resource/New_Age,http://www.w3.org/2000/01/rdf-schema#label,New Age,Correct,120,3.076819896697998,28
+http://dbpedia.org/resource/United_States,http://dbpedia.org/property/areaLabel,Total Area,Correct,121,561.548065662384,28
+http://dbpedia.org/resource/United_States,http://dbpedia.org/property/efYear,2007,I Don't Know,121,561.548065662384,28
+http://dbpedia.org/resource/United_States,http://dbpedia.org/ontology/language,http://dbpedia.org/resource/Federal_government_of_the_United_States,I Don't Know,121,561.548065662384,28
+http://dbpedia.org/resource/United_States,http://dbpedia.org/ontology/PopulatedPlace/areaTotal,9857305.678806761,Correct,121,561.548065662384,28
+http://dbpedia.org/resource/United_States,http://www.w3.org/2000/01/rdf-schema#comment,"The United States of America (USA), commonly referred to as the United States (U.S.) or America, is a federal republic composed of 50 states, a federal district, five major territories and various possessions. The 48 contiguous states and Washington, D.C., are in central North America between Canada and Mexico. The state of Alaska is located in the northwestern part of North America and the state of Hawaii is an archipelago in the mid-Pacific.",Correct,121,561.548065662384,28
+"http://dbpedia.org/resource/Korita,_Tomislavgrad",http://www.w3.org/2000/01/rdf-schema#label,"Korita, Tomislavgrad",Correct,122,4.3587799072265625,28
+http://dbpedia.org/resource/Stanley_Schumacher,http://dbpedia.org/property/residence,http://dbpedia.org/resource/Drumheller,Correct,123,62.77671265602112,28
+http://dbpedia.org/resource/Tarikmah,http://dbpedia.org/property/subdivisionName,http://dbpedia.org/resource/Qaleh_Ganj_County,Correct,124,24.501604795455933,28
+http://dbpedia.org/resource/Tarikmah,http://dbpedia.org/ontology/isPartOf,http://dbpedia.org/resource/Qaleh_Ganj_County,Correct,124,24.501604795455933,28
+"http://dbpedia.org/resource/Santa_Maria,_California",http://dbpedia.org/ontology/populationAsOf,2010-04-01,Incorrect,125,127.17122626304626,28
+"http://dbpedia.org/resource/Santa_Maria,_California",http://dbpedia.org/property/novMeanF,55.8,Correct,125,127.17122626304626,28
+"http://dbpedia.org/resource/Santa_Maria,_California",http://dbpedia.org/property/subdivisionName,"http://dbpedia.org/resource/Santa_Maria-Santa_Barbara,_CA_Metropolitan_Statistical_Area",Correct,125,127.17122626304626,28
+"http://dbpedia.org/resource/Santa_Maria,_California",http://dbpedia.org/property/sepPrecipitationDays,1.1,Correct,125,127.17122626304626,28
+"http://dbpedia.org/resource/Santa_Maria,_California",http://dbpedia.org/property/junHighF,70.4,Correct,125,127.17122626304626,28
+"http://dbpedia.org/resource/Taylor_County,_Florida",http://dbpedia.org/ontology/countySeat,"http://dbpedia.org/resource/Perry,_Florida",Correct,126,22.07672882080078,28
+http://dbpedia.org/resource/Princess_Maria_Francesca_of_Savoy,http://www.w3.org/2000/01/rdf-schema#label,Princess Maria Francesca of Savoy,Correct,127,144.34763050079346,28
+http://dbpedia.org/resource/Princess_Maria_Francesca_of_Savoy,http://dbpedia.org/ontology/parent,http://dbpedia.org/resource/Victor_Emmanuel_III_of_Italy,Correct,127,144.34763050079346,28
+http://dbpedia.org/resource/Princess_Maria_Francesca_of_Savoy,http://dbpedia.org/property/placeOfBirth,http://dbpedia.org/resource/Kingdom_of_Italy,Correct,127,144.34763050079346,28
+http://dbpedia.org/resource/Princess_Maria_Francesca_of_Savoy,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Mandelieu-la-Napoule,Correct,127,144.34763050079346,28
+http://dbpedia.org/resource/Princess_Maria_Francesca_of_Savoy,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/France,Correct,127,144.34763050079346,28
+http://dbpedia.org/resource/Jasdan_State,http://www.w3.org/2000/01/rdf-schema#label,Jasdan State,Correct,128,3.580744981765747,28
+http://dbpedia.org/resource/Moustapha_Akkad,http://www.w3.org/2000/01/rdf-schema#comment,"Moustapha Al Akkad (Arabic: مصطفى العقاد‎; July 1, 1930 – November 11, 2005) was a Syrian American film producer and director, best known for producing the original series of Halloween films and directing Mohammad, Messenger of God and Lion of the Desert. He was killed along with his daughter Rima Al Akkad Monla in 2005 in Amman, Jordan by a suicide bomber.",Correct,129,93.68883156776428,28
+http://dbpedia.org/resource/Moustapha_Akkad,http://dbpedia.org/property/deathDate,2005-11-11,Correct,129,93.68883156776428,28
+http://dbpedia.org/resource/Moustapha_Akkad,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Aleppo,Correct,129,93.68883156776428,28
+http://dbpedia.org/resource/Moustapha_Akkad,http://dbpedia.org/ontology/activeYearsStartYear,1976,Correct,129,93.68883156776428,28
+http://dbpedia.org/resource/Moustapha_Akkad,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_film_directors,Correct,129,93.68883156776428,28
+http://dbpedia.org/resource/Casey_Desmond,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Musicians_from_Boston,_Massachusetts",Correct,130,203.66446328163147,32
+http://dbpedia.org/resource/Casey_Desmond,http://dbpedia.org/ontology/background,solo_singer,Correct,130,203.66446328163147,32
+http://dbpedia.org/resource/Casey_Desmond,http://xmlns.com/foaf/0.1/name,Casey Desmond,Correct,130,203.66446328163147,32
+http://dbpedia.org/resource/Casey_Desmond,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_female_singer-songwriters,Correct,130,203.66446328163147,32
+http://dbpedia.org/resource/Casey_Desmond,http://dbpedia.org/property/genre,http://dbpedia.org/resource/Indie_electro_pop_rock,Correct,130,203.66446328163147,32
+http://dbpedia.org/resource/Elizabeth_I_of_England,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:People_of_the_French_Wars_of_Religion,Correct,131,131.67307329177856,32
+http://dbpedia.org/resource/Elizabeth_I_of_England,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:17th-century_women,Correct,131,131.67307329177856,32
+http://dbpedia.org/resource/Elizabeth_I_of_England,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Elizabeth_I_of_England,Correct,131,131.67307329177856,32
+http://dbpedia.org/resource/Elizabeth_I_of_England,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:16th-century_English_people,Correct,131,131.67307329177856,32
+http://dbpedia.org/resource/Elizabeth_I_of_England,http://dbpedia.org/property/succession,Queen of England and Ireland,Correct,131,131.67307329177856,32
+http://dbpedia.org/resource/Sanyu,http://www.w3.org/2000/01/rdf-schema#label,Sanyu,Correct,132,3.483975648880005,32
+http://dbpedia.org/resource/Zarangush,http://dbpedia.org/property/populationAsOf,2006,Correct,133,80.55753207206726,32
+http://dbpedia.org/resource/Zarangush,http://dbpedia.org/ontology/isPartOf,http://dbpedia.org/resource/Ilam_Province,Correct,133,80.55753207206726,32
+http://dbpedia.org/resource/Zarangush,http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/Provinces_of_Iran,Incorrect,133,80.55753207206726,32
+http://dbpedia.org/resource/Zarangush,http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/List_of_countries,Incorrect,133,80.55753207206726,32
+http://dbpedia.org/resource/Zarangush,http://dbpedia.org/ontology/isPartOf,http://dbpedia.org/resource/Badreh_District,Correct,133,80.55753207206726,32
+http://dbpedia.org/resource/Frederica_of_Mecklenburg-Strelitz,http://dbpedia.org/ontology/parent,"http://dbpedia.org/resource/Charles_II,_Grand_Duke_of_Mecklenburg-Strelitz",Incorrect,134,383.3108098506928,32
+http://dbpedia.org/resource/Washington_Avenue_Soldier's_Monument_and_Triangle,http://dbpedia.org/property/longDirection,W,Correct,135,131.65632367134094,32
+http://dbpedia.org/resource/Washington_Avenue_Soldier's_Monument_and_Triangle,http://dbpedia.org/property/latDirection,N,Correct,135,131.65632367134094,32
+http://dbpedia.org/resource/Washington_Avenue_Soldier's_Monument_and_Triangle,http://dbpedia.org/property/latDegrees,41,Correct,135,131.65632367134094,32
+http://dbpedia.org/resource/Washington_Avenue_Soldier's_Monument_and_Triangle,http://dbpedia.org/ontology/nearestCity,"http://dbpedia.org/resource/Hackensack,_New_Jersey",Correct,135,131.65632367134094,32
+http://dbpedia.org/resource/Washington_Avenue_Soldier's_Monument_and_Triangle,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/New_York,Correct,135,131.65632367134094,32
+http://dbpedia.org/resource/Osijek_Oblast,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Osijek,Correct,136,50.26677298545837,32
+http://dbpedia.org/resource/DJ_Muggs_production_discography,http://www.w3.org/2000/01/rdf-schema#label,DJ Muggs production discography,Correct,137,5.917107343673706,32
+http://dbpedia.org/resource/Qatur,http://dbpedia.org/ontology/isPartOf,http://dbpedia.org/resource/Khoy_County,Correct,138,1313.0546355247498,32
+http://dbpedia.org/resource/Qatur,http://dbpedia.org/property/subdivisionName,http://dbpedia.org/resource/West_Azerbaijan_Province,Correct,138,1313.0546355247498,32
+http://dbpedia.org/resource/Qatur,http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/Provinces_of_Iran,Incorrect,138,1313.0546355247498,32
+http://dbpedia.org/resource/Qatur,http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/Bakhsh,Incorrect,138,1313.0546355247498,32
+http://dbpedia.org/resource/Qatur,http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/List_of_countries,Incorrect,138,1313.0546355247498,32
+http://dbpedia.org/resource/Anne_Sjerp_Troelstra,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Ieke_Moerdijk,Correct,139,186.1851863861084,32
+http://dbpedia.org/resource/Anne_Sjerp_Troelstra,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Daniel_Leivant,Correct,139,186.1851863861084,32
+http://dbpedia.org/resource/Anne_Sjerp_Troelstra,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Laurina_Verbrugge,Correct,139,186.1851863861084,32
+http://dbpedia.org/resource/Anne_Sjerp_Troelstra,http://dbpedia.org/ontology/doctoralAdvisor,http://dbpedia.org/resource/Arend_Heyting,Correct,139,186.1851863861084,32
+http://dbpedia.org/resource/Frederick_Valentine_Melsheimer,http://dbpedia.org/property/placeOfBirth,http://dbpedia.org/resource/Duchy_of_Brunswick,Correct,140,169.4345510005951,32
+http://dbpedia.org/resource/Frederick_Valentine_Melsheimer,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1749_births,Correct,140,169.4345510005951,32
+http://dbpedia.org/resource/Frederick_Valentine_Melsheimer,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Duchy_of_Brunswick,Correct,140,169.4345510005951,32
+http://dbpedia.org/resource/Frederick_Valentine_Melsheimer,http://xmlns.com/foaf/0.1/givenName,Frederick Valentine,Correct,140,169.4345510005951,32
+http://dbpedia.org/resource/Frederick_Valentine_Melsheimer,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-scientist-noun-1,Correct,140,169.4345510005951,32
+http://dbpedia.org/resource/Haan,http://dbpedia.org/ontology/populationTotal,29193,Correct,141,232.471675157547,32
+http://dbpedia.org/resource/Haan,http://dbpedia.org/property/gemeindeschlüssel,5158008,Correct,141,232.471675157547,32
+http://dbpedia.org/resource/Haan,http://dbpedia.org/ontology/PopulatedPlace/areaTotal,24.22,Correct,141,232.471675157547,32
+http://dbpedia.org/resource/Haan,http://dbpedia.org/property/latDeg,51,Correct,141,232.471675157547,32
+http://dbpedia.org/resource/Haan,http://dbpedia.org/property/postalCode,42781,Correct,141,232.471675157547,32
+http://dbpedia.org/resource/Ulania,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Upazilas_of_Barisal_District,Correct,142,148.98183751106262,32
+http://dbpedia.org/resource/Ulania,http://xmlns.com/foaf/0.1/homepage,http://www.bangladesh.gov.bd/maps/images/barisal/Mehendiganj.gif,Incorrect,142,148.98183751106262,32
+http://dbpedia.org/resource/Ulania,http://dbpedia.org/property/longm,0.60899,Incorrect,142,148.98183751106262,32
+http://dbpedia.org/resource/Ulania,http://dbpedia.org/ontology/timeZone,http://dbpedia.org/resource/Bangladesh_Standard_Time,Correct,142,148.98183751106262,32
+http://dbpedia.org/resource/Ulania,http://dbpedia.org/property/latd,22,Correct,142,148.98183751106262,32
+http://dbpedia.org/resource/Andrew_Kooman,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Human_trafficking_in_Thailand,Correct,143,267.6948757171631,32
+http://dbpedia.org/resource/Andrew_Kooman,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:21st-century_Canadian_dramatists_and_playwrights,Correct,143,267.6948757171631,32
+http://dbpedia.org/resource/Andrew_Kooman,http://xmlns.com/foaf/0.1/name,Andrew Kooman,Correct,143,267.6948757171631,32
+http://dbpedia.org/resource/Andrew_Kooman,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Urban_fantasy_writers,I Don't Know,143,267.6948757171631,32
+http://dbpedia.org/resource/Andrew_Kooman,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Christian_novelists,Correct,143,267.6948757171631,32
+http://dbpedia.org/resource/Sextans_B,http://dbpedia.org/property/name,Sextans B,Correct,144,70.01775169372559,32
+http://dbpedia.org/resource/Sextans_B,http://dbpedia.org/property/epoch,http://dbpedia.org/resource/Epoch_(astronomy),Correct,144,70.01775169372559,32
+http://dbpedia.org/resource/Sextans_B,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Irregular_galaxies,Correct,144,70.01775169372559,32
+http://dbpedia.org/resource/Sextans_B,http://dbpedia.org/property/sizeV,5,I Don't Know,144,70.01775169372559,32
+http://dbpedia.org/resource/Sextans_B,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Dwarf_galaxies,Correct,144,70.01775169372559,32
+http://dbpedia.org/resource/Peter_Kloeppel,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Frankfurt,Correct,145,24.07527637481689,32
+http://dbpedia.org/resource/Sana_Safi,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Kabul,Correct,146,15452.381716489792,32
+http://dbpedia.org/resource/Andrew_Sterett,http://dbpedia.org/property/laterwork,http://dbpedia.org/resource/United_States_Merchant_Marines,Correct,147,2699.1684238910675,32
+http://dbpedia.org/resource/Andrew_Sterett,http://xmlns.com/foaf/0.1/name,Andrew Sterett,Correct,147,2699.1684238910675,32
+http://dbpedia.org/resource/Andrew_Sterett,http://dbpedia.org/property/birthPlace,"Baltimore, Maryland, U.S.",Correct,147,2699.1684238910675,32
+http://dbpedia.org/resource/Andrew_Sterett,http://dbpedia.org/property/deathDate,1807-06-09,Correct,147,2699.1684238910675,32
+http://dbpedia.org/resource/Andrew_Sterett,http://xmlns.com/foaf/0.1/name,"Sterett, Andrew",Correct,147,2699.1684238910675,32
+http://dbpedia.org/resource/Kingdom_of_Burundi,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Burundian_franc,Correct,148,3527.1891951560974,32
+http://dbpedia.org/resource/Kingdom_of_Burundi,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/German_East_African_rupie,Incorrect,148,3527.1891951560974,32
+http://dbpedia.org/resource/Kingdom_of_Burundi,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Gitega,Correct,148,3527.1891951560974,32
+http://dbpedia.org/resource/Kingdom_of_Burundi,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Bujumbura,Incorrect,148,3527.1891951560974,32
+http://dbpedia.org/resource/Kingdom_of_Burundi,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Ruanda-Urundi_franc,Correct,148,3527.1891951560974,32
+"http://dbpedia.org/resource/Troup_County,_Georgia",http://dbpedia.org/ontology/largestCity,"http://dbpedia.org/resource/LaGrange,_Georgia",Correct,149,195.53017163276672,32
+"http://dbpedia.org/resource/Troup_County,_Georgia",http://www.w3.org/2000/01/rdf-schema#label,"Troup County, Georgia",Correct,149,195.53017163276672,32
+"http://dbpedia.org/resource/Troup_County,_Georgia",http://dbpedia.org/ontology/countySeat,"http://dbpedia.org/resource/LaGrange,_Georgia",Correct,149,195.53017163276672,32
+http://dbpedia.org/resource/Don_Matías,http://www.w3.org/2000/01/rdf-schema#label,Don Matías,Correct,150,5.806077480316162,32
+http://dbpedia.org/resource/Mikouya,http://www.w3.org/2000/01/rdf-schema#label,Mikouya,Correct,151,3.0343222618103027,32
+http://dbpedia.org/resource/Chengdu,http://dbpedia.org/property/populationTotal,14047625,Incorrect,152,821.0919587612152,32
+http://dbpedia.org/resource/Chengdu,http://dbpedia.org/property/leaderName,Tang Liangzhi,Correct,152,821.0919587612152,32
+http://dbpedia.org/resource/Chengdu,http://dbpedia.org/property/populationDensityUrbanKm,auto,Incorrect,152,821.0919587612152,32
+http://dbpedia.org/resource/Chengdu,http://dbpedia.org/property/x,870,I Don't Know,152,821.0919587612152,32
+http://dbpedia.org/resource/Chengdu,http://dbpedia.org/property/x,1230,I Don't Know,152,821.0919587612152,32
+"http://dbpedia.org/resource/Wayland,_Kentucky",http://www.w3.org/2000/01/rdf-schema#label,"Wayland, Kentucky",Correct,153,3.581341028213501,32
+http://dbpedia.org/resource/Survival_of_the_Fittest_(song),http://dbpedia.org/property/name,Survival of the Fittest,Correct,154,56.11329197883606,32
+http://dbpedia.org/resource/Survival_of_the_Fittest_(song),http://dbpedia.org/ontology/previousWork,http://dbpedia.org/resource/Shook_Ones_(Part_II),Correct,154,56.11329197883606,32
+http://dbpedia.org/resource/Survival_of_the_Fittest_(song),http://dbpedia.org/property/recorded,1994,Correct,154,56.11329197883606,32
+http://dbpedia.org/resource/Survival_of_the_Fittest_(song),http://dbpedia.org/ontology/recordLabel,http://dbpedia.org/resource/Loud_Records,Correct,154,56.11329197883606,32
+http://dbpedia.org/resource/Survival_of_the_Fittest_(song),http://dbpedia.org/property/writer,http://dbpedia.org/resource/Prodigy_(rapper),Correct,154,56.11329197883606,32
+http://dbpedia.org/resource/Ibarreta,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Settlement,Correct,155,249.44917845726013,32
+http://dbpedia.org/resource/Ibarreta,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Ibarreta,Correct,155,249.44917845726013,32
+http://dbpedia.org/resource/Ibarreta,http://www.georss.org/georss/point,-25.216666666666665 -59.85,Correct,155,249.44917845726013,32
+http://dbpedia.org/resource/Ibarreta,http://dbpedia.org/property/subdivisionType,Country,Incorrect,155,249.44917845726013,32
+http://dbpedia.org/resource/Ibarreta,http://dbpedia.org/property/latns,S,Correct,155,249.44917845726013,32
+http://dbpedia.org/resource/Kastamonu,http://dbpedia.org/property/subdivisionType,Country,Incorrect,156,127.96682786941528,32
+http://dbpedia.org/resource/Kastamonu,http://dbpedia.org/property/longew,E,Correct,156,127.96682786941528,32
+http://dbpedia.org/resource/Kastamonu,http://dbpedia.org/property/leaderTitle,Mayor,Correct,156,127.96682786941528,32
+http://dbpedia.org/resource/Kastamonu,http://dbpedia.org/property/populationDensityBlank1Km,auto,Incorrect,156,127.96682786941528,32
+http://dbpedia.org/resource/Kastamonu,http://dbpedia.org/property/singleLine,Yes,I Don't Know,156,127.96682786941528,32
+http://dbpedia.org/resource/Saravak,http://dbpedia.org/property/coordinatesRegion,IR,Correct,157,951.5809099674224,32
+http://dbpedia.org/resource/Saravak,http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/List_of_countries,Incorrect,157,951.5809099674224,32
+http://dbpedia.org/resource/Saravak,http://dbpedia.org/property/populationTotal,1474,Correct,157,951.5809099674224,32
+http://dbpedia.org/resource/Saravak,http://xmlns.com/foaf/0.1/name,Saravak,Correct,157,951.5809099674224,32
+http://dbpedia.org/resource/Saravak,http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/Bakhsh,Correct,157,951.5809099674224,32
+http://dbpedia.org/resource/Parliament_of_the_Federation_of_Bosnia_and_Herzegovina,http://dbpedia.org/ontology/politicalPartyInLegislature,http://dbpedia.org/resource/Our_Party_(Bosnia_and_Herzegovina),I Don't Know,158,429.57147669792175,32
+http://dbpedia.org/resource/Parliament_of_the_Federation_of_Bosnia_and_Herzegovina,http://dbpedia.org/ontology/politicalPartyInLegislature,http://dbpedia.org/resource/Party_of_Democratic_Progress,Correct,158,429.57147669792175,32
+http://dbpedia.org/resource/Parliament_of_the_Federation_of_Bosnia_and_Herzegovina,http://dbpedia.org/ontology/politicalPartyInLegislature,http://dbpedia.org/resource/Croatian_Party_of_Rights_of_Bosnia_and_Herzegovina,Correct,158,429.57147669792175,32
+http://dbpedia.org/resource/Parliament_of_the_Federation_of_Bosnia_and_Herzegovina,http://dbpedia.org/ontology/politicalPartyOfLeader,http://dbpedia.org/resource/Union_for_a_Better_Future_of_BiH,I Don't Know,158,429.57147669792175,32
+"http://dbpedia.org/resource/Enterprise,_Utah",http://dbpedia.org/property/subdivisionName,"http://dbpedia.org/resource/Washington_County,_Utah",Correct,159,93.2500307559967,32
+"http://dbpedia.org/resource/Enterprise,_Utah",http://dbpedia.org/property/settlementType,http://dbpedia.org/resource/City,Correct,159,93.2500307559967,32
+"http://dbpedia.org/resource/Enterprise,_Utah",http://dbpedia.org/property/longew,W,Correct,159,93.2500307559967,32
+"http://dbpedia.org/resource/Enterprise,_Utah",http://dbpedia.org/property/postalCode,84725,Correct,159,93.2500307559967,32
+"http://dbpedia.org/resource/Enterprise,_Utah",http://dbpedia.org/ontology/PopulatedPlace/areaTotal,7.5109655199744,Correct,159,93.2500307559967,32
+http://dbpedia.org/resource/Heorhiy_Narbut,http://dbpedia.org/ontology/training,http://dbpedia.org/resource/Simon_Hollósy,Correct,160,169.87621092796326,32
+http://dbpedia.org/resource/San_Juan_Comaltepec,http://www.w3.org/2000/01/rdf-schema#label,San Juan Comaltepec,Correct,161,42.80810499191284,32
+http://dbpedia.org/resource/San_Juan_Comaltepec,http://dbpedia.org/ontology/isPartOf,http://dbpedia.org/resource/Oaxaca,Correct,161,42.80810499191284,32
+http://dbpedia.org/resource/San_Juan_Comaltepec,http://dbpedia.org/property/subdivisionName,http://dbpedia.org/resource/Oaxaca,Correct,161,42.80810499191284,32
+http://dbpedia.org/resource/Thomas_N'Kono,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Cameroon,Correct,162,29.01032853126526,32
+http://dbpedia.org/resource/Eddie_Peng,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Taipei,Correct,163,63.0749626159668,32
+http://dbpedia.org/resource/Eddie_Peng,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Taiwan,Correct,163,63.0749626159668,32
+http://dbpedia.org/resource/Dajabón_Province,http://dbpedia.org/property/populationDensity,auto,I Don't Know,164,569.5554733276367,32
+http://dbpedia.org/resource/Medinfar,http://www.w3.org/2000/01/rdf-schema#label,Medinfar,Correct,165,3.252235651016236,32
+http://dbpedia.org/resource/Blaise_Pascal,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Alexis_de_Tocqueville,I Don't Know,166,305.3359942436218,32
+http://dbpedia.org/resource/Blaise_Pascal,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Gottfried_Wilhelm_Leibniz,Correct,166,305.3359942436218,32
+http://dbpedia.org/resource/Blaise_Pascal,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Epictetus,I Don't Know,166,305.3359942436218,32
+http://dbpedia.org/resource/Blaise_Pascal,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/William_James,Correct,166,305.3359942436218,32
+http://dbpedia.org/resource/Blaise_Pascal,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Michel_de_Montaigne,Correct,166,305.3359942436218,32
+http://dbpedia.org/resource/Rafael_Araújo_(basketball),http://dbpedia.org/ontology/college,http://dbpedia.org/resource/BYU_Cougars_men's_basketball,Correct,167,180.6411068439484,32
+http://dbpedia.org/resource/Rafael_Araújo_(basketball),http://dbpedia.org/ontology/league,http://dbpedia.org/resource/Novo_Basquete_Brasil,I Don't Know,167,180.6411068439484,32
+http://dbpedia.org/resource/Rafael_Araújo_(basketball),http://dbpedia.org/ontology/college,http://dbpedia.org/resource/Arizona_Western_College,Correct,167,180.6411068439484,32
+http://dbpedia.org/resource/List_of_Spanish_Republican_divisions,http://dbpedia.org/ontology/commandStructure,http://dbpedia.org/resource/Corps,Correct,168,67.62324619293213,32
+http://dbpedia.org/resource/French_Algeria,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Algiers,Correct,169,55.78468036651611,32
+http://dbpedia.org/resource/French_Algeria,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/French_franc,Correct,169,55.78468036651611,32
+http://dbpedia.org/resource/Once_Upon_a_Time_(TV_series),http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Raphael_Sbarge,Correct,170,293.65835452079773,32
+http://dbpedia.org/resource/Once_Upon_a_Time_(TV_series),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Television_series_set_in_the_2010s,Correct,170,293.65835452079773,32
+http://dbpedia.org/resource/Once_Upon_a_Time_(TV_series),http://dbpedia.org/property/genre,http://dbpedia.org/resource/Adventure_fiction,Correct,170,293.65835452079773,32
+http://dbpedia.org/resource/Once_Upon_a_Time_(TV_series),http://dbpedia.org/property/starring,http://dbpedia.org/resource/Jennifer_Morrison,Correct,170,293.65835452079773,32
+http://dbpedia.org/resource/Once_Upon_a_Time_(TV_series),http://dbpedia.org/property/country,United States,Correct,170,293.65835452079773,32
+http://dbpedia.org/resource/Hobgoblins_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_films,Correct,171,33.606011629104614,32
+http://dbpedia.org/resource/Pynsent_Chernock,http://dbpedia.org/property/title,http://dbpedia.org/resource/Chernock_baronets,Correct,172,109.6255338191986,32
+http://dbpedia.org/resource/Pynsent_Chernock,http://dbpedia.org/property/before,http://dbpedia.org/resource/Lord_Edward_Russell_(1642–1714),Correct,172,109.6255338191986,32
+http://dbpedia.org/resource/Pynsent_Chernock,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1734_deaths,Incorrect,172,109.6255338191986,32
+http://dbpedia.org/resource/Pynsent_Chernock,http://dbpedia.org/property/before,"http://dbpedia.org/resource/Sir_William_Gostwick,_4th_Baronet",Incorrect,172,109.6255338191986,32
+http://dbpedia.org/resource/Pynsent_Chernock,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:British_MPs_1713–15,I Don't Know,172,109.6255338191986,32
+http://dbpedia.org/resource/Ex-Wives_of_Rock,http://dbpedia.org/property/episodenumber,13,Correct,173,64.7451536655426,32
+http://dbpedia.org/resource/Ex-Wives_of_Rock,http://dbpedia.org/property/director,Jameel Bharmal,Correct,173,64.7451536655426,32
+http://dbpedia.org/resource/Ex-Wives_of_Rock,http://dbpedia.org/property/title,So Much Trouble in the World,Correct,173,64.7451536655426,32
+http://dbpedia.org/resource/Ex-Wives_of_Rock,http://dbpedia.org/property/network,http://dbpedia.org/resource/Slice_(TV_channel),Correct,173,64.7451536655426,32
+http://dbpedia.org/resource/Ex-Wives_of_Rock,http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Athena_Lee,Correct,173,64.7451536655426,32
+http://dbpedia.org/resource/Free_Territory_of_Trieste,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Trieste,Correct,174,177.9424819946289,32
+http://dbpedia.org/resource/Free_Territory_of_Trieste,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Triestine_lira,Correct,174,177.9424819946289,32
+http://dbpedia.org/resource/Free_Territory_of_Trieste,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Italian_lira,Correct,174,177.9424819946289,32

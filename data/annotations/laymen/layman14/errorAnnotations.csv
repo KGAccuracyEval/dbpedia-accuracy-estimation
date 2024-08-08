@@ -1,0 +1,121 @@
+Subject,Predicate,Object,Error,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/I_Want_Candy,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2008_singles,Object,3,4.118721961975098,34
+http://dbpedia.org/resource/Anything_Can_Happen,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Paramount_Pictures_films,Object,4,6.651391506195068,34
+http://dbpedia.org/resource/John_M._Gerrard,http://dbpedia.org/property/appointer,http://dbpedia.org/resource/Ben_Nelson,Object,5,2.27345871925354,34
+http://dbpedia.org/resource/Guy_Leverne_Fake,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_military_personnel_of_the_Spanish–American_War,Object,6,4.627474308013916,34
+http://dbpedia.org/resource/Guy_Leverne_Fake,http://dbpedia.org/property/placeOfDeath,"Rutherford, New Jersey",Predicate,6,4.627474308013916,34
+http://dbpedia.org/resource/Drew_Sidora,http://dbpedia.org/ontology/activeYearsEndYear,1995,Object,10,3.4740893840789795,34
+http://dbpedia.org/resource/OneRepublic,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Columbia_Records_artists,Object,11,2.7980711460113525,34
+http://dbpedia.org/resource/Lovin_and_Withers_Cottages,http://dbpedia.org/property/architect,"Lovin & Withers, Inc.",Predicate,14,5.767239332199097,34
+http://dbpedia.org/resource/Lovin_and_Withers_Cottages,http://www.w3.org/2003/01/geo/wgs84_pos#long,-114.046,Object,14,5.767239332199097,34
+http://dbpedia.org/resource/Claude_Shannon,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Danny_Hillis,Object,18,24.93915295600891,34
+http://dbpedia.org/resource/Claude_Shannon,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Bert_Sutherland,Object,18,24.93915295600891,34
+http://dbpedia.org/resource/Moby_Grape,http://dbpedia.org/ontology/associatedMusicalArtist,http://dbpedia.org/resource/The_Electric_Prunes,Predicate,21,13.43341302871704,34
+http://dbpedia.org/resource/Moby_Grape,http://dbpedia.org/ontology/associatedBand,http://dbpedia.org/resource/The_Electric_Prunes,Predicate,21,13.43341302871704,34
+http://dbpedia.org/resource/Moby_Grape,http://dbpedia.org/ontology/recordLabel,http://dbpedia.org/resource/Sundazed_Records,Predicate,21,13.43341302871704,34
+http://dbpedia.org/resource/Moby_Grape,http://dbpedia.org/ontology/recordLabel,http://dbpedia.org/resource/Reprise_Records,Predicate,21,13.43341302871704,34
+http://dbpedia.org/resource/Moby_Grape,http://dbpedia.org/ontology/associatedBand,http://dbpedia.org/resource/The_Rhythm_Dukes,Predicate,21,13.43341302871704,34
+http://dbpedia.org/resource/Chris_Sarandon,http://dbpedia.org/property/birthName,Christopher Sarandon Jr.,Object,22,2.7245678901672363,35
+http://dbpedia.org/resource/Memorial_to_Women_of_the_Confederacy,http://dbpedia.org/ontology/architecturalStyle,http://dbpedia.org/resource/Neoclassical_architecture,Object,25,2.677188873291016,35
+http://dbpedia.org/resource/FEAT_(album),http://dbpedia.org/property/rev,Dusted Magazine,Object,28,8.482328176498413,35
+http://dbpedia.org/resource/FEAT_(album),http://dbpedia.org/property/title,These Things Are Nice,Predicate,28,8.482328176498413,35
+http://dbpedia.org/resource/FEAT_(album),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2012_debut_albums,Object,28,8.482328176498413,35
+http://dbpedia.org/resource/1815_Philadelphia_train_accident,http://dbpedia.org/property/longitude,-1.478,Predicate;Object,29,64.04120945930481,35
+"http://dbpedia.org/resource/United_States_Senate_election_in_Montana,_1922",http://dbpedia.org/property/hasPhotoCollection,"http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/United_States_Senate_election_in_Montana,_1922",Predicate,32,11.01750111579895,35
+"http://dbpedia.org/resource/United_States_Senate_election_in_Montana,_1922",http://dbpedia.org/property/percentage,54.66,Object,32,11.01750111579895,35
+"http://dbpedia.org/resource/United_States_Senate_election_in_Montana,_1922",http://dbpedia.org/property/percentage,8.45,Object,32,11.01750111579895,35
+"http://dbpedia.org/resource/United_States_Senate_election_in_Montana,_1922",http://dbpedia.org/property/previousYear,1916,Object,32,11.01750111579895,35
+http://dbpedia.org/resource/Quicksand_(2003_film),http://dbpedia.org/ontology/country,http://dbpedia.org/resource/Norway,Predicate,33,5.618195056915283,35
+http://dbpedia.org/resource/Quicksand_(2003_film),http://dbpedia.org/property/distributor,http://dbpedia.org/resource/Artisan_Entertainment,Object,33,5.618195056915283,35
+http://dbpedia.org/resource/Quicksand_(2003_film),http://dbpedia.org/property/studio,http://dbpedia.org/resource/Artisan_Entertainment,Object,33,5.618195056915283,35
+http://dbpedia.org/resource/Homotopia,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Object,34,14.438054323196411,35
+http://dbpedia.org/resource/Homotopia,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_LGBT-related_films,Object,34,14.438054323196411,35
+http://dbpedia.org/resource/Homotopia,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_about_anarchism,Object,34,14.438054323196411,35
+http://dbpedia.org/resource/Homotopia,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:LGBT_opposition_to_same-sex_marriage,Object,34,14.438054323196411,35
+http://dbpedia.org/resource/Berlin_Oranienburger_Straße_station,http://dbpedia.org/property/line,http://dbpedia.org/resource/Berlin_Nord-Süd_Tunnel,Object,35,2.363053798675537,35
+http://dbpedia.org/resource/Charles_Mann_(Australian_politician),http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Adelaide,Object,36,1.7336077690124512,35
+http://dbpedia.org/resource/Sylvester_Gilbert,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Dartmouth_College_alumni,Object,38,5.409401655197144,35
+http://dbpedia.org/resource/Sylvester_Gilbert,http://dbpedia.org/property/district,AL,Object,38,5.409401655197144,35
+http://dbpedia.org/resource/Sylvester_Gilbert,http://dbpedia.org/property/after,http://dbpedia.org/resource/Samuel_A._Foot,Object,38,5.409401655197144,35
+http://dbpedia.org/resource/Evangelos_Venizelos,http://dbpedia.org/property/years,1995,Object,39,11.27924633026123,35
+http://dbpedia.org/resource/Evangelos_Venizelos,http://dbpedia.org/ontology/primeMinister,http://dbpedia.org/resource/Lucas_Papademos,Object,39,11.27924633026123,35
+http://dbpedia.org/resource/Evangelos_Venizelos,http://dbpedia.org/property/office,"http://dbpedia.org/resource/Ministry_of_Justice,_Transparency_and_Human_Rights_(Greece)",Object,39,11.27924633026123,35
+http://dbpedia.org/resource/David_Parks_(politician),http://dbpedia.org/property/branch,http://dbpedia.org/resource/United_States_Air_Force,Object,40,4.40123176574707,35
+http://dbpedia.org/resource/David_Parks_(politician),http://dbpedia.org/property/percentage,34.67,Object,40,4.40123176574707,35
+http://dbpedia.org/resource/David_Parks_(politician),http://dbpedia.org/property/party,Republican Party,Object,40,4.40123176574707,35
+http://dbpedia.org/resource/Kirarin_Revolution,http://dbpedia.org/property/network,http://dbpedia.org/resource/BS_Japan,Object,41,2.244307041168213,35
+http://dbpedia.org/resource/Stânca-Costești_Dam,http://dbpedia.org/property/latM,51,Predicate;Object,42,8.468420505523682,35
+http://dbpedia.org/resource/Al-Dhubi,http://dbpedia.org/property/commonName,Dhubi,Object,45,2.602322816848755,35
+http://dbpedia.org/resource/Grand_and_General_Council,http://dbpedia.org/ontology/politicalPartyInLegislature,http://dbpedia.org/resource/Sammarinese_Christian_Democratic_Party,Object,46,12.292139530181885,35
+http://dbpedia.org/resource/Grand_and_General_Council,http://dbpedia.org/ontology/politicalPartyInLegislature,http://dbpedia.org/resource/Party_of_Socialists_and_Democrats,Object,46,12.292139530181885,35
+http://dbpedia.org/resource/Grand_and_General_Council,http://dbpedia.org/ontology/politicalPartyInLegislature,http://dbpedia.org/resource/Union_for_the_Republic_(San_Marino),Object,46,12.292139530181885,35
+http://dbpedia.org/resource/Grand_and_General_Council,http://dbpedia.org/ontology/politicalPartyInLegislature,http://dbpedia.org/resource/Socialist_Party_(San_Marino),Object,46,12.292139530181885,35
+"http://dbpedia.org/resource/Perry_B._Duryea,_Jr.",http://dbpedia.org/property/after,http://dbpedia.org/resource/Stanley_Steingut,Predicate,49,12.606606006622314,35
+"http://dbpedia.org/resource/Perry_B._Duryea,_Jr.",http://dbpedia.org/property/before,"http://dbpedia.org/resource/Irving_L._Price,_Jr.",Predicate,49,12.606606006622314,35
+"http://dbpedia.org/resource/Perry_B._Duryea,_Jr.",http://dbpedia.org/property/spouse,Marie Therese Duryea,Predicate;Object,49,12.606606006622314,35
+"http://dbpedia.org/resource/Perry_B._Duryea,_Jr.",http://dbpedia.org/property/after,1982,Predicate,49,12.606606006622314,35
+http://dbpedia.org/resource/WSBR,http://www.georss.org/georss/point,26.335 -80.26527777777778,Object,50,2.9318878650665283,35
+http://dbpedia.org/resource/WSBR,http://dbpedia.org/property/translator,96.9,Predicate,50,2.9318878650665283,35
+http://dbpedia.org/resource/Novorossiya_Governorate,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Kremenchuk,Predicate,51,3.230384826660156,35
+http://dbpedia.org/resource/Novorossiya_Governorate,http://dbpedia.org/ontology/capital,"http://dbpedia.org/resource/Novomoskovsk,_Dnipropetrovsk_Oblast",Predicate,51,3.230384826660156,35
+http://dbpedia.org/resource/Novorossiya_Governorate,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Kirovohrad,Predicate,51,3.230384826660156,35
+http://dbpedia.org/resource/Michael_P._Sullivan,http://dbpedia.org/ontology/education,http://dbpedia.org/resource/University_of_Minnesota_Law_School,Object,52,4.442089557647705,35
+http://dbpedia.org/resource/Michael_P._Sullivan,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/Marquette_University,Object,52,4.442089557647705,35
+http://dbpedia.org/resource/James_Brokenshire,http://dbpedia.org/ontology/primeMinister,http://dbpedia.org/resource/David_Cameron,Object,53,3.54832124710083,35
+http://dbpedia.org/resource/James_Brokenshire,http://dbpedia.org/property/primeminister,http://dbpedia.org/resource/David_Cameron,Object,53,3.54832124710083,35
+"http://dbpedia.org/resource/Philip_Snowden,_1st_Viscount_Snowden",http://dbpedia.org/property/before,http://dbpedia.org/resource/Winston_Churchill,Predicate,54,3.022615432739258,35
+"http://dbpedia.org/resource/Philip_Snowden,_1st_Viscount_Snowden",http://dbpedia.org/property/after,http://dbpedia.org/resource/Winston_Churchill,Predicate,54,3.022615432739258,35
+http://dbpedia.org/resource/WIVM-LD,http://dbpedia.org/ontology/formerBroadcastNetwork,http://dbpedia.org/resource/Retro_Television_Network,Predicate,55,2.978387355804444,35
+http://dbpedia.org/resource/Drammen_Station,http://dbpedia.org/property/postspan,1,Predicate,56,6.111223459243774,35
+http://dbpedia.org/resource/Drammen_Station,http://dbpedia.org/property/prespan,yes,Predicate,56,6.111223459243774,35
+http://dbpedia.org/resource/Drammen_Station,http://dbpedia.org/property/pre,—,Predicate,56,6.111223459243774,35
+http://dbpedia.org/resource/Drammen_Station,http://dbpedia.org/property/prestation,http://dbpedia.org/resource/Gulskogen_Station,Predicate,56,6.111223459243774,35
+http://dbpedia.org/resource/WFLZ-FM,http://dbpedia.org/property/formerCallsigns,WOJC,Predicate,57,3.953468084335327,35
+http://dbpedia.org/resource/Cubesat_Space_Protocol,http://xmlns.com/foaf/0.1/homepage,http://www.libcsp.org,Object,58,3.608172655105591,35
+http://dbpedia.org/resource/Cubesat_Space_Protocol,http://dbpedia.org/property/author,http://dbpedia.org/resource/AAUSAT3,Predicate,58,3.608172655105591,35
+http://dbpedia.org/resource/11th_Street_Bridge,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Art_Deco_architecture_in_Oklahoma,Predicate,60,109.08789157867432,35
+http://dbpedia.org/resource/11th_Street_Bridge,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Bridges_over_the_Arkansas_River,Predicate,60,109.08789157867432,35
+http://dbpedia.org/resource/11th_Street_Bridge,http://www.w3.org/2000/01/rdf-schema#comment,"The 11th Street Bridge was completed in December 1915 to carry vehicles across the Arkansas River at Tulsa, Oklahoma. Used from 1916 to 1972, it was also a part of U.S. Route 66. Functionally, it has been replaced by the I-244 bridges across the Arkansas. At present, the bridge is in poor structural condition and unsafe even for pedestrians.",Predicate;Object,60,109.08789157867432,35
+http://dbpedia.org/resource/11th_Street_Bridge,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Buildings_and_structures_in_Tulsa,_Oklahoma",Predicate,60,109.08789157867432,35
+http://dbpedia.org/resource/Ralph_DeRose,http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Newark,_New_Jersey",Object,62,2.632542848587036,35
+http://dbpedia.org/resource/David_Fisher_(politician),http://dbpedia.org/ontology/region,"http://dbpedia.org/resource/Brown_County,_Ohio",Predicate,65,10.325801134109495,35
+http://dbpedia.org/resource/David_Fisher_(politician),http://dbpedia.org/ontology/region,"http://dbpedia.org/resource/Clermont_County,_Ohio",Predicate,65,10.325801134109495,35
+http://dbpedia.org/resource/David_Fisher_(politician),http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Ohio,Object,65,10.325801134109495,35
+http://dbpedia.org/resource/David_Fisher_(politician),http://dbpedia.org/ontology/region,"http://dbpedia.org/resource/Clinton_County,_Ohio",Predicate,65,10.325801134109495,35
+http://dbpedia.org/resource/Michael_Chertoff,http://dbpedia.org/property/appointer,http://dbpedia.org/resource/George_H._W._Bush,Object,68,2.676604747772217,35
+http://dbpedia.org/resource/Michael_Chertoff,http://dbpedia.org/property/appointer,http://dbpedia.org/resource/George_W._Bush,Object,68,2.676604747772217,35
+http://dbpedia.org/resource/Martha_Coakley,http://dbpedia.org/ontology/governor,http://dbpedia.org/resource/Charlie_Baker,Object,69,3.047088146209717,35
+http://dbpedia.org/resource/Martha_Coakley,http://dbpedia.org/ontology/governor,http://dbpedia.org/resource/Deval_Patrick,Object,69,3.047088146209717,35
+http://dbpedia.org/resource/101_Dalmatians_II:_Patch's_London_Adventure,http://dbpedia.org/property/producer,http://dbpedia.org/resource/Leslie_Hough,Object,71,4.338451623916626,40
+http://dbpedia.org/resource/Socialist_Party_of_Lithuania,http://dbpedia.org/ontology/leader,http://dbpedia.org/resource/Giedrius_Petružis,Object,72,1.672607660293579,40
+http://dbpedia.org/resource/Frozen_Assets_(novel),http://dbpedia.org/ontology/publicationDate,1964-07-14,Subject,78,1.613915205001831,40
+http://dbpedia.org/resource/Jean-Paul_Sartre,http://dbpedia.org/ontology/philosophicalSchool,http://dbpedia.org/resource/Marxism,Object,87,1.95652174949646,40
+http://dbpedia.org/resource/Forest_of_the_Hanged,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1964_films,Object,92,2.828019142150879,41
+http://dbpedia.org/resource/Dorothy_Appleby,http://dbpedia.org/ontology/activeYearsEndYear,1943,Object,95,3.3215112686157227,41
+http://dbpedia.org/resource/Dorothy_Appleby,http://dbpedia.org/property/yearsActive,1931,Object,95,3.3215112686157227,41
+http://dbpedia.org/resource/Spider-Man_Unlimited,http://dbpedia.org/property/episodenumber,10,Object,96,2.5726044178009038,41
+http://dbpedia.org/resource/Poland_Plus,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2010_establishments_in_Poland,Subject,97,4.926588773727417,41
+http://dbpedia.org/resource/Poland_Plus,http://dbpedia.org/ontology/colour,http://dbpedia.org/resource/Blue,Subject,97,4.926588773727417,41
+http://dbpedia.org/resource/Poland_Plus,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Conservative_parties_in_Poland,Subject,97,4.926588773727417,41
+http://dbpedia.org/resource/Poland_Plus,http://dbpedia.org/property/ideology,http://dbpedia.org/resource/Conservatism,Subject,97,4.926588773727417,41
+http://dbpedia.org/resource/Poland_Plus,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Law_and_Justice,Subject,97,4.926588773727417,41
+http://dbpedia.org/resource/Andrew_Jackson_Montague,http://dbpedia.org/ontology/deathPlace,"http://dbpedia.org/resource/Urbanna,_Virginia",Predicate,98,3.9231348037719727,41
+http://dbpedia.org/resource/Demob_(TV_series),http://dbpedia.org/property/episodenumber,3,Object,100,2.9920482635498047,41
+http://dbpedia.org/resource/Olympia_Snowe,http://dbpedia.org/property/percentage,49.13,Object,106,4.63433051109314,41
+http://dbpedia.org/resource/Olympia_Snowe,http://dbpedia.org/property/termStart,1989-02-24,Object,106,4.63433051109314,41
+http://dbpedia.org/resource/Grand_Duchy_of_Lithuania,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Polish_złoty,Object,108,1.6112456321716309,41
+http://dbpedia.org/resource/Dennis_Lake,http://dbpedia.org/property/residence,"http://dbpedia.org/resource/Blackfoot,_Idaho",Object,110,1.734532356262207,41
+http://dbpedia.org/resource/Studio_7,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_television_programming,Object,113,6.27597713470459,41
+http://dbpedia.org/resource/Studio_7,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_game_shows,Object,113,6.27597713470459,41
+http://dbpedia.org/resource/Studio_7,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Show,Object,113,6.27597713470459,41
+http://dbpedia.org/resource/Studio_7,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2004_American_television_series_endings,Object,113,6.27597713470459,41
+http://dbpedia.org/resource/Studio_7,http://dbpedia.org/ontology/abstract,"""Studio 7"" was also the original developmental title for the NBC drama Studio 60 on the Sunset Strip.Studio 7 is an American game show that aired on The WB during the summer of 2004.Studio 7 was hosted by NY1 anchor Pat Kiernan. Each episode featured seven contestants, mostly college-age, who lived together in New York City for the four days prior to the taping. During this time, they were given some of the material on which the show would quiz them. The show was promoted as a hybrid of game shows and reality television such as The Real World.The WB originally ordered two seasons of Studio 7, with the second season to air immediately after the first. However, the network cancelled plans for a second season during the initial run, due to low ratings.",Object,113,6.27597713470459,41
+http://dbpedia.org/resource/Juan_José_Esparragoza_Moreno,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Sinaloa,Predicate,114,1.626797437667847,41
+http://dbpedia.org/resource/Groningen_Europapark_railway_station,http://dbpedia.org/property/longm,35,Object,122,8.076535701751709,41
+http://dbpedia.org/resource/Groningen_Europapark_railway_station,http://dbpedia.org/property/code,Gerp,Object,122,8.076535701751709,41
+http://dbpedia.org/resource/Beyond_Good_&_Evil_(video_game),http://dbpedia.org/property/title,Heart of darkness,Predicate,123,2.347727060317993,41
+http://dbpedia.org/resource/Reichskommissariat_Ostland,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/De_facto,Object,127,2.78322172164917,41
+"http://dbpedia.org/resource/Upper_Shirley,_Virginia",http://dbpedia.org/property/latDegrees,37,Predicate,131,9.669964790344238,41
+"http://dbpedia.org/resource/Upper_Shirley,_Virginia",http://dbpedia.org/property/designatedOther1NumPosition,bottom,Predicate,131,9.669964790344238,41
+http://dbpedia.org/resource/United_States_District_Court_for_the_Western_District_of_Texas,http://dbpedia.org/property/appointer,http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Jimmy_Carter,Object,139,5.965214967727661,41
+http://dbpedia.org/resource/United_States_District_Court_for_the_Western_District_of_Texas,http://dbpedia.org/property/appointer,—,Predicate;Object,139,5.965214967727661,41

@@ -1,0 +1,60 @@
+Subject,Predicate,Object,Error,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/Slowdive,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Indie_rock,Object,3,5.464049339294434,6
+http://dbpedia.org/resource/WVVW-LP,http://dbpedia.org/property/class,L1,Object,5,5.177925109863281,7
+http://dbpedia.org/resource/Empire_of_the_Ants_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Giant_monster_films,Object,6,8.687238931655884,7
+http://dbpedia.org/resource/Hardcore_(2015_film),http://dbpedia.org/ontology/Work/runtime,90.0,Object,10,3.69018292427063,7
+http://dbpedia.org/resource/Friedrich_von_Rabenau,http://dbpedia.org/property/name,"Rabenau, Friedrich von",Object,25,8.671193838119507,7
+http://dbpedia.org/resource/Friedrich_von_Rabenau,http://dbpedia.org/ontology/deathDate,1945-04-15,Object,25,8.671193838119507,7
+http://dbpedia.org/resource/Friedrich_von_Rabenau,http://xmlns.com/foaf/0.1/name,"Rabenau, Friedrich von",Object,25,8.671193838119507,7
+http://dbpedia.org/resource/David_Cameron,http://dbpedia.org/property/title,http://dbpedia.org/resource/Leader_of_the_Opposition_(United_Kingdom),Object,27,15.0157470703125,7
+http://dbpedia.org/resource/David_Cameron,http://dbpedia.org/property/alternative,Mr Cameron or Sir,Object,27,15.0157470703125,7
+http://dbpedia.org/resource/Duke_Georg_Alexander_of_Mecklenburg-Strelitz,http://dbpedia.org/ontology/parent,http://dbpedia.org/resource/Grand_Duchess_Catherine_Mikhailovna_of_Russia,Object,31,5.265643119812012,8
+http://dbpedia.org/resource/The_Drowsy_Chaperone,http://dbpedia.org/property/productions,2001,Object,33,5.176100015640259,8
+http://dbpedia.org/resource/184th_Pennsylvania_Infantry,http://dbpedia.org/ontology/battle,http://dbpedia.org/resource/Battle_of_Sutherland's_Station,Object,34,5.850014925003052,8
+"http://dbpedia.org/resource/Plaza_Cinema,_Stockport",http://dbpedia.org/ontology/structuralSystem,http://dbpedia.org/resource/Faience,Object,37,3.353020191192627,8
+http://dbpedia.org/resource/Popstars_2015,http://dbpedia.org/property/website,http://www.rtl2.de/sendung/popstars-2015,Object,38,3.025032997131348,8
+http://dbpedia.org/resource/Overture_to_The_Merry_Wives_of_Windsor,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Live_Action_Short_Film_Academy_Award_winners,Object,42,1.9999492168426516,8
+http://dbpedia.org/resource/Teenage_Kicks,http://dbpedia.org/property/length,96.0,Object,51,24.927837133407596,8
+http://dbpedia.org/resource/Teenage_Kicks,http://dbpedia.org/property/length,113.0,Object,51,24.927837133407596,8
+http://dbpedia.org/resource/Teenage_Kicks,http://dbpedia.org/property/headline,Side two,Object,51,24.927837133407596,8
+http://dbpedia.org/resource/Valeriy_Khoroshkovskyi,http://dbpedia.org/property/successor,http://dbpedia.org/resource/Ihor_Kalinin,Object,54,2.417703866958618,9
+http://dbpedia.org/resource/Ernest_Vardanean,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Yerevan,Object,56,2.1304750442504883,9
+http://dbpedia.org/resource/Charles_Mingus,http://dbpedia.org/ontology/associatedBand,http://dbpedia.org/resource/Jimmy_Knepper,Object,61,1.849367618560791,9
+http://dbpedia.org/resource/Allied_occupation_of_Libya,http://dbpedia.org/property/commonName,Libya,Predicate,63,4.017354965209961,9
+http://dbpedia.org/resource/Cidade_Negra,http://dbpedia.org/property/website,http://www.cidadenegra.com.br,Object,68,9.83400297164917,9
+http://dbpedia.org/resource/Spanish_West_Indies,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Santo_Domingo,Object,71,2.67307710647583,11
+http://dbpedia.org/resource/The_Great_Gildersleeve_(film),http://dbpedia.org/property/director,http://dbpedia.org/resource/William_Dorfman,Object,72,2.6893551349639893,11
+http://dbpedia.org/resource/Tank_Girl_(film),http://dbpedia.org/property/extra,http://dbpedia.org/resource/Stomp_(theatrical_show),Object,75,4.634846925735474,11
+http://dbpedia.org/resource/Tank_Girl_(film),http://dbpedia.org/property/title,Shove,Object,75,4.634846925735474,11
+http://dbpedia.org/resource/Edmund_John,http://dbpedia.org/ontology/notableWork,http://dbpedia.org/resource/Flute,Object,76,3.913187742233277,11
+http://dbpedia.org/resource/Edmund_John,http://dbpedia.org/ontology/notableWork,http://dbpedia.org/resource/Symphonie,Object,76,3.913187742233277,11
+http://dbpedia.org/resource/Edmund_John,http://dbpedia.org/ontology/notableWork,http://dbpedia.org/resource/Temple,Object,76,3.913187742233277,11
+http://dbpedia.org/resource/Dead_Game,http://dbpedia.org/property/caption,Film poster,Predicate,79,4.6734778881073,11
+http://dbpedia.org/resource/The_Angry_God,http://dbpedia.org/property/screenplay,Lester Crocker,Object,86,2.536531925201416,11
+"http://dbpedia.org/resource/Déjà_Vu_(Crosby,_Stills,_Nash_&_Young_album)",http://dbpedia.org/property/title,http://dbpedia.org/resource/Kent_Music_Report,Predicate;Object,89,5.682557106018066,12
+"http://dbpedia.org/resource/Déjà_Vu_(Crosby,_Stills,_Nash_&_Young_album)",http://dbpedia.org/ontology/Work/runtime,36.4,Object,89,5.682557106018066,12
+http://dbpedia.org/resource/I_Lived_with_You,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/(1933).jpg?width=300,Object,92,2.9084737300872803,13
+http://dbpedia.org/resource/My_Life_in_Ruins,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Playtone_films,Object,93,2.2074286937713623,13
+http://dbpedia.org/resource/Tempted_(Cast_novel),http://dbpedia.org/ontology/publicationDate,2009-10-23,Object,102,2.052520036697388,15
+http://dbpedia.org/resource/Inukai_Tsuyoshi,http://www.w3.org/2000/01/rdf-schema#comment,"Inukai Tsuyoshi (犬養 毅, 4 June 1855 – 15 May 1932) was a Japanese politician, cabinet minister, and Prime Minister of Japan from 13 December 1931 to 15 May 1932.",Object,110,2.9674620628356934,15
+http://dbpedia.org/resource/Feline_Frame-Up,http://dbpedia.org/property/series,Looney Tunes  and,Object,112,3.808130025863648,16
+"http://dbpedia.org/resource/The_Saint,_the_Surfer,_and_the_CEO",http://dbpedia.org/ontology/numberOfPages,217,Object,114,4.7569780349731445,16
+"http://dbpedia.org/resource/The_Saint,_the_Surfer,_and_the_CEO",http://dbpedia.org/ontology/publicationDate,2002-10-01,Object,114,4.7569780349731445,16
+http://dbpedia.org/resource/Robert_Lepage,http://xmlns.com/foaf/0.1/homepage,http://www.robertlepage.com/,Object,118,5.744457960128784,16
+http://dbpedia.org/resource/Vladimir_Dvorniković,http://dbpedia.org/ontology/deathDate,1956,Object,119,8.466109037399292,16
+http://dbpedia.org/resource/WGGS-TV,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/North_Carolina,Object,131,7.881807088851929,16
+http://dbpedia.org/resource/WGGS-TV,http://dbpedia.org/property/location,"http://dbpedia.org/resource/Spartanburg,_South_Carolina",Object,131,7.881807088851929,16
+http://dbpedia.org/resource/WGGS-TV,http://dbpedia.org/property/homepage,http://www.wggs16.com/,Object,131,7.881807088851929,16
+http://dbpedia.org/resource/WGGS-TV,http://dbpedia.org/ontology/location,"http://dbpedia.org/resource/Spartanburg,_South_Carolina",Object,131,7.881807088851929,16
+http://dbpedia.org/resource/Drive:_The_Surprising_Truth_About_What_Motivates_Us,http://dbpedia.org/ontology/numberOfPages,256,Object,132,2.8016390800476074,16
+http://dbpedia.org/resource/Hero_Wanted,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Police_detective_films,Object,135,3.223788022994995,16
+http://dbpedia.org/resource/The_Prometheus_Deception,http://dbpedia.org/ontology/numberOfPages,384,Predicate;Object,138,10.489221811294556,17
+http://dbpedia.org/resource/Double_Dragon,http://dbpedia.org/ontology/cpu,http://dbpedia.org/resource/Hertz,Object,140,5.670993328094482,17
+http://dbpedia.org/resource/Cercospora_apii,http://dbpedia.org/property/ordo,http://dbpedia.org/resource/Capnodiales,Object,145,5.915429830551148,17
+http://dbpedia.org/resource/Live_My_Life_(song),http://dbpedia.org/property/note,featuring Rye Rye,Object,146,5.000589847564697,17
+http://dbpedia.org/resource/David_Robbins_(artist),http://dbpedia.org/ontology/birthDate,1957,Predicate,147,2.0940659046173096,17
+http://dbpedia.org/resource/WPOV-LP,http://dbpedia.org/property/website,http://www.wpovfm.org/,Object,149,2.425762176513672,17
+http://dbpedia.org/resource/Vettri_FM,http://dbpedia.org/property/website,http://www.vettri.lk/,Object,158,2.765028238296509,17
+http://dbpedia.org/resource/The_Impossible_Voyage,http://dbpedia.org/ontology/thumbnail,"http://commons.wikimedia.org/wiki/Special:FilePath/Méliès,_Le_voyage_a_travers_l'impossible1904_colorizée_01.jpg?width=300",Object,160,1.9602630138397217,17
+http://dbpedia.org/resource/Galaxis,http://dbpedia.org/property/starring,*,Object,165,3.48610782623291,17
+http://dbpedia.org/resource/CSN_International_translators,http://dbpedia.org/property/call,K201IQ,Object,171,2.2374181747436523,17

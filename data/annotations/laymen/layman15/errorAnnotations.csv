@@ -1,0 +1,103 @@
+Subject,Predicate,Object,Error,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/Joe_Jonas,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Predicate,1,201.04222989082336,38
+http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Honolulu,http://dbpedia.org/ontology/territory,http://dbpedia.org/resource/U.S._state,Predicate,2,7.665974855422974,38
+http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Honolulu,http://dbpedia.org/ontology/territory,http://dbpedia.org/resource/Unincorporated_territories_of_the_United_States,Object,2,7.665974855422974,38
+http://dbpedia.org/resource/Sing_It_Loud,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Pop_rock,Object,3,182.8841619491577,38
+http://dbpedia.org/resource/Vanessa_Bell_Armstrong,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Predicate,4,3.648979902267456,38
+http://dbpedia.org/resource/USA_Network,http://dbpedia.org/ontology/sisterStation,http://dbpedia.org/resource/E!,Predicate,7,3.157655715942383,38
+http://dbpedia.org/resource/USA_Network,http://dbpedia.org/ontology/sisterStation,http://dbpedia.org/resource/Oxygen_(TV_channel),Predicate,7,3.157655715942383,38
+http://dbpedia.org/resource/Ugo_Foscolo,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Alessandro_Manzoni,Predicate,8,6.610377073287964,38
+http://dbpedia.org/resource/Ugo_Foscolo,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Greece,Predicate,8,6.610377073287964,38
+http://dbpedia.org/resource/Ryan_Starr,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Predicate,9,3.4779052734375,38
+http://dbpedia.org/resource/Nashville_West,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Predicate,13,137.5223159790039,39
+http://dbpedia.org/resource/Kemao_Market,http://dbpedia.org/property/alternateNames,Kemao Electronics Plaza,Object,24,3.6364729404449454,39
+http://dbpedia.org/resource/Graham_Leonard,http://dbpedia.org/ontology/predecessor,http://dbpedia.org/resource/George_Ingle,Object,30,2.301734209060669,39
+http://dbpedia.org/resource/Renault,http://dbpedia.org/ontology/numberOfEmployees,127086,Object,34,5.171511173248291,39
+http://dbpedia.org/resource/Diardi,http://xmlns.com/foaf/0.1/name,DIARDI,Object,35,3.0989129543304443,39
+http://dbpedia.org/resource/Shuttle_America,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Regional_Airline_Association_members,Object,36,25.724730014801025,39
+http://dbpedia.org/resource/Shuttle_America,http://dbpedia.org/property/hubs,Delta Connection:,Object,36,25.724730014801025,39
+http://dbpedia.org/resource/Shuttle_America,http://dbpedia.org/property/hubs,http://dbpedia.org/resource/New_York_LaGuardia,Object,36,25.724730014801025,39
+http://dbpedia.org/resource/Ginny_Owens,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Predicate,39,2.9453799724578857,39
+http://dbpedia.org/resource/E._M._S._Namboodiripad,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Madras_Presidency,Object,41,4.606196880340576,39
+http://dbpedia.org/resource/E._M._S._Namboodiripad,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Presidencies_and_provinces_of_British_India,Object,41,4.606196880340576,39
+http://dbpedia.org/resource/Helsinki_tram,http://dbpedia.org/ontology/typeOfElectrification,http://dbpedia.org/resource/Volt,Predicate,43,1.8708820343017576,39
+http://dbpedia.org/resource/Murata_Manufacturing,http://dbpedia.org/ontology/revenue,8.467E11,Object,44,2.4785780906677246,39
+http://dbpedia.org/resource/Keegan_DeWitt,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Predicate,46,1.522716045379639,39
+http://dbpedia.org/resource/Valis_II,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Sega_Genesis_games,Object,47,3.6059491634368896,39
+http://dbpedia.org/resource/K1_Speed,http://dbpedia.org/ontology/locationCity,"http://dbpedia.org/resource/Carlsbad,_California",Object,48,2.934100151062012,39
+"http://dbpedia.org/resource/United_States_Customhouse_(New_Bedford,_Massachusetts)",http://dbpedia.org/ontology/governingBody,http://dbpedia.org/resource/U.S._Customs_and_Border_Protection,Predicate,53,1.8874361515045168,39
+http://dbpedia.org/resource/Gazprom,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/List_of_Gazprom_subsidiaries,Predicate,55,12.71363091468811,39
+http://dbpedia.org/resource/Daniel_Tammet,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/London,Object,56,2.0314409732818604,39
+http://dbpedia.org/resource/Oceans_(film),http://dbpedia.org/property/language,English,Object,57,8.426536083221436,39
+http://dbpedia.org/resource/Oceans_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_films,Object,57,8.426536083221436,39
+http://dbpedia.org/resource/Oceans_(film),http://dbpedia.org/property/distributor,http://dbpedia.org/resource/Warner_Bros.,Object,57,8.426536083221436,39
+http://dbpedia.org/resource/Raúl_Silva_Henríquez,http://dbpedia.org/property/title,Bishop of Valparaíso,Object,62,8.937154769897461,39
+http://dbpedia.org/resource/Johnny_Maestro_&_the_Brooklyn_Bridge,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Predicate,65,2.866827964782715,39
+http://dbpedia.org/resource/Military_Ordinariate_of_Portugal,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Roman_Catholic_dioceses_in_Portugal,Object,66,4.126220941543579,39
+http://dbpedia.org/resource/Turn_10_Studios,http://xmlns.com/foaf/0.1/homepage,http://www.forzamotorsport.net/en-us/turn10,Object,71,4.825157165527344,39
+http://dbpedia.org/resource/Turn_10_Studios,http://dbpedia.org/property/keyPeople,Phil Frazier,Object,71,4.825157165527344,39
+http://dbpedia.org/resource/WXKB,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Rhythmic_contemporary_radio_stations_in_the_United_States,Object,74,4.971060037612915,39
+http://dbpedia.org/resource/The_Whispers,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Predicate,75,1.6885809898376465,39
+http://dbpedia.org/resource/Jeremy_Messersmith,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Predicate,76,13.867739915847778,39
+http://dbpedia.org/resource/Nedor_Publishing,http://dbpedia.org/ontology/parentCompany,http://dbpedia.org/resource/Ned_Pines,Predicate,77,3.332955837249756,39
+http://dbpedia.org/resource/Junior_Cook,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Predicate,79,1.5105688571929932,39
+http://dbpedia.org/resource/Dell,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/Force10,Object,81,3.2224199771881104,39
+http://dbpedia.org/resource/Diocese_of_Shirak,http://dbpedia.org/ontology/established,4 September 1920,Object,87,2.910977840423584,39
+http://dbpedia.org/resource/Jneiro_Jarel,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Predicate,90,1.6766688823699951,39
+http://dbpedia.org/resource/Dombivli_railway_station,http://dbpedia.org/property/owned,http://dbpedia.org/resource/Indian_Railways,Object,92,3.329683780670166,39
+http://dbpedia.org/resource/St._Louis_Car_Company,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/St._Louis_Aircraft_Corporation,Object,93,5.410823822021484,39
+http://dbpedia.org/resource/The_Blue_Kite,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_set_in_the_1960s,Object,95,12.960730075836182,39
+http://dbpedia.org/resource/Stone_Poneys,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Country_rock,Object,99,3.391484260559082,40
+http://dbpedia.org/resource/WPKN,http://dbpedia.org/property/callsignMeaning,W Purple Knights Network,Object,100,4.798859119415283,40
+http://dbpedia.org/resource/The_Blue_Racer,http://dbpedia.org/ontology/portrayer,http://dbpedia.org/resource/Bob_Holt_(actor),Predicate,101,1.7420248985290527,40
+http://dbpedia.org/resource/Michaela_Paetsch,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Predicate,105,1.884587049484253,40
+http://dbpedia.org/resource/Kill_Sadie,http://dbpedia.org/ontology/associatedMusicalArtist,http://dbpedia.org/resource/Pretty_Girls_Make_Graves,Predicate,107,3.0254180431365967,40
+http://dbpedia.org/resource/Marina_Bay_MRT_Station,http://dbpedia.org/ontology/numberOfTracks,4,Object,108,6.268813133239746,40
+http://dbpedia.org/resource/Marina_Bay_MRT_Station,http://dbpedia.org/property/name,25,Predicate;Object,108,6.268813133239746,40
+http://dbpedia.org/resource/Famous_Studios,http://dbpedia.org/ontology/keyPerson,http://dbpedia.org/resource/Shamus_Culhane,Object,114,5.99801230430603,40
+http://dbpedia.org/resource/Famous_Studios,http://dbpedia.org/ontology/foundingDate,1942-05-25,Object,114,5.99801230430603,40
+"http://dbpedia.org/resource/McAuley_Catholic_High_School_(Joplin,_Missouri)",http://dbpedia.org/property/newspaper,McAuley Times,Object,115,4.862062215805054,40
+http://dbpedia.org/resource/Pazuzu_(The_Exorcist),http://dbpedia.org/ontology/portrayer,http://dbpedia.org/resource/Linda_Blair,Object,119,10.081576824188232,40
+http://dbpedia.org/resource/Pazuzu_(The_Exorcist),http://dbpedia.org/ontology/portrayer,http://dbpedia.org/resource/Colleen_Dewhurst,Object,119,10.081576824188232,40
+http://dbpedia.org/resource/Pazuzu_(The_Exorcist),http://dbpedia.org/ontology/portrayer,http://dbpedia.org/resource/Mary_Beth_Hurt,Predicate;Object,119,10.081576824188232,40
+http://dbpedia.org/resource/Pazuzu_(The_Exorcist),http://dbpedia.org/ontology/portrayer,http://dbpedia.org/resource/Rupert_Degas,Predicate;Object,119,10.081576824188232,40
+http://dbpedia.org/resource/Greg_Davis_(musician),http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Predicate,121,1.7414028644561768,40
+http://dbpedia.org/resource/Little_Red_Riding_Hood's_Zombie_BBQ,http://dbpedia.org/property/released,--10-21,Object,123,4.013600826263428,41
+http://dbpedia.org/resource/Maurice_Barrès,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Léon_Daudet,Object,126,4.110289096832275,41
+http://dbpedia.org/resource/Maurice_Barrès,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Jacques_Maritain,Object,126,4.110289096832275,41
+http://dbpedia.org/resource/Maurice_Barrès,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Georges_Bernanos,Object,126,4.110289096832275,41
+http://dbpedia.org/resource/Maradona_by_Kusturica,http://dbpedia.org/property/studio,http://dbpedia.org/resource/Mediaset_España_Comunicación,Object,129,2.854253053665161,41
+http://dbpedia.org/resource/Tom_Grosvenor,http://dbpedia.org/ontology/team,http://dbpedia.org/resource/Stourbridge_F.C.,Predicate,132,5.595685005187988,41
+http://dbpedia.org/resource/Tom_Grosvenor,http://dbpedia.org/ontology/team,http://dbpedia.org/resource/Birmingham_City_F.C.,Predicate,132,5.595685005187988,41
+"http://dbpedia.org/resource/Council_Bluffs,_Iowa",http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/List_of_sovereign_states,Object,136,3.860092878341675,42
+http://dbpedia.org/resource/Romantic_Princess,http://dbpedia.org/ontology/previousWork,http://dbpedia.org/resource/The_Teen_Age,Object,137,4.814207077026367,42
+http://dbpedia.org/resource/Pescanova,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/Aliholding,Object,138,3.804746150970459,42
+http://dbpedia.org/resource/Pescanova,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/Fishco,Object,138,3.804746150970459,42
+http://dbpedia.org/resource/Archbishopric_of_Bremen,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Basdahl,Object,139,8.413774013519287,42
+http://dbpedia.org/resource/Archbishopric_of_Bremen,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Bremervörde,Object,139,8.413774013519287,42
+http://dbpedia.org/resource/Archbishopric_of_Bremen,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Bremen,Object,139,8.413774013519287,42
+http://dbpedia.org/resource/Poultrygeist:_Night_of_the_Chicken_Dead,http://dbpedia.org/property/producer,"* Andy Deemer
+*",Predicate,142,1.9557199478149412,42
+http://dbpedia.org/resource/Radio_America_(band),http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Predicate,143,2.125028133392334,42
+http://dbpedia.org/resource/Dyckia_'Lad_Cutak',http://dbpedia.org/ontology/hybrid,http://dbpedia.org/resource/Dyckia_leptostachya,Object,146,2.259974956512451,42
+http://dbpedia.org/resource/Regent_University,http://dbpedia.org/ontology/numberOfStudents,6158,Object,148,2.9081242084503174,42
+http://dbpedia.org/resource/American_Association_for_Respiratory_Care,http://dbpedia.org/ontology/foundingDate,1947-03-16,Object,149,2.0377631187438965,42
+http://dbpedia.org/resource/Victor_L._Ludlow,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:People_from_Provo,_Utah",Object,150,2.077486991882324,42
+http://dbpedia.org/resource/Dublin_North_(Dáil_Éireann_constituency),http://dbpedia.org/property/name,http://dbpedia.org/resource/Denis_Cullen,Predicate,151,6.76409912109375,42
+http://dbpedia.org/resource/Dublin_North_(Dáil_Éireann_constituency),http://dbpedia.org/property/name,http://dbpedia.org/resource/G._V._Wright,Predicate,151,6.76409912109375,42
+http://dbpedia.org/resource/Dublin_North_(Dáil_Éireann_constituency),http://dbpedia.org/property/name,http://dbpedia.org/resource/Kathleen_Clarke,Predicate,151,6.76409912109375,42
+http://dbpedia.org/resource/Dublin_North_(Dáil_Éireann_constituency),http://dbpedia.org/property/name,http://dbpedia.org/resource/Alan_Farrell,Predicate,151,6.76409912109375,42
+http://dbpedia.org/resource/Dublin_North_(Dáil_Éireann_constituency),http://dbpedia.org/property/name,http://dbpedia.org/resource/William_Hewat,Predicate,151,6.76409912109375,42
+http://dbpedia.org/resource/Tokheim,http://dbpedia.org/ontology/owner,http://dbpedia.org/resource/Motion_Equity_Partners,Object,157,4.016541004180908,42
+http://dbpedia.org/resource/Tokheim,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Companies_of_France,Object,157,4.016541004180908,42
+http://dbpedia.org/resource/Thunderbolt_and_Lightfoot,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1970s_comedy-drama_films,Object,158,2.145379066467285,42
+http://dbpedia.org/resource/John_Vesey_(archbishop_of_Tuam),http://dbpedia.org/property/after,"http://dbpedia.org/resource/Charles_Talbot,_1st_Duke_of_Shrewsbury",Object,161,10.783772945404053,42
+http://dbpedia.org/resource/John_Vesey_(archbishop_of_Tuam),http://dbpedia.org/property/after,as Lord Lieutenant,Predicate;Object,161,10.783772945404053,42
+http://dbpedia.org/resource/John_Vesey_(archbishop_of_Tuam),http://dbpedia.org/property/years,1667,Object,161,10.783772945404053,42
+http://dbpedia.org/resource/La_Lupe,http://dbpedia.org/property/associatedActs,http://dbpedia.org/resource/Celia_Cruz,Predicate,163,3.851274967193604,42
+http://dbpedia.org/resource/El_Topo,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_independent_films,Object,170,3.984128952026367,42
+http://dbpedia.org/resource/El_Topo,http://dbpedia.org/property/music,Alejandro Jodorowsky,Predicate,170,3.984128952026367,42
+http://dbpedia.org/resource/Protestantism_in_the_Philippines,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Protestant_schools_in_the_Philippines,Object,171,5.13258171081543,42
+http://dbpedia.org/resource/Bordertown_(2006_film),http://dbpedia.org/ontology/distributor,http://dbpedia.org/resource/ThinkFilm,Object,172,5.192800045013428,42
+http://dbpedia.org/resource/Bordertown_(2006_film),http://dbpedia.org/ontology/distributor,http://dbpedia.org/resource/Capitol_Films,Object,172,5.192800045013428,42
+http://dbpedia.org/resource/Cristóbal_Diatristán_de_Acuña,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Viceroyalty_of_Peru,Object,175,2.5543289184570312,42

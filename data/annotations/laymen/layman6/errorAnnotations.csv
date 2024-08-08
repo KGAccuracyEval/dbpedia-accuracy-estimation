@@ -1,0 +1,40 @@
+Subject,Predicate,Object,Error,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/Tommy_Tutone,http://dbpedia.org/property/currentMembers,Andy Gauthier,Predicate,2,193.2451570034027,30
+http://dbpedia.org/resource/Tommy_Tutone,http://dbpedia.org/property/pastMembers,Doug Mueller,Object,2,193.2451570034027,30
+http://dbpedia.org/resource/Sanjay_Narvekar,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Sindhudurg_Fort,Object,26,11.996692895889282,36
+http://dbpedia.org/resource/Nuclear_Rabbit,http://xmlns.com/foaf/0.1/homepage,http://www.nuclearrabbit.com,Object,28,11.695414066314695,36
+http://dbpedia.org/resource/Cape_Fear_(1991_film),http://dbpedia.org/ontology/Work/runtime,127.0,Object,31,8.26167106628418,36
+http://dbpedia.org/resource/Ease_Up,http://dbpedia.org/ontology/artist,http://dbpedia.org/resource/Mike_Paradinas,Subject,33,15.34804892539978,36
+http://dbpedia.org/resource/Shade_Empire,http://dbpedia.org/property/genre,http://dbpedia.org/resource/Industrial_metal,Object,37,317.60121178627014,36
+http://dbpedia.org/resource/Uttarakhand,http://dbpedia.org/property/p,13,Subject;Predicate;Object,48,18.98002886772156,36
+http://dbpedia.org/resource/Uttarakhand,http://dbpedia.org/property/blank2InfoSec,Tharu,Object,48,18.98002886772156,36
+http://dbpedia.org/resource/Mark_Rydell,http://dbpedia.org/ontology/birthYear,1928,Object,61,5.617016077041626,36
+http://dbpedia.org/resource/Freiburg_im_Breisgau,http://dbpedia.org/property/aprHighC,16.3,Object,62,8.44432806968689,36
+http://dbpedia.org/resource/Freiburg_im_Breisgau,http://dbpedia.org/property/julHighC,26,Object,62,8.44432806968689,36
+http://dbpedia.org/resource/Freiburg_im_Breisgau,http://dbpedia.org/property/sepLowC,11.7,Object,62,8.44432806968689,36
+http://dbpedia.org/resource/Armenia,http://dbpedia.org/property/ethnicGroups,s,Object,63,19.21204304695129,36
+http://dbpedia.org/resource/Armenia,http://dbpedia.org/property/ethnicGroups,0.5,Object,63,19.21204304695129,36
+http://dbpedia.org/resource/Armenia,http://dbpedia.org/property/southeast,25,Object,63,19.21204304695129,36
+http://dbpedia.org/resource/Pythagoras,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Parmenides,Object,72,5.862884998321533,36
+http://dbpedia.org/resource/Sarvggun_Sampanna,http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Sarvggun_Sampanna,Predicate,76,17.499215126037598,36
+http://dbpedia.org/resource/WVJS,http://xmlns.com/foaf/0.1/homepage,http://www.owensbororadio.com/pages/14818069.php?,Object,81,7.447227239608765,36
+http://dbpedia.org/resource/WVJS,http://dbpedia.org/ontology/webcast,http://player.liquidcompass.net/WVJSAM,Object,81,7.447227239608765,36
+http://dbpedia.org/resource/Donetsk_People's_Republic,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Donetsk_People's_Republic,Predicate,84,80.24323606491089,36
+http://dbpedia.org/resource/Empire_of_Vietnam,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Hanoi,Object,88,3.025574922561645,36
+http://dbpedia.org/resource/Gary_Herbert,http://dbpedia.org/ontology/lieutenant,http://dbpedia.org/resource/Spencer_Cox_(politician),Predicate,89,5.662873029708862,36
+http://dbpedia.org/resource/Gary_Herbert,http://dbpedia.org/ontology/lieutenant,http://dbpedia.org/resource/Greg_Bell_(politician),Predicate,89,5.662873029708862,36
+http://dbpedia.org/resource/Averroes,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Baruch_Spinoza,Object,103,8.71233582496643,36
+http://dbpedia.org/resource/Francia,http://dbpedia.org/property/capital,http://dbpedia.org/resource/Tournai,Object,107,3.864254951477051,36
+"http://dbpedia.org/resource/St_Mark's_Church,_Great_Wyrley",http://xmlns.com/foaf/0.1/page,http://www.greatwyrleyparish.org.uk,Object,110,3.761775255203247,36
+http://dbpedia.org/resource/Pozsony_County,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Bratislava,Object,114,4.832425117492676,36
+http://dbpedia.org/resource/Coil_(band),http://dbpedia.org/property/label,http://dbpedia.org/resource/Threshold_House,Predicate,130,19.4307861328125,37
+http://dbpedia.org/resource/Eric_Shinseki,http://dbpedia.org/ontology/religion,http://dbpedia.org/resource/Lutheranism,Object,132,7.342473983764648,37
+http://dbpedia.org/resource/Chinese_Pavilion_at_Drottningholm,http://dbpedia.org/property/caption,"The Chinese Pavilion, northern facade, 2012.",Object,143,7.813291072845459,37
+http://dbpedia.org/resource/Dennis_W._Sciama,http://dbpedia.org/property/deathDate,1999-12-19,Object,144,11.464915990829468,37
+http://dbpedia.org/resource/Kingdom_of_Portugal,http://dbpedia.org/property/dateStart,--07-26,Object,189,11.541208982467651,37
+http://dbpedia.org/resource/Deck_the_Halls_(2006_film),http://dbpedia.org/property/budget,3.5E7,Object,218,3.6643588542938232,37
+http://dbpedia.org/resource/Leopard_in_the_Snow,http://dbpedia.org/property/writer,http://dbpedia.org/resource/Anne_Mather,Object,221,8.593393087387085,37
+http://dbpedia.org/resource/James_Robertson_Justice,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Lewisham,Object,223,4.214967012405396,37
+http://dbpedia.org/resource/Nobody's_Baby_(1937_film),http://www.w3.org/2000/01/rdf-schema#comment,"Nobody's Baby is a 1937 American comedy film directed by Errol Taggart and written by Harold Law, Hal Yates and Pat C. Flick. The film stars Patsy Kelly, Lyda Roberti, Lynne Overman, Robert Armstrong, Rosina Lawrence and Don Alvarado. The film was released on April 23, 1937, by Metro-Goldwyn-Mayer.",Object,230,7.995704174041748,37
+http://dbpedia.org/resource/W268BK,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Radio_stations_established_in_2008,Object,236,14.882739067077637,37
+http://dbpedia.org/resource/W268BK,http://dbpedia.org/ontology/broadcastTranslator,WQML 98.7 FMCulebra/Fajardo,Object,236,14.882739067077637,37

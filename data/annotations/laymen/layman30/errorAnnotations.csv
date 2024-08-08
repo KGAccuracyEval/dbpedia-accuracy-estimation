@@ -1,0 +1,95 @@
+Subject,Predicate,Object,Error,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/Road_House_(1948_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Object,1,25.52083396911621,24
+http://dbpedia.org/resource/Blue_Jasmine,http://dbpedia.org/ontology/writer,http://dbpedia.org/resource/Woody_Allen,Predicate,7,110.21174645423888,24
+"http://dbpedia.org/resource/The_World,_the_Flesh_and_the_Devil_(1959_film)",http://dbpedia.org/property/producer,http://dbpedia.org/resource/Sol_C._Siegel,Object,10,23.16367268562317,24
+"http://dbpedia.org/resource/The_World,_the_Flesh_and_the_Devil_(1959_film)",http://dbpedia.org/property/producer,http://dbpedia.org/resource/Harry_Belafonte,Object,10,23.16367268562317,24
+http://dbpedia.org/resource/Alois_Jirásek,http://dbpedia.org/ontology/notableWork,http://dbpedia.org/resource/F._L._Věk,Object,12,6.271829128265381,24
+http://dbpedia.org/resource/Bigger_Picture_Music_Group,http://dbpedia.org/ontology/distributingCompany,http://dbpedia.org/resource/Atlantic_Records,Object,14,3.1704721450805664,24
+http://dbpedia.org/resource/Bigger_Picture_Music_Group,http://dbpedia.org/ontology/distributingLabel,http://dbpedia.org/resource/Atlantic_Records,Object,14,3.1704721450805664,24
+http://dbpedia.org/resource/Mother_Up!,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_television_programming,Object,15,2.714982509613037,24
+http://dbpedia.org/resource/Terry_Bowden,http://dbpedia.org/property/name,http://dbpedia.org/resource/2009_North_Alabama_Lions_football_team,Object,16,2.500889301300049,27
+http://dbpedia.org/resource/WUPA,http://dbpedia.org/property/formerAffiliations,http://dbpedia.org/resource/UPN,Object,17,4.5081987380981445,27
+http://dbpedia.org/resource/WUPA,http://dbpedia.org/ontology/sisterStation,http://dbpedia.org/resource/WVEE,Predicate,17,4.5081987380981445,27
+http://dbpedia.org/resource/Gambino_Family_(group),http://dbpedia.org/property/associatedActs,http://dbpedia.org/resource/Snoop_Dogg,Object,19,4.798176765441895,27
+http://dbpedia.org/resource/David_Baulcombe,http://dbpedia.org/ontology/award,http://dbpedia.org/resource/Harvey_Prize,Object,20,2.873129844665528,27
+http://dbpedia.org/resource/The_Legend_of_Bagger_Vance,http://dbpedia.org/ontology/producer,http://dbpedia.org/resource/Jake_Eberts,Object,22,3.4426429271698,27
+http://dbpedia.org/resource/The_Legend_of_Bagger_Vance,http://dbpedia.org/ontology/distributor,http://dbpedia.org/resource/DreamWorks,Object,22,3.4426429271698,27
+http://dbpedia.org/resource/Pooja_Sharma,http://www.w3.org/2000/01/rdf-schema#comment,Pooja Sharma is an Indian television actress and model. She is most popular for her role as Draupadi in the mythological TV show 'Mahabharat'.,Subject,24,2.6042110919952397,27
+http://dbpedia.org/resource/Lotus_18,http://dbpedia.org/ontology/productionStartYear,1959,Object,25,4.538818597793579,27
+http://dbpedia.org/resource/Telefon_Tel_Aviv,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Object,27,2.6668500900268555,27
+http://dbpedia.org/resource/The_Invisible_War,http://dbpedia.org/property/producer,Tanner King Barklow,Object,30,2.295801877975464,27
+http://dbpedia.org/resource/Paul_Stephenson_(police_officer),http://dbpedia.org/property/honorificSuffix,http://dbpedia.org/resource/Queen's_Police_Medal,Object,31,3.302123785018921,27
+http://dbpedia.org/resource/Paul_Stephenson_(police_officer),http://dbpedia.org/property/years,2009,Object,31,3.302123785018921,27
+http://dbpedia.org/resource/Sagina_Mahato,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Object,32,2.6773664951324463,27
+http://dbpedia.org/resource/Mad_Love_(1995_film),http://dbpedia.org/property/producer,http://dbpedia.org/resource/David_Manson_(producer),Object,36,3.3965811729431152,27
+http://dbpedia.org/resource/Mad_Love_(1995_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_about_psychiatry,Object,36,3.3965811729431152,27
+http://dbpedia.org/resource/No_Way_Out_(1987_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_film_remakes,Object,40,3.3816051483154297,27
+http://dbpedia.org/resource/Avtar_Singh_Kang,http://xmlns.com/foaf/0.1/name,A. S. Kang,Predicate,41,2.170985698699951,27
+http://dbpedia.org/resource/We_Dive_at_Dawn,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-movie-noun-1,Object,43,2.899364709854126,27
+http://dbpedia.org/resource/Animal_Crossing,http://dbpedia.org/property/website,http://www.animal-crossing.com,Object,46,3.261726856231689,27
+http://dbpedia.org/resource/Eden's_Bowy,http://dbpedia.org/ontology/magazine,http://dbpedia.org/resource/Comptiq,Object,52,2.76580810546875,27
+http://dbpedia.org/resource/The_Devil's_Own,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1990s_crime_thriller_films,Object,53,2.237347364425659,27
+http://dbpedia.org/resource/Hard_Boiled_(1919_film),http://dbpedia.org/property/director,http://dbpedia.org/resource/Victor_Schertzinger,Object,57,2.110105276107788,27
+http://dbpedia.org/resource/A_Pistol_Shot,http://dbpedia.org/ontology/editing,http://dbpedia.org/resource/Mario_Serandrei,Object,60,3.5495333671569824,27
+http://dbpedia.org/resource/A_Pistol_Shot,http://www.w3.org/2000/01/rdf-schema#label,A Pistol Shot,Object,60,3.5495333671569824,27
+http://dbpedia.org/resource/Bronisław_Kaper,http://dbpedia.org/property/deathPlace,"Beverly Hills, California, U.S.",Object,62,2.415245056152344,27
+http://dbpedia.org/resource/Elena_Gerhardt,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:German_opera_singers,Predicate,65,14.994080781936646,27
+http://dbpedia.org/resource/A_Special_Christmas,http://dbpedia.org/ontology/artist,http://dbpedia.org/resource/SWV,Object,72,2.75391697883606,27
+http://dbpedia.org/resource/The_Sounds,http://dbpedia.org/ontology/activeYearsStartYear,1999,Object,74,3.009157180786133,27
+http://dbpedia.org/resource/Eleventh_Hour_(U.S._TV_series),http://dbpedia.org/property/executiveProducer,Mick Davis,Object,77,2.425221443176269,27
+http://dbpedia.org/resource/W._C._Leng,http://dbpedia.org/property/placeOfBirth,http://dbpedia.org/resource/Kingston_upon_Hull,Object,78,2.0595602989196777,27
+http://dbpedia.org/resource/WYUU,http://dbpedia.org/property/webcast,http://wyuu.beasleyi.com,Object,82,4.811763286590576,27
+http://dbpedia.org/resource/Mephisto_(1981_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_based_on_German_novels,Object,84,7.591894865036011,27
+http://dbpedia.org/resource/Mephisto_(1981_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:East_German_films,Object,84,7.591894865036011,27
+http://dbpedia.org/resource/Mephisto_(1981_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Austrian_films,Predicate,84,7.591894865036011,27
+http://dbpedia.org/resource/Ali_(film),http://dbpedia.org/ontology/editing,http://dbpedia.org/resource/Stephen_E._Rivkin,Object,85,2.935555219650269,27
+http://dbpedia.org/resource/WHKY-TV,http://dbpedia.org/property/subchannels,14.5,Object,89,2.8893351554870605,27
+http://dbpedia.org/resource/To_Please_a_Lady,http://dbpedia.org/ontology/abstract,To Please a Lady is a 1950 romantic drama film produced and directed by Clarence Brown and starring Clark Gable and Barbara Stanwyck. The climactic race scene was shot at the Indianapolis Motor Speedway.,Subject,92,1.770033359527588,27
+http://dbpedia.org/resource/Tom_Clancy's_Splinter_Cell,http://dbpedia.org/property/game,http://dbpedia.org/resource/Tom_Clancy's_Splinter_Cell:_Essentials,Predicate,93,2.6897380352020264,27
+http://dbpedia.org/resource/The_Lord_of_the_Rings:_The_Return_of_the_King_(video_game),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Video_games_based_on_Middle-earth,Object,94,2.743080377578736,27
+http://dbpedia.org/resource/Amy_Bach,http://dbpedia.org/ontology/abstract,"Amy Bach is an American author, journalist, and attorney. She won the 2010 Robert F. Kennedy Book Award for Ordinary Injustice: How America Holds Court.She has served as the Haywood Burns Fellow at The Nation magazine, and was the recipient of an Echoing Green Fellowship in 2011.She is the Executive Director of Measures for Justice, a non-profit organization that collects and analyzes data about the American justice system.",Predicate,95,3.293704032897949,27
+http://dbpedia.org/resource/Horna,http://dbpedia.org/ontology/recordLabel,http://dbpedia.org/resource/End_All_Life_Productions,Object,97,3.672441005706787,27
+http://dbpedia.org/resource/Lilya_4-ever,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_shot_in_Sweden,Predicate;Object,100,4.250170469284058,27
+http://dbpedia.org/resource/XChange_(film),http://dbpedia.org/ontology/imdbId,0242150,Object,102,3.9661715030670166,27
+http://dbpedia.org/resource/Man_in_the_Moon_(film),http://dbpedia.org/ontology/abstract,Man in the Moon is a 1960 comedy film directed by Basil Dearden. The film stars Kenneth More and Shirley Anne Field.,Subject,103,1.8982386589050293,27
+http://dbpedia.org/resource/Nasum,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Burning_Heart_Records_artists,Object,108,3.051121711730957,27
+http://dbpedia.org/resource/You_Could_Be_Mine,http://dbpedia.org/ontology/recordedIn,http://dbpedia.org/resource/Record_Plant,Predicate,110,1.9015028476715088,27
+http://dbpedia.org/resource/1956_French_Championships_–_Women's_Singles,http://dbpedia.org/property/rd4Seed,3,Object,114,3.41889762878418,27
+http://dbpedia.org/resource/The_Beatrice_Letters,http://dbpedia.org/ontology/publicationDate,2006-09-05,Object,117,2.474355936050415,27
+http://dbpedia.org/resource/Jesus_of_Montreal,http://dbpedia.org/property/caption,Movie poster,Predicate,120,2.1322176456451416,27
+http://dbpedia.org/resource/2000_Mountain_West_Conference_Baseball_Tournament,http://dbpedia.org/property/title,Utah,Object,123,2.6825129985809326,27
+http://dbpedia.org/resource/TWiT.tv,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/TWiT.tv,Object,126,2.7085824012756348,27
+http://dbpedia.org/resource/Knights_Hospitaller,http://dbpedia.org/ontology/garrison,http://dbpedia.org/resource/Malta,Object,132,2.7314887046813965,27
+http://dbpedia.org/resource/Burnout_Dominator,http://dbpedia.org/property/ps,true,Predicate,143,1.980147361755371,27
+http://dbpedia.org/resource/The_Call_of_the_Savage,http://dbpedia.org/ontology/editing,http://dbpedia.org/resource/Irving_Applebaum,Object,147,5.8320794105529785,27
+http://dbpedia.org/resource/The_Call_of_the_Savage,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1930s_fantasy_films,Object,147,5.8320794105529785,27
+http://dbpedia.org/resource/The_Call_of_the_Savage,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_films,Object,147,5.8320794105529785,27
+http://dbpedia.org/resource/The_Last_Legion,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-movie-noun-1,Object,149,2.2327446937561035,27
+http://dbpedia.org/resource/11:14,http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Henry_Thomas,Object,150,4.818706274032593,27
+http://dbpedia.org/resource/11:14,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Nonlinear_narrative_films,Object,150,4.818706274032593,27
+http://dbpedia.org/resource/All_I_Do_Is_Win,http://dbpedia.org/ontology/musicalArtist,http://dbpedia.org/resource/DJ_Khaled,Subject,152,5.733335494995117,27
+http://dbpedia.org/resource/Born_Legendary,http://dbpedia.org/ontology/artist,http://dbpedia.org/resource/Hussein_Fatal,Predicate,154,3.105509996414185,27
+http://dbpedia.org/resource/The_Magnificent_Ambersons_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Film_scores_by_Bernard_Herrmann,Object,155,3.2479918003082275,27
+http://dbpedia.org/resource/Sprite_(computer_graphics),http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Sprite_(computer_graphics),Subject,158,2.6165568828582764,27
+http://dbpedia.org/resource/2010_Prosperita_Open,http://dbpedia.org/ontology/abstract,"The 2010 Prosperita Open was a professional tennis tournament played on red clay courts. It was part of the 2010 ATP Challenger Tour. It took place in Ostrava, Czech Republic between April 26 and May 2, 2010.",Object,159,1.935946702957153,27
+http://dbpedia.org/resource/Slint,http://dbpedia.org/property/genre,http://dbpedia.org/resource/Post-rock,Subject,161,2.6502718925476074,27
+http://dbpedia.org/resource/Naughty_by_Nature,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Subject,163,3.354145765304565,27
+http://dbpedia.org/resource/UltraStar,http://dbpedia.org/ontology/computingPlatform,http://dbpedia.org/resource/Linux,Object,165,2.895909309387207,27
+http://dbpedia.org/resource/UltraStar,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Linux_games,Object,165,2.895909309387207,27
+http://dbpedia.org/resource/An_Act_of_Conscience,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Object,167,3.078275203704834,27
+http://dbpedia.org/resource/Subhumans_(Canadian_band),http://dbpedia.org/ontology/recordLabel,http://dbpedia.org/resource/Alternative_Tentacles,Object,170,2.2268974781036377,27
+http://dbpedia.org/resource/The_Troublemaker_(album),http://dbpedia.org/ontology/Work/runtime,44.4,Object,174,3.048928022384644,27
+http://dbpedia.org/resource/List_of_Suicidal_Tendencies_band_members,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Object,178,11.813451766967772,27
+http://dbpedia.org/resource/Lorna_Doone_(1912_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_based_on_novels,Object,179,3.089111804962158,27
+http://dbpedia.org/resource/Lorna_Doone_(1912_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_set_in_the_17th_century,Object,179,3.089111804962158,27
+"http://dbpedia.org/resource/Bye,_See_You_Monday",http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:French_films,Object,183,4.425045728683472,27
+"http://dbpedia.org/resource/Bye,_See_You_Monday",http://dbpedia.org/property/cinematography,François Protat,Object,183,4.425045728683472,27
+http://dbpedia.org/resource/Dave_Davies,http://dbpedia.org/property/instrument,http://dbpedia.org/resource/Singing,Object,186,2.2239882946014404,27
+http://dbpedia.org/resource/Chris_Penn,http://dbpedia.org/ontology/parent,http://dbpedia.org/resource/Eileen_Ryan,Object,189,2.425748348236084,27
+http://dbpedia.org/resource/Youth's_Endearing_Charm,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1916_films,Object,195,3.0174341201782227,27
+http://dbpedia.org/resource/Youth's_Endearing_Charm,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1910s_drama_films,Object,195,3.0174341201782227,27
+http://dbpedia.org/resource/Siegfried_van_Praag,http://dbpedia.org/ontology/notableWork,http://dbpedia.org/resource/Jeruzalem_van_het_Westen,Object,198,384.5400445461273,27
+http://dbpedia.org/resource/Siegfried_van_Praag,http://dbpedia.org/ontology/notableWork,http://dbpedia.org/resource/La_Judith,Object,198,384.5400445461273,27
+http://dbpedia.org/resource/Greed_(film),http://dbpedia.org/ontology/language,http://dbpedia.org/resource/Silent_film,Object,199,5.17685604095459,27
+http://dbpedia.org/resource/Giallo,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Women_and_death,Object,201,2.247443437576294,27
+http://dbpedia.org/resource/Charlie_Chan_Carries_On_(film),http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Charlie_Chan_Carries_On_(film),Object,204,2.976803779602051,27

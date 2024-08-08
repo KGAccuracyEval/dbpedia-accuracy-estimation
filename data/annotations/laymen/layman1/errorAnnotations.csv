@@ -1,0 +1,103 @@
+Subject,Predicate,Object,Error,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/Sanjak_of_Ohrid,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Bitola,Predicate,3,19.401448488235477,6
+http://dbpedia.org/resource/Sanjak_of_Ohrid,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Ohrid,Predicate,3,19.401448488235477,6
+http://dbpedia.org/resource/Choricarpia,http://dbpedia.org/property/subdivision,See text,Object,6,23.5386221408844,6
+http://dbpedia.org/resource/Choricarpia,http://dbpedia.org/ontology/order,http://dbpedia.org/resource/Rosids,Object,6,23.5386221408844,6
+http://dbpedia.org/resource/Choricarpia,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Myrtales_of_Australia,Predicate;Object,6,23.5386221408844,6
+http://dbpedia.org/resource/Jean-Louis_Verdier,http://www.w3.org/2000/01/rdf-schema#label,Jean-Louis Verdier,Predicate;Object,7,11.006150007247925,6
+http://dbpedia.org/resource/Romuald_the_Reindeer,http://dbpedia.org/ontology/voice,http://dbpedia.org/resource/Emma_Wray,Predicate,8,41.69226694107056,6
+http://dbpedia.org/resource/Romuald_the_Reindeer,http://dbpedia.org/ontology/voice,http://dbpedia.org/resource/Howell_Evens,Predicate,8,41.69226694107056,6
+http://dbpedia.org/resource/Romuald_the_Reindeer,http://dbpedia.org/property/country,http://dbpedia.org/resource/France,Object,8,41.69226694107056,6
+http://dbpedia.org/resource/Key_Largo_(film),http://dbpedia.org/ontology/writer,http://dbpedia.org/resource/Richard_Brooks,Object,9,10.217365741729736,6
+http://dbpedia.org/resource/Rome2rio,http://dbpedia.org/property/foundation,2010,Object,10,6.7976438999176025,6
+http://dbpedia.org/resource/Erich_Regener,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Hans_Hellmann,Predicate,12,17.138764142990112,6
+http://dbpedia.org/resource/Erich_Regener,http://dbpedia.org/ontology/doctoralAdvisor,http://dbpedia.org/resource/Emil_Warburg,Predicate,12,17.138764142990112,6
+http://dbpedia.org/resource/Erich_Regener,http://dbpedia.org/ontology/citizenship,http://dbpedia.org/resource/Germany,Object,12,17.138764142990112,6
+http://dbpedia.org/resource/CGR_1st_Class_2-6-0ST_1876,http://dbpedia.org/ontology/rebuilder,http://dbpedia.org/resource/Cape_Government_Railways,Predicate,13,5.002732276916504,6
+http://dbpedia.org/resource/Wagon_Master,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Predicate,14,12.150503158569336,6
+http://dbpedia.org/resource/Wagon_Master,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-movie-noun-1,Predicate;Object,14,12.150503158569336,6
+http://dbpedia.org/resource/Dinteloord,http://dbpedia.org/property/subdivisionName,http://dbpedia.org/resource/North_Brabant,Predicate,16,6.050821304321289,6
+http://dbpedia.org/resource/Newhaven_Harbour_railway_station,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-railway_station-noun-1,Predicate,17,23.38415050506592,6
+http://dbpedia.org/resource/Newhaven_Harbour_railway_station,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Lewes,Predicate;Object,17,23.38415050506592,6
+http://dbpedia.org/resource/Love_Crime,http://dbpedia.org/ontology/producer,http://dbpedia.org/resource/Saïd_Ben_Saïd,Object,19,5.620154142379761,6
+http://dbpedia.org/resource/Zantedeschia_elliottiana,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Flora_of_the_Northern_Provinces,Object,22,12.994988679885864,6
+http://dbpedia.org/resource/Zantedeschia_elliottiana,http://dbpedia.org/property/tribus,http://dbpedia.org/resource/Zantedeschieae,Predicate,22,12.994988679885864,6
+http://dbpedia.org/resource/Zantedeschia_elliottiana,http://dbpedia.org/ontology/family,http://dbpedia.org/resource/Aroideae,Predicate,22,12.994988679885864,6
+http://dbpedia.org/resource/Karl_Marx,http://dbpedia.org/property/b,Sociological Theory/Karl Marx,Predicate,24,10.811814308166504,6
+http://dbpedia.org/resource/Karl_Marx,http://dbpedia.org/property/deathPlace,http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland,Object,24,10.811814308166504,6
+http://dbpedia.org/resource/Stigmella_inopinata,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Stigmella_inopinata,Object,27,57.43045091629028,6
+http://dbpedia.org/resource/Stigmella_inopinata,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Stigmella_inopinata,Predicate;Object,27,57.43045091629028,6
+http://dbpedia.org/resource/Stigmella_inopinata,http://dbpedia.org/property/subcohorto,http://dbpedia.org/resource/Neolepidoptera,Predicate;Object,27,57.43045091629028,6
+http://dbpedia.org/resource/Stigmella_inopinata,http://dbpedia.org/property/genus,Stigmella,Object,27,57.43045091629028,6
+http://dbpedia.org/resource/Beyoğlu,http://www.w3.org/2000/01/rdf-schema#label,Beyoğlu,Predicate;Object,28,7.193839550018311,6
+http://dbpedia.org/resource/Auja_al-Hafir,http://dbpedia.org/property/name,Auja al-Hafir,Object,29,77.9914538860321,6
+http://dbpedia.org/resource/Auja_al-Hafir,http://dbpedia.org/property/district,br,Predicate;Object,29,77.9914538860321,6
+http://dbpedia.org/resource/Auja_al-Hafir,http://dbpedia.org/property/cause,M,Predicate;Object,29,77.9914538860321,6
+http://dbpedia.org/resource/Hawking_(2013_film),http://dbpedia.org/property/name,Hawking,Subject,31,12.69053316116333,6
+http://dbpedia.org/resource/Hawking_(2013_film),http://dbpedia.org/property/writer,Stephen Finnigan,Subject,31,12.69053316116333,6
+http://dbpedia.org/resource/Hawking_(2013_film),http://dbpedia.org/property/writer,Ben Bowie,Subject,31,12.69053316116333,6
+http://dbpedia.org/resource/Hawking_(2013_film),http://xmlns.com/foaf/0.1/name,Hawking,Subject,31,12.69053316116333,6
+http://dbpedia.org/resource/Hawking_(2013_film),http://dbpedia.org/property/starring,Nathan Chapple,Subject,31,12.69053316116333,6
+http://dbpedia.org/resource/The_Sheep-Pig,http://www.w3.org/2000/01/rdf-schema#label,The Sheep-Pig,Predicate,32,22.51304078102112,6
+http://dbpedia.org/resource/The_Sheep-Pig,http://dbpedia.org/ontology/numberOfPages,118,Object,32,22.51304078102112,6
+http://dbpedia.org/resource/Apodida,http://dbpedia.org/ontology/class,http://dbpedia.org/resource/Apodacea,Object,33,23.296887397766117,6
+http://dbpedia.org/resource/Apodida,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Holothuroidea,Object,33,23.296887397766117,6
+http://dbpedia.org/resource/Apodida,http://dbpedia.org/property/ordo,Apodida,Object,33,23.296887397766117,6
+http://dbpedia.org/resource/A_Price_Above_Rubies,http://dbpedia.org/property/released,August 1999,Object,47,13.99257755279541,7
+http://dbpedia.org/resource/Ran_(film),http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/William_Dyce_-_King_Lear_and_the_Fool_in_the_Storm.jpg?width=300,Subject,50,9.714828729629517,7
+http://dbpedia.org/resource/TransAdelaide,http://dbpedia.org/property/homepage,http://web.archive.org/web/20090201005855/http:/transadelaide.com.au/,Object,55,5.66718864440918,7
+http://dbpedia.org/resource/TransAdelaide,http://xmlns.com/foaf/0.1/homepage,http://web.archive.org/web/20090201005855/http:/transadelaide.com.au/,Object,55,5.66718864440918,7
+http://dbpedia.org/resource/Amr_Kashmiri,http://dbpedia.org/ontology/birthName,Amr Kahmiri,Object,58,6.97943639755249,7
+http://dbpedia.org/resource/Amr_Kashmiri,http://xmlns.com/foaf/0.1/name,Amr Kahmiri,Object,58,6.97943639755249,7
+http://dbpedia.org/resource/Arizona_Territory,http://dbpedia.org/ontology/capital,"http://dbpedia.org/resource/Prescott,_Arizona",Predicate,60,16.149757146835327,7
+http://dbpedia.org/resource/Arizona_Territory,http://dbpedia.org/ontology/capital,"http://dbpedia.org/resource/Tucson,_Arizona",Predicate,60,16.149757146835327,7
+http://dbpedia.org/resource/Arizona_Territory,http://dbpedia.org/ontology/capital,"http://dbpedia.org/resource/Fort_Whipple,_Arizona",Predicate,60,16.149757146835327,7
+http://dbpedia.org/resource/Berkeley_Preparatory_School,http://dbpedia.org/ontology/mascot,Buccaneers,Object,68,9.578871250152588,9
+http://dbpedia.org/resource/WTWW,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Companies_based_in_Nashville,_Tennessee",Object,69,8.620824337005615,9
+http://dbpedia.org/resource/Clarissa_S._Williams,http://dbpedia.org/property/successor,http://dbpedia.org/resource/Jennie_B._Knight,Predicate,70,143.2063467502594,9
+http://dbpedia.org/resource/Cratoptera,http://dbpedia.org/property/imageWidth,300,Object,78,4.962239265441895,9
+http://dbpedia.org/resource/Carpathian_Ruthenia,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Khust,Object,81,32.355756998062134,9
+http://dbpedia.org/resource/Namma_Metro,http://xmlns.com/foaf/0.1/homepage,http://bmrc.co.in/,Object,82,6.494299173355103,9
+http://dbpedia.org/resource/Duffy_(singer),http://dbpedia.org/property/label,*,Object,83,16.07001256942749,9
+http://dbpedia.org/resource/Duffy_(singer),http://dbpedia.org/property/v,no,Predicate;Object,83,16.07001256942749,9
+http://dbpedia.org/resource/Republic_of_Montenegro_(1992–2006),http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Yugoslav_dinar,Object,85,39.03477025032044,9
+http://dbpedia.org/resource/Republic_of_Montenegro_(1992–2006),http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Deutsche_Mark,Object,85,39.03477025032044,9
+http://dbpedia.org/resource/AT&T_Center_(St._Louis),http://dbpedia.org/ontology/cost,1.5E8,Object,89,4.767354726791382,9
+http://dbpedia.org/resource/Roddy_Bottum,http://dbpedia.org/property/instrument,http://dbpedia.org/resource/Bass_guitar,Object,90,7.274083137512207,9
+http://dbpedia.org/resource/Roddy_Bottum,http://dbpedia.org/ontology/instrument,http://dbpedia.org/resource/Bass_guitar,Object,90,7.274083137512207,9
+http://dbpedia.org/resource/Atari_7800,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Products_introduced_in_1984,Object,91,5.399834632873535,9
+http://dbpedia.org/resource/Pancham_(TV_series),http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Pancham_(TV_series),Object,117,6.283700466156006,9
+http://dbpedia.org/resource/Kalka,http://dbpedia.org/property/website,www.kalka.city,Object,129,8.353204488754272,9
+http://dbpedia.org/resource/TextDrive,http://xmlns.com/foaf/0.1/homepage,http://www.textdrive.com/,Object,135,6.448993921279907,10
+http://dbpedia.org/resource/The_Orckestra,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1978_disestablishments_in_England,Object,137,10.482427835464478,10
+http://dbpedia.org/resource/Our_Lady_of_Light_Parish_Church,http://dbpedia.org/ontology/architect,http://dbpedia.org/resource/Society_of_Jesus,Object,138,18.33664631843567,10
+http://dbpedia.org/resource/Our_Lady_of_Light_Parish_Church,http://dbpedia.org/ontology/architecturalStyle,http://dbpedia.org/resource/Baroque,Object,138,18.33664631843567,10
+http://dbpedia.org/resource/Max_(2002_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Lions_Gate_Entertainment_films,Object,142,7.688243865966797,10
+http://dbpedia.org/resource/SonicWall,http://dbpedia.org/property/successor,Dell subsidiary,Predicate,146,25.695151567459103,10
+http://dbpedia.org/resource/SonicWall,http://dbpedia.org/property/parent,http://dbpedia.org/resource/Dell,Predicate,146,25.695151567459103,10
+http://dbpedia.org/resource/Serbian_Vojvodina,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Timișoara,Predicate,147,28.42380928993225,10
+http://dbpedia.org/resource/Serbian_Vojvodina,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Sremski_Karlovci,Predicate,147,28.42380928993225,10
+http://dbpedia.org/resource/Serbian_Vojvodina,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Zrenjanin,Predicate,147,28.42380928993225,10
+http://dbpedia.org/resource/Serbian_Vojvodina,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Zemun,Predicate,147,28.42380928993225,10
+http://dbpedia.org/resource/Nikkor,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Nikon,Predicate,149,12.759315252304075,10
+http://dbpedia.org/resource/Sørum,http://dbpedia.org/property/capital,http://dbpedia.org/resource/Sørumsand,Predicate,151,16.865843057632446,10
+http://dbpedia.org/resource/Hastulopsis_campbelli,http://dbpedia.org/ontology/synonym,"Terebra campbelli (Burch, 1965)",Predicate,156,4.441574096679688,10
+http://dbpedia.org/resource/Solar_Turbines,http://xmlns.com/foaf/0.1/homepage,http://mysolar.cat.com,Object,164,4.6094465255737305,10
+http://dbpedia.org/resource/John_Cantwell_(general),http://dbpedia.org/property/battles,http://dbpedia.org/resource/Iraq_War,Predicate,166,8.590396881103516,10
+http://dbpedia.org/resource/Nexland,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Defunct_software_companies_of_the_United_States,Object,168,6.251890897750855,10
+http://dbpedia.org/resource/West_of_Scotland_F.C.,http://xmlns.com/foaf/0.1/homepage,http://www.westofscotlandfc.co.uk/,Object,169,5.478254318237305,10
+http://dbpedia.org/resource/Holy_Roman_Empire,http://dbpedia.org/property/symbol,Heraldry of the Holy Roman Empire,Object,170,16.414247274398804,10
+http://dbpedia.org/resource/Holy_Roman_Empire,http://dbpedia.org/property/s,Kingdom of Prussia,Predicate,170,16.414247274398804,10
+http://dbpedia.org/resource/Holy_Roman_Empire,http://dbpedia.org/property/dateEvent,1555-09-25,Object,170,16.414247274398804,10
+http://dbpedia.org/resource/Holy_Roman_Empire,http://dbpedia.org/property/flagS,Naval Ensign of Sweden.svg,Object,170,16.414247274398804,10
+http://dbpedia.org/resource/Governorate_of_New_Andalusia_(1501–13),http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Aragua,Object,172,14.031972408294678,10
+http://dbpedia.org/resource/Sigrid_Undset,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:20th-century_translators,Object,180,4.619039058685303,10
+http://dbpedia.org/resource/D._Bap_Reddy,http://purl.org/dc/elements/1.1/description,Indian entomologist,Object,181,7.447828531265259,10
+http://dbpedia.org/resource/Damalops,http://dbpedia.org/ontology/class,http://dbpedia.org/resource/Mammal,Object,188,7.334776401519775,10
+http://dbpedia.org/resource/Tarumanagara,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Jakarta,Predicate,190,10.343541383743286,10
+http://dbpedia.org/resource/IPad_Air,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Computer,Object,193,8.44181513786316,10
+http://dbpedia.org/resource/Çağlar_Birinci,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Turkey_national_football_team,Object,194,11.00421953201294,10
+http://dbpedia.org/resource/COPASI,http://dbpedia.org/property/latestReleaseVersion,4.15,Object,195,9.996535539627075,10
+http://dbpedia.org/resource/COPASI,http://dbpedia.org/property/license,http://dbpedia.org/resource/Artistic_License,Object,195,9.996535539627075,10
+http://dbpedia.org/resource/Dale_Brown,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:United_States_Air_Force_officers,Object,196,6.15138840675354,10
+http://dbpedia.org/resource/Kunming–Singapore_Railway,http://dbpedia.org/property/el,Overhead catenary,Predicate;Object,197,7.47316837310791,10

@@ -1,0 +1,48 @@
+Subject,Predicate,Object,Error,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/Patti_D'Arbanville,http://dbpedia.org/property/yearsactive,1964,Object,0,22.91500568389893,39
+http://dbpedia.org/resource/Patti_D'Arbanville,http://dbpedia.org/property/partner,Don Johnson  1 son,Object,0,22.91500568389893,39
+http://dbpedia.org/resource/William_Davis_(Royal_Navy_officer),http://dbpedia.org/property/years,1958,Predicate,1,4.166041851043701,39
+http://dbpedia.org/resource/Jean_Dieudonné,http://dbpedia.org/ontology/award,http://dbpedia.org/resource/Leroy_P._Steele_Prize,Object,2,11.025688409805298,39
+http://dbpedia.org/resource/Duchy_of_Brunswick,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/German_Papiermark,Object,5,19.02925729751587,39
+http://dbpedia.org/resource/Duchy_of_Brunswick,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Vereinsthaler,Object,5,19.02925729751587,39
+http://dbpedia.org/resource/By_the_Way,http://dbpedia.org/property/length,295.0,Object,6,9.098187923431396,39
+http://dbpedia.org/resource/By_the_Way,http://dbpedia.org/property/length,270.0,Object,6,9.098187923431396,39
+http://dbpedia.org/resource/Collapsin_response_mediator_protein_family,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Protein_CRMP1_PDB_1kcx.png?width=300,Predicate,7,7.171557903289795,39
+http://dbpedia.org/resource/Too_Phat,http://dbpedia.org/property/birthDate,1973-10-16,Object,8,8.001492023468018,39
+http://dbpedia.org/resource/Allied_occupation_of_Libya,http://dbpedia.org/property/commonName,Libya,Predicate,10,4.990674734115601,39
+http://dbpedia.org/resource/The_Fall_of_the_Roman_Empire_(film),http://dbpedia.org/property/title,"Old Acquaintances ""Lucilla and Livius""",Object,15,10.709163427352903,39
+http://dbpedia.org/resource/The_Fall_of_the_Roman_Empire_(film),http://dbpedia.org/property/title,The Prophecy,Object,15,10.709163427352903,39
+http://dbpedia.org/resource/The_Fall_of_the_Roman_Empire_(film),http://dbpedia.org/property/length,320.0,Object,15,10.709163427352903,39
+"http://dbpedia.org/resource/United_States_Army_Armament_Research,_Development_and_Engineering_Center",http://dbpedia.org/property/garrison,http://dbpedia.org/resource/Picatinny_Arsenal,Predicate,16,6.348564863204956,39
+http://dbpedia.org/resource/Sreelekha_Mitra,http://xmlns.com/foaf/0.1/name,"Mitra, Sreelekha",Object,17,5.619295597076416,39
+"http://dbpedia.org/resource/Maria_Letizia_Bonaparte,_Duchess_of_Aosta",http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Burials_at_the_Basilica_of_Superga,Object,22,7.774389505386352,39
+"http://dbpedia.org/resource/Maria_Letizia_Bonaparte,_Duchess_of_Aosta",http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Italian_princesses,Object,22,7.774389505386352,39
+http://dbpedia.org/resource/Matthew_Hancock,http://dbpedia.org/ontology/primeMinister,http://dbpedia.org/resource/David_Cameron,Predicate,23,4.120553731918335,39
+http://dbpedia.org/resource/Matthew_Hancock,http://dbpedia.org/property/primeminister,http://dbpedia.org/resource/David_Cameron,Predicate,23,4.120553731918335,39
+http://dbpedia.org/resource/Canada_Place,http://dbpedia.org/property/startDate,1983-03-09,Object,24,8.11073350906372,39
+http://dbpedia.org/resource/Canada_Place,http://dbpedia.org/property/floorCount,23,Subject,24,8.11073350906372,39
+http://dbpedia.org/resource/Canada_Place,http://dbpedia.org/ontology/cost,4.0E8,Subject,24,8.11073350906372,39
+http://dbpedia.org/resource/William_Whiteway,http://dbpedia.org/property/governor,Henry Berkeley Fitzhardinge Maxse,Predicate,25,7.556311368942261,39
+http://dbpedia.org/resource/William_Whiteway,http://dbpedia.org/property/governor,Glover 2nd term,Predicate,25,7.556311368942261,39
+http://dbpedia.org/resource/Laza_Ristovski,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:People_from_Kraljevo,Object,27,12.696815490722656,40
+http://dbpedia.org/resource/Ray_(film),http://dbpedia.org/ontology/budget,4.0E7,Object,29,3.771296501159668,40
+http://dbpedia.org/resource/A_Pistol_Shot,http://dbpedia.org/property/runtime,5400.0,Object,35,6.290997505187988,40
+http://dbpedia.org/resource/Bangalore_Nagarathnamma,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Bangalore,Object,40,3.1585493087768555,40
+http://dbpedia.org/resource/British_Oceanographic_Data_Centre,http://dbpedia.org/property/size,150,Predicate,41,3.933525562286377,40
+http://dbpedia.org/resource/The_Sounds,http://dbpedia.org/property/imageSize,Landscape,Predicate,44,4.812960147857666,40
+http://dbpedia.org/resource/Citizen_Kane,http://dbpedia.org/ontology/budget,839727.0,Object,45,3.949455738067627,40
+http://dbpedia.org/resource/454th_Bombardment_Group,http://xmlns.com/foaf/0.1/name,60px,Object,56,4.659336566925049,40
+http://dbpedia.org/resource/Hangin'_Around_(Big_Brovaz_song),http://dbpedia.org/ontology/Work/runtime,3.4833333333333334,Object,57,9.009345293045044,40
+http://dbpedia.org/resource/Apple_Inc.,http://dbpedia.org/ontology/revenue,1.82795E11,Object,66,7.686737298965454,40
+http://dbpedia.org/resource/Thomas_Lough,http://dbpedia.org/property/years,1905,Predicate,72,4.896570444107056,41
+http://dbpedia.org/resource/Sweeney_Todd:_The_Demon_Barber_of_Fleet_Street_(1936_film),http://dbpedia.org/property/starring,http://dbpedia.org/resource/Mrs._Lovett,Object,109,5.323267698287964,41
+http://dbpedia.org/resource/Paul_Stephenson_(police_officer),http://dbpedia.org/property/years,2005,Object,113,5.786836862564087,41
+http://dbpedia.org/resource/Paul_Stephenson_(police_officer),http://dbpedia.org/property/years,2009,Object,113,5.786836862564087,41
+http://dbpedia.org/resource/Education,http://dbpedia.org/property/by,no,Predicate,116,7.55397891998291,41
+http://dbpedia.org/resource/Education,http://dbpedia.org/property/about,yes,Predicate,116,7.55397891998291,41
+http://dbpedia.org/resource/The_Toilers_and_the_Wayfarers,http://dbpedia.org/ontology/cinematography,http://www.imdb.com/name/nm1521054/,Object,119,27.37721061706543,41
+http://dbpedia.org/resource/The_Toilers_and_the_Wayfarers,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:German_emigrants_to_the_United_States,Object,119,27.37721061706543,41
+http://dbpedia.org/resource/As_Long_as_It_Takes,http://dbpedia.org/property/length,271.0,Object,120,3.669677019119263,41
+"http://dbpedia.org/resource/St._James_Church_(Monkton,_Maryland)",http://dbpedia.org/property/longDirection,W,Object,121,4.994811058044434,41
+http://dbpedia.org/resource/Gerald_Maxwell,http://dbpedia.org/property/serviceyears,1914,Object,126,42.67752504348755,41
+http://dbpedia.org/resource/Gerald_Maxwell,http://dbpedia.org/property/serviceyears,1939,Object,126,42.67752504348755,41

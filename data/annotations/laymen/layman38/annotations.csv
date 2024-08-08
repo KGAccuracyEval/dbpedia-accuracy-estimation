@@ -1,0 +1,569 @@
+Subject,Predicate,Object,Annotation,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/Murata_Manufacturing,http://dbpedia.org/ontology/revenue,8.467E11,Incorrect,0,213.96921515464783,10
+http://dbpedia.org/resource/Murata_Manufacturing,http://dbpedia.org/property/name,"Murata Manufacturing Company, Ltd.",Correct,0,213.96921515464783,10
+http://dbpedia.org/resource/Murata_Manufacturing,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Companies_listed_on_the_Osaka_Securities_Exchange,Incorrect,0,213.96921515464783,10
+http://dbpedia.org/resource/Murata_Manufacturing,http://dbpedia.org/property/type,http://dbpedia.org/resource/Kabushiki_gaisha,Correct,0,213.96921515464783,10
+http://dbpedia.org/resource/Murata_Manufacturing,http://dbpedia.org/ontology/abstract,"Murata Manufacturing Co., Ltd. (株式会社村田製作所, Kabushiki-gaisha Murata Seisakusho) is a Japanese manufacturer of electronic components, based in Nagaokakyo, Kyoto. Honorary Chairman Akira Murata started Murata Manufacturing as a personal venture in October, 1944. On December 1950 reorganized the company into Murata Manufacturing Co., Ltd. with paid-in Capital ¥1 million.Murata Manufacturing is a leading company primarily involved in the manufacturing of ceramic passive electronic components, primarily capacitors, and it has an overwhelming share worldwide in ceramic filters, high-frequency parts, and sensors. As of March 31, 2013 Murata Manufacturing has 24 subsidiaries in Japan and 52 overseas in the United States, Canada, Mexico, Brazil, Germany, France, Italy, the United Kingdom, Switzerland, the Netherlands, Spain, Hungary, Finland, China, Taiwan, South Korea, Singapore, Malaysia, the Philippines, Thailand, Hong Kong, Vietnam and India.On April 13, 2012, Murata announced a deal to acquire RF Monolithics for $1.78 per share.On August 23, 2014, Murata announced the acquisition of Peregrine Semiconductor Corporation.",Correct,0,213.96921515464783,10
+http://dbpedia.org/resource/Dublin_North_(Dáil_Éireann_constituency),http://dbpedia.org/property/name,http://dbpedia.org/resource/Denis_Cullen,Incorrect,1,11.161221504211426,10
+http://dbpedia.org/resource/Dublin_North_(Dáil_Éireann_constituency),http://dbpedia.org/property/name,http://dbpedia.org/resource/G._V._Wright,Incorrect,1,11.161221504211426,10
+http://dbpedia.org/resource/Dublin_North_(Dáil_Éireann_constituency),http://dbpedia.org/property/name,http://dbpedia.org/resource/Kathleen_Clarke,Incorrect,1,11.161221504211426,10
+http://dbpedia.org/resource/Dublin_North_(Dáil_Éireann_constituency),http://dbpedia.org/property/name,http://dbpedia.org/resource/Alan_Farrell,Incorrect,1,11.161221504211426,10
+http://dbpedia.org/resource/Dublin_North_(Dáil_Éireann_constituency),http://dbpedia.org/property/name,http://dbpedia.org/resource/William_Hewat,Incorrect,1,11.161221504211426,10
+http://dbpedia.org/resource/GIMP,http://dbpedia.org/property/author,http://dbpedia.org/resource/Spencer_Kimball_(computer_programmer),Correct,2,58.02675008773804,10
+http://dbpedia.org/resource/GIMP,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Raster_graphics_editor,Correct,2,58.02675008773804,10
+http://dbpedia.org/resource/GIMP,http://dbpedia.org/property/operatingSystem,http://dbpedia.org/resource/OpenBSD,Correct,2,58.02675008773804,10
+http://dbpedia.org/resource/GIMP,http://dbpedia.org/ontology/operatingSystem,http://dbpedia.org/resource/OpenBSD,Correct,2,58.02675008773804,10
+http://dbpedia.org/resource/GIMP,http://dbpedia.org/property/developer,The GIMP Development Team,Correct,2,58.02675008773804,10
+http://dbpedia.org/resource/Inger_McCabe_Elliott,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Norway,Correct,3,5.868300676345825,10
+http://dbpedia.org/resource/Tokheim,http://www.w3.org/2000/01/rdf-schema#comment,"Tokheim Group S.A.S. is a French-based manufacturer of fuel dispensers. It claims to be one of the world's leading manufacturers and servicers of fuel dispensing equipment. The group has operations in many countries and offers customers a complete range of fuel dispensers and pumps, retail automation systems, payment terminals, media devices, replacement parts and upgrade kits, and support services including service station construction and maintenance.",Incorrect,4,307.98924350738525,10
+http://dbpedia.org/resource/Tokheim,http://dbpedia.org/ontology/owner,http://dbpedia.org/resource/Motion_Equity_Partners,Incorrect,4,307.98924350738525,10
+http://dbpedia.org/resource/Tokheim,http://dbpedia.org/property/homepage,http://www.tokheim.com/index.php?lgnews=1&lg=,Incorrect,4,307.98924350738525,10
+http://dbpedia.org/resource/Tokheim,http://dbpedia.org/property/industry,Manufacturing,Correct,4,307.98924350738525,10
+http://dbpedia.org/resource/Tokheim,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Companies_of_France,Incorrect,4,307.98924350738525,10
+http://dbpedia.org/resource/Björn_Westerlund,http://dbpedia.org/ontology/deathYear,2009,Correct,5,77.72742748260498,10
+http://dbpedia.org/resource/Björn_Westerlund,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Hanover,Correct,5,77.72742748260498,10
+http://dbpedia.org/resource/Björn_Westerlund,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1912_births,Correct,5,77.72742748260498,10
+http://dbpedia.org/resource/Björn_Westerlund,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Swedish-speaking_Finns,Correct,5,77.72742748260498,10
+http://dbpedia.org/resource/Björn_Westerlund,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/Helsinki_University_of_Technology,Incorrect,5,77.72742748260498,10
+http://dbpedia.org/resource/Kemao_Market,http://dbpedia.org/ontology/address,18 Zhongguancun St,Correct,6,44.14946365356445,10
+http://dbpedia.org/resource/Kemao_Market,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Visitor_attractions_in_Beijing,Correct,6,44.14946365356445,10
+http://dbpedia.org/resource/Kemao_Market,http://dbpedia.org/property/location,http://dbpedia.org/resource/Zhongguancun,Correct,6,44.14946365356445,10
+http://dbpedia.org/resource/Kemao_Market,http://dbpedia.org/property/alternateNames,Kemao Electronics Plaza,Correct,6,44.14946365356445,10
+http://dbpedia.org/resource/Kemao_Market,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/China,Correct,6,44.14946365356445,10
+http://dbpedia.org/resource/Roy_Acuff,http://xmlns.com/foaf/0.1/name,Roy Acuff,Correct,7,63.07350063323975,10
+http://dbpedia.org/resource/Roy_Acuff,http://xmlns.com/foaf/0.1/name,"Acuff, Roy",Correct,7,63.07350063323975,10
+http://dbpedia.org/resource/Roy_Acuff,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,7,63.07350063323975,10
+http://dbpedia.org/resource/ZUK_Z1,http://dbpedia.org/property/type,http://dbpedia.org/resource/Phablet,Correct,8,4.716166019439697,10
+http://dbpedia.org/resource/Alfred_Peet,http://dbpedia.org/property/placeOfBirth,http://dbpedia.org/resource/Alkmaar,Correct,9,27.77697443962097,10
+http://dbpedia.org/resource/Alfred_Peet,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Netherlands,Correct,9,27.77697443962097,10
+http://dbpedia.org/resource/Xinetd,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/Shell_(computing),Correct,10,9.934213638305664,10
+http://dbpedia.org/resource/Xinetd,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/C_(programming_language),Correct,10,9.934213638305664,10
+http://dbpedia.org/resource/Qmmp,http://dbpedia.org/property/operatingSystem,http://dbpedia.org/resource/FreeBSD,Correct,11,38.749558448791504,10
+http://dbpedia.org/resource/Qmmp,http://dbpedia.org/ontology/operatingSystem,http://dbpedia.org/resource/FreeBSD,Correct,11,38.749558448791504,10
+http://dbpedia.org/resource/Sentrigo,http://dbpedia.org/property/industry,http://dbpedia.org/resource/Software_&_Programming,Correct,12,18.605027198791504,10
+http://dbpedia.org/resource/Sentrigo,http://dbpedia.org/property/industry,http://dbpedia.org/resource/Software,Correct,12,18.605027198791504,10
+http://dbpedia.org/resource/Sentrigo,http://dbpedia.org/property/products,vPatch;,Correct,12,18.605027198791504,10
+http://dbpedia.org/resource/Sentrigo,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/United_States,Correct,12,18.605027198791504,10
+http://dbpedia.org/resource/Sentrigo,http://dbpedia.org/ontology/location,"http://dbpedia.org/resource/Santa_Clara,_California",Correct,12,18.605027198791504,10
+http://dbpedia.org/resource/Pentair,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Swimming_pool_equipment,Correct,13,106.07358312606812,10
+http://dbpedia.org/resource/Pentair,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Pentair_Logo.jpg?width=300,Correct,13,106.07358312606812,10
+http://dbpedia.org/resource/Pentair,http://dbpedia.org/property/hqLocation,"Worsley, Greater Manchester, UK",Incorrect,13,106.07358312606812,10
+http://dbpedia.org/resource/Pentair,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Companies_based_in_Minnesota,Incorrect,13,106.07358312606812,10
+http://dbpedia.org/resource/Pentair,http://dbpedia.org/property/numEmployees,30000,Incorrect,13,106.07358312606812,10
+http://dbpedia.org/resource/William_Puffer,http://dbpedia.org/property/residence,"http://dbpedia.org/resource/Lacombe,_Alberta",Correct,14,4.666298151016235,10
+http://dbpedia.org/resource/Techtron,http://dbpedia.org/ontology/product,"http://dbpedia.org/resource/Electronic_Equipment,_Scientific_instrument",Correct,15,17.416418075561523,10
+http://dbpedia.org/resource/Techtron,http://dbpedia.org/property/location,"http://dbpedia.org/resource/Melbourne,_Australia",Correct,15,17.416418075561523,10
+http://dbpedia.org/resource/Techtron,http://dbpedia.org/ontology/industry,http://dbpedia.org/resource/Scientific_instrument,Correct,15,17.416418075561523,10
+http://dbpedia.org/resource/Techtron,http://dbpedia.org/property/keyPeople,"Alan Walsh, Inventor of AAS",Correct,15,17.416418075561523,10
+http://dbpedia.org/resource/Techtron,http://dbpedia.org/property/foundation,1938,Correct,15,17.416418075561523,10
+http://dbpedia.org/resource/Joyalukkas,http://dbpedia.org/property/homepage,http://www.joyalukkas.com,Correct,16,109.28488683700562,10
+http://dbpedia.org/resource/Joyalukkas,http://dbpedia.org/property/areaServed,http://dbpedia.org/resource/Qatar,Correct,16,109.28488683700562,10
+http://dbpedia.org/resource/Joyalukkas,http://dbpedia.org/ontology/regionServed,http://dbpedia.org/resource/Singapore,Correct,16,109.28488683700562,10
+http://dbpedia.org/resource/Joyalukkas,http://dbpedia.org/property/products,Jewellery,Correct,16,109.28488683700562,10
+http://dbpedia.org/resource/Joyalukkas,http://dbpedia.org/ontology/regionServed,http://dbpedia.org/resource/Malaysia,Correct,16,109.28488683700562,10
+http://dbpedia.org/resource/Logic_Pro,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/Objective-C,Correct,17,111.65832018852234,10
+http://dbpedia.org/resource/Logic_Pro,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/C_(programming_language),Correct,17,111.65832018852234,10
+http://dbpedia.org/resource/Logic_Pro,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/C++,Correct,17,111.65832018852234,10
+http://dbpedia.org/resource/Southwest_Airlines,http://dbpedia.org/ontology/abstract,"Southwest Airlines Co. (NYSE: LUV) is a major U.S. airline and the world's largest low-cost carrier, headquartered in Dallas, Texas. The airline was established in 1967 and adopted its current name in 1971. The airline has nearly 46,000 employees as of December 2014 and operates more than 3,400 flights per day. As of June 5, 2011, it carries the most domestic passengers of any U.S. airline. As of November 2014, Southwest Airlines has scheduled service to 93 destinations in 41 states, Puerto Rico, and abroad.Southwest Airlines has used only Boeing 737s, except for several years in the 1970s and 1980s, when it leased some Boeing 727s from Braniff. As of August 2012, Southwest is the largest operator of the 737 worldwide with over 650 in service, each averaging six flights per day.As an employer, Southwest was ranked #15 in the Glassdoor Employees’ Choice Awards 2015.",Correct,18,100.03489065170288,10
+http://dbpedia.org/resource/Southwest_Airlines,http://dbpedia.org/ontology/operatingIncome,2.23E9,Incorrect,18,100.03489065170288,10
+http://dbpedia.org/resource/Southwest_Airlines,http://dbpedia.org/property/frequentFlyer,http://dbpedia.org/resource/Southwest_Airlines,Correct,18,100.03489065170288,10
+http://dbpedia.org/resource/Southwest_Airlines,http://dbpedia.org/ontology/icaoAirlineCode,SWA,Correct,18,100.03489065170288,10
+http://dbpedia.org/resource/Southwest_Airlines,http://dbpedia.org/ontology/numberOfEmployees,47000,Correct,18,100.03489065170288,10
+http://dbpedia.org/resource/JTS_Topology_Suite,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/Java_(programming_language),Correct,19,5.047853231430054,10
+http://dbpedia.org/resource/BeOS,http://dbpedia.org/ontology/license,http://dbpedia.org/resource/Proprietary_software,Correct,20,5.412271976470947,10
+http://dbpedia.org/resource/Pizza_73,http://dbpedia.org/property/name,Pizza 73,Correct,21,30.049792051315308,10
+http://dbpedia.org/resource/Pizza_73,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Pizza_73,Incorrect,21,30.049792051315308,10
+http://dbpedia.org/resource/Pizza_73,http://dbpedia.org/ontology/abstract,"Pizza 73 is a Canadian restaurant chain that offers a number of different styles of pizza, along with chicken wings. It has been operated by Pizza Pizza since 2007. Toronto-based Pizza Pizza had acquired the restaurant for a total of $CAN70.2 million. There are 89 locations throughout Western Canada, which include the provinces of British Columbia, Alberta, and Saskatchewan. The restaurant's name originates from its original phone number: 473–7373. Founded by David Tougas and Guy Goodwin in 1985, Pizza 73 is headquartered in Edmonton, Alberta, Canada, with Michael Overs serving as the restaurant's chairman.It was the first delivery chain in Western Canada that provided a centralized call center, allowing customers to order their meal by phone; Pizza 73 has allowed orders online by the internet since 1995. The restaurant has been recognized as one of Canada's 50 best managed services, and one of Alberta's 50 fastest growing companies by Alberta Venture. On August 18, 2011, Pizza 73 launched its iPhone application, thus allowing potential customers a new way to order food.",Correct,21,30.049792051315308,10
+http://dbpedia.org/resource/Pizza_73,http://dbpedia.org/ontology/numberOfLocations,89,Correct,21,30.049792051315308,10
+http://dbpedia.org/resource/Pizza_73,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Pizza_73,Correct,21,30.049792051315308,10
+http://dbpedia.org/resource/Alps_Electric,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/Alpine_Electronics,Correct,22,12.176287412643433,10
+http://dbpedia.org/resource/Alps_Electric,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/Cirque_Corporation,Correct,22,12.176287412643433,10
+http://dbpedia.org/resource/Plaid_Cymru,http://dbpedia.org/ontology/ideology,http://dbpedia.org/resource/Social_democracy,Correct,23,34.929572343826294,10
+http://dbpedia.org/resource/Plaid_Cymru,http://dbpedia.org/property/ideology,http://dbpedia.org/resource/Social_democracy,Correct,23,34.929572343826294,10
+http://dbpedia.org/resource/Plaid_Cymru,http://dbpedia.org/property/foundation,1925-08-05,Correct,23,34.929572343826294,10
+http://dbpedia.org/resource/Plaid_Cymru,http://dbpedia.org/property/title,Links to related articles,Incorrect,23,34.929572343826294,10
+http://dbpedia.org/resource/Plaid_Cymru,http://dbpedia.org/property/headquarters,"Tŷ Gwynfor, Marine Chambers, Anson Court, Atlantic Wharf",Correct,23,34.929572343826294,10
+http://dbpedia.org/resource/Emil_Sick,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/United_States,Correct,24,31.1747887134552,10
+http://dbpedia.org/resource/Emil_Sick,http://dbpedia.org/ontology/restingPlace,"http://dbpedia.org/resource/Lake_Forest_Park,_Washington",Correct,24,31.1747887134552,10
+http://dbpedia.org/resource/Emil_Sick,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Seattle,Correct,24,31.1747887134552,10
+http://dbpedia.org/resource/Emil_Sick,http://dbpedia.org/ontology/restingPlace,"http://dbpedia.org/resource/King_County,_Washington",Correct,24,31.1747887134552,10
+http://dbpedia.org/resource/GoldenSource,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Software_companies_based_in_New_York,Correct,25,67.05469346046448,10
+http://dbpedia.org/resource/GoldenSource,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Business_software_companies,Correct,25,67.05469346046448,10
+http://dbpedia.org/resource/GoldenSource,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/GoldenSource,Incorrect,25,67.05469346046448,10
+http://dbpedia.org/resource/GoldenSource,http://dbpedia.org/property/industry,Financial Services,Correct,25,67.05469346046448,10
+http://dbpedia.org/resource/GoldenSource,http://dbpedia.org/ontology/keyPerson,http://dbpedia.org/resource/John_Eley,Correct,25,67.05469346046448,10
+http://dbpedia.org/resource/Alfred_Menezes,http://www.w3.org/2000/01/rdf-schema#label,Alfred Menezes,Correct,26,5.048192501068115,10
+http://dbpedia.org/resource/Turn_10_Studios,http://dbpedia.org/property/foundation,2001,I Don't Know,27,126.73947048187256,10
+http://dbpedia.org/resource/Turn_10_Studios,http://xmlns.com/foaf/0.1/homepage,http://www.forzamotorsport.net/en-us/turn10,Incorrect,27,126.73947048187256,10
+http://dbpedia.org/resource/Turn_10_Studios,http://dbpedia.org/property/industry,http://dbpedia.org/resource/Video_game_industry,Correct,27,126.73947048187256,10
+http://dbpedia.org/resource/Turn_10_Studios,http://dbpedia.org/property/products,Forza Motorsport,Correct,27,126.73947048187256,10
+http://dbpedia.org/resource/Turn_10_Studios,http://dbpedia.org/property/keyPeople,Phil Frazier,Incorrect,27,126.73947048187256,10
+http://dbpedia.org/resource/Lisaac,http://dbpedia.org/property/influencedBy,http://dbpedia.org/resource/Smalltalk,Incorrect,28,46.593626260757446,10
+http://dbpedia.org/resource/Lisaac,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Smalltalk,Incorrect,28,46.593626260757446,10
+http://dbpedia.org/resource/Xfile,http://dbpedia.org/ontology/license,http://dbpedia.org/resource/Shareware,Correct,29,13.714646100997925,10
+http://dbpedia.org/resource/Lillian_Massey_Treble,http://www.w3.org/2000/01/rdf-schema#label,Lillian Massey Treble,Correct,30,51.32166910171509,10
+http://dbpedia.org/resource/Lillian_Massey_Treble,http://dbpedia.org/ontology/deathYear,1915,Correct,30,51.32166910171509,10
+http://dbpedia.org/resource/Lillian_Massey_Treble,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1854_births,Correct,30,51.32166910171509,10
+http://dbpedia.org/resource/Lillian_Massey_Treble,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Lillian_Massey_Treble,Correct,30,51.32166910171509,10
+http://dbpedia.org/resource/Lillian_Massey_Treble,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Canadian_educators,Correct,30,51.32166910171509,10
+http://dbpedia.org/resource/Single_(music),http://www.w3.org/2000/01/rdf-schema#label,Single (music),Correct,31,9.385212898254396,10
+http://dbpedia.org/resource/Damianos_Kyriazis,http://dbpedia.org/property/shortDescription,Greek politician,Correct,32,15.328670263290403,10
+http://dbpedia.org/resource/Samsung_Galaxy_S6,http://dbpedia.org/property/name,Samsung Galaxy S6 Edge,Correct,33,54.6898844242096,10
+http://dbpedia.org/resource/Samsung_Galaxy_S6,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/GalaxyS6_Logo.Png,Correct,33,54.6898844242096,10
+http://dbpedia.org/resource/Samsung_Galaxy_S6,http://dbpedia.org/property/name,Samsung Galaxy S6,Correct,33,54.6898844242096,10
+http://dbpedia.org/resource/Samsung_Galaxy_S6,http://www.w3.org/2000/01/rdf-schema#comment,"Samsung Galaxy S6 and Samsung Galaxy S6 Edge are Android smartphones manufactured and marketed by Samsung Electronics. The S6 and S6 Edge jointly serve as successors to the Galaxy S5. The smartphones were officially unveiled in a press conference at Mobile World Congress on 1 March 2015. Alongside the S6, Samsung also unveiled the S6 Edge, a variant whose screen is wrapped along the sides of the device; the curvature is usable for several additional features.",Correct,33,54.6898844242096,10
+http://dbpedia.org/resource/Samsung_Galaxy_S6,http://dbpedia.org/property/cpu,&bull; Quad-core 2.1 GHz Cortex-A57,Correct,33,54.6898844242096,10
+http://dbpedia.org/resource/Torrent_Cables,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Ahmedabad,Correct,34,25.05562925338745,10
+http://dbpedia.org/resource/Torrent_Cables,http://dbpedia.org/property/foundation,1983,Correct,34,25.05562925338745,10
+http://dbpedia.org/resource/Torrent_Cables,http://www.w3.org/2000/01/rdf-schema#label,Torrent Cables,Correct,34,25.05562925338745,10
+http://dbpedia.org/resource/Torrent_Cables,http://xmlns.com/foaf/0.1/homepage,http://www.torrentcables.com/,Incorrect,34,25.05562925338745,10
+http://dbpedia.org/resource/Torrent_Cables,http://dbpedia.org/property/location,http://dbpedia.org/resource/India,Correct,34,25.05562925338745,10
+http://dbpedia.org/resource/Solar_Turbines,http://dbpedia.org/property/products,Saturn 20,Correct,35,38.77548336982727,10
+http://dbpedia.org/resource/Solar_Turbines,http://dbpedia.org/property/services,http://dbpedia.org/resource/Training,Correct,35,38.77548336982727,10
+http://dbpedia.org/resource/Solar_Turbines,http://dbpedia.org/property/products,Taurus 65,Correct,35,38.77548336982727,10
+http://dbpedia.org/resource/Solar_Turbines,http://xmlns.com/foaf/0.1/homepage,http://mysolar.cat.com,Incorrect,35,38.77548336982727,10
+http://dbpedia.org/resource/Solar_Turbines,http://dbpedia.org/property/industry,http://dbpedia.org/resource/Electricity_generation,Correct,35,38.77548336982727,10
+http://dbpedia.org/resource/Britannia_Industries,http://dbpedia.org/ontology/product,http://dbpedia.org/resource/Biscuit,Correct,36,68.15903973579407,10
+http://dbpedia.org/resource/Britannia_Industries,http://dbpedia.org/ontology/internationally,1,Correct,36,68.15903973579407,10
+http://dbpedia.org/resource/Britannia_Industries,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Britannia_Industries,Correct,36,68.15903973579407,10
+http://dbpedia.org/resource/Britannia_Industries,http://dbpedia.org/property/keyPeople,Nusli Wadia,Correct,36,68.15903973579407,10
+http://dbpedia.org/resource/Britannia_Industries,http://dbpedia.org/property/intl,yes,Correct,36,68.15903973579407,10
+http://dbpedia.org/resource/SageTV,http://dbpedia.org/property/location,"http://dbpedia.org/resource/Inglewood,_California",Correct,37,13.86042618751526,10
+http://dbpedia.org/resource/SageTV,http://dbpedia.org/ontology/location,"http://dbpedia.org/resource/Inglewood,_California",Correct,37,13.86042618751526,10
+http://dbpedia.org/resource/Deborah_Meaden,http://dbpedia.org/ontology/residence,http://dbpedia.org/resource/Somerset,Correct,38,79.64883828163147,10
+http://dbpedia.org/resource/Deborah_Meaden,http://dbpedia.org/ontology/residence,http://dbpedia.org/resource/Primrose_Hill,Incorrect,38,79.64883828163147,10
+http://dbpedia.org/resource/Deborah_Meaden,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/City_College_Brighton_&_Hove,Correct,38,79.64883828163147,10
+http://dbpedia.org/resource/Luxinia,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/C_(programming_language),Correct,39,7.972123622894287,10
+http://dbpedia.org/resource/St._Louis_Car_Company,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/St._Louis_Aircraft_Corporation,Correct,40,5.699636697769165,10
+http://dbpedia.org/resource/RATP_Group,http://dbpedia.org/property/parent,http://dbpedia.org/resource/Government_of_France,Correct,41,30.53905153274536,10
+http://dbpedia.org/resource/RATP_Group,http://dbpedia.org/property/locationCountry,France,Correct,41,30.53905153274536,10
+http://dbpedia.org/resource/RATP_Group,http://dbpedia.org/property/locationCity,75012,Correct,41,30.53905153274536,10
+http://dbpedia.org/resource/RATP_Group,http://xmlns.com/foaf/0.1/homepage,http://www.ratp.fr/en/ratp/c_5002/the-ratp-group/,Incorrect,41,30.53905153274536,10
+http://dbpedia.org/resource/RATP_Group,http://dbpedia.org/property/homepage,http://www.ratp.fr/en/ratp/c_5002/the-ratp-group/,Incorrect,41,30.53905153274536,10
+http://dbpedia.org/resource/Twitter,http://dbpedia.org/property/revenue,1.4E9,Incorrect,42,43.82616877555847,10
+http://dbpedia.org/resource/Twitter,http://dbpedia.org/property/float,right,Correct,42,43.82616877555847,10
+http://dbpedia.org/resource/Twitter,http://dbpedia.org/property/locationCity,http://dbpedia.org/resource/California,Correct,42,43.82616877555847,10
+http://dbpedia.org/resource/Twitter,http://dbpedia.org/property/industry,http://dbpedia.org/resource/Internet,Correct,42,43.82616877555847,10
+http://dbpedia.org/resource/Twitter,http://dbpedia.org/property/q,no,Incorrect,42,43.82616877555847,10
+http://dbpedia.org/resource/Kung_Tsui-chang,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Taipei,Correct,43,5.698554515838623,10
+http://dbpedia.org/resource/Kung_Tsui-chang,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Taiwan,Correct,43,5.698554515838623,10
+http://dbpedia.org/resource/Sony_Xperia_P,http://dbpedia.org/property/type,http://dbpedia.org/resource/Smartphone,Correct,44,3.179166316986084,10
+http://dbpedia.org/resource/PRTM,http://dbpedia.org/property/services,http://dbpedia.org/resource/Management_consulting,Correct,45,25.39334535598755,10
+http://dbpedia.org/resource/PRTM,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/United_States,Correct,45,25.39334535598755,10
+http://dbpedia.org/resource/PRTM,http://dbpedia.org/property/keyPeople,"Mary Lyons, Chief Talent Officer",Correct,45,25.39334535598755,10
+http://dbpedia.org/resource/PRTM,http://dbpedia.org/property/services,http://dbpedia.org/resource/Supply_Chain,Correct,45,25.39334535598755,10
+http://dbpedia.org/resource/PRTM,http://dbpedia.org/property/homepage,http://www.prtm.com/,Incorrect,45,25.39334535598755,10
+http://dbpedia.org/resource/American_Association_for_Respiratory_Care,http://dbpedia.org/ontology/locationCity,"http://dbpedia.org/resource/Irving,_Texas",Correct,46,15.25856328010559,10
+http://dbpedia.org/resource/American_Association_for_Respiratory_Care,http://dbpedia.org/ontology/foundingDate,1947-03-16,Correct,46,15.25856328010559,10
+http://dbpedia.org/resource/Vassmolösa,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/Sweden,Correct,47,10.064619541168211,10
+http://dbpedia.org/resource/Yekaterinburg,http://dbpedia.org/property/sepSnowDays,1,Incorrect,48,64.83824849128723,10
+http://dbpedia.org/resource/Yekaterinburg,http://dbpedia.org/property/mayRecordHighC,33.4,Correct,48,64.83824849128723,10
+http://dbpedia.org/resource/Yekaterinburg,http://dbpedia.org/property/marMeanC,-3.8,Correct,48,64.83824849128723,10
+http://dbpedia.org/resource/Yekaterinburg,http://dbpedia.org/property/decRecordHighC,5.9,Correct,48,64.83824849128723,10
+http://dbpedia.org/resource/Yekaterinburg,http://dbpedia.org/property/sepRecordHighC,31.9,Correct,48,64.83824849128723,10
+http://dbpedia.org/resource/Arthur_Wagner,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Arthur_Wagner,Correct,49,43.35550856590271,10
+http://dbpedia.org/resource/Arthur_Wagner,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:People_educated_at_Eton_College,Correct,49,43.35550856590271,10
+http://dbpedia.org/resource/Arthur_Wagner,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/Eton_College,Correct,49,43.35550856590271,10
+http://dbpedia.org/resource/Arthur_Wagner,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Clergy,Correct,49,43.35550856590271,10
+http://dbpedia.org/resource/Arthur_Wagner,http://www.w3.org/2003/01/geo/wgs84_pos#long,-0.115,Correct,49,43.35550856590271,10
+http://dbpedia.org/resource/BleachBit,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/Python_(programming_language),Correct,50,5.643959283828735,10
+http://dbpedia.org/resource/Sitmar_Cruises,http://dbpedia.org/ontology/regionServed,http://dbpedia.org/resource/Australasia,Correct,51,64.27058911323547,10
+http://dbpedia.org/resource/Sitmar_Cruises,http://dbpedia.org/property/locationCountry,http://dbpedia.org/resource/Monaco,Correct,51,64.27058911323547,10
+http://dbpedia.org/resource/Sitmar_Cruises,http://dbpedia.org/ontology/service,http://dbpedia.org/resource/Migrant_Ship,Incorrect,51,64.27058911323547,10
+http://dbpedia.org/resource/Sitmar_Cruises,http://dbpedia.org/ontology/service,http://dbpedia.org/resource/Cruise_ship,Correct,51,64.27058911323547,10
+http://dbpedia.org/resource/Sitmar_Cruises,http://dbpedia.org/ontology/locationCity,http://dbpedia.org/resource/Monte_Carlo,Correct,51,64.27058911323547,10
+"http://dbpedia.org/resource/Sir_John_Anderson,_1st_Baronet,_of_Harrold_Priory",http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Scottish_businesspeople,Correct,52,41.32788324356079,10
+"http://dbpedia.org/resource/Sir_John_Anderson,_1st_Baronet,_of_Harrold_Priory",http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1963_deaths,Correct,52,41.32788324356079,10
+"http://dbpedia.org/resource/Sir_John_Anderson,_1st_Baronet,_of_Harrold_Priory",http://xmlns.com/foaf/0.1/surname,Anderson,Correct,52,41.32788324356079,10
+"http://dbpedia.org/resource/Sir_John_Anderson,_1st_Baronet,_of_Harrold_Priory",http://dbpedia.org/property/shortDescription,"Scottish businessman, writer and lecturer.",Correct,52,41.32788324356079,10
+"http://dbpedia.org/resource/Sir_John_Anderson,_1st_Baronet,_of_Harrold_Priory",http://dbpedia.org/property/name,"Anderson, John",Correct,52,41.32788324356079,10
+http://dbpedia.org/resource/IPad_Air,http://dbpedia.org/property/connectivity,http://dbpedia.org/resource/Global_Positioning_System,Correct,53,64.16431427001953,10
+http://dbpedia.org/resource/IPad_Air,http://dbpedia.org/property/service,http://dbpedia.org/resource/Game_Center,Correct,53,64.16431427001953,10
+http://dbpedia.org/resource/IPad_Air,http://dbpedia.org/property/service,http://dbpedia.org/resource/IBooks,Correct,53,64.16431427001953,10
+http://dbpedia.org/resource/IPad_Air,http://dbpedia.org/property/connectivity,http://dbpedia.org/resource/Code_division_multiple_access,Correct,53,64.16431427001953,10
+http://dbpedia.org/resource/IPad_Air,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Computer,Correct,53,64.16431427001953,10
+http://dbpedia.org/resource/Qt_Project,http://dbpedia.org/property/founder,http://dbpedia.org/resource/Nokia,Correct,54,53.31238770484924,10
+http://dbpedia.org/resource/Qt_Project,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Qt_(framework),Correct,54,53.31238770484924,10
+http://dbpedia.org/resource/Qt_Project,http://www.w3.org/2000/01/rdf-schema#label,Qt Project,Correct,54,53.31238770484924,10
+http://dbpedia.org/resource/Avant_Window_Navigator,http://dbpedia.org/ontology/license,http://dbpedia.org/resource/GNU_General_Public_License,Correct,55,18.82601833343506,10
+http://dbpedia.org/resource/Avant_Window_Navigator,http://dbpedia.org/ontology/license,http://dbpedia.org/resource/Creative_Commons_license,Correct,55,18.82601833343506,10
+http://dbpedia.org/resource/Avant_Window_Navigator,http://dbpedia.org/ontology/license,http://dbpedia.org/resource/GNU_Lesser_General_Public_License,Correct,55,18.82601833343506,10
+http://dbpedia.org/resource/Best_Buddies_International,http://dbpedia.org/property/foundedDate,1989,Correct,56,28.771971702575684,10
+http://dbpedia.org/resource/Wells_Fargo,http://dbpedia.org/ontology/assets,1.69E12,Correct,57,27.448161363601685,10
+http://dbpedia.org/resource/Wells_Fargo,http://dbpedia.org/ontology/foundationPlace,http://dbpedia.org/resource/United_States,Correct,57,27.448161363601685,10
+http://dbpedia.org/resource/Wells_Fargo,http://dbpedia.org/property/netIncome,2.3E10,Incorrect,57,27.448161363601685,10
+http://dbpedia.org/resource/Wells_Fargo,http://dbpedia.org/ontology/product,http://dbpedia.org/resource/Private_equity,Correct,57,27.448161363601685,10
+http://dbpedia.org/resource/Wells_Fargo,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Wells_Fargo,Correct,57,27.448161363601685,10
+http://dbpedia.org/resource/Raúl_Silva_Henríquez,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:20th-century_Roman_Catholic_archbishops,Correct,58,73.07430148124695,10
+http://dbpedia.org/resource/Raúl_Silva_Henríquez,http://dbpedia.org/property/offstyle,Your Eminence,Correct,58,73.07430148124695,10
+http://dbpedia.org/resource/Raúl_Silva_Henríquez,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Raúl_Silva_Henríquez,Correct,58,73.07430148124695,10
+http://dbpedia.org/resource/Raúl_Silva_Henríquez,http://dbpedia.org/ontology/deathYear,1999,Correct,58,73.07430148124695,10
+http://dbpedia.org/resource/Raúl_Silva_Henríquez,http://dbpedia.org/property/title,Bishop of Valparaíso,Correct,58,73.07430148124695,10
+http://dbpedia.org/resource/Romantic_Princess,http://dbpedia.org/ontology/previousWork,http://dbpedia.org/resource/The_Teen_Age,Correct,59,34.311097383499146,10
+http://dbpedia.org/resource/Romantic_Princess,http://dbpedia.org/property/showName,Romantic Princess,Correct,59,34.311097383499146,10
+http://dbpedia.org/resource/Romantic_Princess,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-telecast-noun-1,Correct,59,34.311097383499146,10
+http://dbpedia.org/resource/Romantic_Princess,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Romantic_Princess,Correct,59,34.311097383499146,10
+http://dbpedia.org/resource/Romantic_Princess,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Manga-based_Taiwanese_dramas,Correct,59,34.311097383499146,10
+http://dbpedia.org/resource/ALGOL_58,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Fortran,Correct,60,9.22846269607544,10
+http://dbpedia.org/resource/ALGOL_58,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/ALGOL,Correct,60,9.22846269607544,10
+http://dbpedia.org/resource/ALGOL_58,http://dbpedia.org/property/name,ALGOL 58,Correct,60,9.22846269607544,10
+http://dbpedia.org/resource/ALGOL_58,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Plankalkül,Correct,60,9.22846269607544,10
+http://dbpedia.org/resource/Phase_One_(company),http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/Mamiya,Correct,61,30.70893406867981,10
+http://dbpedia.org/resource/Phase_One_(company),http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/Leaf_(Israeli_company),Correct,61,30.70893406867981,10
+http://dbpedia.org/resource/Eolica_Casimcea_Wind_Farm,http://dbpedia.org/property/status,Approved,Correct,62,122.9609191417694,10
+http://dbpedia.org/resource/Eolica_Casimcea_Wind_Farm,http://dbpedia.org/ontology/status,Approved,Correct,62,122.9609191417694,10
+http://dbpedia.org/resource/Eolica_Casimcea_Wind_Farm,http://dbpedia.org/property/psElectricalCapacity,244.0,Incorrect,62,122.9609191417694,10
+http://dbpedia.org/resource/Eolica_Casimcea_Wind_Farm,http://www.w3.org/2000/01/rdf-schema#comment,"The Eolica Casimcea Wind Farm is a proposed wind power project in Casimcea, Tulcea County, Romania. It will consist of six individual wind farms connected together. It will have 122 individual wind turbines with a nominal output of around 2 MW which will deliver up to 244 MW of power, enough to power over 150,000 homes, with a capital investment required of approximately US$300 million.",Incorrect,62,122.9609191417694,10
+http://dbpedia.org/resource/Eolica_Casimcea_Wind_Farm,http://dbpedia.org/property/location,http://dbpedia.org/resource/Tulcea_County,Correct,62,122.9609191417694,10
+http://dbpedia.org/resource/Mota-Engil,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Construction_and_civil_engineering_companies_of_Portugal,Correct,63,51.96390199661255,10
+http://dbpedia.org/resource/Mota-Engil,http://dbpedia.org/property/equity,5.78E8,Correct,63,51.96390199661255,10
+http://dbpedia.org/resource/Mota-Engil,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Conglomerate_companies_of_Portugal,Correct,63,51.96390199661255,10
+http://dbpedia.org/resource/Mota-Engil,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Mota-Engil,Correct,63,51.96390199661255,10
+http://dbpedia.org/resource/Mota-Engil,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Companies_established_in_2000,Correct,63,51.96390199661255,10
+http://dbpedia.org/resource/Silicon_Graphics,http://dbpedia.org/property/date,20090327194141,Correct,64,30.069188594818115,10
+http://dbpedia.org/resource/Silicon_Graphics,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Silicon_Graphics,Correct,64,30.069188594818115,10
+http://dbpedia.org/resource/Silicon_Graphics,http://dbpedia.org/property/defunct,May 2009,Correct,64,30.069188594818115,10
+http://dbpedia.org/resource/Silicon_Graphics,http://dbpedia.org/property/url,//www.sgi.com,Correct,64,30.069188594818115,10
+http://dbpedia.org/resource/Silicon_Graphics,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Computer_companies_of_the_United_States,Correct,64,30.069188594818115,10
+http://dbpedia.org/resource/Live_Search_Academic,http://dbpedia.org/property/genre,http://dbpedia.org/resource/Web_search_engine,Correct,65,37.65736722946167,10
+http://dbpedia.org/resource/Live_Search_Academic,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Web_search_engine,Correct,65,37.65736722946167,10
+http://dbpedia.org/resource/Live_Search_Academic,http://www.w3.org/2000/01/rdf-schema#comment,"Live Search Academic was a Web search engine for scholarly literature that existed from April 2006 to May 2008; it was part of Microsoft's Live Search group of services. It was similar to Google Scholar, but rather than crawling the Internet for academic content, search results came directly from trusted sources, such as publishers of academic journals.",Correct,65,37.65736722946167,10
+http://dbpedia.org/resource/Live_Search_Academic,http://dbpedia.org/ontology/developer,http://dbpedia.org/resource/Microsoft,Correct,65,37.65736722946167,10
+http://dbpedia.org/resource/Live_Search_Academic,http://dbpedia.org/property/developer,http://dbpedia.org/resource/Microsoft,Correct,65,37.65736722946167,10
+http://dbpedia.org/resource/SiteGround,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Companies_established_in_2004,Correct,66,24.585020542144772,10
+http://dbpedia.org/resource/SiteGround,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Privately_held_company,Correct,66,24.585020542144772,10
+http://dbpedia.org/resource/SiteGround,http://dbpedia.org/property/logo,http://dbpedia.org/resource/File:SiteGround.Com_Inc._Logo.png,Correct,66,24.585020542144772,10
+http://dbpedia.org/resource/SiteGround,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/SiteGround,Correct,66,24.585020542144772,10
+http://dbpedia.org/resource/SiteGround,http://dbpedia.org/property/name,SiteGround,Correct,66,24.585020542144772,10
+http://dbpedia.org/resource/Crytek_UK,http://dbpedia.org/property/locationCity,http://dbpedia.org/resource/Nottingham,I Don't Know,67,38.207619190216064,10
+http://dbpedia.org/resource/Crytek_UK,http://dbpedia.org/ontology/locationCountry,http://dbpedia.org/resource/United_Kingdom,Correct,67,38.207619190216064,10
+http://dbpedia.org/resource/Crytek_UK,http://dbpedia.org/ontology/product,http://dbpedia.org/resource/Second_Sight_(video_game),Correct,67,38.207619190216064,10
+http://dbpedia.org/resource/Wale_Babalakin,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Ibadan,Correct,68,19.746744632720947,10
+http://dbpedia.org/resource/Tobacco_Institute,http://www.w3.org/2000/01/rdf-schema#label,Tobacco Institute,Correct,69,4.784262418746948,10
+http://dbpedia.org/resource/Martin_Hellman,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Ralph_Merkle,Correct,70,28.65700674057007,10
+http://dbpedia.org/resource/Martin_Hellman,http://dbpedia.org/ontology/doctoralAdvisor,http://dbpedia.org/resource/Thomas_M._Cover,Correct,70,28.65700674057007,10
+http://dbpedia.org/resource/Martin_Hellman,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/New_York,Correct,70,28.65700674057007,10
+http://dbpedia.org/resource/Martin_Hellman,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Taher_Elgamal,Correct,70,28.65700674057007,10
+http://dbpedia.org/resource/Renault,http://dbpedia.org/ontology/numberOfEmployees,127086,Correct,71,73.69879651069641,10
+http://dbpedia.org/resource/Renault,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Aircraft_engine_manufacturers_of_France,Correct,71,73.69879651069641,10
+http://dbpedia.org/resource/Renault,http://dbpedia.org/property/founder,http://dbpedia.org/resource/Fernand_Renault,Correct,71,73.69879651069641,10
+http://dbpedia.org/resource/Renault,http://dbpedia.org/ontology/owner,http://dbpedia.org/resource/Agence_des_participations_de_l'État,Correct,71,73.69879651069641,10
+http://dbpedia.org/resource/Renault,http://dbpedia.org/ontology/owningCompany,http://dbpedia.org/resource/Nissan,Incorrect,71,73.69879651069641,10
+http://dbpedia.org/resource/Seibu_Railway,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Seibu_Railway,Correct,72,59.33353114128113,10
+http://dbpedia.org/resource/Seibu_Railway,http://dbpedia.org/ontology/numberOfEmployees,3289,Correct,72,59.33353114128113,10
+http://dbpedia.org/resource/Seibu_Railway,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/SeibuRailway_logo.svg?width=300,Correct,72,59.33353114128113,10
+http://dbpedia.org/resource/Seibu_Railway,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Railway_companies_of_Japan,Correct,72,59.33353114128113,10
+http://dbpedia.org/resource/Seibu_Railway,http://dbpedia.org/property/name,西武鉄道株式会社,Correct,72,59.33353114128113,10
+http://dbpedia.org/resource/Pharmaceutical_packaging,http://www.w3.org/2000/01/rdf-schema#label,Pharmaceutical packaging,Correct,73,5.777870416641235,10
+http://dbpedia.org/resource/Agile_software_development,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Group,Incorrect,74,2588.742928981781,10
+http://dbpedia.org/resource/Agile_software_development,http://dbpedia.org/property/sign,Jim Highsmith,Correct,74,2588.742928981781,10
+http://dbpedia.org/resource/Agile_software_development,http://www.w3.org/2000/01/rdf-schema#label,Agile software development,Correct,74,2588.742928981781,10
+http://dbpedia.org/resource/Agile_software_development,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Agile_software_development,Correct,74,2588.742928981781,10
+http://dbpedia.org/resource/Agile_software_development,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Software_project_management,Correct,74,2588.742928981781,10
+http://dbpedia.org/resource/Debenhams,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/Debenhams_Ireland,Correct,75,10.740261316299438,10
+http://dbpedia.org/resource/Debenhams,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/Magasin_du_Nord,Correct,75,10.740261316299438,10
+http://dbpedia.org/resource/Thunderbird_Films,http://xmlns.com/foaf/0.1/homepage,http://www.thunderbird.tv/,Incorrect,76,53.0258355140686,10
+http://dbpedia.org/resource/Thunderbird_Films,http://dbpedia.org/property/locationCity,http://dbpedia.org/resource/Vancouver,Correct,76,53.0258355140686,10
+http://dbpedia.org/resource/Thunderbird_Films,http://dbpedia.org/property/locationCity,http://dbpedia.org/resource/British_Columbia,Correct,76,53.0258355140686,10
+http://dbpedia.org/resource/Thunderbird_Films,http://dbpedia.org/property/locationCity,"http://dbpedia.org/resource/Toronto,_Ontario",Correct,76,53.0258355140686,10
+http://dbpedia.org/resource/Thunderbird_Films,http://dbpedia.org/property/locationCity,http://dbpedia.org/resource/California,Correct,76,53.0258355140686,10
+http://dbpedia.org/resource/Basketball_Löwen_Braunschweig,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Germany,Correct,77,5.144762992858887,10
+http://dbpedia.org/resource/Shai_Halevi,http://dbpedia.org/ontology/doctoralAdvisor,http://dbpedia.org/resource/Silvio_Micali,Correct,78,2.531503915786743,10
+http://dbpedia.org/resource/Ontario_College_of_Teachers,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Professional_titles_and_certifications,Correct,79,44.451722383499146,10
+http://dbpedia.org/resource/Ontario_College_of_Teachers,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Professional_associations_based_in_Canada,Correct,79,44.451722383499146,10
+http://dbpedia.org/resource/Ontario_College_of_Teachers,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/OCTbuildingOEEOedifice.JPG?width=300,Correct,79,44.451722383499146,10
+http://dbpedia.org/resource/Ontario_College_of_Teachers,http://www.w3.org/2000/01/rdf-schema#comment,"The Ontario College of Teachers is the regulatory body for the teaching profession in Ontario and is the largest self-regulatory body in Canada. It was established in 1997. The college's mandate is to license, govern and regulate the practice of teaching. It is also responsible for developing standards of teaching practice, regulating on-going teacher certification and professional development, and accrediting teacher education programs.",Correct,79,44.451722383499146,10
+http://dbpedia.org/resource/Ontario_College_of_Teachers,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/OCTbuildingOEEOedifice.JPG,Correct,79,44.451722383499146,10
+http://dbpedia.org/resource/Pressmart,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Hyderabad,Correct,80,15.112561702728271,10
+http://dbpedia.org/resource/Pressmart,http://dbpedia.org/property/location,http://dbpedia.org/resource/Hyderabad,Correct,80,15.112561702728271,10
+http://dbpedia.org/resource/SmarTone,http://xmlns.com/foaf/0.1/depiction,http://en.wikipedia.org/wiki/Special:FilePath/Smartone_logo.png,Correct,81,50.06008720397949,10
+http://dbpedia.org/resource/SmarTone,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/SmarTone,Correct,81,50.06008720397949,10
+http://dbpedia.org/resource/SmarTone,http://www.w3.org/2000/01/rdf-schema#comment,"SmarTone Telecommunications Holdings Limited (Chinese: 數碼通) (0315.HK) is a wireless communications carrier with operating subsidiaries in Hong Kong and Macau. SmarTone provides voice, multimedia and broadband services through its territory-wide 4G and 3G HSPA+ networks. The carrier also uses a unique X-celerator engine to speed up Internet access.",Correct,81,50.06008720397949,10
+http://dbpedia.org/resource/SmarTone,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Mobile_phone_companies_of_Hong_Kong,Correct,81,50.06008720397949,10
+http://dbpedia.org/resource/SmarTone,http://xmlns.com/foaf/0.1/name,SmarTone Telecommunications Holdings Limited,Correct,81,50.06008720397949,10
+http://dbpedia.org/resource/FreeJ,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/C_(programming_language),Correct,82,4.910121202468872,10
+http://dbpedia.org/resource/FreeJ,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/C++,Correct,82,4.910121202468872,10
+http://dbpedia.org/resource/Darius_Jones_(saxophonist),http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,83,3.9320180416107178,10
+http://dbpedia.org/resource/NuGet,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/C_Sharp_(programming_language),Correct,84,2.628300905227661,10
+http://dbpedia.org/resource/Adobe_Persuasion,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Aldus_software,Correct,85,15.57832169532776,10
+http://dbpedia.org/resource/Adobe_Persuasion,http://dbpedia.org/ontology/developer,http://dbpedia.org/resource/Aldus,Correct,85,15.57832169532776,10
+http://dbpedia.org/resource/Adobe_Persuasion,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Adobe_Persuasion,Correct,85,15.57832169532776,10
+http://dbpedia.org/resource/Adobe_Persuasion,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Presentation_program,Correct,85,15.57832169532776,10
+http://dbpedia.org/resource/Adobe_Persuasion,http://dbpedia.org/ontology/operatingSystem,http://dbpedia.org/resource/Microsoft_Windows,Correct,85,15.57832169532776,10
+http://dbpedia.org/resource/Children's_Hospital_for_Wales,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Hospital,Correct,86,13.120741367340088,10
+http://dbpedia.org/resource/Children's_Hospital_for_Wales,http://dbpedia.org/property/speciality,http://dbpedia.org/resource/Pediatrics,Correct,86,13.120741367340088,10
+http://dbpedia.org/resource/Children's_Hospital_for_Wales,http://dbpedia.org/property/region,http://dbpedia.org/resource/Cardiff,Correct,86,13.120741367340088,10
+http://dbpedia.org/resource/Children's_Hospital_for_Wales,http://www.w3.org/2003/01/geo/wgs84_pos#lat,51.485,Correct,86,13.120741367340088,10
+http://dbpedia.org/resource/Children's_Hospital_for_Wales,http://dbpedia.org/ontology/region,http://dbpedia.org/resource/Wales,Correct,86,13.120741367340088,10
+http://dbpedia.org/resource/ALARGAN_International_Real_Estate_Company,http://dbpedia.org/property/name,ALARGAN International Real Estate Company,Correct,87,123.70731973648073,10
+http://dbpedia.org/resource/ALARGAN_International_Real_Estate_Company,http://dbpedia.org/ontology/foundingYear,1994,I Don't Know,87,123.70731973648073,10
+http://dbpedia.org/resource/ALARGAN_International_Real_Estate_Company,http://dbpedia.org/property/keyPeople,- Khaled K. Al-Mashaan,Correct,87,123.70731973648073,10
+http://dbpedia.org/resource/ALARGAN_International_Real_Estate_Company,http://xmlns.com/foaf/0.1/name,ALARGAN International Real Estate Company,Correct,87,123.70731973648073,10
+http://dbpedia.org/resource/ALARGAN_International_Real_Estate_Company,http://www.w3.org/2000/01/rdf-schema#comment,"ALARGAN International Real Estate Company is a Kuwaiti real estate development company. ALARGAN underwent an Initial public offering on the Kuwait Stock Exchange in July 2007. ""Alargan Projects"" a sister company of Alargan projects was established in Riyadh, Kingdom of Saudi Arabia in 2005.",Correct,87,123.70731973648073,10
+http://dbpedia.org/resource/Nahim_Abraham,http://dbpedia.org/ontology/birthDate,1885-02-15,Correct,88,172.46056246757507,10
+http://dbpedia.org/resource/Nahim_Abraham,http://dbpedia.org/ontology/relation,"http://dbpedia.org/resource/Malouf_Abraham,_Sr.",Correct,88,172.46056246757507,10
+http://dbpedia.org/resource/Nahim_Abraham,http://dbpedia.org/ontology/relation,"http://dbpedia.org/resource/Malouf_Abraham,_Jr.",Correct,88,172.46056246757507,10
+http://dbpedia.org/resource/Nahim_Abraham,http://dbpedia.org/ontology/restingPlace,"http://dbpedia.org/resource/Canadian,_Texas",Correct,88,172.46056246757507,10
+http://dbpedia.org/resource/Nahim_Abraham,http://dbpedia.org/ontology/relation,http://dbpedia.org/resource/Salem_Abraham,Incorrect,88,172.46056246757507,10
+http://dbpedia.org/resource/Sterba_Propellers,http://dbpedia.org/ontology/product,http://dbpedia.org/resource/Propeller_(aeronautics),Correct,89,24.79930806159973,10
+http://dbpedia.org/resource/Sterba_Propellers,http://dbpedia.org/property/products,http://dbpedia.org/resource/Propeller_(aeronautics),Correct,89,24.79930806159973,10
+http://dbpedia.org/resource/Sterba_Propellers,http://dbpedia.org/property/locationCity,"http://dbpedia.org/resource/Holmes_Beach,_Florida",Correct,89,24.79930806159973,10
+http://dbpedia.org/resource/Sterba_Propellers,http://dbpedia.org/property/products,http://dbpedia.org/resource/Propeller_(aircraft),Correct,89,24.79930806159973,10
+http://dbpedia.org/resource/Sterba_Propellers,http://dbpedia.org/ontology/locationCity,"http://dbpedia.org/resource/Holmes_Beach,_Florida",Correct,89,24.79930806159973,10
+http://dbpedia.org/resource/Direct_Line,http://dbpedia.org/ontology/locationCountry,http://dbpedia.org/resource/United_Kingdom,Correct,90,60.5160026550293,10
+http://dbpedia.org/resource/Direct_Line,http://dbpedia.org/ontology/locationCity,http://dbpedia.org/resource/Leeds,Incorrect,90,60.5160026550293,10
+http://dbpedia.org/resource/Gramophone_record,http://www.w3.org/2000/01/rdf-schema#label,Gramophone record,Correct,91,3.639329195022583,10
+http://dbpedia.org/resource/Pink_Hope,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Cancer_organizations,Correct,92,22.01304531097412,10
+http://dbpedia.org/resource/Pink_Hope,http://dbpedia.org/property/name,Pink Hope,Correct,92,22.01304531097412,10
+http://dbpedia.org/resource/Pink_Hope,http://www.w3.org/2000/01/rdf-schema#comment,Pink Hope is an Australian non-profit organisation founded by Krystal Barter for educating and preventing about hereditary breast and ovarian cancer.,Correct,92,22.01304531097412,10
+http://dbpedia.org/resource/Pink_Hope,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Organisation,Correct,92,22.01304531097412,10
+http://dbpedia.org/resource/Pink_Hope,http://dbpedia.org/ontology/formationYear,2009,Correct,92,22.01304531097412,10
+http://dbpedia.org/resource/V6_(band),http://dbpedia.org/ontology/recordLabel,http://dbpedia.org/resource/Avex_Trax,Correct,93,11.814594507217407,10
+http://dbpedia.org/resource/V6_(band),http://dbpedia.org/property/label,http://dbpedia.org/resource/Avex_Trax,Correct,93,11.814594507217407,10
+http://dbpedia.org/resource/Newton_Running,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Shoe_companies_of_the_United_States,Correct,94,103.1316647529602,10
+http://dbpedia.org/resource/Newton_Running,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Privately_held_company,Correct,94,103.1316647529602,10
+http://dbpedia.org/resource/Newton_Running,http://xmlns.com/foaf/0.1/name,Newton Running,Correct,94,103.1316647529602,10
+http://dbpedia.org/resource/Newton_Running,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Manufacturer,Correct,94,103.1316647529602,10
+http://dbpedia.org/resource/Newton_Running,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Shoe_brands,Correct,94,103.1316647529602,10
+http://dbpedia.org/resource/Simcere_Pharmaceutical,http://dbpedia.org/ontology/industry,http://dbpedia.org/resource/Pharmaceutical_drug,Correct,95,10.79889965057373,10
+http://dbpedia.org/resource/Simcere_Pharmaceutical,http://www.w3.org/2000/01/rdf-schema#label,Simcere Pharmaceutical,Correct,95,10.79889965057373,10
+http://dbpedia.org/resource/Simcere_Pharmaceutical,http://dbpedia.org/property/industry,http://dbpedia.org/resource/Pharmaceutical_drug,Correct,95,10.79889965057373,10
+http://dbpedia.org/resource/Ramani_Ayer,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/India,Correct,96,3.023794889450073,10
+http://dbpedia.org/resource/David_Barger,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/University_of_Michigan,Correct,97,3.336113929748535,10
+http://dbpedia.org/resource/Diardi,http://dbpedia.org/ontology/abstract,Diardi is a sports car manufactured in Turkey by the Çenberci Group.,Correct,98,37.95551609992981,10
+http://dbpedia.org/resource/Diardi,http://www.w3.org/2000/01/rdf-schema#label,Diardi,Correct,98,37.95551609992981,10
+http://dbpedia.org/resource/Diardi,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Narlıdere,Correct,98,37.95551609992981,10
+http://dbpedia.org/resource/Diardi,http://www.w3.org/2000/01/rdf-schema#comment,Diardi is a sports car manufactured in Turkey by the Çenberci Group.,Correct,98,37.95551609992981,10
+http://dbpedia.org/resource/Diardi,http://xmlns.com/foaf/0.1/name,DIARDI,Correct,98,37.95551609992981,10
+http://dbpedia.org/resource/Kofi_Annan,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Kumasi,Correct,99,176.0705051422119,10
+http://dbpedia.org/resource/Kofi_Annan,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/Macalester_College,Correct,99,176.0705051422119,10
+http://dbpedia.org/resource/Kofi_Annan,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/Graduate_Institute_of_International_and_Development_Studies,Correct,99,176.0705051422119,10
+http://dbpedia.org/resource/Kofi_Annan,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/MIT_Sloan_School_of_Management,Incorrect,99,176.0705051422119,10
+http://dbpedia.org/resource/Kofi_Annan,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/Kwame_Nkrumah_University_of_Science_and_Technology,Correct,99,176.0705051422119,10
+http://dbpedia.org/resource/NetSuite,http://dbpedia.org/ontology/abstract,"NetSuite Inc. is an American software company based in San Mateo, California, that sells a group of software services used to manage a business's operations and customer relations. Customers access these services over the internet paying a periodic subscription fee. NetSuite's services are primarily aimed at medium- to enterprise-sized businesses.",Correct,100,72.28056478500366,10
+http://dbpedia.org/resource/NetSuite,http://www.w3.org/2000/01/rdf-schema#comment,"NetSuite Inc. is an American software company based in San Mateo, California, that sells a group of software services used to manage a business's operations and customer relations. Customers access these services over the internet paying a periodic subscription fee. NetSuite's services are primarily aimed at medium- to enterprise-sized businesses.",Correct,100,72.28056478500366,10
+http://dbpedia.org/resource/NetSuite,http://dbpedia.org/ontology/numberOfEmployees,2550,Incorrect,100,72.28056478500366,10
+http://dbpedia.org/resource/NetSuite,http://dbpedia.org/ontology/foundingYear,1998,Correct,100,72.28056478500366,10
+http://dbpedia.org/resource/NetSuite,http://dbpedia.org/ontology/foundationPlace,http://dbpedia.org/resource/California,Correct,100,72.28056478500366,10
+http://dbpedia.org/resource/Hierarchical_Cluster_Engine_Project,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/C++,Correct,101,12.344279766082764,10
+http://dbpedia.org/resource/Hierarchical_Cluster_Engine_Project,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/PHP,Correct,101,12.344279766082764,10
+http://dbpedia.org/resource/Hierarchical_Cluster_Engine_Project,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/Python_(programming_language),Correct,101,12.344279766082764,10
+http://dbpedia.org/resource/George_W._Bush,http://www.w3.org/2000/01/rdf-schema#label,George W. Bush,Correct,102,8.96612024307251,10
+http://dbpedia.org/resource/Olainfarm,http://dbpedia.org/property/industry,http://dbpedia.org/resource/Pharmaceutical_drug,Correct,103,31.878087759017944,10
+http://dbpedia.org/resource/Olainfarm,http://www.w3.org/2000/01/rdf-schema#label,Olainfarm,Correct,103,31.878087759017944,10
+http://dbpedia.org/resource/Olainfarm,http://dbpedia.org/ontology/foundingDate,1991-06-10,Incorrect,103,31.878087759017944,10
+http://dbpedia.org/resource/Olainfarm,http://dbpedia.org/ontology/industry,http://dbpedia.org/resource/Pharmaceutical_drug,Correct,103,31.878087759017944,10
+http://dbpedia.org/resource/Paessler,http://dbpedia.org/property/foundation,"http://dbpedia.org/resource/Nuremberg,_Germany",Correct,104,68.7487268447876,10
+http://dbpedia.org/resource/Paessler,http://dbpedia.org/ontology/product,http://dbpedia.org/resource/PRTG_Network_Monitor,Correct,104,68.7487268447876,10
+http://dbpedia.org/resource/Paessler,http://dbpedia.org/property/location,"http://dbpedia.org/resource/Nuremberg,_Germany",Correct,104,68.7487268447876,10
+http://dbpedia.org/resource/Paessler,http://dbpedia.org/property/homepage,http://www.paessler.com/,Incorrect,104,68.7487268447876,10
+http://dbpedia.org/resource/Paessler,http://dbpedia.org/property/products,http://dbpedia.org/resource/PRTG_Network_Monitor,Correct,104,68.7487268447876,10
+http://dbpedia.org/resource/K1_Speed,http://dbpedia.org/ontology/locationCity,"http://dbpedia.org/resource/Carlsbad,_California",Correct,105,44.50721168518066,10
+http://dbpedia.org/resource/K1_Speed,http://dbpedia.org/ontology/regionServed,http://dbpedia.org/resource/Southern_California,Incorrect,105,44.50721168518066,10
+http://dbpedia.org/resource/K1_Speed,http://www.w3.org/2000/01/rdf-schema#label,K1 Speed,Correct,105,44.50721168518066,10
+http://dbpedia.org/resource/USA_Living,http://dbpedia.org/property/locationCity,"http://dbpedia.org/resource/Norfolk,_Virginia",Correct,106,7.220072746276855,10
+http://dbpedia.org/resource/USA_Living,http://dbpedia.org/ontology/regionServed,http://dbpedia.org/resource/United_States,Correct,106,7.220072746276855,10
+http://dbpedia.org/resource/Apache_Mesos,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/C++,Correct,107,3.6383309364318848,10
+http://dbpedia.org/resource/Deborah_Jeane_Palfrey,http://xmlns.com/foaf/0.1/name,Deborah Jeane Palfrey,Correct,108,82.38679695129395,10
+http://dbpedia.org/resource/Deborah_Jeane_Palfrey,http://dbpedia.org/property/dateOfBirth,1956-03-18,Correct,108,82.38679695129395,10
+http://dbpedia.org/resource/Deborah_Jeane_Palfrey,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_businesspeople_convicted_of_crimes,Correct,108,82.38679695129395,10
+http://dbpedia.org/resource/Deborah_Jeane_Palfrey,http://dbpedia.org/property/shortDescription,American criminal,Correct,108,82.38679695129395,10
+http://dbpedia.org/resource/Deborah_Jeane_Palfrey,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:People_from_Washington_County,_Pennsylvania",Correct,108,82.38679695129395,10
+http://dbpedia.org/resource/Broad_Town,http://dbpedia.org/ontology/ceremonialCounty,http://dbpedia.org/resource/Wiltshire,Correct,109,4.659607648849487,10
+http://dbpedia.org/resource/Three_Crowns_of_the_Sailor,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Black-and-white_films,Correct,110,39.54408049583435,10
+http://dbpedia.org/resource/Three_Crowns_of_the_Sailor,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:French-language_films,Correct,110,39.54408049583435,10
+http://dbpedia.org/resource/Three_Crowns_of_the_Sailor,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:French_films,Correct,110,39.54408049583435,10
+http://dbpedia.org/resource/Three_Crowns_of_the_Sailor,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Correct,110,39.54408049583435,10
+http://dbpedia.org/resource/Three_Crowns_of_the_Sailor,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:French_fantasy_films,Correct,110,39.54408049583435,10
+http://dbpedia.org/resource/Court_of_Assistants,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Court_of_Assistants,Correct,111,103.83877849578856,10
+http://dbpedia.org/resource/Court_of_Assistants,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Livery_companies,Correct,111,103.83877849578856,10
+http://dbpedia.org/resource/Court_of_Assistants,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Articles_created_via_the_Article_Wizard,Correct,111,103.83877849578856,10
+http://dbpedia.org/resource/Court_of_Assistants,http://dbpedia.org/ontology/abstract,"A Court of Assistants is a council of members belonging to professional, trade, craft or livery organisations. The term originated among the London Livery Companies, but may also be used by other trade associations. The Court of Assistants is usually the governing body of these organisations and may include the officials, as in the case of the Worshipful Company of Clockmakers founded in 1631: ""The governing body of the Company is the Court of Assistants, comprising the Master, three Wardens and not less than ten Assistants."" Another example is the Honourable Artillery Company which has an Annual General Court open to all members. It meets in March to elect 20 Assistants. The Company is governed in its civil and financial affairs by the Court of Assistants, which was first established in 1633.",Correct,111,103.83877849578856,10
+http://dbpedia.org/resource/Court_of_Assistants,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Committees,Correct,111,103.83877849578856,10
+http://dbpedia.org/resource/Sones_GraphDB,http://dbpedia.org/ontology/license,http://dbpedia.org/resource/Affero_General_Public_License,Correct,112,5.115995168685913,10
+http://dbpedia.org/resource/1815_Philadelphia_train_accident,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Railway_accidents_in_1815,Correct,113,42.50573396682739,10
+http://dbpedia.org/resource/1815_Philadelphia_train_accident,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:History_of_County_Durham,Correct,113,42.50573396682739,10
+http://dbpedia.org/resource/1815_Philadelphia_train_accident,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Railway_accidents_in_County_Durham,Correct,113,42.50573396682739,10
+http://dbpedia.org/resource/1815_Philadelphia_train_accident,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1815_in_England,Correct,113,42.50573396682739,10
+http://dbpedia.org/resource/1815_Philadelphia_train_accident,http://dbpedia.org/property/longitude,-1.478,Correct,113,42.50573396682739,10
+http://dbpedia.org/resource/Pauline_Dixon,http://dbpedia.org/ontology/employer,http://dbpedia.org/resource/Newcastle_University,Correct,114,4.620562791824341,10
+http://dbpedia.org/resource/Spectrasonics,http://dbpedia.org/property/foundation,1994,I Don't Know,115,162.96618008613586,10
+http://dbpedia.org/resource/Spectrasonics,http://xmlns.com/foaf/0.1/homepage,http://www.spectrasonics.net/,Incorrect,115,162.96618008613586,10
+http://dbpedia.org/resource/Spectrasonics,http://dbpedia.org/property/keyPeople,http://dbpedia.org/resource/Eric_Persing,Correct,115,162.96618008613586,10
+http://dbpedia.org/resource/Spectrasonics,http://dbpedia.org/property/homepage,http://www.spectrasonics.net/,Incorrect,115,162.96618008613586,10
+http://dbpedia.org/resource/Spectrasonics,http://dbpedia.org/ontology/keyPerson,http://dbpedia.org/resource/Eric_Persing,Correct,115,162.96618008613586,10
+http://dbpedia.org/resource/Ferrari,http://dbpedia.org/ontology/locationCity,http://dbpedia.org/resource/Maranello,Correct,116,42.04593372344971,10
+http://dbpedia.org/resource/Ferrari,http://dbpedia.org/property/locationCity,http://dbpedia.org/resource/Maranello,Correct,116,42.04593372344971,10
+http://dbpedia.org/resource/Ferrari,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Sports_car_manufacturers,Correct,116,42.04593372344971,10
+http://dbpedia.org/resource/Ferrari,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Italian_brands,Correct,116,42.04593372344971,10
+http://dbpedia.org/resource/Ferrari,http://dbpedia.org/ontology/foundingYear,1947,Incorrect,116,42.04593372344971,10
+http://dbpedia.org/resource/Freedom_Downtime,http://dbpedia.org/ontology/narrator,http://dbpedia.org/resource/Eric_Corley,Correct,117,36.25993299484253,10
+http://dbpedia.org/resource/Freedom_Downtime,http://dbpedia.org/ontology/director,http://dbpedia.org/resource/Eric_Corley,Correct,117,36.25993299484253,10
+http://dbpedia.org/resource/Freedom_Downtime,http://dbpedia.org/ontology/abstract,"Freedom Downtime is a 2001 documentary film sympathetic to the convicted computer hacker Kevin Mitnick, directed by Emmanuel Goldstein and produced by 2600 Films.The documentary centers on the fate of Mitnick, who is claimed to have been misrepresented in the feature film Takedown (2000) produced by Miramax and adapted from the book by the same name by Tsutomu Shimomura and John Markoff, which is based on disputed events. The film also documents a number of computer enthusiasts who drive across the United States searching for Miramax representatives and demonstrating their discontent with certain aspects of the bootleg script of Takedown they had acquired. One of their major points of criticism was that the script ended with Mitnick being convicted to serve a long-term prison sentence, while in reality, at the time the film's production, Mitnick had not yet even had a trial but nonetheless was incarcerated for five years without bail in a high-security facility. Freedom Downtime also touches on what happened to other hackers after being sentenced. The development of the Free Kevin movement is also covered.Several notable and iconic figures from the hacking community appear in the movie, including Phiber Optik (Mark Abene), Bernie S (Ed Cummings), Alex Kasper, and (director) Emmanuel Goldstein (Eric Corley). Freedom Downtime tries to communicate a different view of the hacker community from that usually shown by the mainstream media, with hackers being depicted as curious people who rarely intend to cause damage, driven by a desire to explore and conduct pranks. The film goes on to question the rationality of placing computer hackers who went ""over the line"" in the same environment as serious felons.It also contains interviews with people related to Mitnick and hacker culture in general. The authors of  , ex-couple Katie Hafner and John Markoff, appear in very different roles. While Hafner's empathy for Mitnick is shown to have grown, Markoff continues to defend his critical book and articles in The New York Times newspaper about the hacker. Markoff is ridiculed as the narrator, director Goldstein (a hacker himself), points out his factual errors during the interview. Reba Vartanian, Mitnick's grandmother, also appears in a number of interview segments. Furthermore, lawyers, friends, and libertarians give their view of the story. Footage and interviews from the DEF CON and Hackers on Planet Earth conventions try to dispel some hacker myths and confirm others.The film premiered at H2K, the 2000 H.O.P.E. convention.  After that the film saw a limited independent theatrical release and was shown at film festivals.  It was released on VHS and sold via the 2600 web site.In June 2004, after years in production, a DVD was released.  The DVD includes a wealth of extra material spread over two discs, including three hours of extra footage, an interview with Kevin Mitnick in January 2003 (shortly after his supervised release ended), and various DVD eggs. [1]  It also includes subtitles in 20 languages, provided by volunteers.",Correct,117,36.25993299484253,10
+http://dbpedia.org/resource/MediaCoder,http://xmlns.com/foaf/0.1/name,MediaCoder,Correct,118,11.519211053848268,10
+http://dbpedia.org/resource/MediaCoder,http://dbpedia.org/property/latestPreviewVersion,0.8,Correct,118,11.519211053848268,10
+http://dbpedia.org/resource/MediaCoder,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Program,Correct,118,11.519211053848268,10
+http://dbpedia.org/resource/MediaCoder,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Video_conversion_software,Correct,118,11.519211053848268,10
+http://dbpedia.org/resource/MediaCoder,http://dbpedia.org/property/name,MediaCoder,Correct,118,11.519211053848268,10
+http://dbpedia.org/resource/Autopackage,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/C_(programming_language),Correct,119,17.053889513015747,10
+http://dbpedia.org/resource/Autopackage,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/C++,Correct,119,17.053889513015747,10
+http://dbpedia.org/resource/Autopackage,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/Python_(programming_language),Correct,119,17.053889513015747,10
+http://dbpedia.org/resource/Autopackage,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/Bash_(Unix_shell),Correct,119,17.053889513015747,10
+http://dbpedia.org/resource/USA_Network,http://dbpedia.org/ontology/sisterStation,http://dbpedia.org/resource/E!,Correct,120,53.52439761161804,10
+http://dbpedia.org/resource/USA_Network,http://dbpedia.org/ontology/pictureFormat,http://dbpedia.org/resource/1080i,Correct,120,53.52439761161804,10
+http://dbpedia.org/resource/USA_Network,http://dbpedia.org/ontology/sisterStation,http://dbpedia.org/resource/Oxygen_(TV_channel),I Don't Know,120,53.52439761161804,10
+http://dbpedia.org/resource/USA_Network,http://dbpedia.org/ontology/headquarter,http://dbpedia.org/resource/New_York_City,Correct,120,53.52439761161804,10
+http://dbpedia.org/resource/USA_Network,http://dbpedia.org/ontology/headquarter,http://dbpedia.org/resource/New_York,Correct,120,53.52439761161804,10
+http://dbpedia.org/resource/P4_(programming_language),http://dbpedia.org/ontology/license,http://dbpedia.org/resource/Apache_License,Correct,121,4.323803424835205,10
+http://dbpedia.org/resource/SonicWall,http://dbpedia.org/property/foundation,1991,Correct,122,64.79237008094788,10
+http://dbpedia.org/resource/SonicWall,http://dbpedia.org/property/successor,Dell subsidiary,Correct,122,64.79237008094788,10
+http://dbpedia.org/resource/SonicWall,http://dbpedia.org/ontology/product,http://dbpedia.org/resource/Spyware,Correct,122,64.79237008094788,10
+http://dbpedia.org/resource/SonicWall,http://dbpedia.org/property/parent,http://dbpedia.org/resource/Dell,Correct,122,64.79237008094788,10
+http://dbpedia.org/resource/SonicWall,http://dbpedia.org/property/homepage,http://www.sonicwall.com,Correct,122,64.79237008094788,10
+http://dbpedia.org/resource/COPASI,http://dbpedia.org/property/operatingSystem,"Linux, Mac OS and Microsoft Windows",Correct,123,99.35385179519652,10
+http://dbpedia.org/resource/COPASI,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Systems_biology,Correct,123,99.35385179519652,10
+http://dbpedia.org/resource/COPASI,http://dbpedia.org/property/latestReleaseVersion,4.15,Incorrect,123,99.35385179519652,10
+http://dbpedia.org/resource/COPASI,http://dbpedia.org/property/license,http://dbpedia.org/resource/Artistic_License,Correct,123,99.35385179519652,10
+http://dbpedia.org/resource/COPASI,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/COPASI,Correct,123,99.35385179519652,10
+http://dbpedia.org/resource/Renault,http://dbpedia.org/ontology/industry,http://dbpedia.org/resource/Automotive_industry,Correct,124,12.626690864562988,10
+http://dbpedia.org/resource/American_Vacuum_Society,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Nonprofit_organization,Correct,125,25.916990518569943,10
+http://dbpedia.org/resource/American_Vacuum_Society,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Academic_organizations_based_in_the_United_States,Correct,125,25.916990518569943,10
+http://dbpedia.org/resource/American_Vacuum_Society,http://dbpedia.org/ontology/formationYear,1953,Correct,125,25.916990518569943,10
+http://dbpedia.org/resource/American_Vacuum_Society,http://dbpedia.org/ontology/language,http://dbpedia.org/resource/English_language,Correct,125,25.916990518569943,10
+http://dbpedia.org/resource/American_Vacuum_Society,http://dbpedia.org/ontology/abstract,"AVS: Science and Technology of Materials, Interfaces, and Processing (formerly American Vacuum Society) is a not-for-profit learned society founded in 1953. AVS is a member society of the American Institute of Physics. AVS has approximately 5000 members worldwide from academia, governmental laboratories and industry. AVS publishes through the American Institute of Physics the Journal of Vacuum Science and Technology (JVST A and B), Biointerphases, which are devoted to peer-reviewed articles, and Surface Science Spectra (SSS), which publishes peer-reviewed articles with reference spectra of technological and scientific interest. AVS has 10 technical divisions, 2 technical groups, 16 regional chapters, two international chapters and one international affiliate:Advanced Surface Engineering DivisionApplied Surface Science DivisionBiomaterial Interfaces DivisionElectronic Materials and Processing DivisionMagnetic Interfaces and Nanostructures DivisionNanometer-Scale Science and Technology DivisionPlasma Science and Technology DivisionSurface Science DivisionThin Film DivisionVacuum Technology DivisionAVS Technical Groups DivisionManufacturing Science & Technology Technical Group (MSTG)MEMS and NEMS Technical Group↑ ↑ ↑ 3.0 3.1 ↑",Correct,125,25.916990518569943,10
+http://dbpedia.org/resource/Gazprom,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/List_of_Gazprom_subsidiaries,Correct,126,16.15285038948059,10
+http://dbpedia.org/resource/Exor_(company),http://dbpedia.org/ontology/keyPerson,http://dbpedia.org/resource/John_Elkann,Correct,127,40.17529654502869,10
+http://dbpedia.org/resource/Exor_(company),http://dbpedia.org/ontology/keyPerson,http://dbpedia.org/resource/Chief_executive_officer,Correct,127,40.17529654502869,10
+http://dbpedia.org/resource/Exor_(company),http://dbpedia.org/ontology/industry,http://dbpedia.org/resource/Investment_company,Correct,127,40.17529654502869,10
+http://dbpedia.org/resource/Tom_Grosvenor,http://dbpedia.org/ontology/team,http://dbpedia.org/resource/Stourbridge_F.C.,Correct,128,108.24392533302309,10
+http://dbpedia.org/resource/Tom_Grosvenor,http://dbpedia.org/property/clubs,http://dbpedia.org/resource/Birmingham_City_F.C.,Correct,128,108.24392533302309,10
+http://dbpedia.org/resource/Tom_Grosvenor,http://dbpedia.org/ontology/team,http://dbpedia.org/resource/Birmingham_City_F.C.,Correct,128,108.24392533302309,10
+http://dbpedia.org/resource/Tom_Grosvenor,http://dbpedia.org/property/clubs,http://dbpedia.org/resource/Stourbridge_F.C.,Correct,128,108.24392533302309,10
+http://dbpedia.org/resource/Taskwarrior,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/C++,Correct,129,2.8407483100891118,10
+http://dbpedia.org/resource/Skim_(software),http://dbpedia.org/ontology/license,http://dbpedia.org/resource/BSD_licenses,Correct,130,2.562570571899414,10
+http://dbpedia.org/resource/Oando,http://dbpedia.org/ontology/product,http://dbpedia.org/resource/Petrochemical,Correct,131,46.18004465103149,10
+http://dbpedia.org/resource/Oando,http://dbpedia.org/ontology/industry,http://dbpedia.org/resource/List_of_oil_exploration_and_production_companies,Correct,131,46.18004465103149,10
+http://dbpedia.org/resource/Oando,http://dbpedia.org/property/products,http://dbpedia.org/resource/Petroleum,Correct,131,46.18004465103149,10
+http://dbpedia.org/resource/Oando,http://dbpedia.org/property/products,http://dbpedia.org/resource/Fuel,Correct,131,46.18004465103149,10
+http://dbpedia.org/resource/Oando,http://dbpedia.org/property/industry,http://dbpedia.org/resource/List_of_petroleum_companies,Correct,131,46.18004465103149,10
+http://dbpedia.org/resource/Smart_Personal_Objects_Technology,http://dbpedia.org/ontology/abstract,"The Smart Personal Objects Technology (SPOT) is a discontinued initiative by Microsoft to create intelligent and personal home appliances, consumer electronics, and other objects through new hardware capabilities and software features.Development of SPOT began as an incubation project initiated by the Microsoft Research division. SPOT was first announced by Bill Gates at the COMDEX computer exposition event in 2002, and additional details were revealed by Microsoft at the 2003 Consumer Electronics Show where Gates demonstrated a set of prototype smart watches—the first type of device that would support the technology.  Unlike more recent technologies, SPOT did not use more traditional forms of connectivity, such as 3G or Wi-Fi, but relied on FM broadcasting subcarrier transmission as a method of data distribution. While several other electronics would be created that supported the technology throughout its lifecyle, SPOT was considered a commercial failure. Reasons that have been cited for its failure include its subscription-based business model, support limited to North America, the emergence of more efficient and popular forms of data distribution, and mobile feature availability that surpasses the features that SPOT offered.",Correct,132,44.46949672698975,10
+http://dbpedia.org/resource/Smart_Personal_Objects_Technology,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Smartphones,Correct,132,44.46949672698975,10
+http://dbpedia.org/resource/Smart_Personal_Objects_Technology,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Microsoft_initiatives,Correct,132,44.46949672698975,10
+http://dbpedia.org/resource/Smart_Personal_Objects_Technology,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2002_introductions,Correct,132,44.46949672698975,10
+http://dbpedia.org/resource/Smart_Personal_Objects_Technology,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/Melitta_ME1MSB_Smart_Mill_and_Brew_with_SPOT.jpeg,Correct,132,44.46949672698975,10
+http://dbpedia.org/resource/Transrapid,http://www.w3.org/2000/01/rdf-schema#comment,"Transrapid is a German high-speed monorail train using magnetic levitation based on a 1934 patent. Planning for the Transrapid system started in 1969 with a test facility for the system in Emsland, Germany completed in 1987.",Correct,133,52.989463090896606,10
+http://dbpedia.org/resource/TextDrive,http://dbpedia.org/property/industry,Hosting,Correct,134,43.25887846946716,10
+http://dbpedia.org/resource/TextDrive,http://dbpedia.org/property/divisions,Cloud Hosting,Correct,134,43.25887846946716,10
+http://dbpedia.org/resource/TextDrive,http://dbpedia.org/ontology/industry,http://dbpedia.org/resource/Web_hosting_service,Correct,134,43.25887846946716,10
+http://dbpedia.org/resource/TextDrive,http://dbpedia.org/property/headquarters,http://dbpedia.org/resource/San_Francisco,Correct,134,43.25887846946716,10
+http://dbpedia.org/resource/TextDrive,http://xmlns.com/foaf/0.1/homepage,http://www.textdrive.com/,Incorrect,134,43.25887846946716,10
+http://dbpedia.org/resource/Dell,http://www.w3.org/2000/01/rdf-schema#label,Dell,Correct,135,80.34510731697083,10
+http://dbpedia.org/resource/Dell,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/Alienware,Correct,135,80.34510731697083,10
+http://dbpedia.org/resource/Dell,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/Perot_Systems,Correct,135,80.34510731697083,10
+http://dbpedia.org/resource/Dell,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/Force10,Correct,135,80.34510731697083,10
+http://dbpedia.org/resource/Dell,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/SonicWall,Correct,135,80.34510731697083,10
+http://dbpedia.org/resource/Commerce,http://www.w3.org/2000/01/rdf-schema#label,Commerce,Correct,136,5.180644035339356,10
+http://dbpedia.org/resource/WTWW,http://dbpedia.org/ontology/broadcastArea,http://dbpedia.org/resource/Middle_East,Correct,137,105.36074471473694,10
+http://dbpedia.org/resource/WTWW,http://dbpedia.org/ontology/callsignMeaning,We Transmit World Wide,Correct,137,105.36074471473694,10
+http://dbpedia.org/resource/WTWW,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Companies_based_in_Nashville,_Tennessee",Correct,137,105.36074471473694,10
+http://dbpedia.org/resource/WTWW,http://dbpedia.org/property/city,"http://dbpedia.org/resource/Lebanon,_Tennessee",Correct,137,105.36074471473694,10
+http://dbpedia.org/resource/WTWW,http://dbpedia.org/ontology/broadcastNetwork,http://dbpedia.org/resource/Scriptures_For_America,Incorrect,137,105.36074471473694,10
+http://dbpedia.org/resource/Byron_Cook_(politician),http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/Navarro_College,Correct,138,15.825989484786987,10
+http://dbpedia.org/resource/Byron_Cook_(politician),http://dbpedia.org/property/residence,"http://dbpedia.org/resource/Corsicana,_Texas",Correct,138,15.825989484786987,10
+http://dbpedia.org/resource/Byron_Cook_(politician),http://dbpedia.org/property/residence,"http://dbpedia.org/resource/Navarro_County,_Texas",Correct,138,15.825989484786987,10
+http://dbpedia.org/resource/Amarok_(software),http://dbpedia.org/ontology/license,http://dbpedia.org/resource/GNU_General_Public_License,Correct,139,5.728695392608643,10
+http://dbpedia.org/resource/First_Comes_Courage,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_films,Correct,140,26.63103199005127,10
+http://dbpedia.org/resource/First_Comes_Courage,http://dbpedia.org/property/language,English,Correct,140,26.63103199005127,10
+http://dbpedia.org/resource/First_Comes_Courage,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Black-and-white_films,Correct,140,26.63103199005127,10
+http://dbpedia.org/resource/Tangren_Media,http://dbpedia.org/property/keyPeople,Zhang Dan,Correct,141,370.6270744800568,10
+http://dbpedia.org/resource/Tangren_Media,http://dbpedia.org/property/products,"Films, TV series",Correct,141,370.6270744800568,10
+http://dbpedia.org/resource/Tangren_Media,http://dbpedia.org/property/location,"Yichang Road, Shanghai, China",Correct,141,370.6270744800568,10
+http://dbpedia.org/resource/Tangren_Media,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Shanghai,Correct,141,370.6270744800568,10
+http://dbpedia.org/resource/Tangren_Media,http://dbpedia.org/property/industry,Film & television production,Correct,141,370.6270744800568,10
+http://dbpedia.org/resource/Saiyuki_(manga),http://dbpedia.org/property/last,2011-11-25,Incorrect,142,98.9550323486328,10
+http://dbpedia.org/resource/Saiyuki_(manga),http://dbpedia.org/property/title,Saiyuki Gaiden,Correct,142,98.9550323486328,10
+http://dbpedia.org/resource/Saiyuki_(manga),http://dbpedia.org/property/music,http://dbpedia.org/resource/Motoi_Sakuraba,Correct,142,98.9550323486328,10
+http://dbpedia.org/resource/Saiyuki_(manga),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Programs_acquired_by_GMA_Network,Incorrect,142,98.9550323486328,10
+http://dbpedia.org/resource/Saiyuki_(manga),http://dbpedia.org/ontology/numberOfVolumes,10,Correct,142,98.9550323486328,10
+http://dbpedia.org/resource/Integra_Live,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/Pure_Data,Correct,143,28.301014184951782,10
+http://dbpedia.org/resource/Integra_Live,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/Apache_Flex,Correct,143,28.301014184951782,10
+http://dbpedia.org/resource/Integra_Live,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/C++,Correct,143,28.301014184951782,10
+http://dbpedia.org/resource/GCstar,http://dbpedia.org/ontology/license,http://dbpedia.org/resource/GNU_General_Public_License,Correct,144,56.677557945251465,10
+http://dbpedia.org/resource/Jerry_Roberts,http://dbpedia.org/ontology/soundRecording,http://dbpedia.org/resource/Jerry_Roberts__3,Correct,145,37.91209030151367,10
+http://dbpedia.org/resource/Jerry_Roberts,http://dbpedia.org/property/name,"Roberts, Jerry",Correct,145,37.91209030151367,10
+http://dbpedia.org/resource/Jerry_Roberts,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2014_deaths,Correct,145,37.91209030151367,10
+http://dbpedia.org/resource/Jerry_Roberts,http://dbpedia.org/property/deathDate,2014-03-25,Correct,145,37.91209030151367,10
+http://dbpedia.org/resource/Jerry_Roberts,http://dbpedia.org/property/alternativeNames,"Roberts, Raymond C.",Correct,145,37.91209030151367,10
+http://dbpedia.org/resource/Rentrak,http://dbpedia.org/property/type,http://dbpedia.org/resource/Public_company,Correct,146,103.23021006584167,10
+http://dbpedia.org/resource/Rentrak,http://xmlns.com/foaf/0.1/homepage,http://www.rentrak.com/,Incorrect,146,103.23021006584167,10
+http://dbpedia.org/resource/Rentrak,http://dbpedia.org/property/locationCountry,http://dbpedia.org/resource/United_States,Correct,146,103.23021006584167,10
+http://dbpedia.org/resource/Rentrak,http://dbpedia.org/property/industry,Media Measurement,Correct,146,103.23021006584167,10
+http://dbpedia.org/resource/Rentrak,http://dbpedia.org/ontology/keyPerson,http://dbpedia.org/resource/Chief_information_officer,Correct,146,103.23021006584167,10
+http://dbpedia.org/resource/Ajinomoto,http://dbpedia.org/ontology/product,http://dbpedia.org/resource/Pharmaceutical_drug,Correct,147,10.570313453674316,10
+http://dbpedia.org/resource/Ajinomoto,http://www.w3.org/2000/01/rdf-schema#label,Ajinomoto,Correct,147,10.570313453674316,10
+http://dbpedia.org/resource/Construcciones_Aeronáuticas_SA,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Spain,Correct,148,13.35028886795044,10
+http://dbpedia.org/resource/International_Surf_Lifesaving_Association,http://dbpedia.org/property/name,Articles for creation/International Surf Lifesaving Association,Correct,149,53.6680634021759,10
+http://dbpedia.org/resource/International_Surf_Lifesaving_Association,http://dbpedia.org/property/content,"Huntington Beach, California, USA",Correct,149,53.6680634021759,10
+http://dbpedia.org/resource/International_Surf_Lifesaving_Association,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Organization,Correct,149,53.6680634021759,10
+http://dbpedia.org/resource/International_Surf_Lifesaving_Association,http://dbpedia.org/property/heading,Region served,Correct,149,53.6680634021759,10
+http://dbpedia.org/resource/International_Surf_Lifesaving_Association,http://www.w3.org/2000/01/rdf-schema#comment,"The International Surf Lifesaving Association (ISLA) is a nonprofit organization that advances professional lifesaving development to areas in need around the globe. ISLA uses latest technology to identify areas in need. ISLA advances development through lifeguard training programs and aquatic rescue operation consults, lifeguard exchanges, equipment donations, and by integrating with drowning prevention organizations to share information, techniques, stories, and culture.",Correct,149,53.6680634021759,10
+http://dbpedia.org/resource/William_F._Allen_(Delaware),http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Delaware,Correct,150,20.77304482460022,10
+http://dbpedia.org/resource/William_F._Allen_(Delaware),http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Bridgeville,_Delaware",Correct,150,20.77304482460022,10
+http://dbpedia.org/resource/William_F._Allen_(Delaware),http://dbpedia.org/ontology/deathPlace,"http://dbpedia.org/resource/Lewes,_Delaware",Correct,150,20.77304482460022,10
+http://dbpedia.org/resource/William_F._Allen_(Delaware),http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Delaware,Correct,150,20.77304482460022,10
+http://dbpedia.org/resource/Nikkor,http://dbpedia.org/property/industry,Camera lenses,Correct,151,14.432183742523192,10
+http://dbpedia.org/resource/Nikkor,http://dbpedia.org/property/type,subsidiary of Nikon Corp,Correct,151,14.432183742523192,10
+http://dbpedia.org/resource/Nikkor,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Japanese_brands,Correct,151,14.432183742523192,10
+http://dbpedia.org/resource/Nikkor,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Nikon,Correct,151,14.432183742523192,10
+http://dbpedia.org/resource/Nikkor,http://xmlns.com/foaf/0.1/name,Nikkor,Correct,151,14.432183742523192,10
+http://dbpedia.org/resource/William_Zeckendorf,http://www.w3.org/2000/01/rdf-schema#comment,"William Zeckendorf, Sr. (June 30, 1905 – September 30, 1976) was a prominent American real estate developer. Through his development company Webb and Knapp—for which he began working in 1938 and which he purchased in 1949—he developed a significant portion of the New York City urban landscape. Architects I. M. Pei and Le Corbusier have worked for Zeckendorf on many of his projects.",Correct,152,26.155142545700077,10
+http://dbpedia.org/resource/William_Zeckendorf,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/William_Zeckendorf,Correct,152,26.155142545700077,10
+http://dbpedia.org/resource/William_Zeckendorf,http://www.w3.org/2000/01/rdf-schema#label,William Zeckendorf,Correct,152,26.155142545700077,10
+http://dbpedia.org/resource/William_Zeckendorf,http://dbpedia.org/ontology/deathDate,1976-09-30,Correct,152,26.155142545700077,10
+http://dbpedia.org/resource/William_Zeckendorf,http://dbpedia.org/ontology/birthDate,1905-06-30,Correct,152,26.155142545700077,10
+http://dbpedia.org/resource/Suricata_(software),http://dbpedia.org/ontology/license,http://dbpedia.org/resource/GNU_General_Public_License,Correct,153,18.738709926605225,10
+http://dbpedia.org/resource/Pinnacle_Studio,http://www.w3.org/2000/01/rdf-schema#comment,"Pinnacle Studio is a video editing program originally developed by Pinnacle Systems as the consumer-level counterpart to Pinnacle's former professional-level software, Liquid Edition. It was acquired by Avid and later  by Corel in July 2012.",Correct,154,32.11124563217163,10
+http://dbpedia.org/resource/Pinnacle_Studio,http://www.w3.org/2000/01/rdf-schema#label,Pinnacle Studio,Correct,154,32.11124563217163,10
+http://dbpedia.org/resource/West_of_Scotland_F.C.,http://dbpedia.org/property/league,http://dbpedia.org/resource/Scottish_Championship_Leagues,I Don't Know,155,35.552857398986816,10
+http://dbpedia.org/resource/West_of_Scotland_F.C.,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1865_establishments_in_Scotland,Correct,155,35.552857398986816,10
+http://dbpedia.org/resource/West_of_Scotland_F.C.,http://dbpedia.org/property/patternSo,_hoops_red,Correct,155,35.552857398986816,10
+http://dbpedia.org/resource/West_of_Scotland_F.C.,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/West_of_Scotland_F.C.,Correct,155,35.552857398986816,10
+http://dbpedia.org/resource/West_of_Scotland_F.C.,http://xmlns.com/foaf/0.1/homepage,http://www.westofscotlandfc.co.uk/,Incorrect,155,35.552857398986816,10
+http://dbpedia.org/resource/MySQL_Workbench,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/C++,Correct,156,11.562615633010864,10
+http://dbpedia.org/resource/MySQL_Workbench,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/C_Sharp_(programming_language),Correct,156,11.562615633010864,10
+http://dbpedia.org/resource/MySQL_Workbench,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/Objective-C,Correct,156,11.562615633010864,10
+http://dbpedia.org/resource/Washington_Nationals,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Washington_Nationals,Correct,157,20.99040722846985,10
+http://dbpedia.org/resource/Washington_Nationals,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:2005_establishments_in_Washington,_D.C.",Correct,157,20.99040722846985,10
+http://dbpedia.org/resource/Washington_Nationals,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Privately_held_companies_based_in_Washington,_D.C.",Correct,157,20.99040722846985,10
+http://dbpedia.org/resource/Washington_Nationals,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Sports_clubs_established_in_2005,Correct,157,20.99040722846985,10
+http://dbpedia.org/resource/Washington_Nationals,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Grapefruit_League,Correct,157,20.99040722846985,10
+http://dbpedia.org/resource/Meggitt,http://dbpedia.org/property/location,http://dbpedia.org/resource/Dorset,Correct,158,72.47693800926208,10
+http://dbpedia.org/resource/Meggitt,http://dbpedia.org/property/industry,http://dbpedia.org/resource/Aerospace,I Don't Know,158,72.47693800926208,10
+http://dbpedia.org/resource/Meggitt,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Dorset,Incorrect,158,72.47693800926208,10
+http://dbpedia.org/resource/Meggitt,http://dbpedia.org/ontology/industry,http://dbpedia.org/resource/Aerospace,Correct,158,72.47693800926208,10
+http://dbpedia.org/resource/Revco,http://dbpedia.org/property/name,"Revco, D.S., Inc.",Correct,159,20.95068669319153,10
+http://dbpedia.org/resource/Revco,http://dbpedia.org/property/defunct,1997,Correct,159,20.95068669319153,10
+http://dbpedia.org/resource/Revco,http://xmlns.com/foaf/0.1/depiction,http://en.wikipedia.org/wiki/Special:FilePath/Revco4.jpg,Incorrect,159,20.95068669319153,10
+http://dbpedia.org/resource/Revco,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Companies_based_in_Ohio,Correct,159,20.95068669319153,10
+http://dbpedia.org/resource/Revco,http://www.w3.org/2000/01/rdf-schema#comment,"Revco Discount Drug Stores (known simply as Revco or Revco, D.S.), once based in Twinsburg, Ohio, was a major drug store chain operating through  the Ohio Valley, the Mid-Atlantic states, and the Southeastern United States.  The chain's stock was traded on the New York Stock Exchange (NYSE) under the ticker RXR.  When it was sold, the chain had over 2,500 stores.",Correct,159,20.95068669319153,10
+http://dbpedia.org/resource/DuraCloud,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/Java_(programming_language),Correct,160,3.852158069610596,10
+http://dbpedia.org/resource/Kenji_Fujimori,http://xmlns.com/foaf/0.1/homepage,http://www.kenjifujimori.com.pe/,Incorrect,161,19.688762187957764,10
+http://dbpedia.org/resource/Kenji_Fujimori,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Kenji_Fujimori,Correct,161,19.688762187957764,10
+http://dbpedia.org/resource/Kenji_Fujimori,http://xmlns.com/foaf/0.1/surname,Fujimori,Correct,161,19.688762187957764,10
+http://dbpedia.org/resource/Kenji_Fujimori,http://xmlns.com/foaf/0.1/givenName,Kenji,Correct,161,19.688762187957764,10
+http://dbpedia.org/resource/Kenji_Fujimori,http://www.w3.org/2000/01/rdf-schema#comment,"Kenji Gerardo Fujimori Higuchi (Japanese: 藤森 健二, born 19 May 1980 in Lima) is a Peruvian businessman and fujimorist politician. He is the son of Alberto Fujimori who was the President of Peru from 1990 to 2001, and the brother of Fuerza 2011 leader Keiko Fujimori.",Correct,161,19.688762187957764,10
+http://dbpedia.org/resource/Urikhtau_gas_field,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Field,Correct,162,20.370593070983887,10
+http://dbpedia.org/resource/Urikhtau_gas_field,http://www.w3.org/2000/01/rdf-schema#label,Urikhtau gas field,Correct,162,20.370593070983887,10
+http://dbpedia.org/resource/Urikhtau_gas_field,http://dbpedia.org/property/region,http://dbpedia.org/resource/Aktobe_Region,Correct,162,20.370593070983887,10
+http://dbpedia.org/resource/Urikhtau_gas_field,http://dbpedia.org/property/startProduction,1984,Correct,162,20.370593070983887,10
+http://dbpedia.org/resource/Urikhtau_gas_field,http://dbpedia.org/property/country,http://dbpedia.org/resource/Kazakhstan,Correct,162,20.370593070983887,10
+http://dbpedia.org/resource/Leo_Kieffer,http://dbpedia.org/ontology/abstract,"R. Leo Kieffer (born September 11, 1930) is an American businessperson and politician from Maine. Kieffer, a Republican, served in the Maine State Senate from 1992-2000, representing his residence in Caribou, Maine as well as much of Aroostook County. He replaced fellow Republican Donald Collins, who did not seek re-election. Prior to serving in the State Senate, Kieffer served five years on the Caribou Town Council, including a stint as mayor (1991-1992). In February 1997, Kieffer was named legislator of the year by the Economic Development Council of Maine. From 1996-1998, Kieffer served as Assistant Senate Minority Leader.Kieffer was born in Mauston, Wisconsin and graduated from Madison College.",I Don't Know,163,8.391876459121704,10
+http://dbpedia.org/resource/Leo_Kieffer,http://dbpedia.org/property/name,R. Leo Kieffer,I Don't Know,163,8.391876459121704,10
+http://dbpedia.org/resource/Leo_Kieffer,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Maine_State_Senators,I Don't Know,163,8.391876459121704,10
+http://dbpedia.org/resource/Leo_Kieffer,http://dbpedia.org/property/name,"Kieffer, Leo",I Don't Know,163,8.391876459121704,10
+http://dbpedia.org/resource/Leo_Kieffer,http://dbpedia.org/property/succeeded,http://dbpedia.org/resource/Donald_Collins,I Don't Know,163,8.391876459121704,10
+http://dbpedia.org/resource/BQ_Aquaris_E4.5_Ubuntu_Edition,http://dbpedia.org/property/os,http://dbpedia.org/resource/Ubuntu_Touch,I Don't Know,164,721.5395002365112,10
+http://dbpedia.org/resource/BQ_Aquaris_E4.5_Ubuntu_Edition,http://dbpedia.org/property/name,BQ Aquaris E4.5 Ubuntu Edition,I Don't Know,164,721.5395002365112,10
+http://dbpedia.org/resource/BQ_Aquaris_E4.5_Ubuntu_Edition,http://dbpedia.org/property/cpu,Quad-core Cortex A7 up to 1.3 GHz MediaTek,I Don't Know,164,721.5395002365112,10
+http://dbpedia.org/resource/BQ_Aquaris_E4.5_Ubuntu_Edition,http://dbpedia.org/property/os,http://dbpedia.org/resource/Android_(operating_system),I Don't Know,164,721.5395002365112,10
+http://dbpedia.org/resource/Efrat,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/Israel,I Don't Know,165,5.912671089172363,10

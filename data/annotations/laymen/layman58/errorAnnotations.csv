@@ -1,0 +1,132 @@
+Subject,Predicate,Object,Error,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/Tony_Benneworth,http://dbpedia.org/property/debutyear,1972,Object,1,41.621506452560425,9
+http://dbpedia.org/resource/Tony_Benneworth,http://dbpedia.org/property/year,1971,Object,1,41.621506452560425,9
+http://dbpedia.org/resource/Josh_Homme,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Palm_Desert_Scene,Object,5,126.17120718955994,12
+http://dbpedia.org/resource/Stanley_Matthews_(tennis),http://dbpedia.org/ontology/abstract,"Stanley John Matthews (born 20 November 1945) is an English former professional tennis player. He became Wimbledon Boys' Champion in 1962 and reached the second round of the French Open, Wimbledon and the US Open. He is the son of former professional footballer Sir Stanley Matthews.",Object,8,32.412729263305664,12
+http://dbpedia.org/resource/Stanley_Matthews_(tennis),http://xmlns.com/foaf/0.1/name,"Matthews, Stanley",Object,8,32.412729263305664,12
+http://dbpedia.org/resource/Rose_Tremain,http://dbpedia.org/property/name,"(CBE, FRSL)",Object,10,19.40681481361389,12
+http://dbpedia.org/resource/Rose_Tremain,http://xmlns.com/foaf/0.1/givenName,Rose,Object,10,19.40681481361389,12
+http://dbpedia.org/resource/Eihusen_Arena,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Arena_football_venues,Object,12,2.430015087127685,12
+http://dbpedia.org/resource/Unbelievable_Adventures_of_Italians_in_Russia,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_directed_by_Eldar_Ryazanov,Object,14,32.58181858062744,12
+http://dbpedia.org/resource/Unbelievable_Adventures_of_Italians_in_Russia,http://dbpedia.org/property/distributor,http://dbpedia.org/resource/Mosfilm,Object,14,32.58181858062744,12
+http://dbpedia.org/resource/Unbelievable_Adventures_of_Italians_in_Russia,http://dbpedia.org/ontology/distributor,http://dbpedia.org/resource/Mosfilm,Object,14,32.58181858062744,12
+http://dbpedia.org/resource/Pocket_Cube,http://dbpedia.org/property/footer,Pocket Cube in different forms. From top :,Object,15,3.3598382472991943,12
+http://dbpedia.org/resource/Josh_Homme,http://dbpedia.org/property/label,http://dbpedia.org/resource/Man's_Ruin_Records,Predicate,16,8.462482690811157,12
+http://dbpedia.org/resource/Josh_Homme,http://dbpedia.org/property/genre,http://dbpedia.org/resource/Heavy_metal_music,Object,16,8.462482690811157,12
+http://dbpedia.org/resource/George_W._Bush,http://www.w3.org/2000/01/rdf-schema#label,George W. Bush,Predicate,17,3.56549072265625,12
+http://dbpedia.org/resource/Koki_Yonekura,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Chiba_Prefecture,Object,20,2.36329197883606,12
+"http://dbpedia.org/resource/Alexander_Cambridge,_1st_Earl_of_Athlone",http://dbpedia.org/ontology/monarch,http://dbpedia.org/resource/George_V,Object,23,3.4188883304595947,12
+http://dbpedia.org/resource/Ringwood_Secondary_College,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Rock_Eisteddfod_Challenge_participants,Object,25,2.523000955581665,12
+http://dbpedia.org/resource/Inzamam-ul-Haq,http://dbpedia.org/property/matches,245,Object,26,16.322746992111206,12
+http://dbpedia.org/resource/David_Rawlings,http://www.w3.org/2000/01/rdf-schema#label,David Rawlings,Object,28,2.105832815170288,12
+http://dbpedia.org/resource/Casablanca_(film),http://dbpedia.org/property/budget,878000.0,Object,29,1.9344961643218996,12
+http://dbpedia.org/resource/Eddie_Mearns,http://dbpedia.org/property/youthclubs,http://dbpedia.org/resource/Heart_of_Midlothian_F.C.,Object,30,3.4196901321411133,12
+http://dbpedia.org/resource/Eddie_Mearns,http://dbpedia.org/ontology/team,http://dbpedia.org/resource/Heart_of_Midlothian_F.C.,Object,30,3.4196901321411133,12
+http://dbpedia.org/resource/Equestrian_at_the_1924_Summer_Olympics_–_Team_jumping,http://dbpedia.org/ontology/silverMedalist,http://dbpedia.org/resource/Hans_von_der_Weid,Object,32,10.339895009994509,12
+http://dbpedia.org/resource/Jens_Truckenbrod,http://dbpedia.org/property/name,"Truckenbrod, Jens",Object,33,5.110199213027954,12
+http://dbpedia.org/resource/Jens_Truckenbrod,http://dbpedia.org/property/caps,72,Object,33,5.110199213027954,12
+http://dbpedia.org/resource/National_Museum_of_Natural_History_(France),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:5th_arrondissement_of_Paris,Predicate,36,6.694531679153442,12
+http://dbpedia.org/resource/Julia_Roberts,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_female_models,Object,37,26.798900604248047,12
+http://dbpedia.org/resource/Julia_Roberts,http://dbpedia.org/property/spouse,http://dbpedia.org/resource/Lyle_Lovett,Object,37,26.798900604248047,12
+http://dbpedia.org/resource/Julia_Roberts,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-actor-noun-1,Object,37,26.798900604248047,12
+http://dbpedia.org/resource/Boubacar_Sylla,http://xmlns.com/foaf/0.1/name,"Sylla, Boubacar",Object,39,3.300412893295288,12
+http://dbpedia.org/resource/Alexander_Holle,http://dbpedia.org/ontology/militaryCommand,Luftflotte 3,Object,44,2.9172046184539795,12
+http://dbpedia.org/resource/Patti_LaBelle,http://www.w3.org/2000/01/rdf-schema#label,Patti LaBelle,Object,46,2.118208885192871,12
+http://dbpedia.org/resource/Statistical_finance,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Application,Object,49,5.5608203411102295,12
+http://dbpedia.org/resource/Robert_B._Redman,http://dbpedia.org/property/name,Bloomsburg,Predicate,50,17.755632162094116,12
+http://dbpedia.org/resource/Robert_B._Redman,http://www.w3.org/2000/01/rdf-schema#label,Robert B. Redman,Object,50,17.755632162094116,12
+http://dbpedia.org/resource/Steven_Campbell_(footballer),http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Australia,Object,52,4.873977422714233,12
+http://dbpedia.org/resource/FC_Kehlen,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/FCKehlen_Logo.gif?width=300,Object,53,3.724893808364868,13
+http://dbpedia.org/resource/Erik_Thommy,http://xmlns.com/foaf/0.1/givenName,Erik,Object,55,11.107203722000122,13
+http://dbpedia.org/resource/Erik_Thommy,http://dbpedia.org/property/name,"Thommy, Erik",Object,55,11.107203722000122,13
+http://dbpedia.org/resource/Wally_Harris_(footballer),http://dbpedia.org/ontology/team,http://dbpedia.org/resource/Birmingham_City_F.C.,Object,58,47.556007623672485,13
+http://dbpedia.org/resource/South_China_AA,http://dbpedia.org/property/name,http://dbpedia.org/resource/Lau_Cheuk_Hin,Object,59,81.8991494178772,13
+http://dbpedia.org/resource/South_China_AA,http://dbpedia.org/property/name,Bojan MališićFP,Object,59,81.8991494178772,13
+http://dbpedia.org/resource/South_China_AA,http://dbpedia.org/property/name,http://dbpedia.org/resource/Andy_Russell_(English_footballer),Object,59,81.8991494178772,13
+http://dbpedia.org/resource/South_China_AA,http://dbpedia.org/property/name,http://dbpedia.org/resource/Che_Runqiu,Object,59,81.8991494178772,13
+http://dbpedia.org/resource/Adam_Schlesinger,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Object,60,4.77082085609436,13
+http://dbpedia.org/resource/Northern_Illinois_University,http://dbpedia.org/ontology/campus,http://dbpedia.org/resource/College_town,Object,61,3.924194812774658,13
+http://dbpedia.org/resource/List_of_Jo_Stafford_compilation_albums_(1955–99),http://dbpedia.org/property/label,http://dbpedia.org/resource/Philips_Records,Object,64,38.99026679992676,13
+http://dbpedia.org/resource/Tasmania_in_the_2009–10_domestic_Sheffield_Shield_cricket_season,http://dbpedia.org/property/wicketsTeam1Inns,Brett Geeves 1/12,Object,65,5.006269931793213,13
+http://dbpedia.org/resource/Tasmania_in_the_2009–10_domestic_Sheffield_Shield_cricket_season,http://dbpedia.org/property/result,won by an innings and 7 runs,Object,65,5.006269931793213,13
+http://dbpedia.org/resource/Ken_Gatward,http://dbpedia.org/ontology/battle,http://dbpedia.org/resource/Battle_of_France,Object,68,7.612902641296387,13
+http://dbpedia.org/resource/Ken_Gatward,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:People_from_Frinton-on-Sea,Object,68,7.612902641296387,13
+http://dbpedia.org/resource/Swedish_Under-19_Football_Championships,http://dbpedia.org/property/name,http://dbpedia.org/resource/Magnus_Ramqvist,Object,69,2.2844462394714355,14
+http://dbpedia.org/resource/James_Francis_Garrick,http://dbpedia.org/ontology/successor,http://dbpedia.org/resource/James_Robert_Dickson,Object,70,95.53985857963562,14
+http://dbpedia.org/resource/James_Francis_Garrick,http://dbpedia.org/property/years,1878,Object,70,95.53985857963562,14
+http://dbpedia.org/resource/Abderrahmane_Mssassi,http://xmlns.com/foaf/0.1/name,"Mssassi, Abderrahmane",Object,72,2.028540849685669,14
+http://dbpedia.org/resource/Jari_Tolsa,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Hockey,Object,73,2.3875505924224854,14
+http://dbpedia.org/resource/Michael_Caine,http://xmlns.com/foaf/0.1/name,CBE,Object,74,2.3330862522125244,14
+"http://dbpedia.org/resource/Aster,_Edmonton",http://dbpedia.org/property/subdivisionName,NW,Object,79,6.373167514801025,14
+http://dbpedia.org/resource/Yul_Brynner,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:White_Russian_emigrants_to_China,Object,81,2.723728656768799,14
+http://dbpedia.org/resource/Mark_Dempsey_(Irish_footballer),http://dbpedia.org/ontology/abstract,"Mark Anthony Peter Dempsey (born 10 December 1972 in Dublin) was an Irish association football player during the 1990s and 2000s.  He was a defender or midfielder who appeared for Gillingham, Leyton Orient, Shrewsbury Town, Barry Town, Bohemians (2 spells), Shelbourne and Drogheda United during his career.",Object,82,2.372873067855835,14
+http://dbpedia.org/resource/Colin_Greenwood,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Art_rock,Object,83,3.285191059112549,14
+http://dbpedia.org/resource/Colin_Greenwood,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Film_score,Object,83,3.285191059112549,14
+http://dbpedia.org/resource/Gloria_Gaynor,http://dbpedia.org/property/label,Logic( ),Object,85,2.708674192428589,14
+http://dbpedia.org/resource/Heart's_Desire_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Operetta_films,Object,88,2.1478848457336426,14
+http://dbpedia.org/resource/Sani_Emmanuel,http://dbpedia.org/property/youthclubs,http://dbpedia.org/resource/My_People_FC,Object,89,2.1854665279388428,14
+http://dbpedia.org/resource/2014_Icelandic_Cup,http://dbpedia.org/property/stadium,"Ólafsfjarđarvöllur, Ólafsfjörður",Object,93,2.36576509475708,14
+http://dbpedia.org/resource/Caractères,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Family,Object,107,1.586972713470459,14
+http://dbpedia.org/resource/Leicester,http://dbpedia.org/property/decRecordHighC,14.6,Object,109,3.4665448665618896,15
+http://dbpedia.org/resource/Leicester,http://dbpedia.org/property/febPrecipitationMm,48.91,Object,109,3.4665448665618896,15
+http://dbpedia.org/resource/1968_German_Open_Championships,http://dbpedia.org/ontology/championInDoubleFemale,http://dbpedia.org/resource/Pat_Walkden,Object,110,2.3461992740631104,15
+http://dbpedia.org/resource/1968_German_Open_Championships,http://dbpedia.org/ontology/championInDoubleMale,http://dbpedia.org/resource/Tom_Okker,Object,110,2.3461992740631104,15
+http://dbpedia.org/resource/Iryna_Glibko,http://dbpedia.org/ontology/club,http://dbpedia.org/resource/HC_Danubius_Galați,Object,111,3.397524118423462,15
+http://dbpedia.org/resource/2009_in_Brazilian_football,http://dbpedia.org/property/l,11,Predicate,114,12.75809645652771,15
+http://dbpedia.org/resource/2009_in_Brazilian_football,http://dbpedia.org/property/rows,4,Object,114,12.75809645652771,15
+http://dbpedia.org/resource/2009_in_Brazilian_football,http://dbpedia.org/property/l,19,Predicate,114,12.75809645652771,15
+http://dbpedia.org/resource/2009_in_Brazilian_football,http://dbpedia.org/property/t,http://dbpedia.org/resource/Brasiliense_Futebol_Clube,Predicate,114,12.75809645652771,15
+http://dbpedia.org/resource/Bob_Bender,http://dbpedia.org/property/overall,19,Object,115,2.229496717453003,15
+http://dbpedia.org/resource/Bob_Bender,http://xmlns.com/foaf/0.1/givenName,Bob,Object,115,2.229496717453003,15
+http://dbpedia.org/resource/1957_Australian_Grand_Prix,http://dbpedia.org/ontology/poleDriverTeam,http://dbpedia.org/resource/Maserati_in_motorsport,Object,123,3.4066145420074463,15
+http://dbpedia.org/resource/1957_Australian_Grand_Prix,http://dbpedia.org/ontology/poleDriver,http://dbpedia.org/resource/Stan_Jones_(racing_driver),Object,123,3.4066145420074463,15
+http://dbpedia.org/resource/The_Catskills_(painting),http://dbpedia.org/ontology/museum,http://dbpedia.org/resource/Walters_Art_Museum,Object,127,2.335802793502808,15
+http://dbpedia.org/resource/Washington_Nationals,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Privately_held_companies_based_in_Washington,_D.C.",Object,128,2.4984562397003174,15
+http://dbpedia.org/resource/Washington_Nationals,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Grapefruit_League,Object,128,2.4984562397003174,15
+"http://dbpedia.org/resource/Bennett_High_School_(Buffalo,_New_York)",http://dbpedia.org/property/motto,Optima Futura,Object,131,7.505955219268799,15
+"http://dbpedia.org/resource/Bennett_High_School_(Buffalo,_New_York)",http://www.w3.org/2003/01/geo/wgs84_pos#long,-78.8322,Object,131,7.505955219268799,15
+"http://dbpedia.org/resource/Bennett_High_School_(Buffalo,_New_York)",http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1920_establishments_in_New_York,Object,131,7.505955219268799,15
+http://dbpedia.org/resource/Muhammad_Younis,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Asian_Games_medalists_in_athletics_(track_and_field),Object,132,5.219006776809692,15
+http://dbpedia.org/resource/Dalvin_Cook,http://dbpedia.org/ontology/school,http://dbpedia.org/resource/Florida_State_Seminoles_football,Object,133,1.4547204971313477,15
+http://dbpedia.org/resource/John_Denver,http://dbpedia.org/property/label,http://dbpedia.org/resource/Sony_Wonder,Object,134,2.0366339683532715,15
+http://dbpedia.org/resource/Number_Nine_Research_Laboratory,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:World_War_II_sites_in_Japan,Object,135,4.323232173919678,15
+http://dbpedia.org/resource/Number_Nine_Research_Laboratory,http://dbpedia.org/property/garrison,http://dbpedia.org/resource/Noborito,Object,135,4.323232173919678,15
+http://dbpedia.org/resource/Number_Nine_Research_Laboratory,http://dbpedia.org/property/garrison,http://dbpedia.org/resource/Kanagawa_Prefecture,Object,135,4.323232173919678,15
+http://dbpedia.org/resource/Cardinal_Ambrozic_Catholic_Secondary_School,http://dbpedia.org/ontology/foundingYear,2009,Object,136,2.885411500930786,15
+http://dbpedia.org/resource/Cardinal_Ambrozic_Catholic_Secondary_School,http://dbpedia.org/property/longm,41,Object,136,2.885411500930786,15
+http://dbpedia.org/resource/Cardinal_Ambrozic_Catholic_Secondary_School,http://dbpedia.org/property/longew,W,Object,136,2.885411500930786,15
+http://dbpedia.org/resource/Hod_Stuart,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Bay_of_Quinte,Object,137,13.627013683319092,15
+http://dbpedia.org/resource/Barry_Darsow,http://dbpedia.org/ontology/billed,http://dbpedia.org/resource/Glossary_of_professional_wrestling_terms,Object,142,3.217803716659546,15
+http://dbpedia.org/resource/Team_Wellington,http://dbpedia.org/property/patternSh,ffffff,Predicate;Object,145,2.9905827045440674,15
+http://dbpedia.org/resource/2010–11_Arsenal_F.C._season,http://dbpedia.org/property/team,http://dbpedia.org/resource/Stoke_City_F.C.,Object,151,3.7885704040527344,15
+http://dbpedia.org/resource/2010–11_Arsenal_F.C._season,http://dbpedia.org/property/team,http://dbpedia.org/resource/Sunderland_A.F.C.,Object,151,3.7885704040527344,15
+http://dbpedia.org/resource/Alessandro_Farnese_(cardinal),http://dbpedia.org/property/before,http://dbpedia.org/resource/%3F,Object,153,2.5825037956237797,15
+http://dbpedia.org/resource/Rachid_Ofrany,http://dbpedia.org/ontology/team,http://dbpedia.org/resource/Olympique_Khouribga,Object,160,7.156127452850342,16
+http://dbpedia.org/resource/Rachid_Ofrany,http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Rachid_Ofrany__8,Object,160,7.156127452850342,16
+http://dbpedia.org/resource/Eyewitness_(TV_series),http://dbpedia.org/property/company,http://dbpedia.org/resource/Time-Life_Television,Object,162,9.773098945617676,16
+http://dbpedia.org/resource/Eyewitness_(TV_series),http://dbpedia.org/ontology/company,http://dbpedia.org/resource/Time-Life_Television,Object,162,9.773098945617676,16
+http://dbpedia.org/resource/Eyewitness_(TV_series),http://www.w3.org/2000/01/rdf-schema#comment,Eyewitness is a natural history television series produced by BBC and DK Vision.  The series is based on the Dorling Kindersley Eyewitness Books series of children's books. Oxfordshire native Guy Dagul composes the theme music.,Object,162,9.773098945617676,16
+http://dbpedia.org/resource/Ron_Fenton,http://dbpedia.org/ontology/team,http://dbpedia.org/resource/Birmingham_City_F.C.,Object,164,2.3722567558288574,16
+http://dbpedia.org/resource/Raúl_García_(boxer),http://dbpedia.org/property/years,--06-14,Object,165,4.870623588562012,16
+http://dbpedia.org/resource/Fabio_Tinazzi,http://dbpedia.org/ontology/team,http://dbpedia.org/resource/A.C.D._Treviso_2013,Predicate,172,71.02030062675476,16
+http://dbpedia.org/resource/Fabio_Tinazzi,http://dbpedia.org/ontology/team,http://dbpedia.org/resource/Fermana_F.C.,Predicate,172,71.02030062675476,16
+http://dbpedia.org/resource/Fabio_Tinazzi,http://dbpedia.org/ontology/team,http://dbpedia.org/resource/A.S.D._Sambenedettese_Calcio,Predicate,172,71.02030062675476,16
+http://dbpedia.org/resource/Fatih_Terim,http://dbpedia.org/property/currentclub,http://dbpedia.org/resource/Turkey_national_football_team,Object,173,3.471013307571411,16
+http://dbpedia.org/resource/Hal_Keller,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Memphis_Chickasaws_players,Object,175,1.804424285888672,16
+http://dbpedia.org/resource/Michael_Nesmith,http://dbpedia.org/property/width,35.0,Predicate;Object,177,5.07029128074646,16
+http://dbpedia.org/resource/Michael_Nesmith,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_male_novelists,Object,177,5.07029128074646,16
+http://dbpedia.org/resource/Michael_Nesmith,http://dbpedia.org/property/tsurl,Michael_Nesmith,Predicate,177,5.07029128074646,16
+http://dbpedia.org/resource/Charlotte_Y._Martin_Centre,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Athletics,Object,180,3.111128330230713,16
+http://dbpedia.org/resource/Roc_Nation,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Pop_record_labels,Object,183,4.75917649269104,16
+http://dbpedia.org/resource/Roc_Nation,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Publishing_companies_established_in_2008,Object,183,4.75917649269104,16
+http://dbpedia.org/resource/2012_PDC_World_Youth_Championship,http://dbpedia.org/property/rd2Team,Aden Kirk,Object,185,2.1863489151000977,17
+http://dbpedia.org/resource/Chateaugay_(horse),http://dbpedia.org/property/fff,http://dbpedia.org/resource/Hyperion_(horse),Predicate,191,1.7824504375457764,17
+http://dbpedia.org/resource/Gauhati_University,http://www.w3.org/2003/01/geo/wgs84_pos#long,91.6634,Predicate,192,1.8449556827545168,17
+http://dbpedia.org/resource/2015_Boyd_Tinsley_Women's_Clay_Court_Classic,http://dbpedia.org/ontology/championInDoubleMale,http://dbpedia.org/resource/Françoise_Abanda,Predicate,193,2.6156458854675293,17
+http://dbpedia.org/resource/2015_Boyd_Tinsley_Women's_Clay_Court_Classic,http://dbpedia.org/ontology/championInDoubleMale,http://dbpedia.org/resource/Maria_Sanchez,Predicate,193,2.6156458854675293,17
+http://dbpedia.org/resource/Sarah_Kennedy,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/West_Sussex,Object,194,2.61930775642395,17
+http://dbpedia.org/resource/Cormac_McCarthy,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Apocalyptic_and_post-apocalyptic_fiction,Object,196,3.448539972305298,17
+http://dbpedia.org/resource/The_Right_Stuff_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Aviation_films,Object,198,2.56115460395813,17
+http://dbpedia.org/resource/Praga_Rugby,http://dbpedia.org/property/pos,HK,Predicate,199,9.870330572128296,17
+http://dbpedia.org/resource/Praga_Rugby,http://dbpedia.org/property/pos,N8,Object,199,9.870330572128296,17
+http://dbpedia.org/resource/Praga_Rugby,http://dbpedia.org/property/coach,"Eduard Krützner, Jr.",Object,199,9.870330572128296,17

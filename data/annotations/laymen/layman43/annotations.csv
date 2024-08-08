@@ -1,0 +1,724 @@
+Subject,Predicate,Object,Annotation,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/Nishi_Honganji,http://xmlns.com/foaf/0.1/page,http://www.hongwanji.or.jp/english/,I Don't Know,0,119.22160816192628,16
+http://dbpedia.org/resource/Charles_Grene_Ellicombe,http://dbpedia.org/property/placeofburial,"http://dbpedia.org/resource/Christ_Church,_Worthing",Correct,1,91.80239748954772,16
+http://dbpedia.org/resource/Charles_Grene_Ellicombe,http://dbpedia.org/property/deathPlace,"Worthing, West Sussex, England",Correct,1,91.80239748954772,16
+http://dbpedia.org/resource/Charles_Grene_Ellicombe,http://www.w3.org/2000/01/rdf-schema#label,Charles Grene Ellicombe,Correct,1,91.80239748954772,16
+http://dbpedia.org/resource/Charles_Grene_Ellicombe,http://xmlns.com/foaf/0.1/surname,Ellicombe,Correct,1,91.80239748954772,16
+http://dbpedia.org/resource/Charles_Grene_Ellicombe,http://dbpedia.org/property/name,"Ellicombe, Charles Grene",Incorrect,1,91.80239748954772,16
+http://dbpedia.org/resource/Josiah_Duane_Hicks,http://dbpedia.org/ontology/deathDate,1923-05-09,Correct,2,442.0908362865448,16
+http://dbpedia.org/resource/Josiah_Duane_Hicks,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Pennsylvania_Republicans,Correct,2,442.0908362865448,16
+http://dbpedia.org/resource/Josiah_Duane_Hicks,http://dbpedia.org/property/termStart,1893-03-04,Correct,2,442.0908362865448,16
+http://dbpedia.org/resource/Josiah_Duane_Hicks,http://dbpedia.org/property/state,http://dbpedia.org/resource/Pennsylvania,Correct,2,442.0908362865448,16
+http://dbpedia.org/resource/Josiah_Duane_Hicks,http://dbpedia.org/property/placeOfBirth,http://dbpedia.org/resource/Wales,Correct,2,442.0908362865448,16
+http://dbpedia.org/resource/Jadranski_naftovod,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Jadranski_naftovod,Incorrect,3,371.2545909881592,16
+http://dbpedia.org/resource/Jadranski_naftovod,http://dbpedia.org/property/locationCountry,http://dbpedia.org/resource/Croatia,Correct,3,371.2545909881592,16
+http://dbpedia.org/resource/Jadranski_naftovod,http://xmlns.com/foaf/0.1/homepage,http://www.janaf.hr/index.php?option=home&lang=en,Correct,3,371.2545909881592,16
+http://dbpedia.org/resource/Jadranski_naftovod,http://dbpedia.org/ontology/abstract,"Jadranski naftovod (JANAF) is a crude oil transportation company in Croatia. It operates the JANAF oil transport system, a part of the Adria oil pipeline.JANAF operates oil terminal of the Port of Rijeka in Omišalj on the Krk Island. In 2010, the Port of Rijeka Liquid Cargo Terminal transported 6.4 million tonnes of oil, representing a 7% drop compared to 6.9 million tonnes transported in 2009. In 2010, JANAF recorded annual revenue of 464.9 million kuna (62.8 million euro), less than 1% down from 2009, and annual net profit of 118.5 million kuna (16 million euro), up 11% compared to the previous year. However, JANAF operations include other facilities and services besides the oil terminal concession in the Port of Rijeka. JANAF is a joint stock company owned by Croatian Pension Insurance Institute (50.5%), INA (16%), the Republic of Croatia (14.5%) and other shareholders owning less than 10% of stock each. JANAF chairman of the board is Dragan Kovačević. JANAF had 380 employees working in Omišalj terminal and other JANAF facilities in Croatia.JANAF's share was listed as part of CROBEX before March 2011.",Correct,3,371.2545909881592,16
+http://dbpedia.org/resource/Jadranski_naftovod,http://dbpedia.org/property/industry,http://dbpedia.org/resource/Petroleum_industry,Correct,3,371.2545909881592,16
+http://dbpedia.org/resource/Archbishopric_of_Bremen,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Basdahl,Incorrect,4,459.2904438972473,16
+http://dbpedia.org/resource/Archbishopric_of_Bremen,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Bremervörde,Incorrect,4,459.2904438972473,16
+http://dbpedia.org/resource/Archbishopric_of_Bremen,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Bremen,I Don't Know,4,459.2904438972473,16
+http://dbpedia.org/resource/Archbishopric_of_Bremen,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Reichsthaler,Correct,4,459.2904438972473,16
+http://dbpedia.org/resource/Archbishopric_of_Bremen,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Bremen,Correct,4,459.2904438972473,16
+http://dbpedia.org/resource/William_S._Burroughs,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Arthur_Rimbaud,Incorrect,5,517.7350630760193,16
+http://dbpedia.org/resource/William_S._Burroughs,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Patti_Smith,Correct,5,517.7350630760193,16
+http://dbpedia.org/resource/William_S._Burroughs,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/David_Bowie,Correct,5,517.7350630760193,16
+http://dbpedia.org/resource/William_S._Burroughs,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Jonathan_Swift,Incorrect,5,517.7350630760193,16
+http://dbpedia.org/resource/William_S._Burroughs,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Lou_Reed,Correct,5,517.7350630760193,16
+http://dbpedia.org/resource/Nahim_Abraham,http://dbpedia.org/ontology/birthDate,1885-02-15,Correct,6,1698.377296447754,16
+http://dbpedia.org/resource/Nahim_Abraham,http://dbpedia.org/ontology/relation,"http://dbpedia.org/resource/Malouf_Abraham,_Sr.",Correct,6,1698.377296447754,16
+http://dbpedia.org/resource/Nahim_Abraham,http://dbpedia.org/ontology/relation,"http://dbpedia.org/resource/Malouf_Abraham,_Jr.",Incorrect,6,1698.377296447754,16
+http://dbpedia.org/resource/Nahim_Abraham,http://dbpedia.org/ontology/restingPlace,"http://dbpedia.org/resource/Canadian,_Texas",Correct,6,1698.377296447754,16
+http://dbpedia.org/resource/Nahim_Abraham,http://dbpedia.org/ontology/relation,http://dbpedia.org/resource/Salem_Abraham,Correct,6,1698.377296447754,16
+http://dbpedia.org/resource/Samuel_Karlin,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/Princeton_University,Correct,7,107.72454738616943,16
+http://dbpedia.org/resource/Samuel_Karlin,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/Illinois_Institute_of_Technology,Correct,7,107.72454738616943,16
+http://dbpedia.org/resource/Samuel_Karlin,http://dbpedia.org/ontology/citizenship,http://dbpedia.org/resource/United_States,Correct,7,107.72454738616943,16
+http://dbpedia.org/resource/Samuel_Karlin,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/John_W._Pratt,Correct,7,107.72454738616943,16
+http://dbpedia.org/resource/Samuel_Karlin,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Christopher_Burge,Correct,7,107.72454738616943,16
+http://dbpedia.org/resource/Antony_Thachuparambil,http://dbpedia.org/property/feastDay,--06-09,Correct,8,489.2074120044708,16
+http://dbpedia.org/resource/Antony_Thachuparambil,http://dbpedia.org/property/imageSize,220,Incorrect,8,489.2074120044708,16
+http://dbpedia.org/resource/Antony_Thachuparambil,http://dbpedia.org/property/titles,http://dbpedia.org/resource/Reform_movement,I Don't Know,8,489.2074120044708,16
+http://dbpedia.org/resource/Antony_Thachuparambil,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:People_from_Kerala,Correct,8,489.2074120044708,16
+http://dbpedia.org/resource/Antony_Thachuparambil,http://dbpedia.org/ontology/deathDate,1963-06-09,Correct,8,489.2074120044708,16
+"http://dbpedia.org/resource/Nicholas_V,_Duke_of_Krnov",http://dbpedia.org/ontology/parent,"http://dbpedia.org/resource/John_II,_Duke_of_Opava-Ratibor",Correct,9,30.914494276046756,16
+"http://dbpedia.org/resource/Nicholas_V,_Duke_of_Krnov",http://dbpedia.org/ontology/parent,http://dbpedia.org/resource/Helena_of_Lithuania,Correct,9,30.914494276046756,16
+http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden,http://dbpedia.org/ontology/spouse,http://dbpedia.org/resource/Louise_Mountbatten,Correct,10,507.11746406555176,16
+http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden,http://dbpedia.org/ontology/restingPlace,http://dbpedia.org/resource/Solna_Municipality,Correct,10,507.11746406555176,16
+http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden,http://dbpedia.org/ontology/restingPlace,http://dbpedia.org/resource/Kungliga_begravningsplatsen,Incorrect,10,507.11746406555176,16
+http://dbpedia.org/resource/Brian_O'Brien,http://dbpedia.org/property/birthDate,1898-01-02,Correct,11,205.5824329853058,16
+http://dbpedia.org/resource/Brian_O'Brien,http://dbpedia.org/ontology/deathYear,1992,Correct,11,205.5824329853058,16
+http://dbpedia.org/resource/Brian_O'Brien,http://dbpedia.org/ontology/deathDate,1992-07-01,Correct,11,205.5824329853058,16
+http://dbpedia.org/resource/Brian_O'Brien,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:University_of_Rochester_faculty,Correct,11,205.5824329853058,16
+http://dbpedia.org/resource/Brian_O'Brien,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Colorado,Correct,11,205.5824329853058,16
+http://dbpedia.org/resource/WVAH-TV,http://dbpedia.org/property/affiliations,http://dbpedia.org/resource/Fox_Broadcasting_Company,Correct,12,374.07841634750366,16
+http://dbpedia.org/resource/WVAH-TV,http://dbpedia.org/property/location,"http://dbpedia.org/resource/Huntington,_West_Virginia",Correct,12,374.07841634750366,16
+http://dbpedia.org/resource/WVAH-TV,http://dbpedia.org/ontology/locationCity,"http://dbpedia.org/resource/Charleston,_West_Virginia",Correct,12,374.07841634750366,16
+http://dbpedia.org/resource/WVAH-TV,http://dbpedia.org/ontology/locationCity,http://dbpedia.org/resource/West_Virginia,Incorrect,12,374.07841634750366,16
+http://dbpedia.org/resource/WVAH-TV,http://dbpedia.org/ontology/locationCountry,http://dbpedia.org/resource/United_States,Correct,12,374.07841634750366,16
+http://dbpedia.org/resource/Georg_Rickhey,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Hildesheim,Correct,13,63.647576093673706,16
+http://dbpedia.org/resource/Clarissa_S._Williams,http://dbpedia.org/property/successor,http://dbpedia.org/resource/Jennie_B._Knight,Correct,14,115.39355134963988,16
+http://dbpedia.org/resource/Clarissa_S._Williams,http://dbpedia.org/property/predecessor,http://dbpedia.org/resource/Emmeline_B._Wells,Correct,14,115.39355134963988,16
+http://dbpedia.org/resource/Clarissa_S._Williams,http://dbpedia.org/property/spouse,William N. Williams,Correct,14,115.39355134963988,16
+http://dbpedia.org/resource/Clarissa_S._Williams,http://dbpedia.org/property/deathCause,http://dbpedia.org/resource/Nephritis,Correct,14,115.39355134963988,16
+http://dbpedia.org/resource/Clarissa_S._Williams,http://xmlns.com/foaf/0.1/name,"Williams, Clarissa S.",Incorrect,14,115.39355134963988,16
+http://dbpedia.org/resource/Military_Ordinariate_of_Portugal,http://dbpedia.org/property/name,Military Ordinariate of Portugal,Correct,15,238.01364135742188,16
+http://dbpedia.org/resource/Military_Ordinariate_of_Portugal,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Roman_Catholic_dioceses_in_Portugal,Correct,15,238.01364135742188,16
+http://dbpedia.org/resource/Military_Ordinariate_of_Portugal,http://xmlns.com/foaf/0.1/name,Military Ordinariate of Portugal,Correct,15,238.01364135742188,16
+http://dbpedia.org/resource/Military_Ordinariate_of_Portugal,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Roman_Catholic_Military_Ordinariates,I Don't Know,15,238.01364135742188,16
+http://dbpedia.org/resource/Military_Ordinariate_of_Portugal,http://xmlns.com/foaf/0.1/name,Ordinariato Castrense de Portugal,Correct,15,238.01364135742188,16
+http://dbpedia.org/resource/ALARGAN_International_Real_Estate_Company,http://dbpedia.org/property/name,ALARGAN International Real Estate Company,Correct,16,1798.579701423645,16
+http://dbpedia.org/resource/ALARGAN_International_Real_Estate_Company,http://dbpedia.org/ontology/foundingYear,1994,Correct,16,1798.579701423645,16
+http://dbpedia.org/resource/ALARGAN_International_Real_Estate_Company,http://dbpedia.org/property/keyPeople,- Khaled K. Al-Mashaan,Correct,16,1798.579701423645,16
+http://dbpedia.org/resource/ALARGAN_International_Real_Estate_Company,http://xmlns.com/foaf/0.1/name,ALARGAN International Real Estate Company,Correct,16,1798.579701423645,16
+http://dbpedia.org/resource/ALARGAN_International_Real_Estate_Company,http://www.w3.org/2000/01/rdf-schema#comment,"ALARGAN International Real Estate Company is a Kuwaiti real estate development company. ALARGAN underwent an Initial public offering on the Kuwait Stock Exchange in July 2007. ""Alargan Projects"" a sister company of Alargan projects was established in Riyadh, Kingdom of Saudi Arabia in 2005.",Correct,16,1798.579701423645,16
+http://dbpedia.org/resource/221st_Combat_Communications_Squadron,http://dbpedia.org/ontology/commandStructure,http://dbpedia.org/resource/Air_National_Guard,Correct,17,32.6676549911499,16
+http://dbpedia.org/resource/221st_Combat_Communications_Squadron,http://dbpedia.org/ontology/garrison,http://dbpedia.org/resource/Texas,Correct,17,32.6676549911499,16
+http://dbpedia.org/resource/Paul_Verdzekov,http://dbpedia.org/ontology/deathYear,2010,Correct,18,268.374128818512,16
+http://dbpedia.org/resource/Paul_Verdzekov,http://dbpedia.org/property/name,"Verdzekov, Paul",Correct,18,268.374128818512,16
+http://dbpedia.org/resource/Paul_Verdzekov,http://dbpedia.org/ontology/birthDate,1931-01-22,Correct,18,268.374128818512,16
+http://dbpedia.org/resource/Paul_Verdzekov,http://purl.org/dc/elements/1.1/description,Catholic bishop,Correct,18,268.374128818512,16
+http://dbpedia.org/resource/Paul_Verdzekov,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Archbishop,Incorrect,18,268.374128818512,16
+http://dbpedia.org/resource/Priest,http://dbpedia.org/ontology/abstract,"A priest or priestess (feminine) (from  Greek πρεσβύτερος presbýteros through Latin presbyter, ""elder"", or from Old High German priast, prest, from Vulgar Latin ""prevost"" ""one put over others"", from Latin praepositus ""person placed in charge""), is a person authorized to perform the sacred rituals of a religion, especially as a mediatory agent between humans and one or more deities. They also have the authority or power to administer religious rites; in particular, rites of sacrifice to, and propitiation of, a deity or deities. Their office or position is the priesthood, a term which also may apply to such persons collectively.Priests and priestesses have existed since the earliest of times (see Proto-indo-European trifunctional hypothesis) and in the simplest societies, most likely as a result of agricultural surplus and consequent social stratification.  The necessity to read sacred texts and keep temple or church records helped foster literacy in many early societies.   Priests exist in many religions today, such as all or some branches of Judaism, Christianity, Shintoism, Hinduism.  They are generally regarded as having positive contact with the deity or deities of the religion to which they subscribe, often interpreting the meaning of events and performing the rituals of the religion.  There is no common definition of the duties of priesthood between faiths;  but generally it includes mediating the relationship between one's congregation, worshippers, and other members of the religious body, and its deity or deities, and administering religious rituals and rites.  These often include blessing worshipers with prayers of joy at marriages, after a birth, and at consecrations, teaching the wisdom and dogma of the faith at any regular worship service, and mediating and easing the experience of grief and death at funerals - maintaining a spiritual connection to the afterlife in faiths where such a concept exists.  Administering religious building grounds and office affairs and papers, including any religious library or collection of sacred texts, is also commonly a responsibility - for example, the modern term for clerical duties in a secular office refers originally to the duties of a cleric.  The question of which religions have a ""priest"" depends on how the titles of leaders are used or translated into English. In some cases, leaders are more like those that other believers will often turn to for advice on spiritual matters, and less of a ""person authorized to perform the sacred rituals."" For example, clergy in Roman Catholicism and Orthodox Christianity are priests, but in Protestant Christianity they are typically minister and pastor. The terms priest and priestess are sufficiently generic that they may be used in an anthropological sense to describe the religious mediators of an unknown or otherwise unspecified religion.In many religions, being a priest or priestess is a full-time position, ruling out any other career.  Many Christian priests and pastors choose or are mandated to dedicate themselves to their churches and receive their living directly from their churches.  In other cases it is a part-time role. For example, in the early history of Iceland the chieftains were titled goði, a word meaning ""priest"". As seen in the saga of Hrafnkell Freysgoði, however, being a priest consisted merely of offering periodic sacrifices to the Norse gods and goddesses; it was not a full-time role, nor did it involve ordination.In some religions, being a priest or priestess is by human election or human choice. In Judaism the priesthood is inherited in familial lines. In a theocracy a society is governed by its priesthood.",I Don't Know,19,174.05349707603455,16
+http://dbpedia.org/resource/Brooks_School,http://www.w3.org/2000/01/rdf-schema#label,Brooks School,Correct,20,243.88084721565247,16
+http://dbpedia.org/resource/Brooks_School,http://dbpedia.org/property/schooltype,http://dbpedia.org/resource/Boarding_school,Correct,20,243.88084721565247,16
+http://dbpedia.org/resource/Brooks_School,http://dbpedia.org/ontology/endowment,5.8E7,Incorrect,20,243.88084721565247,16
+http://dbpedia.org/resource/Bernard_Mary_of_Jesus,http://dbpedia.org/property/deathDate,1911-12-09,Correct,21,334.2695035934448,16
+http://dbpedia.org/resource/Bernard_Mary_of_Jesus,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Bernard_Mary_of_Jesus,Correct,21,334.2695035934448,16
+http://dbpedia.org/resource/Bernard_Mary_of_Jesus,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Bernardo02.jpg?width=300,Correct,21,334.2695035934448,16
+http://dbpedia.org/resource/Bernard_Mary_of_Jesus,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Italian_beatified_people,Correct,21,334.2695035934448,16
+http://dbpedia.org/resource/Bernard_Mary_of_Jesus,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:People_from_Rome,Correct,21,334.2695035934448,16
+http://dbpedia.org/resource/Ugo_Foscolo,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Alessandro_Manzoni,Correct,22,394.39070105552673,16
+http://dbpedia.org/resource/Ugo_Foscolo,http://dbpedia.org/ontology/partner,http://dbpedia.org/resource/Isabella_Teotochi_Albrizzi,Correct,22,394.39070105552673,16
+http://dbpedia.org/resource/Ugo_Foscolo,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Greece,Correct,22,394.39070105552673,16
+http://dbpedia.org/resource/Ugo_Foscolo,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Zakynthos,Correct,22,394.39070105552673,16
+http://dbpedia.org/resource/Ugo_Foscolo,http://dbpedia.org/ontology/movement,http://dbpedia.org/resource/Neoclassicism,Correct,22,394.39070105552673,16
+http://dbpedia.org/resource/Tibet_(1912–51),http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Tibetan_skar,Correct,23,202.6522204875946,16
+http://dbpedia.org/resource/Tibet_(1912–51),http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Tibetan_tangka,Correct,23,202.6522204875946,16
+http://dbpedia.org/resource/Tibet_(1912–51),http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Lhasa,Correct,23,202.6522204875946,16
+http://dbpedia.org/resource/Tibet_(1912–51),http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Tibetan_srang,Correct,23,202.6522204875946,16
+http://dbpedia.org/resource/Pope_Alexander_I,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Rome,Correct,24,25.699513912200928,16
+http://dbpedia.org/resource/Pope_Alexander_I,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Rome,Correct,24,25.699513912200928,16
+http://dbpedia.org/resource/Joe_Jonas,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,25,36.25794911384583,16
+"http://dbpedia.org/resource/Gundakar,_Prince_of_Liechtenstein",http://dbpedia.org/property/name,"Gundakar, Prince of Liechtenstein",Correct,26,115.24153447151184,16
+"http://dbpedia.org/resource/Gundakar,_Prince_of_Liechtenstein",http://dbpedia.org/property/dateOfDeath,1658-08-05,Correct,26,115.24153447151184,16
+"http://dbpedia.org/resource/Gundakar,_Prince_of_Liechtenstein",http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/Gundaker_von_Lichtenstein.jpg,Correct,26,115.24153447151184,16
+"http://dbpedia.org/resource/Gundakar,_Prince_of_Liechtenstein",http://dbpedia.org/property/alternativeNames,Fürst Gundaker von Liechtenstein,Correct,26,115.24153447151184,16
+"http://dbpedia.org/resource/Gundakar,_Prince_of_Liechtenstein",http://xmlns.com/foaf/0.1/isPrimaryTopicOf,"http://en.wikipedia.org/wiki/Gundakar,_Prince_of_Liechtenstein",Correct,26,115.24153447151184,16
+http://dbpedia.org/resource/Position_Ignition,http://www.w3.org/2000/01/rdf-schema#comment,"Position Ignition is a Careers Guidance Service that provides career support, advice and guidance to individuals and organizations. It was set up to provide highly personal career consulting services to individuals similar to those provided to senior businessmen in other professions such as a literary agent, talent agent and a sports agent. Although headquartered in London, United Kingdom, the company is a virtual business without any established offices.",Correct,27,80001.76357316971,16
+http://dbpedia.org/resource/Position_Ignition,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Career_advice_services,Correct,27,80001.76357316971,16
+http://dbpedia.org/resource/Position_Ignition,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Position_Ignition,Correct,27,80001.76357316971,16
+http://dbpedia.org/resource/Position_Ignition,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Service,Correct,27,80001.76357316971,16
+http://dbpedia.org/resource/Position_Ignition,http://dbpedia.org/ontology/abstract,"Position Ignition is a Careers Guidance Service that provides career support, advice and guidance to individuals and organizations. It was set up to provide highly personal career consulting services to individuals similar to those provided to senior businessmen in other professions such as a literary agent, talent agent and a sports agent. Although headquartered in London, United Kingdom, the company is a virtual business without any established offices. The business has created a modern virtual way of working and provides career advice to high level professionals in their homes and in open spaces. Position Ignition is the first UK company to call their career consultants career guides. They currently have 15 career guides working with them.",Incorrect,27,80001.76357316971,16
+"http://dbpedia.org/resource/Church_of_St_Mary_the_Virgin,_Fordwich",http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Fordwich,Correct,28,22.823262453079224,17
+"http://dbpedia.org/resource/Church_of_St_Mary_the_Virgin,_Fordwich",http://dbpedia.org/property/location,http://dbpedia.org/resource/Fordwich,Correct,28,22.823262453079224,17
+http://dbpedia.org/resource/Federal_Institute_for_Risk_Assessment,http://dbpedia.org/property/headquarters,http://dbpedia.org/resource/Berlin,Correct,29,116.33833146095276,17
+http://dbpedia.org/resource/Federal_Institute_for_Risk_Assessment,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Berlin,Correct,29,116.33833146095276,17
+http://dbpedia.org/resource/Federal_Institute_for_Risk_Assessment,http://dbpedia.org/property/parentAgency,http://dbpedia.org/resource/Federal_Ministry_of_Food_and_Agriculture,Correct,29,116.33833146095276,17
+http://dbpedia.org/resource/Federal_Institute_for_Risk_Assessment,http://dbpedia.org/property/parentAgency,http://dbpedia.org/resource/Federal_Ministry_of_Food_and_Agriculture_(Germany),Correct,29,116.33833146095276,17
+http://dbpedia.org/resource/Federal_Institute_for_Risk_Assessment,http://dbpedia.org/property/nativename,Federal Institute for Risk Assessment,Correct,29,116.33833146095276,17
+http://dbpedia.org/resource/Protestantism_in_the_Philippines,http://www.w3.org/2000/01/rdf-schema#label,Protestantism in the Philippines,Correct,30,985.4114339351654,17
+http://dbpedia.org/resource/Protestantism_in_the_Philippines,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Protestant_schools_in_the_Philippines,Correct,30,985.4114339351654,17
+http://dbpedia.org/resource/Protestantism_in_the_Philippines,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Protestantism_by_country,Incorrect,30,985.4114339351654,17
+http://dbpedia.org/resource/Protestantism_in_the_Philippines,http://www.w3.org/2000/01/rdf-schema#comment,"Protestant Christianity arrived in the Philippines during the late 19th and the early 20th century. American missionaries were mostly responsible for introducing Protestantism, but some were founded locally.",Correct,30,985.4114339351654,17
+http://dbpedia.org/resource/Protestantism_in_the_Philippines,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Christianity_in_the_Philippines,Correct,30,985.4114339351654,17
+http://dbpedia.org/resource/Victor_L._Ludlow,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:People_from_Provo,_Utah",Incorrect,31,468.93820214271545,17
+http://dbpedia.org/resource/Our_Lady_of_Light_Parish_Church,http://dbpedia.org/ontology/architect,http://dbpedia.org/resource/Society_of_Jesus,Incorrect,32,1746.6260368824005,17
+http://dbpedia.org/resource/Our_Lady_of_Light_Parish_Church,http://dbpedia.org/ontology/architecturalStyle,http://dbpedia.org/resource/Baroque,Correct,32,1746.6260368824005,17
+http://dbpedia.org/resource/Our_Lady_of_Light_Parish_Church,http://dbpedia.org/ontology/architecturalStyle,http://dbpedia.org/resource/Renaissance_Revival_architecture,Correct,32,1746.6260368824005,17
+http://dbpedia.org/resource/Jneiro_Jarel,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,33,119.53706812858582,17
+http://dbpedia.org/resource/Court_of_Assistants,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Court_of_Assistants,Correct,34,284.3675804138184,17
+http://dbpedia.org/resource/Court_of_Assistants,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Livery_companies,Correct,34,284.3675804138184,17
+http://dbpedia.org/resource/Court_of_Assistants,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Articles_created_via_the_Article_Wizard,I Don't Know,34,284.3675804138184,17
+http://dbpedia.org/resource/Court_of_Assistants,http://dbpedia.org/ontology/abstract,"A Court of Assistants is a council of members belonging to professional, trade, craft or livery organisations. The term originated among the London Livery Companies, but may also be used by other trade associations. The Court of Assistants is usually the governing body of these organisations and may include the officials, as in the case of the Worshipful Company of Clockmakers founded in 1631: ""The governing body of the Company is the Court of Assistants, comprising the Master, three Wardens and not less than ten Assistants."" Another example is the Honourable Artillery Company which has an Annual General Court open to all members. It meets in March to elect 20 Assistants. The Company is governed in its civil and financial affairs by the Court of Assistants, which was first established in 1633.",Correct,34,284.3675804138184,17
+http://dbpedia.org/resource/Court_of_Assistants,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Committees,Correct,34,284.3675804138184,17
+http://dbpedia.org/resource/William_J._Bichsel,http://dbpedia.org/ontology/abstract,"William Jerome Bichsel, S.J. (May 26, 1928 – February 28, 2015), nicknamed ""Bix"", was Jesuit priest in Tacoma, Washington, United States. He is notable for his actions as a non-violent protester, spending time in federal prison for demonstrating on issues such as nuclear weapons and the School of the Americas.",Correct,35,379.565818309784,17
+http://dbpedia.org/resource/William_J._Bichsel,http://xmlns.com/foaf/0.1/name,"Bichsel, William J., S.J.",Correct,35,379.565818309784,17
+http://dbpedia.org/resource/Soviet_Union,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Moscow,Correct,36,51.118515968322754,17
+http://dbpedia.org/resource/Soviet_Union,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Soviet_ruble,Correct,36,51.118515968322754,17
+http://dbpedia.org/resource/Soviet_Union,http://www.w3.org/2000/01/rdf-schema#label,Soviet Union,Correct,36,51.118515968322754,17
+http://dbpedia.org/resource/Roman_Catholic_Diocese_of_San_Jose_de_Antique,http://dbpedia.org/ontology/patron,http://dbpedia.org/resource/Saint_Joseph,Correct,37,20.20387291908264,17
+http://dbpedia.org/resource/People's_Socialist_Republic_of_Albania,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Tirana,Correct,38,220.0264184474945,17
+http://dbpedia.org/resource/People's_Socialist_Republic_of_Albania,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Albanian_lek,Correct,38,220.0264184474945,17
+http://dbpedia.org/resource/Pinnacle_Studio,http://www.w3.org/2000/01/rdf-schema#comment,"Pinnacle Studio is a video editing program originally developed by Pinnacle Systems as the consumer-level counterpart to Pinnacle's former professional-level software, Liquid Edition. It was acquired by Avid and later  by Corel in July 2012.",Correct,39,163.11840176582336,17
+http://dbpedia.org/resource/Pinnacle_Studio,http://www.w3.org/2000/01/rdf-schema#label,Pinnacle Studio,Correct,39,163.11840176582336,17
+http://dbpedia.org/resource/Daniel_Tammet,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/London,Correct,40,23.27592086791992,17
+http://dbpedia.org/resource/Deborah_Jeane_Palfrey,http://xmlns.com/foaf/0.1/name,Deborah Jeane Palfrey,Correct,41,531.9753503799438,17
+http://dbpedia.org/resource/Deborah_Jeane_Palfrey,http://dbpedia.org/property/dateOfBirth,1956-03-18,Correct,41,531.9753503799438,17
+http://dbpedia.org/resource/Deborah_Jeane_Palfrey,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_businesspeople_convicted_of_crimes,Correct,41,531.9753503799438,17
+http://dbpedia.org/resource/Deborah_Jeane_Palfrey,http://dbpedia.org/property/shortDescription,American criminal,Correct,41,531.9753503799438,17
+http://dbpedia.org/resource/Deborah_Jeane_Palfrey,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:People_from_Washington_County,_Pennsylvania",Correct,41,531.9753503799438,17
+http://dbpedia.org/resource/Logic_Pro,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/Objective-C,Correct,42,169.19658064842224,17
+http://dbpedia.org/resource/Logic_Pro,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/C_(programming_language),Correct,42,169.19658064842224,17
+http://dbpedia.org/resource/Logic_Pro,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/C++,Correct,42,169.19658064842224,17
+http://dbpedia.org/resource/San_Andres_Apostol_Church_(Candaba),http://dbpedia.org/property/mapCaption,Location in the Philippines,Correct,43,1700.3379776477814,17
+http://dbpedia.org/resource/San_Andres_Apostol_Church_(Candaba),http://dbpedia.org/property/denomination,http://dbpedia.org/resource/Roman_Catholic,Correct,43,1700.3379776477814,17
+http://dbpedia.org/resource/San_Andres_Apostol_Church_(Candaba),http://xmlns.com/foaf/0.1/name,Candaba Church,Correct,43,1700.3379776477814,17
+http://dbpedia.org/resource/San_Andres_Apostol_Church_(Candaba),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Roman_Catholic_churches_in_Pampanga,Correct,43,1700.3379776477814,17
+http://dbpedia.org/resource/San_Andres_Apostol_Church_(Candaba),http://dbpedia.org/property/province,Ecclesiastical Province of San Fernando,Correct,43,1700.3379776477814,17
+http://dbpedia.org/resource/Post-Soviet_transition_in_Ukraine,http://www.w3.org/2000/01/rdf-schema#label,Post-Soviet transition in Ukraine,Correct,44,45.8704731464386,17
+http://dbpedia.org/resource/Post-Soviet_transition_in_Ukraine,http://dbpedia.org/property/capital,http://dbpedia.org/resource/Kiev,Correct,44,45.8704731464386,17
+http://dbpedia.org/resource/Archery_at_the_1996_Summer_Olympics_–_Men's_team,http://dbpedia.org/ontology/goldMedalist,http://dbpedia.org/resource/Butch_Johnson,Correct,45,249.94253063201904,17
+http://dbpedia.org/resource/Archery_at_the_1996_Summer_Olympics_–_Men's_team,http://dbpedia.org/ontology/goldMedalist,http://dbpedia.org/resource/Rod_White,Correct,45,249.94253063201904,17
+http://dbpedia.org/resource/Archery_at_the_1996_Summer_Olympics_–_Men's_team,http://dbpedia.org/ontology/games,1996 Summer,Correct,45,249.94253063201904,17
+http://dbpedia.org/resource/Archery_at_the_1996_Summer_Olympics_–_Men's_team,http://dbpedia.org/ontology/goldMedalist,http://dbpedia.org/resource/Justin_Huish,Correct,45,249.94253063201904,17
+http://dbpedia.org/resource/Édouard_Balladur,http://dbpedia.org/property/president,http://dbpedia.org/resource/François_Mitterrand,Incorrect,46,190.77894163131717,17
+http://dbpedia.org/resource/Édouard_Balladur,http://www.w3.org/2000/01/rdf-schema#label,Édouard Balladur,Correct,46,190.77894163131717,17
+http://dbpedia.org/resource/Édouard_Balladur,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Izmir,Correct,46,190.77894163131717,17
+http://dbpedia.org/resource/Édouard_Balladur,http://dbpedia.org/property/president,http://dbpedia.org/resource/Georges_Pompidou,Correct,46,190.77894163131717,17
+http://dbpedia.org/resource/Édouard_Balladur,http://dbpedia.org/ontology/party,http://dbpedia.org/resource/Union_for_a_Popular_Movement,Correct,46,190.77894163131717,17
+http://dbpedia.org/resource/Revco,http://dbpedia.org/property/name,"Revco, D.S., Inc.",Correct,47,248.75543642044067,17
+http://dbpedia.org/resource/Revco,http://dbpedia.org/property/defunct,1997,Correct,47,248.75543642044067,17
+http://dbpedia.org/resource/Revco,http://xmlns.com/foaf/0.1/depiction,http://en.wikipedia.org/wiki/Special:FilePath/Revco4.jpg,Incorrect,47,248.75543642044067,17
+http://dbpedia.org/resource/Revco,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Companies_based_in_Ohio,Correct,47,248.75543642044067,17
+http://dbpedia.org/resource/Revco,http://www.w3.org/2000/01/rdf-schema#comment,"Revco Discount Drug Stores (known simply as Revco or Revco, D.S.), once based in Twinsburg, Ohio, was a major drug store chain operating through  the Ohio Valley, the Mid-Atlantic states, and the Southeastern United States.  The chain's stock was traded on the New York Stock Exchange (NYSE) under the ticker RXR.  When it was sold, the chain had over 2,500 stores.",Correct,47,248.75543642044067,17
+http://dbpedia.org/resource/Eastern_Orthodox_Church,http://www.w3.org/2000/01/rdf-schema#label,Eastern Orthodox Church,Correct,48,9.94541621208191,17
+http://dbpedia.org/resource/Richard_Boggs,http://dbpedia.org/ontology/deathPlace,"http://dbpedia.org/resource/California_State_Prison,_Corcoran",Correct,49,53.08738231658936,17
+http://dbpedia.org/resource/Richard_Boggs,http://www.w3.org/2000/01/rdf-schema#label,Richard Boggs,Correct,49,53.08738231658936,17
+http://dbpedia.org/resource/Richard_Boggs,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/California,Correct,49,53.08738231658936,17
+http://dbpedia.org/resource/Milo_Andrus,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/Milo_Andrus_1890.jpg,Correct,50,74.34873604774475,17
+http://dbpedia.org/resource/Milo_Andrus,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_Mormon_missionaries_in_the_United_Kingdom,Correct,50,74.34873604774475,17
+http://dbpedia.org/resource/Milo_Andrus,http://dbpedia.org/ontology/deathDate,1893-06-19,Correct,50,74.34873604774475,17
+http://dbpedia.org/resource/Milo_Andrus,http://dbpedia.org/property/name,Milo Andrus,Correct,50,74.34873604774475,17
+http://dbpedia.org/resource/Milo_Andrus,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:19th-century_Mormon_missionaries,Correct,50,74.34873604774475,17
+http://dbpedia.org/resource/Tribalistas,http://dbpedia.org/ontology/associatedMusicalArtist,http://dbpedia.org/resource/Timbalada,Correct,51,145.29576539993286,17
+http://dbpedia.org/resource/Tribalistas,http://dbpedia.org/ontology/associatedBand,http://dbpedia.org/resource/Timbalada,Correct,51,145.29576539993286,17
+http://dbpedia.org/resource/Tribalistas,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Pop_rock,Correct,51,145.29576539993286,17
+http://dbpedia.org/resource/Tribalistas,http://dbpedia.org/property/associatedActs,http://dbpedia.org/resource/Timbalada,Correct,51,145.29576539993286,17
+http://dbpedia.org/resource/Tribalistas,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/Brazil,Correct,51,145.29576539993286,17
+http://dbpedia.org/resource/Pauline_Dixon,http://dbpedia.org/ontology/employer,http://dbpedia.org/resource/Newcastle_University,Correct,52,27.5631799697876,17
+http://dbpedia.org/resource/Simone_Kennedy-Doornbos,http://dbpedia.org/property/predecessor,http://dbpedia.org/resource/Hans_van_Daalen,Correct,53,150.38886952400208,17
+http://dbpedia.org/resource/Simone_Kennedy-Doornbos,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Dutch_women_in_politics,Correct,53,150.38886952400208,17
+http://dbpedia.org/resource/Simone_Kennedy-Doornbos,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Simone_Kennedy-Doornbos,I Don't Know,53,150.38886952400208,17
+http://dbpedia.org/resource/Simone_Kennedy-Doornbos,http://dbpedia.org/ontology/activeYearsStartDate,2006-04-18,Correct,53,150.38886952400208,17
+http://dbpedia.org/resource/Simone_Kennedy-Doornbos,http://dbpedia.org/property/placeOfBirth,"Kampen, Netherlands",Correct,53,150.38886952400208,17
+http://dbpedia.org/resource/Emmanuel_Stupanus,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Johann_Caspar_Bauhin,Correct,54,50.8278067111969,17
+http://dbpedia.org/resource/Emmanuel_Stupanus,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Georg_Balthasar_Metzger,Correct,54,50.8278067111969,17
+http://dbpedia.org/resource/Emmanuel_Stupanus,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Nikolaus_Eglinger,Correct,54,50.8278067111969,17
+http://dbpedia.org/resource/Emmanuel_Stupanus,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Franciscus_Sylvius,Correct,54,50.8278067111969,17
+http://dbpedia.org/resource/Scratch_tape,http://www.w3.org/2000/01/rdf-schema#label,Scratch tape,Correct,55,58.70827126502991,17
+http://dbpedia.org/resource/Scratch_tape,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Computer_storage_tape_media,Correct,55,58.70827126502991,17
+http://dbpedia.org/resource/Scratch_tape,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/Magnetic_tape_hg.jpg,Correct,55,58.70827126502991,17
+http://dbpedia.org/resource/Scratch_tape,http://dbpedia.org/ontology/abstract,"In data processing, a scratch tape is a magnetic tape that is used for temporary storage and can be reused or erased after the completion of a job or processing run. During the early years of computing, when magnetic tape was the primary form of mass storage, many programs, notably sorting routines, required such temporary storage.",Correct,55,58.70827126502991,17
+http://dbpedia.org/resource/Scratch_tape,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Magnetic_tape_hg.jpg?width=300,Correct,55,58.70827126502991,17
+http://dbpedia.org/resource/Chris_Carrabba,http://xmlns.com/foaf/0.1/name,Chris Carrabba,Correct,56,22.28703045845032,17
+http://dbpedia.org/resource/Chris_Carrabba,http://xmlns.com/foaf/0.1/name,"Carrabba, Chris",Correct,56,22.28703045845032,17
+http://dbpedia.org/resource/Chris_Carrabba,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,56,22.28703045845032,17
+http://dbpedia.org/resource/GIMP,http://dbpedia.org/property/author,http://dbpedia.org/resource/Spencer_Kimball_(computer_programmer),Correct,57,55.11177897453308,17
+http://dbpedia.org/resource/GIMP,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Raster_graphics_editor,Correct,57,55.11177897453308,17
+http://dbpedia.org/resource/GIMP,http://dbpedia.org/property/operatingSystem,http://dbpedia.org/resource/OpenBSD,Correct,57,55.11177897453308,17
+http://dbpedia.org/resource/GIMP,http://dbpedia.org/ontology/operatingSystem,http://dbpedia.org/resource/OpenBSD,Correct,57,55.11177897453308,17
+http://dbpedia.org/resource/GIMP,http://dbpedia.org/property/developer,The GIMP Development Team,Correct,57,55.11177897453308,17
+http://dbpedia.org/resource/Eryue_He,http://dbpedia.org/ontology/nationality,http://dbpedia.org/resource/China,Correct,58,20.210773468017575,17
+http://dbpedia.org/resource/Eryue_He,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Historical_fiction,Correct,58,20.210773468017575,17
+http://dbpedia.org/resource/N._D._Cocea,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Satire,Correct,59,55.65560460090637,17
+http://dbpedia.org/resource/N._D._Cocea,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Travel_literature,Correct,59,55.65560460090637,17
+http://dbpedia.org/resource/N._D._Cocea,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Essay,Correct,59,55.65560460090637,17
+http://dbpedia.org/resource/N._D._Cocea,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Prose_poetry,Correct,59,55.65560460090637,17
+http://dbpedia.org/resource/N._D._Cocea,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Parody,Correct,59,55.65560460090637,17
+http://dbpedia.org/resource/Nina_Veselova,http://dbpedia.org/ontology/training,http://dbpedia.org/resource/Imperial_Academy_of_Arts,Incorrect,60,185.29475378990173,17
+http://dbpedia.org/resource/Nina_Veselova,http://dbpedia.org/ontology/movement,http://dbpedia.org/resource/Realism_(arts),Correct,60,185.29475378990173,17
+http://dbpedia.org/resource/Italian_Trans-Juba,http://dbpedia.org/property/currency,Italian lira,Correct,61,40.78437089920044,17
+http://dbpedia.org/resource/Whitworth_University,http://dbpedia.org/ontology/campus,http://dbpedia.org/resource/Suburb,Correct,62,214.79427123069763,17
+http://dbpedia.org/resource/Whitworth_University,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Private_university,Correct,62,214.79427123069763,17
+http://dbpedia.org/resource/Whitworth_University,http://dbpedia.org/ontology/athletics,http://dbpedia.org/resource/NCAA_Division_III,I Don't Know,62,214.79427123069763,17
+http://dbpedia.org/resource/Whitworth_University,http://dbpedia.org/property/type,http://dbpedia.org/resource/Private_university,Correct,62,214.79427123069763,17
+"http://dbpedia.org/resource/St_George's_Church,_Poynton",http://xmlns.com/foaf/0.1/page,http://www.poyntonpc.net/,Correct,63,79.32434749603271,17
+"http://dbpedia.org/resource/Liberty_Hall_(Barnstable,_Massachusetts)",http://dbpedia.org/property/latDirection,N,Correct,64,320.8936858177185,17
+"http://dbpedia.org/resource/Liberty_Hall_(Barnstable,_Massachusetts)",http://dbpedia.org/property/longDirection,W,Correct,64,320.8936858177185,17
+"http://dbpedia.org/resource/Liberty_Hall_(Barnstable,_Massachusetts)",http://dbpedia.org/property/locmapin,Massachusetts,Correct,64,320.8936858177185,17
+http://dbpedia.org/resource/Lillian_Massey_Treble,http://www.w3.org/2000/01/rdf-schema#label,Lillian Massey Treble,Correct,65,134.37726187705994,17
+http://dbpedia.org/resource/Lillian_Massey_Treble,http://dbpedia.org/ontology/deathYear,1915,Correct,65,134.37726187705994,17
+http://dbpedia.org/resource/Lillian_Massey_Treble,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1854_births,Correct,65,134.37726187705994,17
+http://dbpedia.org/resource/Lillian_Massey_Treble,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Lillian_Massey_Treble,I Don't Know,65,134.37726187705994,17
+http://dbpedia.org/resource/Lillian_Massey_Treble,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Canadian_educators,Correct,65,134.37726187705994,17
+"http://dbpedia.org/resource/Nicholas_Brown,_Jr.",http://dbpedia.org/ontology/restingPlace,http://dbpedia.org/resource/North_Burial_Ground,Correct,66,194.8187699317932,17
+"http://dbpedia.org/resource/Nicholas_Brown,_Jr.",http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/Brown_University,Correct,66,194.8187699317932,17
+"http://dbpedia.org/resource/Nicholas_Brown,_Jr.",http://dbpedia.org/ontology/restingPlace,"http://dbpedia.org/resource/Providence,_Rhode_Island",Correct,66,194.8187699317932,17
+"http://dbpedia.org/resource/Nicholas_Brown,_Jr.",http://dbpedia.org/ontology/residence,"http://dbpedia.org/resource/Providence,_Rhode_Island",Correct,66,194.8187699317932,17
+"http://dbpedia.org/resource/Nicholas_Brown,_Jr.",http://dbpedia.org/ontology/parent,"http://dbpedia.org/resource/Nicholas_Brown,_Sr.",Correct,66,194.8187699317932,17
+http://dbpedia.org/resource/William_Petty,http://dbpedia.org/ontology/era,http://dbpedia.org/resource/17th-century_philosophy,Correct,67,72.22010540962219,17
+http://dbpedia.org/resource/William_Petty,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Karl_Marx,Correct,67,72.22010540962219,17
+http://dbpedia.org/resource/William_Petty,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Bernard_Mandeville,Correct,67,72.22010540962219,17
+http://dbpedia.org/resource/Costanzo_Preve,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Piedmont,Correct,68,22.217193603515625,17
+http://dbpedia.org/resource/Costanzo_Preve,http://dbpedia.org/ontology/era,http://dbpedia.org/resource/20th-century_philosophy,Correct,68,22.217193603515625,17
+http://dbpedia.org/resource/Philip_Rivers,http://dbpedia.org/property/college,http://dbpedia.org/resource/NC_State_Wolfpack_football,Correct,69,25.462209463119507,17
+http://dbpedia.org/resource/Philip_Rivers,http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Decatur,_Alabama",Correct,69,25.462209463119507,17
+http://dbpedia.org/resource/Philip_Rivers,http://www.w3.org/2000/01/rdf-schema#label,Philip Rivers,Correct,69,25.462209463119507,17
+http://dbpedia.org/resource/Philip_Rivers,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Alabama,Correct,69,25.462209463119507,17
+http://dbpedia.org/resource/Ankur_Warikoo,http://dbpedia.org/ontology/personFunction,http://dbpedia.org/resource/Ankur_Warikoo__2,I Don't Know,70,102.00372433662416,17
+http://dbpedia.org/resource/Lisaac,http://dbpedia.org/property/influencedBy,http://dbpedia.org/resource/Smalltalk,Incorrect,71,97.59967017173769,17
+http://dbpedia.org/resource/Lisaac,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Smalltalk,Incorrect,71,97.59967017173769,17
+http://dbpedia.org/resource/Roddy_Bottum,http://dbpedia.org/property/instrument,http://dbpedia.org/resource/Bass_guitar,Correct,72,184.6789004802704,17
+http://dbpedia.org/resource/Roddy_Bottum,http://dbpedia.org/property/instrument,http://dbpedia.org/resource/Sampler_(musical_instrument),Correct,72,184.6789004802704,17
+http://dbpedia.org/resource/Roddy_Bottum,http://dbpedia.org/property/occupation,http://dbpedia.org/resource/Keyboardist,Correct,72,184.6789004802704,17
+http://dbpedia.org/resource/Roddy_Bottum,http://dbpedia.org/property/label,http://dbpedia.org/resource/Merge_Records,Correct,72,184.6789004802704,17
+http://dbpedia.org/resource/Roddy_Bottum,http://dbpedia.org/ontology/instrument,http://dbpedia.org/resource/Bass_guitar,Correct,72,184.6789004802704,17
+http://dbpedia.org/resource/Mitch_Daniels,http://dbpedia.org/property/termStart,2005-01-10,Correct,73,54.7814507484436,17
+http://dbpedia.org/resource/Mitch_Daniels,http://dbpedia.org/property/name,Mitch Daniels,Correct,73,54.7814507484436,17
+http://dbpedia.org/resource/Mitch_Daniels,http://dbpedia.org/property/termStart,2001-01-20,Correct,73,54.7814507484436,17
+http://dbpedia.org/resource/Mitch_Daniels,http://xmlns.com/foaf/0.1/name,Mitch Daniels,Correct,73,54.7814507484436,17
+http://dbpedia.org/resource/Mitch_Daniels,http://dbpedia.org/property/name,"Daniels, Mitch",Correct,73,54.7814507484436,17
+http://dbpedia.org/resource/Yarkon_River,http://dbpedia.org/ontology/mouthPlace,http://dbpedia.org/resource/Tel_Aviv,Correct,74,37.6930148601532,17
+http://dbpedia.org/resource/Yarkon_River,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/Israel,Correct,74,37.6930148601532,17
+http://dbpedia.org/resource/Wemmershoek_Dam,http://dbpedia.org/ontology/river,http://dbpedia.org/resource/Wemmershoek_River,Correct,75,73107.52104020119,17
+http://dbpedia.org/resource/Smith_College,http://dbpedia.org/ontology/president,http://dbpedia.org/resource/Kathleen_McCartney_(college_president),Correct,76,438.8803036212921,18
+http://dbpedia.org/resource/Smith_College,http://www.w3.org/2000/01/rdf-schema#label,Smith College,Correct,76,438.8803036212921,18
+http://dbpedia.org/resource/Smith_College,http://dbpedia.org/property/affiliations,http://dbpedia.org/resource/Oberlin_Group,Correct,76,438.8803036212921,18
+http://dbpedia.org/resource/Smith_College,http://dbpedia.org/ontology/facultySize,285,Correct,76,438.8803036212921,18
+http://dbpedia.org/resource/Smith_College,http://dbpedia.org/ontology/campus,http://dbpedia.org/resource/Urban_area,Incorrect,76,438.8803036212921,18
+http://dbpedia.org/resource/Pyu_city-states,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Pyu_city-states,Incorrect,77,138.9561870098114,18
+http://dbpedia.org/resource/Pyu_city-states,http://dbpedia.org/ontology/capital,"http://dbpedia.org/resource/Hanlin,_Burma",Correct,77,138.9561870098114,18
+http://dbpedia.org/resource/In_the_Name_of_the_Father_(film),http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/In_the_Name_of_the_Father_(film),Correct,78,245.7761940956116,18
+http://dbpedia.org/resource/In_the_Name_of_the_Father_(film),http://dbpedia.org/ontology/budget,1.3E7,Correct,78,245.7761940956116,18
+http://dbpedia.org/resource/In_the_Name_of_the_Father_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:British_biographical_films,Correct,78,245.7761940956116,18
+http://dbpedia.org/resource/In_the_Name_of_the_Father_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_about_The_Troubles_(Northern_Ireland),Correct,78,245.7761940956116,18
+http://dbpedia.org/resource/In_the_Name_of_the_Father_(film),http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Emma_Thompson,Correct,78,245.7761940956116,18
+http://dbpedia.org/resource/Laurence_Olivier,http://dbpedia.org/ontology/alias,"Olivier, Laurence Kerr; Olivier, Sir Laurence",Correct,79,394.6114044189453,18
+http://dbpedia.org/resource/Laurence_Olivier,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English_theatre_directors,Correct,79,394.6114044189453,18
+http://dbpedia.org/resource/Laurence_Olivier,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Cecil_B._DeMille_Award_Golden_Globe_winners,Correct,79,394.6114044189453,18
+http://dbpedia.org/resource/Laurence_Olivier,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Best_Supporting_Actor_Golden_Globe_(film)_winners,Correct,79,394.6114044189453,18
+http://dbpedia.org/resource/Laurence_Olivier,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Deaths_from_renal_failure,Correct,79,394.6114044189453,18
+http://dbpedia.org/resource/Vanessa_Bell_Armstrong,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,80,21.723912000656128,18
+http://dbpedia.org/resource/Impresa_Pizzarotti,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Construction_and_civil_engineering_companies_of_Italy,Correct,81,94.84181928634644,18
+http://dbpedia.org/resource/Impresa_Pizzarotti,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Impresa_Pizzarotti,Correct,81,94.84181928634644,18
+http://dbpedia.org/resource/Impresa_Pizzarotti,http://www.w3.org/2000/01/rdf-schema#label,Impresa Pizzarotti,Correct,81,94.84181928634644,18
+http://dbpedia.org/resource/Impresa_Pizzarotti,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Impresa_Pizzarotti,Correct,81,94.84181928634644,18
+http://dbpedia.org/resource/Impresa_Pizzarotti,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Construction,Correct,81,94.84181928634644,18
+http://dbpedia.org/resource/Leo_Kieffer,http://dbpedia.org/ontology/abstract,"R. Leo Kieffer (born September 11, 1930) is an American businessperson and politician from Maine. Kieffer, a Republican, served in the Maine State Senate from 1992-2000, representing his residence in Caribou, Maine as well as much of Aroostook County. He replaced fellow Republican Donald Collins, who did not seek re-election. Prior to serving in the State Senate, Kieffer served five years on the Caribou Town Council, including a stint as mayor (1991-1992). In February 1997, Kieffer was named legislator of the year by the Economic Development Council of Maine. From 1996-1998, Kieffer served as Assistant Senate Minority Leader.Kieffer was born in Mauston, Wisconsin and graduated from Madison College.",Correct,82,212.60561609268188,18
+http://dbpedia.org/resource/Leo_Kieffer,http://dbpedia.org/property/name,R. Leo Kieffer,Correct,82,212.60561609268188,18
+http://dbpedia.org/resource/Leo_Kieffer,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Maine_State_Senators,Correct,82,212.60561609268188,18
+http://dbpedia.org/resource/Leo_Kieffer,http://dbpedia.org/property/name,"Kieffer, Leo",Correct,82,212.60561609268188,18
+http://dbpedia.org/resource/Leo_Kieffer,http://dbpedia.org/property/succeeded,http://dbpedia.org/resource/Donald_Collins,Incorrect,82,212.60561609268188,18
+http://dbpedia.org/resource/Chrysostome_Liausu,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Chrysostome_Liausu__1,Correct,83,94.89986324310304,18
+http://dbpedia.org/resource/Chrysostome_Liausu,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Deaths_from_typhus,Correct,83,94.89986324310304,18
+http://dbpedia.org/resource/Chrysostome_Liausu,http://xmlns.com/foaf/0.1/name,Chrysostome Liausu,Correct,83,94.89986324310304,18
+http://dbpedia.org/resource/Chrysostome_Liausu,http://dbpedia.org/property/deathPlace,"Valparaíso, Chile",Correct,83,94.89986324310304,18
+http://dbpedia.org/resource/Chrysostome_Liausu,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1807_births,Correct,83,94.89986324310304,18
+http://dbpedia.org/resource/Regent_University,http://dbpedia.org/property/colors,"Blue, Green",Correct,84,303.91345834732056,18
+http://dbpedia.org/resource/Regent_University,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Regent_University,Correct,84,303.91345834732056,18
+http://dbpedia.org/resource/Regent_University,http://dbpedia.org/ontology/numberOfStudents,6158,Incorrect,84,303.91345834732056,18
+http://dbpedia.org/resource/Regent_University,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-university-noun-2,Correct,84,303.91345834732056,18
+http://dbpedia.org/resource/Regent_University,http://dbpedia.org/ontology/staff,402,Correct,84,303.91345834732056,18
+http://dbpedia.org/resource/Scottish_Airlines,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Companies_based_in_South_Ayrshire,Correct,85,267.46618247032166,18
+http://dbpedia.org/resource/Scottish_Airlines,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Scottish_Airlines,Correct,85,267.46618247032166,18
+http://dbpedia.org/resource/Scottish_Airlines,http://dbpedia.org/property/ceased,1961,Incorrect,85,267.46618247032166,18
+http://dbpedia.org/resource/Scottish_Airlines,http://dbpedia.org/property/caption,Avro York of Scottish Airlines in 1953,Correct,85,267.46618247032166,18
+http://dbpedia.org/resource/Scottish_Airlines,http://dbpedia.org/property/hubs,http://dbpedia.org/resource/London_Stansted_Airport,Correct,85,267.46618247032166,18
+"http://dbpedia.org/resource/St_David's_Church,_Barmouth",http://dbpedia.org/ontology/architect,"http://dbpedia.org/resource/Edward_Haycock,_Sr.",Correct,86,204.40848350524905,18
+http://dbpedia.org/resource/Carl_Schmitt,http://dbpedia.org/ontology/era,http://dbpedia.org/resource/20th-century_philosophy,Correct,87,352.2227087020874,18
+http://dbpedia.org/resource/Carl_Schmitt,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Joseph_de_Maistre,Correct,87,352.2227087020874,18
+http://dbpedia.org/resource/Carl_Schmitt,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Hannah_Arendt,Correct,87,352.2227087020874,18
+http://dbpedia.org/resource/Carl_Schmitt,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Jacob_Taubes,Correct,87,352.2227087020874,18
+http://dbpedia.org/resource/Carl_Schmitt,http://xmlns.com/foaf/0.1/name,"Schmitt, Carl",Correct,87,352.2227087020874,18
+http://dbpedia.org/resource/Ray_Musto,http://dbpedia.org/property/termStart,1980-04-09,Correct,88,24.40173625946045,18
+http://dbpedia.org/resource/Ray_Musto,http://xmlns.com/foaf/0.1/name,"Musto, Raphael J.",Correct,88,24.40173625946045,18
+http://dbpedia.org/resource/Ray_Musto,http://dbpedia.org/property/termStart,1983-01-04,Correct,88,24.40173625946045,18
+http://dbpedia.org/resource/Ray_Musto,http://xmlns.com/foaf/0.1/name,Raphael J. Musto,Correct,88,24.40173625946045,18
+http://dbpedia.org/resource/Ray_Musto,http://xmlns.com/foaf/0.1/name,Raphael Musto,Correct,88,24.40173625946045,18
+http://dbpedia.org/resource/Hierarchical_Cluster_Engine_Project,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/C++,Correct,89,26.914690732955933,18
+http://dbpedia.org/resource/Hierarchical_Cluster_Engine_Project,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/PHP,Correct,89,26.914690732955933,18
+http://dbpedia.org/resource/Hierarchical_Cluster_Engine_Project,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/Python_(programming_language),Correct,89,26.914690732955933,18
+http://dbpedia.org/resource/Separate_Baptists,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Group,Correct,90,45.479920625686646,18
+http://dbpedia.org/resource/Separate_Baptists,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Former_Christian_denominations,Correct,90,45.479920625686646,18
+http://dbpedia.org/resource/Separate_Baptists,http://www.w3.org/2000/01/rdf-schema#comment,"The Separate Baptists were an 18th-century group of Baptists in the United States, primarily in the South, that grew out of the Great Awakening.The Great Awakening was a religious revival and revitalization of piety among the Christian churches. It covered English-speaking countries and swept through the American colonies between the 1730s and the 1770s. Three important preachers of the times were Gilbert Tennent (1703–65), Jonathan Edwards (1703–58), and George Whitefield (1714–70).",Correct,90,45.479920625686646,18
+http://dbpedia.org/resource/Separate_Baptists,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Baptist_denominations_in_North_America,Correct,90,45.479920625686646,18
+http://dbpedia.org/resource/Separate_Baptists,http://dbpedia.org/ontology/abstract,"The Separate Baptists were an 18th-century group of Baptists in the United States, primarily in the South, that grew out of the Great Awakening.The Great Awakening was a religious revival and revitalization of piety among the Christian churches. It covered English-speaking countries and swept through the American colonies between the 1730s and the 1770s. Three important preachers of the times were Gilbert Tennent (1703–65), Jonathan Edwards (1703–58), and George Whitefield (1714–70). The Separate Baptists are most directly connected to Whitefield's influence. The first identifiable congregation of Separate Baptists was formed in Boston, Massachusetts. Whitefield preached in Boston in 1740. The pastor of the Baptist church disapproved of the revival excitement, while several members approved of it and became discontented with the pastor's ministry. They withdrew from the First Baptist Church and formed Second Baptist Church in 1743.The Great Awakening served to both invigorate and divide churches. Many denominations divided into Old Lights — holding a low view of the revivalism, and sometimes directly opposing it — and New Lights — who enthusiastically embraced it. Many New Lights felt that the old ways had allowed too many unconverted church members, and by the end of the 1740s some of the New Lights believed the established churches could not be reformed from within and withdrew from them. A favorite verse among them was II Corinthians 6:17 — ""Come out from among them, and be ye separate."" This led to them being called Separate.A growing body of Separate Baptists began in New England. They were zealous in evangelism and held to heart-felt religion. The most prominent New England pastor and congregation was Isaac Backus (1724–1808) and the church at Middleborough, Massachusetts. Backus was raised a Congregationalist and became a New Light (or Separatist) Congregational pastor in 1748. After conversion to Baptist views on the doctrine of baptism, Backus and others formed a Baptist congregation in 1756. Backus was very active in the fight for religious liberty in America. The Separate Baptists of New England were never truly a separate group from the Regular Baptists. It would remain for the Separate Baptists in the South to develop along distinct lines.In 1745 Shubal Stearns (1706–71), a member of the Congregational church in Tolland, Connecticut, heard evangelist George Whitefield. Stearns was converted and adopted the Awakening's view of revival and conversion. Stearns' church became involved in a controversy over the proper subjects of baptism in 1751. Soon Stearns rejected infant baptism and sought baptism at the hands of Wait Palmer, Baptist minister of Stonington, Connecticut. By March, Shubal Stearns was ordained into the ministry by Palmer and Joshua Morse, the pastor of New London, Connecticut. The next twenty years of Stearns' remarkable ministry is inextricably intertwined with the rise and expansion of the Separate Baptists.In 1754, Stearns moved south to Opequon, Virginia. Here he joined Daniel Marshall and wife Martha (Stearns' sister), who were already active in a Baptist church there. On November 22, 1755, Stearns and his party moved further south to Sandy Creek, in Guilford County, North Carolina. This party consisted of eight men and their wives, mostly relatives of Stearns. Stearns pastored at Sandy Creek until his death. From there, Separate Baptists spread in the South. The church quickly grew from 16 members to 606. Church members moved to other areas and started other churches. The Sandy Creek Association was formed in 1758. Morgan Edwards, Baptist minister and historian contemporary with Stearns, recorded that, ""in 17 years, [Sandy Creek] has spread its branches westward as far as the great river Mississippi; southward as far as Georgia; eastward to the sea and Chesopeck [sic] Bay; and northward to the waters of the Pottowmack [sic]; it, in 17 years, is become mother, grandmother, and great grandmother to 42 churches, from which sprang 125 ministers.""For a time these Baptists remained somewhat distinct from the Regular Baptists. They were in the main in agreement with the Regulars, but holding to some minor points of difference. According to Edwards, ""These are called Separates, not because they withdrew from the Regular-baptists but because they have hitherto declined any union with them. The faith and order of both are the same, except some trivial matters not sufficient to support a distinction, but less a disunion; for both avow the Century-Confession and the annexed discipline.""One distinction was in the number of ordinances or rites observed by the Separates. The nine rites were baptism, the Lord's supper, love feasts, laying on of hands, washing feet, anointing the sick, the right hand of fellowship, kiss of charity, and devoting children. Not all the churches practiced all nine of these, but most churches practiced more than the two ordinances generally held by the Regular Baptists — baptism and the Lord's supper.With the exception of the Separate Baptists in Christ, the denominational name Separate Baptist disappeared in many areas of the country with the formal and informal agreements of union between the Regular Baptists and Separate Baptists, beginning in Virginia in 1787, in the Carolinas in 1789, and in Kentucky in 1797 & 1801. As recorded by Benedict, the conclusion of the terms of union in Virginia stated, ""...we are united, and desire hereafter, that the names Regular and Separate be buried in oblivion; and that from henceforth, we shall be known by the name of the United Baptist Churches, in Virginia.""Descendants of the Separate Baptists include the Separate Baptists in Christ, Landmark Missionary Baptists, Primitive Baptists, Southern Baptists, United Baptists, and The General Association of Baptists.Separate Baptists are particularly visible in Kentucky, where a member of the denomination, Vernie McGaha of Russell Springs, served in the state senate.",Correct,90,45.479920625686646,18
+http://dbpedia.org/resource/Honmyō-ji,http://xmlns.com/foaf/0.1/page,http://www.honmyouji.jp/,I Don't Know,91,50.3306941986084,18
+http://dbpedia.org/resource/AJ_Michalka,http://www.w3.org/2000/01/rdf-schema#label,AJ Michalka,Correct,92,40.906311988830566,18
+http://dbpedia.org/resource/AJ_Michalka,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/Amanda_Joy_(AJ)_Michalka_-_September_2007.jpg,Correct,92,40.906311988830566,18
+http://dbpedia.org/resource/AJ_Michalka,http://dbpedia.org/ontology/birthDate,1991-04-10,Correct,92,40.906311988830566,18
+http://dbpedia.org/resource/AJ_Michalka,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/AJ_Michalka,Correct,92,40.906311988830566,18
+http://dbpedia.org/resource/AJ_Michalka,http://www.w3.org/2000/01/rdf-schema#comment,"Amanda Joy ""AJ"" Michalka (born April 10, 1991), often credited as AJ, is an American actress, singer-songwriter, and musician. She was a model prior to becoming an actress, and is best known as one-half of the duo 78violet (formerly Aly & AJ) with her sister Aly Michalka. AJ recorded the theme song and accompanying music video for the film Secretariat, entitled ""It's Who You Are"". She also issued a single and video called ""All I've Ever Needed"" from her 2013 film Grace Unplugged.",Correct,92,40.906311988830566,18
+"http://dbpedia.org/resource/Gazak,_Kerman",http://dbpedia.org/ontology/utcOffset,+4:30,Correct,93,199.07079792022705,18
+"http://dbpedia.org/resource/Gazak,_Kerman",http://dbpedia.org/property/longew,E,I Don't Know,93,199.07079792022705,18
+"http://dbpedia.org/resource/Gazak,_Kerman",http://dbpedia.org/property/longs,40,Incorrect,93,199.07079792022705,18
+"http://dbpedia.org/resource/Gazak,_Kerman",http://dbpedia.org/property/subdivisionName,http://dbpedia.org/resource/Rayen_Rural_District,Correct,93,199.07079792022705,18
+"http://dbpedia.org/resource/Gazak,_Kerman",http://xmlns.com/foaf/0.1/isPrimaryTopicOf,"http://en.wikipedia.org/wiki/Gazak,_Kerman",Correct,93,199.07079792022705,18
+http://dbpedia.org/resource/Baldur_von_Schirach,http://dbpedia.org/property/appointer,http://dbpedia.org/resource/Adolf_Hitler,Correct,94,83.0024425983429,18
+http://dbpedia.org/resource/Baldur_von_Schirach,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Berlin,Correct,94,83.0024425983429,18
+http://dbpedia.org/resource/Baldur_von_Schirach,http://dbpedia.org/property/appointer,Adolf Hitler,Correct,94,83.0024425983429,18
+http://dbpedia.org/resource/Gilbert_Belnap,http://dbpedia.org/ontology/deathPlace,"http://dbpedia.org/resource/Hooper,_Utah",Correct,95,18.062406063079838,18
+http://dbpedia.org/resource/Diocese_of_Shirak,http://dbpedia.org/ontology/territory,http://dbpedia.org/resource/Shirak_Province,Correct,96,55.87260437011719,18
+http://dbpedia.org/resource/Diocese_of_Shirak,http://www.w3.org/2000/01/rdf-schema#label,Diocese of Shirak,Correct,96,55.87260437011719,18
+http://dbpedia.org/resource/Diocese_of_Shirak,http://dbpedia.org/ontology/established,4 September 1920,Incorrect,96,55.87260437011719,18
+"http://dbpedia.org/resource/Council_Bluffs,_Iowa",http://dbpedia.org/property/pushpinMap,USA,Correct,97,232.19388270378116,18
+"http://dbpedia.org/resource/Council_Bluffs,_Iowa",http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/List_of_sovereign_states,Incorrect,97,232.19388270378116,18
+"http://dbpedia.org/resource/Council_Bluffs,_Iowa",http://dbpedia.org/ontology/motto,"""Iowa's Spirit""",Correct,97,232.19388270378116,18
+"http://dbpedia.org/resource/Council_Bluffs,_Iowa",http://xmlns.com/foaf/0.1/depiction,"http://commons.wikimedia.org/wiki/Special:FilePath/Council_Bluffs,_IA.jpg",Correct,97,232.19388270378116,18
+"http://dbpedia.org/resource/Council_Bluffs,_Iowa",http://dbpedia.org/property/blank1Name,GNIS feature ID,Correct,97,232.19388270378116,18
+http://dbpedia.org/resource/Thiruvisaippa,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Tamil_literature,Correct,98,51.54839253425598,18
+http://dbpedia.org/resource/Thiruvisaippa,http://dbpedia.org/ontology/abstract,"Thiruvisaipa (Tamil: திருவிசைப்பா Thiru means ""respect"", visai means ""action"" and pa indicates ""poem"") denotes the ninth volumes of the Tirumurai, the twelve-volume collection of Tamil Saivite devotional poetry.",Correct,98,51.54839253425598,18
+http://dbpedia.org/resource/Thiruvisaippa,http://www.w3.org/2000/01/rdf-schema#comment,"Thiruvisaipa (Tamil: திருவிசைப்பா Thiru means ""respect"", visai means ""action"" and pa indicates ""poem"") denotes the ninth volumes of the Tirumurai, the twelve-volume collection of Tamil Saivite devotional poetry.",Correct,98,51.54839253425598,18
+http://dbpedia.org/resource/Thiruvisaippa,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Texts_related_to_Nayanar_saints,Correct,98,51.54839253425598,18
+http://dbpedia.org/resource/Thiruvisaippa,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Carnatic_music,Correct,98,51.54839253425598,18
+http://dbpedia.org/resource/Hackley_School,http://dbpedia.org/property/type,http://dbpedia.org/resource/Private_school,Correct,99,99.51610541343688,18
+http://dbpedia.org/resource/Hackley_School,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Preparatory_schools_in_New_York,Correct,99,99.51610541343688,18
+http://dbpedia.org/resource/Hackley_School,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-school-noun-1,I Don't Know,99,99.51610541343688,18
+http://dbpedia.org/resource/Hackley_School,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/University-preparatory_school,Correct,99,99.51610541343688,18
+http://dbpedia.org/resource/Hackley_School,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Private_school,Correct,99,99.51610541343688,18
+http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Honolulu,http://dbpedia.org/ontology/jurisdiction,http://dbpedia.org/resource/Diocese,Correct,100,157.2677481174469,18
+http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Honolulu,http://dbpedia.org/ontology/territory,http://dbpedia.org/resource/U.S._state,Correct,100,157.2677481174469,18
+http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Honolulu,http://dbpedia.org/ontology/territory,http://dbpedia.org/resource/Unincorporated_territories_of_the_United_States,Correct,100,157.2677481174469,18
+http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Honolulu,http://dbpedia.org/ontology/established,"January 25, 1941",Correct,100,157.2677481174469,18
+http://dbpedia.org/resource/Umicore,http://dbpedia.org/property/intl,yes,I Don't Know,101,651.6240983009338,18
+http://dbpedia.org/resource/Umicore,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/UMHK_1917.jpg?width=300,Incorrect,101,651.6240983009338,18
+http://dbpedia.org/resource/Umicore,http://xmlns.com/foaf/0.1/name,Umicore N.V.,Correct,101,651.6240983009338,18
+http://dbpedia.org/resource/Umicore,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Chemical_companies_of_Belgium,Correct,101,651.6240983009338,18
+http://dbpedia.org/resource/Umicore,http://dbpedia.org/ontology/operatingIncome,5.241E8,Incorrect,101,651.6240983009338,18
+http://dbpedia.org/resource/Battle_of_Saigon_(1968),http://dbpedia.org/ontology/place,http://dbpedia.org/resource/South_Vietnam,Correct,102,20.56840825080872,18
+http://dbpedia.org/resource/Battle_of_Saigon_(1968),http://dbpedia.org/property/place,http://dbpedia.org/resource/South_Vietnam,Correct,102,20.56840825080872,18
+http://dbpedia.org/resource/Tyumen,http://dbpedia.org/property/febPrecipitationMm,15,Correct,103,294.41836190223694,18
+http://dbpedia.org/resource/Tyumen,http://www.w3.org/2000/01/rdf-schema#comment,"Tyumen (Russian: Тюмень; IPA: [tʲʉˈmʲenʲ]) is the largest city and the administrative center of Tyumen Oblast, Russia, located on the Tura River 2,500 kilometers (1,600 mi) east of Moscow.Tyumen was the first Russian settlement in Siberia. Founded in 1586 to support Russia's eastward expansion, the city has remained one of the most important industrial and economic centers east of the Ural Mountains.",Correct,103,294.41836190223694,18
+http://dbpedia.org/resource/Tyumen,http://dbpedia.org/property/octLowC,-0.4,Incorrect,103,294.41836190223694,18
+http://dbpedia.org/resource/Tyumen,http://dbpedia.org/property/augSnowCm,0,Correct,103,294.41836190223694,18
+http://dbpedia.org/resource/Tyumen,http://dbpedia.org/property/febLowC,-18.1,Incorrect,103,294.41836190223694,18
+http://dbpedia.org/resource/Offenbach_am_Main,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/City,Correct,104,114.16747307777403,18
+http://dbpedia.org/resource/Offenbach_am_Main,http://dbpedia.org/property/latDeg,50,Correct,104,114.16747307777403,18
+http://dbpedia.org/resource/Offenbach_am_Main,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/Germany,Correct,104,114.16747307777403,18
+http://dbpedia.org/resource/Offenbach_am_Main,http://www.w3.org/2000/01/rdf-schema#comment,"Offenbach am Main (German pronunciation: [ˈɔfənbaχ am ˈmaɪ̯n]) is a city in Hesse, Germany, located on the southside of the river Main and part of the Frankfurt Rhein-Main urban area. Offenbach has a population of 126,934.In the twentieth century the city's economy was dominated by the machine-building and leather industries, and it was also a major centre of the typography and design industries. Other important industries are the automobile and pharmaceutical industries.",Correct,104,114.16747307777403,18
+http://dbpedia.org/resource/Offenbach_am_Main,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Offenbach_am_Main,Correct,104,114.16747307777403,18
+http://dbpedia.org/resource/Body_fluid,http://www.w3.org/2000/01/rdf-schema#label,Body fluid,Correct,105,6.74821662902832,18
+http://dbpedia.org/resource/South_Leith_Parish_Church,http://xmlns.com/foaf/0.1/page,http://www.slpc.co.uk/html/aboutus_church.html,Correct,106,25.858312606811523,18
+http://dbpedia.org/resource/Taifa_of_Algeciras,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Algeciras,Correct,107,57.35503649711609,18
+http://dbpedia.org/resource/Taifa_of_Algeciras,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Province_of_Cádiz,Correct,107,57.35503649711609,18
+http://dbpedia.org/resource/Taifa_of_Algeciras,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Gold_dinar,Correct,107,57.35503649711609,18
+http://dbpedia.org/resource/Taifa_of_Algeciras,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Andalusia,Correct,107,57.35503649711609,18
+http://dbpedia.org/resource/Taifa_of_Algeciras,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Spain,Correct,107,57.35503649711609,18
+http://dbpedia.org/resource/Leipzig,http://dbpedia.org/property/janSun,62.8,Correct,108,77.56016874313354,18
+http://dbpedia.org/resource/Leipzig,http://dbpedia.org/property/imageCoa,Coat of arms of Leipzig.svg,Correct,108,77.56016874313354,18
+http://dbpedia.org/resource/Leipzig,http://dbpedia.org/property/aprRecordLowC,-6.5,Correct,108,77.56016874313354,18
+http://dbpedia.org/resource/Leipzig,http://dbpedia.org/property/latDeg,51,Correct,108,77.56016874313354,18
+http://dbpedia.org/resource/Lucian_Freud,http://dbpedia.org/property/dateOfDeath,2011-07-20,Correct,109,93.78173780441284,18
+http://dbpedia.org/resource/Lucian_Freud,http://dbpedia.org/ontology/abstract,"Lucian Michael Freud, OM, CH (/ˈluː.si.ən ˈfrɔɪd/; 8 December 1922 – 20 July 2011) was a German-born British painter. Known chiefly for his thickly impastoed portrait and figure paintings, he was widely considered the pre-eminent British artist of his time. His works are noted for their psychological penetration, and for their often discomforting examination of the relationship between artist and model.",Correct,109,93.78173780441284,18
+http://dbpedia.org/resource/Lucian_Freud,http://dbpedia.org/property/deathDate,2011-07-20,Correct,109,93.78173780441284,18
+http://dbpedia.org/resource/Lucian_Freud,http://dbpedia.org/property/birthName,Lucian Michael Freud,Correct,109,93.78173780441284,18
+http://dbpedia.org/resource/Lucian_Freud,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Jewish_painters,Correct,109,93.78173780441284,18
+http://dbpedia.org/resource/Agile_software_development,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Group,Incorrect,110,68.23045086860657,18
+http://dbpedia.org/resource/Agile_software_development,http://dbpedia.org/property/sign,Jim Highsmith,Correct,110,68.23045086860657,18
+http://dbpedia.org/resource/Agile_software_development,http://www.w3.org/2000/01/rdf-schema#label,Agile software development,Correct,110,68.23045086860657,18
+http://dbpedia.org/resource/Agile_software_development,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Agile_software_development,Correct,110,68.23045086860657,18
+http://dbpedia.org/resource/Agile_software_development,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Software_project_management,Correct,110,68.23045086860657,18
+http://dbpedia.org/resource/Province_of_Westphalia,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Münster_(region),Correct,111,8.698225259780884,18
+http://dbpedia.org/resource/Teresa_Ellen_Dease,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Irish_Roman_Catholic_religious_sisters_and_nuns,Correct,112,159.98244380950928,18
+http://dbpedia.org/resource/Teresa_Ellen_Dease,http://www.w3.org/2000/01/rdf-schema#comment,"Teresa Ellen Dease (4 May 1820 in Naas, Ireland – 1 July 1889 in Toronto, Canada) was a Roman Catholic nun and the foundress of the Loreto Sisters (Institute of the Blessed Virgin Mary in Canada and in North America. She arrived in Toronto, Canada in 1847 at the invitation of Bishop Michael Power.As superior, she oversaw the work of the sisters in both the publicly funded separate schools and private convent schools.",Correct,112,159.98244380950928,18
+http://dbpedia.org/resource/Teresa_Ellen_Dease,http://www.w3.org/2000/01/rdf-schema#label,Teresa Ellen Dease,Correct,112,159.98244380950928,18
+http://dbpedia.org/resource/Teresa_Ellen_Dease,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1889_deaths,Correct,112,159.98244380950928,18
+http://dbpedia.org/resource/Teresa_Ellen_Dease,http://dbpedia.org/ontology/nationality,http://dbpedia.org/resource/Irish_people,Correct,112,159.98244380950928,18
+http://dbpedia.org/resource/Friedrich_Hayek,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/George_Stigler,Correct,113,80.19965934753418,18
+http://dbpedia.org/resource/Friedrich_Hayek,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Karl_Popper,Correct,113,80.19965934753418,18
+http://dbpedia.org/resource/Friedrich_Hayek,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Austria-Hungary,Correct,113,80.19965934753418,18
+http://dbpedia.org/resource/Friedrich_Hayek,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/John_Hicks,Correct,113,80.19965934753418,18
+http://dbpedia.org/resource/Friedrich_Hayek,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Milton_Friedman,Correct,113,80.19965934753418,18
+http://dbpedia.org/resource/Unmanned_Aircraft_System_Simulation,http://dbpedia.org/ontology/abstract,"Unmanned aircraft system simulation focuses on training pilots (or operators) to control an unmanned aircraft or its payload from a control station.  Flight simulation involves a device that artificially re-creates aircraft flight and the environment in which it flies for pilot training, design, or other purposes. It includes replicating the equations that govern how aircraft fly, how they react to applications of flight controls, the effects of other aircraft systems, and how the aircraft reacts to external factors such as air density, turbulence, wind shear, cloud, precipitation, etc.Manned simulation is used for a variety of reasons, including flight training (mainly of pilots), the design and development of the aircraft itself, and research into aircraft characteristics and control handling qualities. Unlike manned simulation, unmanned aircraft system (UAS) simulation does not involve a pilot aboard the training device.",Correct,114,109.27934646606444,18
+http://dbpedia.org/resource/Unmanned_Aircraft_System_Simulation,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Unmanned_aerial_vehicles,Correct,114,109.27934646606444,18
+http://dbpedia.org/resource/Unmanned_Aircraft_System_Simulation,http://www.w3.org/2000/01/rdf-schema#comment,"Unmanned aircraft system simulation focuses on training pilots (or operators) to control an unmanned aircraft or its payload from a control station.  Flight simulation involves a device that artificially re-creates aircraft flight and the environment in which it flies for pilot training, design, or other purposes.",Correct,114,109.27934646606444,18
+http://dbpedia.org/resource/Unmanned_Aircraft_System_Simulation,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Modeling_and_simulation,Incorrect,114,109.27934646606444,18
+http://dbpedia.org/resource/Unmanned_Aircraft_System_Simulation,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Signals_intelligence,Correct,114,109.27934646606444,18
+http://dbpedia.org/resource/David_Barger,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/University_of_Michigan,Correct,115,6.521197319030762,18
+http://dbpedia.org/resource/Marion_Francis_Forst,http://dbpedia.org/ontology/birthDate,1910-09-03,Correct,116,255.0462155342102,18
+http://dbpedia.org/resource/Marion_Francis_Forst,http://dbpedia.org/property/deathPlace,"http://dbpedia.org/resource/Kansas_City,_Kansas",Incorrect,116,255.0462155342102,18
+http://dbpedia.org/resource/Marion_Francis_Forst,http://dbpedia.org/property/church,http://dbpedia.org/resource/Roman_Catholic_Church,Correct,116,255.0462155342102,18
+http://dbpedia.org/resource/Marion_Francis_Forst,http://dbpedia.org/property/placeOfBirth,"http://dbpedia.org/resource/St._Louis,_Missouri",Correct,116,255.0462155342102,18
+http://dbpedia.org/resource/Marion_Francis_Forst,http://dbpedia.org/property/after,http://dbpedia.org/resource/Eugene_John_Gerber,Correct,116,255.0462155342102,18
+http://dbpedia.org/resource/Kingdom_of_Saxony,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Dresden,Correct,117,32.26933526992798,18
+http://dbpedia.org/resource/Kingdom_of_Saxony,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Saxon_vereinsthaler,Correct,117,32.26933526992798,18
+http://dbpedia.org/resource/Kingdom_of_Saxony,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/German_Papiermark,Correct,117,32.26933526992798,18
+http://dbpedia.org/resource/Kingdom_of_Saxony,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/German_gold_mark,Correct,117,32.26933526992798,18
+http://dbpedia.org/resource/Kingdom_of_Saxony,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Saxon_thaler,Correct,117,32.26933526992798,18
+http://dbpedia.org/resource/Bishop_Grimes_Junior/Senior_High_School,http://dbpedia.org/property/type,http://dbpedia.org/resource/Coeducational,Correct,118,72.59060478210449,18
+http://dbpedia.org/resource/Bishop_Grimes_Junior/Senior_High_School,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Schools_in_Onondaga_County,_New_York",Correct,118,72.59060478210449,18
+http://dbpedia.org/resource/Bishop_Grimes_Junior/Senior_High_School,http://dbpedia.org/property/country,USA,Correct,118,72.59060478210449,18
+http://dbpedia.org/resource/Bishop_Grimes_Junior/Senior_High_School,http://dbpedia.org/property/type,http://dbpedia.org/resource/Mixed-sex_education,Incorrect,118,72.59060478210449,18
+http://dbpedia.org/resource/Bishop_Grimes_Junior/Senior_High_School,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Roman_Catholic_Diocese_of_Syracuse,Correct,118,72.59060478210449,18
+http://dbpedia.org/resource/Jan_Długosz,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Historian,Correct,119,91.51983046531676,18
+http://dbpedia.org/resource/Jan_Długosz,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Diplomat,Correct,119,91.51983046531676,18
+http://dbpedia.org/resource/Jan_Długosz,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Jan_Długosz__9,I Don't Know,119,91.51983046531676,18
+http://dbpedia.org/resource/Jan_Długosz,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Jan_Długosz__6,I Don't Know,119,91.51983046531676,18
+http://dbpedia.org/resource/Jan_Długosz,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Jan_Długosz__5,I Don't Know,119,91.51983046531676,18
+http://dbpedia.org/resource/Jessen_(Elster),http://www.w3.org/2000/01/rdf-schema#label,Jessen (Elster),Correct,120,4.917284250259399,18
+http://dbpedia.org/resource/Ontario_College_of_Teachers,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Professional_titles_and_certifications,Incorrect,121,169.18586087226868,18
+http://dbpedia.org/resource/Ontario_College_of_Teachers,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Professional_associations_based_in_Canada,Incorrect,121,169.18586087226868,18
+http://dbpedia.org/resource/Ontario_College_of_Teachers,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/OCTbuildingOEEOedifice.JPG?width=300,Correct,121,169.18586087226868,18
+http://dbpedia.org/resource/Ontario_College_of_Teachers,http://www.w3.org/2000/01/rdf-schema#comment,"The Ontario College of Teachers is the regulatory body for the teaching profession in Ontario and is the largest self-regulatory body in Canada. It was established in 1997. The college's mandate is to license, govern and regulate the practice of teaching. It is also responsible for developing standards of teaching practice, regulating on-going teacher certification and professional development, and accrediting teacher education programs.",Correct,121,169.18586087226868,18
+http://dbpedia.org/resource/Ontario_College_of_Teachers,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/OCTbuildingOEEOedifice.JPG,Correct,121,169.18586087226868,18
+http://dbpedia.org/resource/Mid-City_Community_Advocacy_Network_(Mid-City_CAN),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Civic_and_political_organizations_of_the_United_States,Correct,122,44.89963269233704,18
+http://dbpedia.org/resource/Mid-City_Community_Advocacy_Network_(Mid-City_CAN),http://dbpedia.org/ontology/location,http://dbpedia.org/resource/United_States,Correct,122,44.89963269233704,18
+http://dbpedia.org/resource/Mid-City_Community_Advocacy_Network_(Mid-City_CAN),http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Community,Correct,122,44.89963269233704,18
+http://dbpedia.org/resource/Mid-City_Community_Advocacy_Network_(Mid-City_CAN),http://www.w3.org/2000/01/rdf-schema#comment,"Mid-City CAN is a community collaborative of over 150 agencies, community residents, parents, youth, businesses, schools, and religious institutions serving the San Diego, California neighborhoods of City Heights, Normal Heights, Oak Park, Darnall, Rolando, College Area, Kensington and Talmadge.",Correct,122,44.89963269233704,18
+http://dbpedia.org/resource/Mid-City_Community_Advocacy_Network_(Mid-City_CAN),http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Mid-City_Community_Advocacy_Network_(Mid-City_CAN),Correct,122,44.89963269233704,18
+http://dbpedia.org/resource/Nathan_Phelps,http://xmlns.com/foaf/0.1/name,"Phelps, Nathan",Correct,123,147.79518103599548,18
+http://dbpedia.org/resource/Nathan_Phelps,http://dbpedia.org/ontology/abstract,"Nathan ""Nate"" Phelps (born November 22, 1958) is an American-Canadian author, LGBT rights activist, and public speaker on the topics of religion and child abuse. He is the sixth of the thirteen children of Fred Phelps, from whom he – along with three of his siblings – had been estranged since his eighteenth birthday in 1976 until his father's death in 2014. Phelps permanently left Westboro Baptist Church in 1980 and has since publicly censured the group.Other members of the Phelps family have also left, most recently Zach Phelps-Roper in February 2014.",Correct,123,147.79518103599548,18
+http://dbpedia.org/resource/Nathan_Phelps,http://xmlns.com/foaf/0.1/name,Nathan Phelps,Correct,123,147.79518103599548,18
+http://dbpedia.org/resource/Nathan_Phelps,http://dbpedia.org/property/residence,http://dbpedia.org/resource/Calgary,Correct,123,147.79518103599548,18
+http://dbpedia.org/resource/Nathan_Phelps,http://dbpedia.org/ontology/ethnicity,http://dbpedia.org/resource/Americans,Correct,123,147.79518103599548,18
+http://dbpedia.org/resource/Carlisle_Cathedral,http://dbpedia.org/property/denomination,http://dbpedia.org/resource/Church_of_England,Correct,124,626.4271998405457,28
+http://dbpedia.org/resource/Carlisle_Cathedral,http://dbpedia.org/property/fullname,Cathedral Church of the Holy and Undivided Trinity,Correct,124,626.4271998405457,28
+http://dbpedia.org/resource/Carlisle_Cathedral,http://dbpedia.org/property/lats,41,Incorrect,124,626.4271998405457,28
+http://dbpedia.org/resource/Carlisle_Cathedral,http://dbpedia.org/property/name,Carlisle Cathedral,Correct,124,626.4271998405457,28
+http://dbpedia.org/resource/Carlisle_Cathedral,http://dbpedia.org/property/width,300,Incorrect,124,626.4271998405457,28
+http://dbpedia.org/resource/Jarallah_Alaluwayt,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Saudi_Arabia,Correct,125,33.84753656387329,28
+"http://dbpedia.org/resource/McAuley_Catholic_High_School_(Joplin,_Missouri)",http://dbpedia.org/property/newspaper,McAuley Times,Correct,126,666.6612794399261,28
+"http://dbpedia.org/resource/McAuley_Catholic_High_School_(Joplin,_Missouri)",http://dbpedia.org/property/type,http://dbpedia.org/resource/Private_school,Correct,126,666.6612794399261,28
+"http://dbpedia.org/resource/McAuley_Catholic_High_School_(Joplin,_Missouri)",http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Buildings_and_structures_in_Joplin,_Missouri",Correct,126,666.6612794399261,28
+"http://dbpedia.org/resource/McAuley_Catholic_High_School_(Joplin,_Missouri)",http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Education_in_Joplin,_Missouri",Correct,126,666.6612794399261,28
+"http://dbpedia.org/resource/McAuley_Catholic_High_School_(Joplin,_Missouri)",http://xmlns.com/foaf/0.1/homepage,http://www.jacss.org/mcauley_default.html,Incorrect,126,666.6612794399261,28
+http://dbpedia.org/resource/Revala,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Tallinn,Correct,127,5.604960918426514,28
+http://dbpedia.org/resource/Single_(music),http://www.w3.org/2000/01/rdf-schema#label,Single (music),Correct,128,4.881355047225952,28
+http://dbpedia.org/resource/Team_and_Concepts,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Company,Correct,129,52.46137523651123,28
+http://dbpedia.org/resource/Team_and_Concepts,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Companies_established_in_2003,Correct,129,52.46137523651123,28
+http://dbpedia.org/resource/Team_and_Concepts,http://dbpedia.org/property/type,http://dbpedia.org/resource/Private_company,Correct,129,52.46137523651123,28
+http://dbpedia.org/resource/Team_and_Concepts,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Team_and_Concepts,Correct,129,52.46137523651123,28
+http://dbpedia.org/resource/Team_and_Concepts,http://dbpedia.org/ontology/foundingYear,2003,Correct,129,52.46137523651123,28
+http://dbpedia.org/resource/Savyon_Liebrecht,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1948_births,I Don't Know,130,114.69563674926758,28
+http://dbpedia.org/resource/Savyon_Liebrecht,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Women_short_story_writers,Correct,130,114.69563674926758,28
+http://dbpedia.org/resource/Savyon_Liebrecht,http://dbpedia.org/ontology/birthYear,1948,Correct,130,114.69563674926758,28
+http://dbpedia.org/resource/Savyon_Liebrecht,http://dbpedia.org/property/shortDescription,Israeli writer,Correct,130,114.69563674926758,28
+http://dbpedia.org/resource/Savyon_Liebrecht,http://dbpedia.org/property/dateOfBirth,1948,Correct,130,114.69563674926758,28
+http://dbpedia.org/resource/You_Have_to_Run_Fast,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_films,I Don't Know,131,100.40835046768188,28
+http://dbpedia.org/resource/You_Have_to_Run_Fast,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,131,100.40835046768188,28
+http://dbpedia.org/resource/The_Love_Bug_(1925_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Black-and-white_films,Correct,132,83.95881199836731,28
+http://dbpedia.org/resource/The_Love_Bug_(1925_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_comedy_films,Correct,132,83.95881199836731,28
+http://dbpedia.org/resource/The_Love_Bug_(1925_film),http://dbpedia.org/ontology/writer,http://dbpedia.org/resource/Hal_Roach,Correct,132,83.95881199836731,28
+http://dbpedia.org/resource/The_Love_Bug_(1925_film),http://dbpedia.org/ontology/producer,http://dbpedia.org/resource/Hal_Roach,Correct,132,83.95881199836731,28
+http://dbpedia.org/resource/The_Love_Bug_(1925_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,132,83.95881199836731,28
+http://dbpedia.org/resource/Jaco_Pastorius,http://www.w3.org/2000/01/rdf-schema#label,Jaco Pastorius,Correct,133,9.245149612426758,28
+http://dbpedia.org/resource/ALGOL_58,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Fortran,Correct,134,86.73505973815918,28
+http://dbpedia.org/resource/ALGOL_58,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/ALGOL,Correct,134,86.73505973815918,28
+http://dbpedia.org/resource/ALGOL_58,http://dbpedia.org/property/name,ALGOL 58,Correct,134,86.73505973815918,28
+http://dbpedia.org/resource/ALGOL_58,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Plankalkül,Correct,134,86.73505973815918,28
+http://dbpedia.org/resource/Rudyard_Kipling,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/John_W._Campbell,I Don't Know,135,47.50856876373291,28
+http://dbpedia.org/resource/Rudyard_Kipling,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Mumbai,Incorrect,135,47.50856876373291,28
+http://dbpedia.org/resource/Rudyard_Kipling,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/British_Raj,Correct,135,47.50856876373291,28
+http://dbpedia.org/resource/Rudyard_Kipling,http://www.w3.org/2000/01/rdf-schema#label,Rudyard Kipling,Correct,135,47.50856876373291,28
+http://dbpedia.org/resource/Rudyard_Kipling,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Bombay_Presidency,Correct,135,47.50856876373291,28
+http://dbpedia.org/resource/A._B._Masilamani,http://xmlns.com/foaf/0.1/depiction,http://en.wikipedia.org/wiki/Special:FilePath/AB_Masilamani.png,Incorrect,136,82.44309449195862,28
+http://dbpedia.org/resource/A._B._Masilamani,http://www.w3.org/2000/01/rdf-schema#label,A. B. Masilamani,Correct,136,82.44309449195862,28
+http://dbpedia.org/resource/A._B._Masilamani,http://www.w3.org/2000/01/rdf-schema#comment,"Acharya A. B. Masilamani or Abel Boanerges Masilamani (1914-1990) (Telugu: ఎబెల్ బోనెర్గెస్ మాసిలామణి) was a Baptist Pastor and Evangelist ordained by the Convention of Baptist Churches of Northern Circars and Spiritual Formator from 1956-1959 at the Baptist Theological Seminary, a Major Seminary in Kakinada.",Correct,136,82.44309449195862,28
+http://dbpedia.org/resource/A._B._Masilamani,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/A._B._Masilamani,Correct,136,82.44309449195862,28
+http://dbpedia.org/resource/A._B._Masilamani,http://dbpedia.org/ontology/deathDate,1990-04-05,Correct,136,82.44309449195862,28
+http://dbpedia.org/resource/Gramophone_record,http://www.w3.org/2000/01/rdf-schema#label,Gramophone record,Correct,137,4.069804906845093,28
+http://dbpedia.org/resource/Direct_Line,http://dbpedia.org/ontology/locationCountry,http://dbpedia.org/resource/United_Kingdom,Correct,138,86.82084965705872,28
+http://dbpedia.org/resource/Direct_Line,http://dbpedia.org/ontology/locationCity,http://dbpedia.org/resource/Leeds,Incorrect,138,86.82084965705872,28
+http://dbpedia.org/resource/Arthur_Anderson_(architect),http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Hobart,Correct,139,19.25143003463745,28
+http://dbpedia.org/resource/John_Vesey_(archbishop_of_Tuam),http://dbpedia.org/property/after,"http://dbpedia.org/resource/Charles_Talbot,_1st_Duke_of_Shrewsbury",Correct,140,270.1650471687317,28
+http://dbpedia.org/resource/John_Vesey_(archbishop_of_Tuam),http://dbpedia.org/property/with,"the Archbishop of Armagh and Sir Constantine Phipps, temp. Queen Anne",Correct,140,270.1650471687317,28
+http://dbpedia.org/resource/John_Vesey_(archbishop_of_Tuam),http://dbpedia.org/property/title,http://dbpedia.org/resource/Dean_of_Cork,Correct,140,270.1650471687317,28
+http://dbpedia.org/resource/John_Vesey_(archbishop_of_Tuam),http://dbpedia.org/property/after,as Lord Lieutenant,Correct,140,270.1650471687317,28
+http://dbpedia.org/resource/John_Vesey_(archbishop_of_Tuam),http://dbpedia.org/property/years,1667,I Don't Know,140,270.1650471687317,28
+http://dbpedia.org/resource/Ari_Up,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Vocalist,Correct,141,60.85563373565674,28
+http://dbpedia.org/resource/Ari_Up,http://dbpedia.org/property/website,http://www.ariup.com/,Incorrect,141,60.85563373565674,28
+http://dbpedia.org/resource/Ari_Up,http://dbpedia.org/property/alternativeNames,"Forster, Ariane Daniele",Correct,141,60.85563373565674,28
+http://dbpedia.org/resource/Ari_Up,http://dbpedia.org/ontology/birthDate,1962-01-17,Correct,141,60.85563373565674,28
+http://dbpedia.org/resource/Ari_Up,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Techno,Correct,141,60.85563373565674,28
+http://dbpedia.org/resource/GCstar,http://dbpedia.org/ontology/license,http://dbpedia.org/resource/GNU_General_Public_License,Correct,142,93.0584590435028,28
+http://dbpedia.org/resource/AJ_Michalka,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:21st-century_American_singers,Correct,143,100.66198658943176,28
+http://dbpedia.org/resource/AJ_Michalka,http://dbpedia.org/property/alternativeNames,"Michalka, AJ",Correct,143,100.66198658943176,28
+http://dbpedia.org/resource/AJ_Michalka,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1991_births,Correct,143,100.66198658943176,28
+http://dbpedia.org/resource/AJ_Michalka,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Actors_from_Torrance,_California",Correct,143,100.66198658943176,28
+http://dbpedia.org/resource/AJ_Michalka,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:78violet,Correct,143,100.66198658943176,28
+http://dbpedia.org/resource/Children's_Hospital_for_Wales,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Hospital,Correct,144,308.1905698776245,28
+http://dbpedia.org/resource/Children's_Hospital_for_Wales,http://dbpedia.org/property/speciality,http://dbpedia.org/resource/Pediatrics,Correct,144,308.1905698776245,28
+http://dbpedia.org/resource/Children's_Hospital_for_Wales,http://dbpedia.org/property/region,http://dbpedia.org/resource/Cardiff,Correct,144,308.1905698776245,28
+http://dbpedia.org/resource/Children's_Hospital_for_Wales,http://www.w3.org/2003/01/geo/wgs84_pos#lat,51.485,I Don't Know,144,308.1905698776245,28
+http://dbpedia.org/resource/Children's_Hospital_for_Wales,http://dbpedia.org/ontology/region,http://dbpedia.org/resource/Wales,Correct,144,308.1905698776245,28
+http://dbpedia.org/resource/Longobardia,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Bari,Correct,145,191.0892870426178,28
+http://dbpedia.org/resource/Department_of_Health_(Philippines),http://www.w3.org/2000/01/rdf-schema#label,Department of Health (Philippines),Correct,146,44.05855631828308,28
+http://dbpedia.org/resource/Department_of_Health_(Philippines),http://dbpedia.org/ontology/headquarter,"http://dbpedia.org/resource/Santa_Cruz,_Manila",Correct,146,44.05855631828308,28
+http://dbpedia.org/resource/Department_of_Health_(Philippines),http://dbpedia.org/ontology/headquarter,http://dbpedia.org/resource/Manila,Correct,146,44.05855631828308,28
+http://dbpedia.org/resource/Department_of_Health_(Philippines),http://dbpedia.org/property/nativename,Kagawaran ng Kalusugan,Correct,146,44.05855631828308,28
+http://dbpedia.org/resource/Fourth_Army_(Ottoman_Empire),http://dbpedia.org/ontology/garrison,http://dbpedia.org/resource/Baghdad,Correct,147,31.180318117141724,28
+http://dbpedia.org/resource/Fourth_Army_(Ottoman_Empire),http://dbpedia.org/ontology/notableCommander,http://dbpedia.org/resource/Djemal_Pasha,Correct,147,31.180318117141724,28
+http://dbpedia.org/resource/Fourth_Army_(Ottoman_Empire),http://dbpedia.org/ontology/notableCommander,http://dbpedia.org/resource/Zeki_Pasha,Correct,147,31.180318117141724,28
+http://dbpedia.org/resource/Fourth_Army_(Ottoman_Empire),http://dbpedia.org/ontology/notableCommander,http://dbpedia.org/resource/Cemal_Mersinli,Correct,147,31.180318117141724,28
+http://dbpedia.org/resource/Fourth_Army_(Ottoman_Empire),http://dbpedia.org/ontology/patron,http://dbpedia.org/resource/List_of_sultans_of_the_Ottoman_Empire,Correct,147,31.180318117141724,28
+http://dbpedia.org/resource/Meggitt,http://dbpedia.org/property/location,http://dbpedia.org/resource/Dorset,Incorrect,148,88.01329207420349,28
+http://dbpedia.org/resource/Meggitt,http://dbpedia.org/property/industry,http://dbpedia.org/resource/Aerospace,Correct,148,88.01329207420349,28
+http://dbpedia.org/resource/Meggitt,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Dorset,Incorrect,148,88.01329207420349,28
+http://dbpedia.org/resource/Meggitt,http://dbpedia.org/ontology/industry,http://dbpedia.org/resource/Aerospace,Correct,148,88.01329207420349,28
+http://dbpedia.org/resource/USA_Living,http://dbpedia.org/property/locationCity,"http://dbpedia.org/resource/Norfolk,_Virginia",Correct,149,9.2757830619812,28
+http://dbpedia.org/resource/USA_Living,http://dbpedia.org/ontology/regionServed,http://dbpedia.org/resource/United_States,Correct,149,9.2757830619812,28
+http://dbpedia.org/resource/Maurice_Barrès,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/François_Mauriac,Correct,150,519.503231048584,28
+http://dbpedia.org/resource/Maurice_Barrès,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Léon_Daudet,Incorrect,150,519.503231048584,28
+http://dbpedia.org/resource/Maurice_Barrès,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Jacques_Maritain,Incorrect,150,519.503231048584,28
+http://dbpedia.org/resource/Maurice_Barrès,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Georges_Bernanos,Correct,150,519.503231048584,28
+http://dbpedia.org/resource/Dufftown,http://dbpedia.org/ontology/lieutenancyArea,http://dbpedia.org/resource/Banffshire,Correct,151,15.261237621307371,28
+http://dbpedia.org/resource/Dufftown,http://dbpedia.org/ontology/councilArea,http://dbpedia.org/resource/Moray,Correct,151,15.261237621307371,28
+http://dbpedia.org/resource/Robin_Leamy_(bishop),http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Wellington,Correct,152,227.07255840301517,28
+http://dbpedia.org/resource/Smart_Personal_Objects_Technology,http://dbpedia.org/ontology/abstract,"The Smart Personal Objects Technology (SPOT) is a discontinued initiative by Microsoft to create intelligent and personal home appliances, consumer electronics, and other objects through new hardware capabilities and software features.Development of SPOT began as an incubation project initiated by the Microsoft Research division. SPOT was first announced by Bill Gates at the COMDEX computer exposition event in 2002, and additional details were revealed by Microsoft at the 2003 Consumer Electronics Show where Gates demonstrated a set of prototype smart watches—the first type of device that would support the technology.  Unlike more recent technologies, SPOT did not use more traditional forms of connectivity, such as 3G or Wi-Fi, but relied on FM broadcasting subcarrier transmission as a method of data distribution. While several other electronics would be created that supported the technology throughout its lifecyle, SPOT was considered a commercial failure. Reasons that have been cited for its failure include its subscription-based business model, support limited to North America, the emergence of more efficient and popular forms of data distribution, and mobile feature availability that surpasses the features that SPOT offered.",Correct,153,47.71928715705872,28
+http://dbpedia.org/resource/Smart_Personal_Objects_Technology,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Smartphones,Correct,153,47.71928715705872,28
+http://dbpedia.org/resource/Smart_Personal_Objects_Technology,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Microsoft_initiatives,Correct,153,47.71928715705872,28
+http://dbpedia.org/resource/Smart_Personal_Objects_Technology,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2002_introductions,Correct,153,47.71928715705872,28
+http://dbpedia.org/resource/Smart_Personal_Objects_Technology,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/Melitta_ME1MSB_Smart_Mill_and_Brew_with_SPOT.jpeg,Correct,153,47.71928715705872,28
+"http://dbpedia.org/resource/St_Mary's_Church,_Knowsley",http://xmlns.com/foaf/0.1/page,http://www.knowsleychurch.co.uk/,Correct,154,16.353418588638306,28
+http://dbpedia.org/resource/Jamal_Jones,http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Washington,_D.C.",Correct,155,22.917601108551025,28
+http://dbpedia.org/resource/Jamal_Jones,http://dbpedia.org/ontology/formerTeam,http://dbpedia.org/resource/Philadelphia_Eagles,Correct,155,22.917601108551025,28
+http://dbpedia.org/resource/Battle_of_Pancorbo_(1808),http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Battle_of_Pancorbo_(1808),Incorrect,156,220.25012755393985,28
+http://dbpedia.org/resource/Battle_of_Pancorbo_(1808),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Conflicts_in_1808,Correct,156,220.25012755393985,28
+http://dbpedia.org/resource/Battle_of_Pancorbo_(1808),http://dbpedia.org/ontology/place,"http://dbpedia.org/resource/Durango,_Biscay",Incorrect,156,220.25012755393985,28
+http://dbpedia.org/resource/Battle_of_Pancorbo_(1808),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Battles_involving_Spain,Correct,156,220.25012755393985,28
+http://dbpedia.org/resource/Battle_of_Pancorbo_(1808),http://dbpedia.org/ontology/combatant,Spain,Incorrect,156,220.25012755393985,28
+http://dbpedia.org/resource/Scottish_Fuels,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Scottish_Fuels,Correct,157,72.82606410980225,28
+http://dbpedia.org/resource/Scottish_Fuels,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Oil_and_gas_companies_of_Scotland,Correct,157,72.82606410980225,28
+http://dbpedia.org/resource/Scottish_Fuels,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2001_establishments_in_Scotland,Correct,157,72.82606410980225,28
+http://dbpedia.org/resource/Scottish_Fuels,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Companies_established_in_2001,Correct,157,72.82606410980225,28
+http://dbpedia.org/resource/Scottish_Fuels,http://www.w3.org/2000/01/rdf-schema#comment,"Scottish Fuels is a distributor of fuel oil products and petrol within Scotland.  It was formed in 2001 following the transfer of local assets from BP. Scottish Fuels is based in Falkirk and is owned by DCC Plc, an Irish company.",Correct,157,72.82606410980225,28
+http://dbpedia.org/resource/Jennifer_Berry,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Houston,Correct,158,4.852908372879028,28
+http://dbpedia.org/resource/Ginny_Owens,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,159,61.13463521003723,28
+"http://dbpedia.org/resource/St_Peter's_Church,_Wintringham",http://xmlns.com/foaf/0.1/page,http://www.visitchurches.org.uk/Ourchurches/Completelistofchurches/St-Peters-Church-Wintringham-North-Yorkshire/,Correct,160,3.577845335006714,28
+http://dbpedia.org/resource/Dajabón_Province,http://www.w3.org/2000/01/rdf-schema#label,Dajabón Province,Correct,161,3.4183671474456787,28
+http://dbpedia.org/resource/Hulk_Hogan,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_male_film_actors,I Don't Know,162,168.696457862854,28
+http://dbpedia.org/resource/Hulk_Hogan,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:20th-century_Christians,Incorrect,162,168.696457862854,28
+http://dbpedia.org/resource/Hulk_Hogan,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:21st-century_Christians,Incorrect,162,168.696457862854,28
+http://dbpedia.org/resource/Hulk_Hogan,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_male_voice_actors,Correct,162,168.696457862854,28
+http://dbpedia.org/resource/Hulk_Hogan,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Singers_from_Florida,Correct,162,168.696457862854,28
+http://dbpedia.org/resource/Taskwarrior,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/C++,Correct,163,6.371142387390137,28
+http://dbpedia.org/resource/The_City_Life_Church,http://xmlns.com/foaf/0.1/page,http://www.thecitylifechurch.com,Correct,164,33.88110613822937,28
+http://dbpedia.org/resource/Pressmart,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Hyderabad,Correct,165,9.211699485778809,28
+http://dbpedia.org/resource/Pressmart,http://dbpedia.org/property/location,http://dbpedia.org/resource/Hyderabad,Correct,165,9.211699485778809,28
+http://dbpedia.org/resource/Al_Murray,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Musical_theatre,Incorrect,166,268.78279995918274,28
+http://dbpedia.org/resource/Al_Murray,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Observational_comedy,I Don't Know,166,268.78279995918274,28
+http://dbpedia.org/resource/Al_Murray,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Parody,Correct,166,268.78279995918274,28
+http://dbpedia.org/resource/Al_Murray,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Political_satire,Correct,166,268.78279995918274,28
+http://dbpedia.org/resource/Al_Murray,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Ribaldry,Incorrect,166,268.78279995918274,28
+http://dbpedia.org/resource/8th_Fighter_Wing,http://dbpedia.org/ontology/garrison,http://dbpedia.org/resource/South_Korea,Correct,167,13.70568323135376,28
+http://dbpedia.org/resource/Mechel_Scheuer,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Frankfurt_am_Main,Correct,168,25.236828088760376,28
+http://dbpedia.org/resource/Mechel_Scheuer,http://dbpedia.org/property/placeOfBirth,http://dbpedia.org/resource/Frankfurt_am_Main,Correct,168,25.236828088760376,28
+http://dbpedia.org/resource/American_Vacuum_Society,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Nonprofit_organization,Correct,169,67.23303008079529,28
+http://dbpedia.org/resource/American_Vacuum_Society,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Academic_organizations_based_in_the_United_States,Correct,169,67.23303008079529,28
+http://dbpedia.org/resource/American_Vacuum_Society,http://dbpedia.org/ontology/formationYear,1953,Correct,169,67.23303008079529,28
+http://dbpedia.org/resource/American_Vacuum_Society,http://dbpedia.org/ontology/language,http://dbpedia.org/resource/English_language,Correct,169,67.23303008079529,28
+http://dbpedia.org/resource/American_Vacuum_Society,http://dbpedia.org/ontology/abstract,"AVS: Science and Technology of Materials, Interfaces, and Processing (formerly American Vacuum Society) is a not-for-profit learned society founded in 1953. AVS is a member society of the American Institute of Physics. AVS has approximately 5000 members worldwide from academia, governmental laboratories and industry. AVS publishes through the American Institute of Physics the Journal of Vacuum Science and Technology (JVST A and B), Biointerphases, which are devoted to peer-reviewed articles, and Surface Science Spectra (SSS), which publishes peer-reviewed articles with reference spectra of technological and scientific interest. AVS has 10 technical divisions, 2 technical groups, 16 regional chapters, two international chapters and one international affiliate:Advanced Surface Engineering DivisionApplied Surface Science DivisionBiomaterial Interfaces DivisionElectronic Materials and Processing DivisionMagnetic Interfaces and Nanostructures DivisionNanometer-Scale Science and Technology DivisionPlasma Science and Technology DivisionSurface Science DivisionThin Film DivisionVacuum Technology DivisionAVS Technical Groups DivisionManufacturing Science & Technology Technical Group (MSTG)MEMS and NEMS Technical Group↑ ↑ ↑ 3.0 3.1 ↑",Correct,169,67.23303008079529,28
+http://dbpedia.org/resource/G._E._Moore,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Ludwig_Wittgenstein,Correct,170,45.637587785720825,28
+http://dbpedia.org/resource/G._E._Moore,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Gottlob_Frege,Correct,170,45.637587785720825,28
+http://dbpedia.org/resource/G._E._Moore,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Bertrand_Russell,Correct,170,45.637587785720825,28
+http://dbpedia.org/resource/G._E._Moore,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/J._L._Austin,Incorrect,170,45.637587785720825,28
+http://dbpedia.org/resource/G._E._Moore,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/John_Maynard_Keynes,Correct,170,45.637587785720825,28
+"http://dbpedia.org/resource/United_States_presidential_election,_2008",http://dbpedia.org/property/name,http://dbpedia.org/resource/John_McCain,Correct,171,83.10179781913757,28
+"http://dbpedia.org/resource/United_States_presidential_election,_2008",http://dbpedia.org/property/name,http://dbpedia.org/resource/Bob_Barr,Correct,171,83.10179781913757,28
+"http://dbpedia.org/resource/United_States_presidential_election,_2008",http://dbpedia.org/property/name,http://dbpedia.org/resource/Ralph_Nader,Correct,171,83.10179781913757,28
+"http://dbpedia.org/resource/United_States_presidential_election,_2008",http://dbpedia.org/property/name,http://dbpedia.org/resource/Cynthia_McKinney,Correct,171,83.10179781913757,28
+"http://dbpedia.org/resource/United_States_presidential_election,_2008",http://dbpedia.org/property/name,http://dbpedia.org/resource/Chuck_Baldwin,Correct,171,83.10179781913757,28
+http://dbpedia.org/resource/Apache_Mesos,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/C++,Correct,172,3.8104827404022217,28
+http://dbpedia.org/resource/Steve_Lavin,http://dbpedia.org/property/birthPlace,"http://dbpedia.org/resource/San_Francisco,_California",Correct,173,85.75269174575806,28
+http://dbpedia.org/resource/Steve_Lavin,http://dbpedia.org/property/overall,21,Correct,173,85.75269174575806,28
+http://dbpedia.org/resource/Steve_Lavin,http://dbpedia.org/property/dateOfBirth,1964-09-04,Correct,173,85.75269174575806,28
+http://dbpedia.org/resource/Steve_Lavin,http://dbpedia.org/property/endyear,2015,Correct,173,85.75269174575806,28
+http://dbpedia.org/resource/Steve_Lavin,http://dbpedia.org/property/confstanding,1.0,Correct,173,85.75269174575806,28
+http://dbpedia.org/resource/Emmanuel_Le_Roy_Ladurie,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Lycée_Henri-IV_alumni,Correct,174,645.031742811203,28
+http://dbpedia.org/resource/Emmanuel_Le_Roy_Ladurie,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Emmanuel_Le_Roy_Ladurie,Correct,174,645.031742811203,28
+http://dbpedia.org/resource/Emmanuel_Le_Roy_Ladurie,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/Emmanuel_Le_Roy_Ladurie_par_Claude_Truong-Ngoc_octobre_2014.jpg,Correct,174,645.031742811203,28
+http://dbpedia.org/resource/Emmanuel_Le_Roy_Ladurie,http://xmlns.com/foaf/0.1/surname,Le Roy Ladurie,Correct,174,645.031742811203,28
+http://dbpedia.org/resource/Emmanuel_Le_Roy_Ladurie,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Emmanuel_Le_Roy_Ladurie_par_Claude_Truong-Ngoc_octobre_2014.jpg?width=300,Correct,174,645.031742811203,28
+"http://dbpedia.org/resource/Vere_Ponsonby,_9th_Earl_of_Bessborough",http://dbpedia.org/ontology/monarch,http://dbpedia.org/resource/George_V,Correct,175,19.26514768600464,28
+http://dbpedia.org/resource/Maronite_Church,http://dbpedia.org/property/founder,http://dbpedia.org/resource/John_Maron,Correct,176,171.57652854919434,28
+http://dbpedia.org/resource/Maronite_Church,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Eastern_Catholicism,Correct,176,171.57652854919434,28
+http://dbpedia.org/resource/Maronite_Church,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Christianity_in_Lebanon,Correct,176,171.57652854919434,28
+http://dbpedia.org/resource/Maronite_Church,http://dbpedia.org/property/territory,http://dbpedia.org/resource/Israel,Incorrect,176,171.57652854919434,28
+http://dbpedia.org/resource/Maronite_Church,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Lebanese_society,Correct,176,171.57652854919434,28
+http://dbpedia.org/resource/MediaCoder,http://xmlns.com/foaf/0.1/name,MediaCoder,Correct,177,14.788137912750244,28
+http://dbpedia.org/resource/MediaCoder,http://dbpedia.org/property/latestPreviewVersion,0.8,Correct,177,14.788137912750244,28
+http://dbpedia.org/resource/MediaCoder,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Program,Correct,177,14.788137912750244,28
+http://dbpedia.org/resource/MediaCoder,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Video_conversion_software,Correct,177,14.788137912750244,28
+http://dbpedia.org/resource/MediaCoder,http://dbpedia.org/property/name,MediaCoder,Correct,177,14.788137912750244,28
+http://dbpedia.org/resource/La_Lupe,http://dbpedia.org/property/associatedActs,http://dbpedia.org/resource/Celia_Cruz,Correct,178,52.29887366294861,28
+http://dbpedia.org/resource/La_Lupe,http://dbpedia.org/ontology/associatedMusicalArtist,http://dbpedia.org/resource/Tito_Puente,Correct,178,52.29887366294861,28
+http://dbpedia.org/resource/La_Lupe,http://dbpedia.org/property/origin,http://dbpedia.org/resource/Cuba,Correct,178,52.29887366294861,28
+http://dbpedia.org/resource/La_Lupe,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Bolero,Correct,178,52.29887366294861,28
+http://dbpedia.org/resource/La_Lupe,http://dbpedia.org/property/deathPlace,http://dbpedia.org/resource/U.S.,Correct,178,52.29887366294861,28
+http://dbpedia.org/resource/Winnie_Madikizela-Mandela,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Union_of_South_Africa,Correct,179,7.076626777648926,28
+http://dbpedia.org/resource/Society_of_Jesus,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Rome,Correct,180,157.38727569580078,28
+http://dbpedia.org/resource/Society_of_Jesus,http://dbpedia.org/ontology/mainOrgan,http://dbpedia.org/resource/Curia,Incorrect,180,157.38727569580078,28
+http://dbpedia.org/resource/Society_of_Jesus,http://www.w3.org/2000/01/rdf-schema#label,Society of Jesus,Correct,180,157.38727569580078,28
+http://dbpedia.org/resource/Sri_Lanka,http://dbpedia.org/property/gdpNominalPerCapita,3818.0,Incorrect,181,589.3803999423981,28
+http://dbpedia.org/resource/Sri_Lanka,http://dbpedia.org/property/populationDensityRank,40,I Don't Know,181,589.3803999423981,28
+http://dbpedia.org/resource/Sri_Lanka,http://dbpedia.org/property/latd,6,Correct,181,589.3803999423981,28
+http://dbpedia.org/resource/Sri_Lanka,http://dbpedia.org/property/callingCode,http://dbpedia.org/resource/Telephone_numbers_in_Sri_Lanka,Correct,181,589.3803999423981,28
+http://dbpedia.org/resource/Sri_Lanka,http://dbpedia.org/property/sovereigntyType,http://dbpedia.org/resource/History_of_Sri_Lanka,Correct,181,589.3803999423981,28
+http://dbpedia.org/resource/BleachBit,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/Python_(programming_language),Correct,182,4.829081773757935,28
+"http://dbpedia.org/resource/St_Joseph's_Church,_Brighton",http://xmlns.com/foaf/0.1/page,http://www.stjosephsbrighton.co.uk/,Correct,183,3.9958860874176025,28
+http://dbpedia.org/resource/MySQL_Workbench,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/C++,Correct,184,16.1391499042511,28
+http://dbpedia.org/resource/MySQL_Workbench,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/C_Sharp_(programming_language),Correct,184,16.1391499042511,28
+http://dbpedia.org/resource/MySQL_Workbench,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/Objective-C,Correct,184,16.1391499042511,28
+http://dbpedia.org/resource/Pope_Alexander_II,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Rome,Correct,185,8.830622911453247,28
+http://dbpedia.org/resource/Leonard_Susskind,http://dbpedia.org/ontology/field,http://dbpedia.org/resource/Physics,Correct,186,28.72706913948059,28
+http://dbpedia.org/resource/Leonard_Susskind,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/New_York,Correct,186,28.72706913948059,28
+http://dbpedia.org/resource/Leonard_Susskind,http://dbpedia.org/ontology/citizenship,http://dbpedia.org/resource/United_States,Correct,186,28.72706913948059,28
+http://dbpedia.org/resource/Leonard_Susskind,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/New_York_City,Correct,186,28.72706913948059,28
+http://dbpedia.org/resource/Leonard_Susskind,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/United_States,Correct,186,28.72706913948059,28
+http://dbpedia.org/resource/E._M._S._Namboodiripad,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Perintalmanna,Correct,187,44.09588408470154,28
+http://dbpedia.org/resource/E._M._S._Namboodiripad,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Madras_Presidency,Correct,187,44.09588408470154,28
+http://dbpedia.org/resource/E._M._S._Namboodiripad,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Presidencies_and_provinces_of_British_India,Correct,187,44.09588408470154,28
+http://dbpedia.org/resource/Barthold_Suermondt,http://dbpedia.org/property/dateOfBirth,1818-05-18,Correct,188,39.5872528553009,28
+http://dbpedia.org/resource/Barthold_Suermondt,http://dbpedia.org/ontology/abstract,"Barthold Suermondt (18 May 1818, Utrecht - 1 March 1887, Aachen) was a German entrepreneur, banker, philanthropist, and art collector, of Dutch-Huguenot heritage.He was born in 1818 in Utrecht to Dirk Christiaan Suermondt and Elizabeth Twist. In the 1830s he worked with the Cockerill-Sambre steel manufacturers in Seraing, Belgium. He took over mamagement of the company in 1840 following the sudden death of his wife's uncle John Cockerill. Coming from French extraction, Suermondt was responsible for attracting French investment into Germany during the 1830s-40s. At that time he founded in Germany a steel company that after a number of name changes in 1870 became known as Rheinische Stahlwerks, where he served as president until 1878.His first marriage was to Amalie Elisabeth Cockerill (1815–59), daughter of the wealthy entrepreneur James Cockerill. The couple had six sons. He later married Nancy Suermondt Haniel (1843-1896), whose father was the mining entrepreneur Max Haniel.He was a major collector of Netherlandish and Dutch Golden Age painting, and acquired works by, amongst others, Jan van Eyck, Jan Vermeer, Frans Hals, Hans Holbein the Younger, Peter Paul Rubens and Jan Steen. In 1874 a large part of the Suermondt collection was passed to the Gemäldegalerie, Berlin, a purchase headed by Julius Meyer and art historian Wilhelm von Bode funded by a grant of £50,000. The sale of his art collected came when his company experienced a rapid collapse. Another portion of his collection, amounting to 105 paintings, was bequeathed to the city of Aachen in 1882, and was instrumental in building up the display of the Suermondt-Ludwig-Museum. That year Suermondt was made an honorary citizen of the city of Aachen. Around 1850, he had been portrayed in three-quarter view by Ludwig Knaus; today the work hangs in the foyer of the Suermondt-Ludwig.",Correct,188,39.5872528553009,28
+http://dbpedia.org/resource/Barthold_Suermondt,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:German_art_collectors,Correct,188,39.5872528553009,28
+http://dbpedia.org/resource/Barthold_Suermondt,http://dbpedia.org/ontology/birthDate,1818-05-18,Correct,188,39.5872528553009,28
+http://dbpedia.org/resource/Barthold_Suermondt,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Entrepreneur,Correct,188,39.5872528553009,28
+http://dbpedia.org/resource/Graham_Leonard,http://dbpedia.org/ontology/predecessor,http://dbpedia.org/resource/Maurice_Key,Correct,189,393.7363812923432,28
+http://dbpedia.org/resource/Graham_Leonard,http://xmlns.com/foaf/0.1/name,Graham Leonard,Correct,189,393.7363812923432,28
+http://dbpedia.org/resource/Graham_Leonard,http://dbpedia.org/ontology/predecessor,http://dbpedia.org/resource/George_Ingle,Incorrect,189,393.7363812923432,28
+http://dbpedia.org/resource/Graham_Leonard,http://dbpedia.org/property/honorificSuffix,http://dbpedia.org/resource/Royal_Victorian_Order,Incorrect,189,393.7363812923432,28
+http://dbpedia.org/resource/Graham_Leonard,http://dbpedia.org/property/termStart,1973,Correct,189,393.7363812923432,28
+http://dbpedia.org/resource/Grigoriy_Rechkalov,http://dbpedia.org/property/deathDate,1990-12-20,Correct,190,134.02045583724976,28
+http://dbpedia.org/resource/Grigoriy_Rechkalov,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Grigoriy_Rechkalov,Correct,190,134.02045583724976,28
+http://dbpedia.org/resource/Grigoriy_Rechkalov,http://dbpedia.org/property/placeofburial,"cemetery of settlement Bobrovskiy, Sysertskiy DC",Correct,190,134.02045583724976,28
+http://dbpedia.org/resource/Grigoriy_Rechkalov,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Russian_aviators,Correct,190,134.02045583724976,28
+http://dbpedia.org/resource/Grigoriy_Rechkalov,http://dbpedia.org/property/serviceyears,1938,Correct,190,134.02045583724976,28
+http://dbpedia.org/resource/34th_Air_Division,http://dbpedia.org/ontology/commandStructure,http://dbpedia.org/resource/Aerospace_Defense_Command,Correct,191,30.416881561279297,28
+http://dbpedia.org/resource/Bali_Kingdom,http://www.w3.org/2000/01/rdf-schema#label,Bali Kingdom,Correct,192,3.7116739749908447,28
+http://dbpedia.org/resource/Dolores_Guinness,http://dbpedia.org/ontology/deathDate,2012-01-20,Correct,193,29.487776279449463,28
+http://dbpedia.org/resource/Dolores_Guinness,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Germany,Correct,193,29.487776279449463,28
+http://dbpedia.org/resource/Dolores_Guinness,http://xmlns.com/foaf/0.1/name,"Guinness, Dolores",Correct,193,29.487776279449463,28
+http://dbpedia.org/resource/Dolores_Guinness,http://dbpedia.org/ontology/birthDate,1936-07-31,Correct,193,29.487776279449463,28
+http://dbpedia.org/resource/Dolores_Guinness,http://xmlns.com/foaf/0.1/name,Dolores Guinness,Correct,193,29.487776279449463,28
+http://dbpedia.org/resource/Insignificance_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Film_scores_by_Hans_Zimmer,Correct,194,161.47555804252625,28
+http://dbpedia.org/resource/Insignificance_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1980s_comedy-drama_films,Correct,194,161.47555804252625,28
+http://dbpedia.org/resource/Insignificance_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1985_films,Correct,194,161.47555804252625,28
+http://dbpedia.org/resource/Insignificance_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_about_Marilyn_Monroe,Correct,194,161.47555804252625,28
+http://dbpedia.org/resource/Insignificance_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_shot_in_New_York_City,Correct,194,161.47555804252625,28
+http://dbpedia.org/resource/Mark_Kirk,http://dbpedia.org/ontology/religion,http://dbpedia.org/resource/United_Church_of_Christ,Correct,195,129.02516961097717,28
+http://dbpedia.org/resource/Mark_Kirk,http://dbpedia.org/property/imdb,3268451,I Don't Know,195,129.02516961097717,28
+http://dbpedia.org/resource/Mark_Kirk,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Georgetown_University_Law_Center_alumni,Correct,195,129.02516961097717,28
+http://dbpedia.org/resource/Mark_Kirk,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Republican_Party_members_of_the_United_States_House_of_Representatives,Correct,195,129.02516961097717,28
+http://dbpedia.org/resource/Mark_Kirk,http://dbpedia.org/property/termEnd,2010-11-29,Correct,195,129.02516961097717,28
+http://dbpedia.org/resource/Kingdom_of_Portugal,http://dbpedia.org/property/statYear,1910,Correct,196,112.31760716438292,28
+http://dbpedia.org/resource/Kingdom_of_Portugal,http://dbpedia.org/property/continent,Europe,Correct,196,112.31760716438292,28
+http://dbpedia.org/resource/Kingdom_of_Portugal,http://www.w3.org/2000/01/rdf-schema#comment,"The Kingdom of Portugal (Latin: Regnum Portugalliae, Portuguese: Reino de Portugal) was a monarchy on the Iberian Peninsula and the predecessor of modern Portugal. It was in existence from 1139 until 1910. After 1248, it was also known as the Kingdom of Portugal and the Algarves and between 1815 and 1822, it was known as the United Kingdom of Portugal, Brazil and the Algarves.",I Don't Know,196,112.31760716438292,28
+http://dbpedia.org/resource/Kingdom_of_Portugal,http://dbpedia.org/property/flagS,Flag of Portugal.svg,Correct,196,112.31760716438292,28
+http://dbpedia.org/resource/Kingdom_of_Portugal,http://dbpedia.org/property/yearDeputy,1910,I Don't Know,196,112.31760716438292,28
+http://dbpedia.org/resource/Mutterschied,http://www.w3.org/2000/01/rdf-schema#label,Mutterschied,Correct,197,12.863867282867432,28
+http://dbpedia.org/resource/Mutterschied,http://dbpedia.org/ontology/associationOfLocalGovernment,http://dbpedia.org/resource/Simmern,Correct,197,12.863867282867432,28
+http://dbpedia.org/resource/Tarumanagara,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Bekasi,Correct,198,81.5862193107605,28
+http://dbpedia.org/resource/Tarumanagara,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Jakarta,Correct,198,81.5862193107605,28
+http://dbpedia.org/resource/Finnish_Democratic_Republic,http://dbpedia.org/property/commonName,Finnish Democratic Republic,Correct,199,6.12547755241394,28
+http://dbpedia.org/resource/Sony_Xperia_P,http://dbpedia.org/property/type,http://dbpedia.org/resource/Smartphone,Correct,200,3.3232851028442383,28
+http://dbpedia.org/resource/Uden_mål_–_og_med,http://dbpedia.org/property/name,Uden mål – og med,Correct,201,32.94774651527405,28
+http://dbpedia.org/resource/Uden_mål_–_og_med,http://dbpedia.org/property/genre,http://dbpedia.org/resource/Essay_collection,Correct,201,32.94774651527405,28
+http://dbpedia.org/resource/Uden_mål_–_og_med,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Danish_books,Correct,201,32.94774651527405,28
+http://dbpedia.org/resource/Uden_mål_–_og_med,http://dbpedia.org/ontology/literaryGenre,http://dbpedia.org/resource/Essay_collection,Correct,201,32.94774651527405,28
+http://dbpedia.org/resource/Uden_mål_–_og_med,http://www.w3.org/2000/01/rdf-schema#label,Uden mål – og med,Correct,201,32.94774651527405,28
+http://dbpedia.org/resource/Lluís_Martínez_Sistach,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Spain,Correct,202,14.539912700653076,28
+http://dbpedia.org/resource/Lluís_Martínez_Sistach,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Catalonia,Correct,202,14.539912700653076,28
+http://dbpedia.org/resource/Church_of_St._George_(Cairo),http://dbpedia.org/property/website,http://patriarchateofalexandria.com,Correct,203,110.02416491508484,28
+http://dbpedia.org/resource/Church_of_St._George_(Cairo),http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Church_of_St._George_(Cairo),Correct,203,110.02416491508484,28
+http://dbpedia.org/resource/Church_of_St._George_(Cairo),http://dbpedia.org/ontology/abstract,The Church of St. George is a Greek Orthodox church in Coptic Cairo.  The church dates back to the 10th century (or earlier).  The current structure was rebuilt following a 1904 fire.,Correct,203,110.02416491508484,28
+http://dbpedia.org/resource/Church_of_St._George_(Cairo),http://dbpedia.org/property/constructedDate,10,I Don't Know,203,110.02416491508484,28
+http://dbpedia.org/resource/Church_of_St._George_(Cairo),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Old_Cairo,Correct,203,110.02416491508484,28
+http://dbpedia.org/resource/Edmund_Boulter,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English_merchants,Correct,204,38.11467671394348,28
+http://dbpedia.org/resource/Edmund_Boulter,http://dbpedia.org/property/years,1698,Correct,204,38.11467671394348,28
+http://dbpedia.org/resource/Edmund_Boulter,http://dbpedia.org/property/with,http://dbpedia.org/resource/Richard_Wynn_(1656-1719),Correct,204,38.11467671394348,28
+http://dbpedia.org/resource/Edmund_Boulter,http://www.w3.org/2000/01/rdf-schema#label,Edmund Boulter,Correct,204,38.11467671394348,28
+http://dbpedia.org/resource/Edmund_Boulter,http://dbpedia.org/property/after,http://dbpedia.org/resource/Peregrine_Bertie_(died_1711),Correct,204,38.11467671394348,28
+"http://dbpedia.org/resource/Chennakeshava_Temple,_Aralaguppe",http://dbpedia.org/property/pushpinMapCaption,"Location in Karnataka, India",Correct,205,72.03945207595825,28
+"http://dbpedia.org/resource/Chennakeshava_Temple,_Aralaguppe",http://dbpedia.org/property/subdivisionName,http://dbpedia.org/resource/Tumakuru_district,Correct,205,72.03945207595825,28
+"http://dbpedia.org/resource/Chennakeshava_Temple,_Aralaguppe",http://xmlns.com/foaf/0.1/name,Chennakeshava Temple,Correct,205,72.03945207595825,28
+"http://dbpedia.org/resource/Chennakeshava_Temple,_Aralaguppe",http://dbpedia.org/ontology/isPartOf,http://dbpedia.org/resource/Karnataka,Correct,205,72.03945207595825,28
+"http://dbpedia.org/resource/Chennakeshava_Temple,_Aralaguppe",http://dbpedia.org/ontology/utcOffset,+5:30,Correct,205,72.03945207595825,28
+"http://dbpedia.org/resource/Karl_Anselm,_4th_Prince_of_Thurn_and_Taxis",http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Frankfurt,Correct,206,11.03420615196228,28
+http://dbpedia.org/resource/Leonardo_da_Vinci,http://dbpedia.org/property/placeOfDeath,"Clos Lucé, France",Correct,207,50.34650254249573,28
+http://dbpedia.org/resource/Leonardo_da_Vinci,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:16th-century_scientists,Correct,207,50.34650254249573,28
+http://dbpedia.org/resource/Leonardo_da_Vinci,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Leonardo_da_Vinci,Correct,207,50.34650254249573,28
+http://dbpedia.org/resource/Leonardo_da_Vinci,http://dbpedia.org/property/birthPlace,"http://dbpedia.org/resource/Vinci,_Tuscany",Incorrect,207,50.34650254249573,28
+http://dbpedia.org/resource/Leonardo_da_Vinci,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Ambassadors_of_the_Republic_of_Florence,Correct,207,50.34650254249573,28
+http://dbpedia.org/resource/The_Decalogue_(TV_series),http://dbpedia.org/property/name,The Decalogue,Correct,208,73.5554575920105,28
+http://dbpedia.org/resource/The_Decalogue_(TV_series),http://dbpedia.org/property/country,Poland,Correct,208,73.5554575920105,28
+http://dbpedia.org/resource/Augusto_Lauro,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Tarvisio,Correct,209,3.946736097335816,28

@@ -1,0 +1,122 @@
+Subject,Predicate,Object,Error,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/The_Towering_Inferno,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:20th_Century_Fox_films,Predicate,0,15.721274852752686,10
+http://dbpedia.org/resource/David_Grose,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_classical_scholars,Predicate,1,7.810011863708496,10
+http://dbpedia.org/resource/David_Grose,http://xmlns.com/foaf/0.1/name,David Grose,Object,1,7.810011863708496,10
+http://dbpedia.org/resource/Drew_Sidora,http://dbpedia.org/ontology/activeYearsEndYear,1995,Predicate,2,17.812209129333496,10
+http://dbpedia.org/resource/Drew_Sidora,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_rhythm_and_blues_singers,Predicate;Object,2,17.812209129333496,10
+http://dbpedia.org/resource/National_Museum_of_Natural_History_(France),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1793_establishments_in_France,Predicate;Object,3,7.361721277236938,10
+http://dbpedia.org/resource/National_Museum_of_Natural_History_(France),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:5th_arrondissement_of_Paris,Predicate,3,7.361721277236938,10
+http://dbpedia.org/resource/Rupert_De_la_Bère,http://dbpedia.org/property/years,1950,Predicate;Object,7,16.36100482940674,10
+http://dbpedia.org/resource/Rupert_De_la_Bère,http://dbpedia.org/property/years,1952,Predicate;Object,7,16.36100482940674,10
+http://dbpedia.org/resource/Rose_Tremain,http://dbpedia.org/property/name,"(CBE, FRSL)",Object,8,4.2932679653167725,10
+http://dbpedia.org/resource/Dajabón_Province,http://dbpedia.org/property/populationDensity,auto,Object,11,2.578315019607544,10
+http://dbpedia.org/resource/The_Lion_of_Punjab_(film),http://dbpedia.org/ontology/basedOn,http://dbpedia.org/resource/Jyothika,Object,12,2.2112510204315186,10
+http://dbpedia.org/resource/Turkish_War_of_Independence,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:History_of_Greece_(1909–24),Object,18,14.89482593536377,10
+http://dbpedia.org/resource/Turkish_War_of_Independence,http://dbpedia.org/ontology/combatant,*French West Africa,Object,18,14.89482593536377,10
+http://dbpedia.org/resource/Turkish_War_of_Independence,http://dbpedia.org/property/casualties,"~500
+Total: ~112,315",Object,18,14.89482593536377,10
+http://dbpedia.org/resource/Giovanni_Bondioni,http://dbpedia.org/property/name,Giovanni Bondioni,Object,22,2.827486991882324,10
+"http://dbpedia.org/resource/Louis,_Duke_of_Burgundy",http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Son,Object,23,9.509536981582642,10
+http://dbpedia.org/resource/Estonia,http://dbpedia.org/ontology/leaderTitle,President,Object,26,11.61223006248474,10
+"http://dbpedia.org/resource/Alexander_Cambridge,_1st_Earl_of_Athlone",http://dbpedia.org/ontology/monarch,http://dbpedia.org/resource/George_V,Predicate,31,10.895599842071531,11
+http://dbpedia.org/resource/Robert_Vinçotte,http://xmlns.com/foaf/0.1/name,Robert Vincotte,Object,36,10.790655851364136,11
+http://dbpedia.org/resource/Robert_Vinçotte,http://xmlns.com/foaf/0.1/name,"Vincotte, Robert",Object,36,10.790655851364136,11
+http://dbpedia.org/resource/Berestia,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Vlag_ontbreekt.svg?width=300,Object,41,6.74512791633606,11
+http://dbpedia.org/resource/Edgar_Rice_Burroughs,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Lin_Carter,Object,45,53.65981984138489,11
+http://dbpedia.org/resource/Edgar_Rice_Burroughs,http://www.w3.org/2000/01/rdf-schema#label,Edgar Rice Burroughs,Object,45,53.65981984138489,11
+http://dbpedia.org/resource/Michael_Caine,http://xmlns.com/foaf/0.1/name,"Caine, Michael",Object,47,4.244732856750488,11
+http://dbpedia.org/resource/Michael_Caine,http://xmlns.com/foaf/0.1/name,CBE,Object,47,4.244732856750488,11
+http://dbpedia.org/resource/Washington_Avenue_Soldier's_Monument_and_Triangle,http://dbpedia.org/ontology/nearestCity,"http://dbpedia.org/resource/Hackensack,_New_Jersey",Object,48,5.512178897857666,13
+http://dbpedia.org/resource/Orson_Welles,http://dbpedia.org/property/align,right,Predicate;Object,52,7.391957998275757,13
+http://dbpedia.org/resource/Orson_Welles,http://dbpedia.org/property/parents,Richard Hodgdon Head Welles,Object,52,7.391957998275757,13
+http://dbpedia.org/resource/Thessaloniki,http://dbpedia.org/property/mayRecordLowC,3,Object,55,4.856265068054199,13
+http://dbpedia.org/resource/Thessaloniki,http://dbpedia.org/property/usebelowbox,no,Predicate;Object,55,4.856265068054199,13
+http://dbpedia.org/resource/Defining_Issues_Test,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Moral_psychology,Predicate,63,21.295159816741943,13
+http://dbpedia.org/resource/Gloria_Gaynor,http://dbpedia.org/property/label,Logic( ),Object,66,6.227158069610596,13
+http://dbpedia.org/resource/Casey_Desmond,http://xmlns.com/foaf/0.1/name,Casey Desmond,Object,68,8.875043869018555,14
+http://dbpedia.org/resource/John_Denver,http://dbpedia.org/ontology/associatedBand,http://dbpedia.org/resource/Tina_Turner,Predicate,70,10.588059902191162,14
+http://dbpedia.org/resource/John_Denver,http://dbpedia.org/ontology/associatedBand,http://dbpedia.org/resource/Olivia_Newton-John,Predicate,70,10.588059902191162,14
+http://dbpedia.org/resource/John_Denver,http://dbpedia.org/property/label,http://dbpedia.org/resource/Sony_Wonder,Object,70,10.588059902191162,14
+http://dbpedia.org/resource/Volkhard_Eitner,http://xmlns.com/foaf/0.1/name,Dr. med. Volkhard Eitner,Object,81,6.124334812164307,14
+http://dbpedia.org/resource/Volkhard_Eitner,http://xmlns.com/foaf/0.1/name,Volkhard Eitner,Object,81,6.124334812164307,14
+http://dbpedia.org/resource/Volkhard_Eitner,http://xmlns.com/foaf/0.1/name,"Eitner, Volkhard",Object,81,6.124334812164307,14
+http://dbpedia.org/resource/Frederick_Valentine_Melsheimer,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-scientist-noun-1,Predicate;Object,84,2.842473268508911,14
+http://dbpedia.org/resource/Leipzig,http://dbpedia.org/property/metricFirst,Yes,Predicate;Object,85,11.585779905319214,14
+http://dbpedia.org/resource/Leipzig,http://dbpedia.org/property/aprSun,181.7,Predicate,85,11.585779905319214,14
+http://dbpedia.org/resource/Mali_Empire,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Kangaba,Object,87,3.823309898376465,14
+http://dbpedia.org/resource/Battle_of_Belleau_Wood,http://dbpedia.org/property/strength,5,Predicate;Object,88,4.90950608253479,14
+http://dbpedia.org/resource/Battle_of_Belleau_Wood,http://www.w3.org/2003/01/geo/wgs84_pos#long,3.29,Predicate;Object,88,4.90950608253479,14
+http://dbpedia.org/resource/Ringwood_Secondary_College,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Rock_Eisteddfod_Challenge_participants,Object,89,5.506022214889526,14
+http://dbpedia.org/resource/Moby_Grape,http://dbpedia.org/ontology/associatedMusicalArtist,http://dbpedia.org/resource/The_Electric_Prunes,Predicate,90,6.742724895477295,14
+http://dbpedia.org/resource/Moby_Grape,http://dbpedia.org/ontology/recordLabel,http://dbpedia.org/resource/Sundazed_Records,Predicate,90,6.742724895477295,14
+http://dbpedia.org/resource/Moby_Grape,http://dbpedia.org/ontology/recordLabel,http://dbpedia.org/resource/Reprise_Records,Predicate,90,6.742724895477295,14
+http://dbpedia.org/resource/Charles_de_Gaulle,http://dbpedia.org/ontology/signature,Charles de Gaulle Signature 2.svg,Object,91,5.511405944824219,14
+http://dbpedia.org/resource/Larry_Miller_(comedian),http://dbpedia.org/property/name,"Miller, Larry",Object,92,2.762641906738281,14
+http://dbpedia.org/resource/William_the_Lion,http://dbpedia.org/property/years,1152,Predicate,93,8.381686925888062,14
+http://dbpedia.org/resource/James_Francis_Garrick,http://dbpedia.org/property/years,1878,Predicate,94,12.8782639503479,14
+http://dbpedia.org/resource/James_Francis_Garrick,http://dbpedia.org/property/rows,2,Predicate;Object,94,12.8782639503479,14
+http://dbpedia.org/resource/Peter_Shor,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Putnam_Fellows,Object,95,3.2802560329437256,14
+http://dbpedia.org/resource/Sextans_B,http://dbpedia.org/property/sizeV,5,Predicate;Object,97,3.3933560848236084,14
+http://dbpedia.org/resource/WFLZ-FM,http://dbpedia.org/property/formerCallsigns,WOJC,Predicate,100,2.3443610668182373,14
+http://dbpedia.org/resource/Niels-Henning_Ørsted_Pedersen,http://dbpedia.org/property/associatedActs,http://dbpedia.org/resource/Ben_Webster,Predicate,102,5.32757306098938,14
+http://dbpedia.org/resource/Niels-Henning_Ørsted_Pedersen,http://dbpedia.org/property/associatedActs,http://dbpedia.org/resource/Kenny_Drew,Predicate,102,5.32757306098938,14
+http://dbpedia.org/resource/Niels-Henning_Ørsted_Pedersen,http://dbpedia.org/property/associatedActs,http://dbpedia.org/resource/Archie_Shepp,Predicate,102,5.32757306098938,14
+http://dbpedia.org/resource/Niels-Henning_Ørsted_Pedersen,http://dbpedia.org/property/associatedActs,http://dbpedia.org/resource/Jean-Luc_Ponty,Predicate,102,5.32757306098938,14
+http://dbpedia.org/resource/Niels-Henning_Ørsted_Pedersen,http://dbpedia.org/property/associatedActs,http://dbpedia.org/resource/Count_Basie,Predicate,102,5.32757306098938,14
+http://dbpedia.org/resource/Andrew_Kooman,http://xmlns.com/foaf/0.1/name,Andrew Kooman,Object,107,3.1392478942871094,14
+http://dbpedia.org/resource/Michael_Nesmith,http://dbpedia.org/property/width,35.0,Predicate;Object,111,5.624926328659058,14
+http://dbpedia.org/resource/Michael_Nesmith,http://dbpedia.org/property/tsurl,Michael_Nesmith,Predicate,111,5.624926328659058,14
+http://dbpedia.org/resource/The_Conversion_of_Mary_Magdalene,http://dbpedia.org/property/museum,"http://dbpedia.org/resource/The_National_Gallery%3C!--_,_Trafalgar_Square,_--%3E",Object,113,2.478250026702881,14
+http://dbpedia.org/resource/Horizon_Christian_Schools,http://dbpedia.org/property/homepage,http://www.horizonchristianschools.org/,Object,116,2.8587050437927246,14
+http://dbpedia.org/resource/Horizon_Christian_Schools,http://xmlns.com/foaf/0.1/homepage,http://www.horizonchristianschools.org/,Object,116,2.8587050437927246,14
+"http://dbpedia.org/resource/St_Mary's_Church,_Garthorpe",http://xmlns.com/foaf/0.1/page,http://www.visitchurches.org.uk/Ourchurches/Completelistofchurches/St-Marys-Church-Garthorpe-Leicestershire/,Object,118,1.8958642482757568,14
+"http://dbpedia.org/resource/Bennett_High_School_(Buffalo,_New_York)",http://www.w3.org/2003/01/geo/wgs84_pos#long,-78.8322,Object,121,3.9095709323883057,14
+"http://dbpedia.org/resource/Bennett_High_School_(Buffalo,_New_York)",http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1920_establishments_in_New_York,Object,121,3.9095709323883057,14
+http://dbpedia.org/resource/Andrew_Sterett,http://xmlns.com/foaf/0.1/name,Andrew Sterett,Object,123,2.961176872253418,14
+http://dbpedia.org/resource/Andrew_Sterett,http://xmlns.com/foaf/0.1/name,"Sterett, Andrew",Object,123,2.961176872253418,14
+http://dbpedia.org/resource/Haan,http://dbpedia.org/property/gemeindeschlüssel,5158008,Predicate;Object,124,4.762428045272827,14
+http://dbpedia.org/resource/Really_Doe,http://xmlns.com/foaf/0.1/name,"Doe, Really",Object,126,2.33069109916687,14
+http://dbpedia.org/resource/Really_Doe,http://xmlns.com/foaf/0.1/name,Really Doe,Object,126,2.33069109916687,14
+http://dbpedia.org/resource/Casablanca_(film),http://dbpedia.org/property/v,no,Predicate;Object,127,4.660728931427002,14
+http://dbpedia.org/resource/Casablanca_(film),http://dbpedia.org/property/budget,878000.0,Object,127,4.660728931427002,14
+http://dbpedia.org/resource/Frederick_Belson,http://dbpedia.org/property/ruAmateuryears,1891,Predicate;Object,129,11.47954487800598,14
+http://dbpedia.org/resource/Frederick_Belson,http://dbpedia.org/property/ruAmateurclubs,http://dbpedia.org/resource/Abergavenny_RFC,Predicate,129,11.47954487800598,14
+http://dbpedia.org/resource/Arnold_Schwarzenegger,http://xmlns.com/foaf/0.1/name,Arnold Schwarzenegger,Object,130,4.879125118255615,14
+http://dbpedia.org/resource/Arnold_Schwarzenegger,http://dbpedia.org/property/name,Arnold Schwarzenegger,Object,130,4.879125118255615,14
+http://dbpedia.org/resource/Netviewer,http://dbpedia.org/property/homepage,http://netviewer.com,Object,135,2.825410842895508,14
+http://dbpedia.org/resource/John_Doyle_(RAF_officer),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Articles_created_via_the_Article_Wizard,Object,136,11.200552940368652,14
+http://dbpedia.org/resource/John_Doyle_(RAF_officer),http://dbpedia.org/ontology/deathDate,1974-11-24,Object,136,11.200552940368652,14
+http://dbpedia.org/resource/Alsace-Lorraine,http://dbpedia.org/property/statusText,Imperial Territory of the German Empire,Predicate,137,6.165261030197144,14
+http://dbpedia.org/resource/Alsace-Lorraine,http://dbpedia.org/property/imageMapCaption,Alsace-Lorraine within the German Empire,Object,137,6.165261030197144,14
+http://dbpedia.org/resource/Josh_Homme,http://dbpedia.org/property/label,http://dbpedia.org/resource/Man's_Ruin_Records,Object,139,3.993085145950317,14
+http://dbpedia.org/resource/Josh_Homme,http://dbpedia.org/property/associatedActs,http://dbpedia.org/resource/Unkle,Predicate,139,3.993085145950317,14
+http://dbpedia.org/resource/The_Right_Stuff_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_set_in_the_1950s,Object,141,4.593994855880737,15
+http://dbpedia.org/resource/The_Right_Stuff_(film),http://dbpedia.org/property/producer,http://dbpedia.org/resource/Irwin_Winkler,Object,141,4.593994855880737,15
+http://dbpedia.org/resource/Joe_DiMaggio,http://xmlns.com/foaf/0.1/name,Joe DiMaggio,Object,142,2.512413263320923,15
+http://dbpedia.org/resource/Elizabeth_I_of_England,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:17th-century_women,Object,146,2.553884983062744,15
+"http://dbpedia.org/resource/John_of_Eltham,_Earl_of_Cornwall",http://dbpedia.org/property/years,--10-06,Predicate;Object,147,6.278403043746948,15
+"http://dbpedia.org/resource/John_of_Eltham,_Earl_of_Cornwall",http://xmlns.com/foaf/0.1/name,Earl Of Cornwall John of Eltham,Object,147,6.278403043746948,15
+"http://dbpedia.org/resource/John_of_Eltham,_Earl_of_Cornwall",http://dbpedia.org/property/reason,Elevation to Dukedom,Predicate,147,6.278403043746948,15
+http://dbpedia.org/resource/Sarah_Silverman,http://xmlns.com/foaf/0.1/name,Sarah Kate Silverman,Object,150,3.5060317516326904,15
+"http://dbpedia.org/resource/East_London,_Eastern_Cape",http://dbpedia.org/property/longm,52,Predicate;Object,156,16.874428033828735,15
+"http://dbpedia.org/resource/East_London,_Eastern_Cape",http://dbpedia.org/property/decSun,239.7,Predicate;Object,156,16.874428033828735,15
+"http://dbpedia.org/resource/East_London,_Eastern_Cape",http://dbpedia.org/property/junMeanC,15.4,Object,156,16.874428033828735,15
+"http://dbpedia.org/resource/East_London,_Eastern_Cape",http://dbpedia.org/property/metricFirst,Yes,Predicate;Object,156,16.874428033828735,15
+http://dbpedia.org/resource/Robert_Wise,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:United_States_National_Medal_of_Arts_recipients,Predicate,158,2.0598602294921875,15
+http://dbpedia.org/resource/Alexander_Holle,http://dbpedia.org/property/years,--09-26,Predicate;Object,160,4.525137186050415,15
+http://dbpedia.org/resource/Alexander_Holle,http://dbpedia.org/property/portal,Military of Germany,Predicate,160,4.525137186050415,15
+http://dbpedia.org/resource/Victoria_Memorial_(India),http://xmlns.com/foaf/0.1/name,ভিক্টোরিয়া মেমোরিয়াল হল,Object,161,5.273659944534302,15
+http://dbpedia.org/resource/Victoria_Memorial_(India),http://xmlns.com/foaf/0.1/homepage,http://www.victoriamemorial-cal.org/,Object,161,5.273659944534302,15
+http://dbpedia.org/resource/The_Boys_in_Blue,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1982_films,Object,162,3.5117619037628174,15
+http://dbpedia.org/resource/Kingdom_of_Portugal,http://dbpedia.org/property/dateStart,--07-26,Predicate;Object,169,4.424535036087036,15
+http://dbpedia.org/resource/Kingdom_of_Portugal,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Kingdom_of_Portugal,Predicate,169,4.424535036087036,15
+http://dbpedia.org/resource/Union_of_South_Africa,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Pietermaritzburg,Object,170,1.97232723236084,15
+http://dbpedia.org/resource/List_of_Modern_Family_characters,http://dbpedia.org/ontology/portrayer,http://dbpedia.org/resource/Shelley_Long,Object,171,2.9072930812835693,15
+http://dbpedia.org/resource/List_of_Modern_Family_characters,http://dbpedia.org/ontology/portrayer,http://dbpedia.org/resource/Rob_Riggle,Object,171,2.9072930812835693,15
+http://dbpedia.org/resource/Sara_Guasch,http://dbpedia.org/property/othername,Sara Guash,Predicate;Object,179,4.523346185684204,15
+http://dbpedia.org/resource/Rob_Brydon's_Annually_Retentive,http://dbpedia.org/ontology/Work/runtime,30.0,Predicate;Object,180,5.86217188835144,15
+http://dbpedia.org/resource/Rob_Brydon's_Annually_Retentive,http://dbpedia.org/property/id,828620,Predicate;Object,180,5.86217188835144,15
+http://dbpedia.org/resource/The_Paleface_(1922_film),http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-movie-noun-1,Predicate;Object,205,2.760063886642456,15
+http://dbpedia.org/resource/Howard_Dietz,http://xmlns.com/foaf/0.1/name,Howard Dietz,Object,207,3.6927449703216553,15
+http://dbpedia.org/resource/Howard_Dietz,http://xmlns.com/foaf/0.1/name,"Dietz, Howard",Object,207,3.6927449703216553,15
+http://dbpedia.org/resource/Reservation_Road,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-movie-noun-1,Predicate;Object,208,2.7271649837493896,15

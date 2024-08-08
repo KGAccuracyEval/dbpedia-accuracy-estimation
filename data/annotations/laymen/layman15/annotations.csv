@@ -1,0 +1,585 @@
+Subject,Predicate,Object,Annotation,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/A._B._Masilamani,http://xmlns.com/foaf/0.1/depiction,http://en.wikipedia.org/wiki/Special:FilePath/AB_Masilamani.png,I Don't Know,0,335.1369516849518,38
+http://dbpedia.org/resource/A._B._Masilamani,http://www.w3.org/2000/01/rdf-schema#label,A. B. Masilamani,Correct,0,335.1369516849518,38
+http://dbpedia.org/resource/A._B._Masilamani,http://www.w3.org/2000/01/rdf-schema#comment,"Acharya A. B. Masilamani or Abel Boanerges Masilamani (1914-1990) (Telugu: ఎబెల్ బోనెర్గెస్ మాసిలామణి) was a Baptist Pastor and Evangelist ordained by the Convention of Baptist Churches of Northern Circars and Spiritual Formator from 1956-1959 at the Baptist Theological Seminary, a Major Seminary in Kakinada.",Correct,0,335.1369516849518,38
+http://dbpedia.org/resource/A._B._Masilamani,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/A._B._Masilamani,Correct,0,335.1369516849518,38
+http://dbpedia.org/resource/A._B._Masilamani,http://dbpedia.org/ontology/deathDate,1990-04-05,Correct,0,335.1369516849518,38
+http://dbpedia.org/resource/Joe_Jonas,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Incorrect,1,168.74558115005493,38
+http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Honolulu,http://dbpedia.org/ontology/jurisdiction,http://dbpedia.org/resource/Diocese,Correct,2,556.0597779750824,38
+http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Honolulu,http://dbpedia.org/ontology/territory,http://dbpedia.org/resource/U.S._state,Incorrect,2,556.0597779750824,38
+http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Honolulu,http://dbpedia.org/ontology/territory,http://dbpedia.org/resource/Unincorporated_territories_of_the_United_States,Incorrect,2,556.0597779750824,38
+http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Honolulu,http://dbpedia.org/ontology/established,"January 25, 1941",Correct,2,556.0597779750824,38
+http://dbpedia.org/resource/Sing_It_Loud,http://xmlns.com/foaf/0.1/name,Sing It Loud,Correct,3,126.79377102851868,38
+http://dbpedia.org/resource/Sing_It_Loud,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Pop_rock,Incorrect,3,126.79377102851868,38
+http://dbpedia.org/resource/Sing_It_Loud,http://xmlns.com/foaf/0.1/homepage,http://www.myspace.com/singitloud,I Don't Know,3,126.79377102851868,38
+http://dbpedia.org/resource/Vanessa_Bell_Armstrong,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Incorrect,4,41.28877401351929,38
+http://dbpedia.org/resource/People's_Socialist_Republic_of_Albania,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Tirana,Correct,5,112.51520085334778,38
+http://dbpedia.org/resource/People's_Socialist_Republic_of_Albania,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Albanian_lek,Correct,5,112.51520085334778,38
+"http://dbpedia.org/resource/St_Peter's_Church,_Wintringham",http://xmlns.com/foaf/0.1/page,http://www.visitchurches.org.uk/Ourchurches/Completelistofchurches/St-Peters-Church-Wintringham-North-Yorkshire/,I Don't Know,6,8.29203987121582,38
+http://dbpedia.org/resource/USA_Network,http://dbpedia.org/ontology/sisterStation,http://dbpedia.org/resource/E!,Incorrect,7,470.3085081577301,38
+http://dbpedia.org/resource/USA_Network,http://dbpedia.org/ontology/pictureFormat,http://dbpedia.org/resource/1080i,Correct,7,470.3085081577301,38
+http://dbpedia.org/resource/USA_Network,http://dbpedia.org/ontology/sisterStation,http://dbpedia.org/resource/Oxygen_(TV_channel),Incorrect,7,470.3085081577301,38
+http://dbpedia.org/resource/USA_Network,http://dbpedia.org/ontology/headquarter,http://dbpedia.org/resource/New_York_City,I Don't Know,7,470.3085081577301,38
+http://dbpedia.org/resource/USA_Network,http://dbpedia.org/ontology/headquarter,http://dbpedia.org/resource/New_York,Correct,7,470.3085081577301,38
+http://dbpedia.org/resource/Ugo_Foscolo,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Alessandro_Manzoni,Incorrect,8,6359.07319021225,38
+http://dbpedia.org/resource/Ugo_Foscolo,http://dbpedia.org/ontology/partner,http://dbpedia.org/resource/Isabella_Teotochi_Albrizzi,Correct,8,6359.07319021225,38
+http://dbpedia.org/resource/Ugo_Foscolo,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Greece,Incorrect,8,6359.07319021225,38
+http://dbpedia.org/resource/Ugo_Foscolo,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Zakynthos,Correct,8,6359.07319021225,38
+http://dbpedia.org/resource/Ugo_Foscolo,http://dbpedia.org/ontology/movement,http://dbpedia.org/resource/Neoclassicism,Correct,8,6359.07319021225,38
+http://dbpedia.org/resource/Ryan_Starr,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Incorrect,9,31.272325038909912,38
+http://dbpedia.org/resource/Teresa_Ellen_Dease,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Irish_Roman_Catholic_religious_sisters_and_nuns,Correct,10,563.4195621013641,38
+http://dbpedia.org/resource/Teresa_Ellen_Dease,http://www.w3.org/2000/01/rdf-schema#comment,"Teresa Ellen Dease (4 May 1820 in Naas, Ireland – 1 July 1889 in Toronto, Canada) was a Roman Catholic nun and the foundress of the Loreto Sisters (Institute of the Blessed Virgin Mary in Canada and in North America. She arrived in Toronto, Canada in 1847 at the invitation of Bishop Michael Power.As superior, she oversaw the work of the sisters in both the publicly funded separate schools and private convent schools.",Correct,10,563.4195621013641,38
+http://dbpedia.org/resource/Teresa_Ellen_Dease,http://www.w3.org/2000/01/rdf-schema#label,Teresa Ellen Dease,Correct,10,563.4195621013641,38
+http://dbpedia.org/resource/Teresa_Ellen_Dease,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1889_deaths,Correct,10,563.4195621013641,38
+http://dbpedia.org/resource/Teresa_Ellen_Dease,http://dbpedia.org/ontology/nationality,http://dbpedia.org/resource/Irish_people,Correct,10,563.4195621013641,38
+http://dbpedia.org/resource/January_07003:_Bell_Studies_for_the_Clock_of_the_Long_Now,http://dbpedia.org/ontology/artist,http://dbpedia.org/resource/Brian_Eno,Correct,11,47876.9611787796,38
+http://dbpedia.org/resource/January_07003:_Bell_Studies_for_the_Clock_of_the_Long_Now,http://dbpedia.org/property/genre,http://dbpedia.org/resource/Ambient_music,Correct,11,47876.9611787796,38
+http://dbpedia.org/resource/January_07003:_Bell_Studies_for_the_Clock_of_the_Long_Now,http://dbpedia.org/property/artist,http://dbpedia.org/resource/Brian_Eno,Correct,11,47876.9611787796,38
+http://dbpedia.org/resource/January_07003:_Bell_Studies_for_the_Clock_of_the_Long_Now,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Ambient_music,Correct,11,47876.9611787796,38
+http://dbpedia.org/resource/January_07003:_Bell_Studies_for_the_Clock_of_the_Long_Now,http://dbpedia.org/ontology/producer,http://dbpedia.org/resource/Brian_Eno,Correct,11,47876.9611787796,38
+http://dbpedia.org/resource/Phase_One_(company),http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/Mamiya,Correct,12,438.6186501979828,39
+http://dbpedia.org/resource/Phase_One_(company),http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/Leaf_(Israeli_company),Correct,12,438.6186501979828,39
+http://dbpedia.org/resource/Nashville_West,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Incorrect,13,106.53813791275024,39
+http://dbpedia.org/resource/Uninvited_(video_game),http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Uninvited_(video_game),Correct,14,635.4530608654022,39
+http://dbpedia.org/resource/Uninvited_(video_game),http://www.w3.org/2000/01/rdf-schema#comment,"Uninvited is a haunted house ""point-and-click"" adventure game developed originally for the Apple Macintosh  by ICOM Simulations released in 1986 by Mindscape.The game uses the MacVenture engine that was introduced in ICOM's prior game, Deja Vu: a Nightmare Comes True. It is the only MacVenture that takes place in the present day.A number of ports were made. Two years later, a full rewrite for Windows was released.",Correct,14,635.4530608654022,39
+http://dbpedia.org/resource/Uninvited_(video_game),http://dbpedia.org/ontology/computingPlatform,http://dbpedia.org/resource/Commodore_64,Correct,14,635.4530608654022,39
+http://dbpedia.org/resource/Uninvited_(video_game),http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Uninvited_(video_game),I Don't Know,14,635.4530608654022,39
+http://dbpedia.org/resource/Uninvited_(video_game),http://dbpedia.org/ontology/publisher,http://dbpedia.org/resource/Mindscape,Correct,14,635.4530608654022,39
+http://dbpedia.org/resource/John_Richardson_(drummer),http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Musicians_from_Champaign,_Illinois",Correct,15,529.3694489002228,39
+http://dbpedia.org/resource/John_Richardson_(drummer),http://dbpedia.org/ontology/associatedBand,http://dbpedia.org/resource/Tommy_Keene,Correct,15,529.3694489002228,39
+http://dbpedia.org/resource/John_Richardson_(drummer),http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/JRLiverpoolKit.jpg?width=300,Correct,15,529.3694489002228,39
+http://dbpedia.org/resource/John_Richardson_(drummer),http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/John_Richardson_(drummer),Correct,15,529.3694489002228,39
+http://dbpedia.org/resource/John_Richardson_(drummer),http://dbpedia.org/ontology/associatedBand,http://dbpedia.org/resource/Adam_Schmitt,Correct,15,529.3694489002228,39
+http://dbpedia.org/resource/Demi_Moore,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Demi_Moore_by_David_Shankbone.jpg?width=300,Correct,16,12.988003969192505,39
+http://dbpedia.org/resource/Demi_Moore,http://www.w3.org/2000/01/rdf-schema#label,Demi Moore,Correct,16,12.988003969192505,39
+http://dbpedia.org/resource/Pierre-Samuel_Gendron,http://dbpedia.org/ontology/otherParty,http://dbpedia.org/resource/Conservative_Party_of_Quebec_(historical),Correct,17,121.2256281375885,39
+http://dbpedia.org/resource/Soopoolitse,http://dbpedia.org/property/commonName,Soopoolitse,Correct,18,19.051156044006348,39
+http://dbpedia.org/resource/Claude_Shannon,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Ivan_Sutherland,Correct,19,159.7471559047699,39
+http://dbpedia.org/resource/Claude_Shannon,http://dbpedia.org/ontology/doctoralAdvisor,http://dbpedia.org/resource/Frank_Lauren_Hitchcock,Correct,19,159.7471559047699,39
+http://dbpedia.org/resource/Claude_Shannon,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Danny_Hillis,Correct,19,159.7471559047699,39
+http://dbpedia.org/resource/Claude_Shannon,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Bert_Sutherland,Correct,19,159.7471559047699,39
+http://dbpedia.org/resource/PRTM,http://dbpedia.org/property/services,http://dbpedia.org/resource/Management_consulting,Correct,20,278.6206212043762,39
+http://dbpedia.org/resource/PRTM,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/United_States,Correct,20,278.6206212043762,39
+http://dbpedia.org/resource/PRTM,http://dbpedia.org/property/keyPeople,"Mary Lyons, Chief Talent Officer",Correct,20,278.6206212043762,39
+http://dbpedia.org/resource/PRTM,http://dbpedia.org/property/services,http://dbpedia.org/resource/Supply_Chain,Correct,20,278.6206212043762,39
+http://dbpedia.org/resource/PRTM,http://dbpedia.org/property/homepage,http://www.prtm.com/,I Don't Know,20,278.6206212043762,39
+http://dbpedia.org/resource/Grand_Paris_Express,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Grand_paris_express.svg?width=300,Correct,21,25.50465202331543,39
+http://dbpedia.org/resource/Birth_of_a_Notion_(film),http://www.w3.org/2000/01/rdf-schema#comment,"Birth of a Notion is a Looney Tunes cartoon animated in 1946 and released in 1947.  It was reissued as a Blue Ribbon Merrie Melodies cartoon, with the ending theme song still being that of the Looney Tunes cartoon.  It features Daffy Duck, as well as a dog named Leopold and an unnamed mad scientist. Director Robert McKimson used his ""Barnyard Dawg"" character design as Leopold, while the scientist is a caricature, both visually and vocally, of Peter Lorre.",Correct,22,363.0345811843872,39
+http://dbpedia.org/resource/Birth_of_a_Notion_(film),http://dbpedia.org/property/animator,Fred Jones,Correct,22,363.0345811843872,39
+http://dbpedia.org/resource/Birth_of_a_Notion_(film),http://dbpedia.org/ontology/series,http://dbpedia.org/resource/Looney_Tunes,Correct,22,363.0345811843872,39
+http://dbpedia.org/resource/Birth_of_a_Notion_(film),http://dbpedia.org/property/storyArtist,http://dbpedia.org/resource/Warren_Foster,Correct,22,363.0345811843872,39
+http://dbpedia.org/resource/Birth_of_a_Notion_(film),http://dbpedia.org/property/producer,http://dbpedia.org/resource/Edward_Selzer,Correct,22,363.0345811843872,39
+http://dbpedia.org/resource/SageTV,http://dbpedia.org/property/location,"http://dbpedia.org/resource/Inglewood,_California",Correct,23,53.40517210960388,39
+http://dbpedia.org/resource/SageTV,http://dbpedia.org/ontology/location,"http://dbpedia.org/resource/Inglewood,_California",Correct,23,53.40517210960388,39
+http://dbpedia.org/resource/Kemao_Market,http://dbpedia.org/ontology/address,18 Zhongguancun St,Correct,24,316.8168470859528,39
+http://dbpedia.org/resource/Kemao_Market,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Visitor_attractions_in_Beijing,Correct,24,316.8168470859528,39
+http://dbpedia.org/resource/Kemao_Market,http://dbpedia.org/property/location,http://dbpedia.org/resource/Zhongguancun,Correct,24,316.8168470859528,39
+http://dbpedia.org/resource/Kemao_Market,http://dbpedia.org/property/alternateNames,Kemao Electronics Plaza,Incorrect,24,316.8168470859528,39
+http://dbpedia.org/resource/Kemao_Market,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/China,Correct,24,316.8168470859528,39
+http://dbpedia.org/resource/Maronite_Church,http://dbpedia.org/property/founder,http://dbpedia.org/resource/John_Maron,Correct,25,427.1144571304321,39
+http://dbpedia.org/resource/Maronite_Church,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Eastern_Catholicism,Correct,25,427.1144571304321,39
+http://dbpedia.org/resource/Maronite_Church,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Christianity_in_Lebanon,Correct,25,427.1144571304321,39
+http://dbpedia.org/resource/Maronite_Church,http://dbpedia.org/property/territory,http://dbpedia.org/resource/Israel,Correct,25,427.1144571304321,39
+http://dbpedia.org/resource/Maronite_Church,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Lebanese_society,I Don't Know,25,427.1144571304321,39
+http://dbpedia.org/resource/Asking_for_Trouble,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_films,Correct,26,85.61880207061768,39
+http://dbpedia.org/resource/Asking_for_Trouble,http://dbpedia.org/property/language,English,Correct,26,85.61880207061768,39
+http://dbpedia.org/resource/Asking_for_Trouble,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Correct,26,85.61880207061768,39
+http://dbpedia.org/resource/Requeijão,http://www.w3.org/2000/01/rdf-schema#label,Requeijão,Correct,27,129.1857349872589,39
+http://dbpedia.org/resource/Requeijão,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/RequeijaoCremoso.jpg?width=300,Correct,27,129.1857349872589,39
+http://dbpedia.org/resource/Requeijão,http://dbpedia.org/property/aging,Depends on variety,Correct,27,129.1857349872589,39
+http://dbpedia.org/resource/Requeijão,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Requeijão,Correct,27,129.1857349872589,39
+http://dbpedia.org/resource/Requeijão,http://www.w3.org/2000/01/rdf-schema#comment,"Requeijão (Portuguese pronunciation: [ʁekejˈʒɐ̃w]) is a milk-derived product, produced in Portugal and Brazil. It is sometimes called requesón (the Spanish word for ricotta) in English-speaking countries.It is a loose, ricotta-like cheese used to make cheese spreads. A mild, unsalty ricotta can be substituted. This variety is most often sold in the markets wrapped in fresh corn husks.",Correct,27,129.1857349872589,39
+http://dbpedia.org/resource/Lee_Hyeri,http://dbpedia.org/ontology/birthDate,1994-06-09,Correct,28,29.58934783935547,39
+http://dbpedia.org/resource/Geoff_Love,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Pop_music,Correct,29,160.64786791801453,39
+http://dbpedia.org/resource/Geoff_Love,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Film_score,Correct,29,160.64786791801453,39
+http://dbpedia.org/resource/Geoff_Love,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Easy_listening,Correct,29,160.64786791801453,39
+http://dbpedia.org/resource/Graham_Leonard,http://dbpedia.org/ontology/predecessor,http://dbpedia.org/resource/Maurice_Key,Correct,30,157.17823004722595,39
+http://dbpedia.org/resource/Graham_Leonard,http://xmlns.com/foaf/0.1/name,Graham Leonard,Correct,30,157.17823004722595,39
+http://dbpedia.org/resource/Graham_Leonard,http://dbpedia.org/ontology/predecessor,http://dbpedia.org/resource/George_Ingle,Incorrect,30,157.17823004722595,39
+http://dbpedia.org/resource/Graham_Leonard,http://dbpedia.org/property/honorificSuffix,http://dbpedia.org/resource/Royal_Victorian_Order,Correct,30,157.17823004722595,39
+http://dbpedia.org/resource/Graham_Leonard,http://dbpedia.org/property/termStart,1973,Correct,30,157.17823004722595,39
+http://dbpedia.org/resource/Sky_Italia,http://xmlns.com/foaf/0.1/name,Sky Italia,Correct,31,257.6502969264984,39
+http://dbpedia.org/resource/Sky_Italia,http://dbpedia.org/ontology/foundingYear,2003,Correct,31,257.6502969264984,39
+http://dbpedia.org/resource/Sky_Italia,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Companies_established_in_2003,Correct,31,257.6502969264984,39
+http://dbpedia.org/resource/Sky_Italia,http://xmlns.com/foaf/0.1/homepage,http://www.sky.it/,I Don't Know,31,257.6502969264984,39
+http://dbpedia.org/resource/Sky_Italia,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Limited_liability_company,Correct,31,257.6502969264984,39
+http://dbpedia.org/resource/Society_of_Jesus,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Rome,Correct,32,204.2842600345612,39
+http://dbpedia.org/resource/Society_of_Jesus,http://dbpedia.org/ontology/mainOrgan,http://dbpedia.org/resource/Curia,Correct,32,204.2842600345612,39
+http://dbpedia.org/resource/Society_of_Jesus,http://www.w3.org/2000/01/rdf-schema#label,Society of Jesus,Correct,32,204.2842600345612,39
+"http://dbpedia.org/resource/Summitville,_New_York",http://dbpedia.org/property/blankName,http://dbpedia.org/resource/Federal_Information_Processing_Standard,I Don't Know,33,381.0022702217102,39
+"http://dbpedia.org/resource/Summitville,_New_York",http://dbpedia.org/property/pushpinMapCaption,Location within the state of New York,Correct,33,381.0022702217102,39
+"http://dbpedia.org/resource/Summitville,_New_York",http://dbpedia.org/property/populationAsOf,2010,Correct,33,381.0022702217102,39
+"http://dbpedia.org/resource/Summitville,_New_York",http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/Political_divisions_of_the_United_States,I Don't Know,33,381.0022702217102,39
+"http://dbpedia.org/resource/Summitville,_New_York",http://dbpedia.org/property/coordinatesDisplay,"inline,title",I Don't Know,33,381.0022702217102,39
+http://dbpedia.org/resource/Renault,http://dbpedia.org/ontology/numberOfEmployees,127086,Incorrect,34,1729.925241947174,39
+http://dbpedia.org/resource/Renault,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Aircraft_engine_manufacturers_of_France,Correct,34,1729.925241947174,39
+http://dbpedia.org/resource/Renault,http://dbpedia.org/property/founder,http://dbpedia.org/resource/Fernand_Renault,Correct,34,1729.925241947174,39
+http://dbpedia.org/resource/Renault,http://dbpedia.org/ontology/owner,http://dbpedia.org/resource/Agence_des_participations_de_l'État,Correct,34,1729.925241947174,39
+http://dbpedia.org/resource/Renault,http://dbpedia.org/ontology/owningCompany,http://dbpedia.org/resource/Nissan,Correct,34,1729.925241947174,39
+http://dbpedia.org/resource/Diardi,http://dbpedia.org/ontology/abstract,Diardi is a sports car manufactured in Turkey by the Çenberci Group.,Correct,35,214.3786129951477,39
+http://dbpedia.org/resource/Diardi,http://www.w3.org/2000/01/rdf-schema#label,Diardi,Correct,35,214.3786129951477,39
+http://dbpedia.org/resource/Diardi,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Narlıdere,Correct,35,214.3786129951477,39
+http://dbpedia.org/resource/Diardi,http://www.w3.org/2000/01/rdf-schema#comment,Diardi is a sports car manufactured in Turkey by the Çenberci Group.,Correct,35,214.3786129951477,39
+http://dbpedia.org/resource/Diardi,http://xmlns.com/foaf/0.1/name,DIARDI,Incorrect,35,214.3786129951477,39
+http://dbpedia.org/resource/Shuttle_America,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Regional_Airline_Association_members,Incorrect,36,600.7622971534729,39
+http://dbpedia.org/resource/Shuttle_America,http://dbpedia.org/property/hubs,http://dbpedia.org/resource/Newark_Liberty_Airport,Correct,36,600.7622971534729,39
+http://dbpedia.org/resource/Shuttle_America,http://dbpedia.org/property/hubs,Delta Connection:,Incorrect,36,600.7622971534729,39
+http://dbpedia.org/resource/Shuttle_America,http://dbpedia.org/property/hubs,http://dbpedia.org/resource/New_York_LaGuardia,Incorrect,36,600.7622971534729,39
+http://dbpedia.org/resource/Shuttle_America,http://dbpedia.org/property/website,http://www.shuttleamerica.com,Correct,36,600.7622971534729,39
+http://dbpedia.org/resource/Honmyō-ji,http://xmlns.com/foaf/0.1/page,http://www.honmyouji.jp/,I Don't Know,37,10.810740947723389,39
+http://dbpedia.org/resource/Construcciones_Aeronáuticas_SA,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Spain,Correct,38,30.859201192855835,39
+http://dbpedia.org/resource/Ginny_Owens,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Incorrect,39,9.93749976158142,39
+http://dbpedia.org/resource/Lluís_Martínez_Sistach,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Spain,Correct,40,25.552995920181274,39
+http://dbpedia.org/resource/Lluís_Martínez_Sistach,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Catalonia,Correct,40,25.552995920181274,39
+http://dbpedia.org/resource/E._M._S._Namboodiripad,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Perintalmanna,Correct,41,104.55849194526672,39
+http://dbpedia.org/resource/E._M._S._Namboodiripad,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Madras_Presidency,Incorrect,41,104.55849194526672,39
+http://dbpedia.org/resource/E._M._S._Namboodiripad,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Presidencies_and_provinces_of_British_India,Incorrect,41,104.55849194526672,39
+http://dbpedia.org/resource/Pope_Alexander_II,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Rome,Correct,42,30.693835020065308,39
+http://dbpedia.org/resource/Helsinki_tram,http://dbpedia.org/ontology/typeOfElectrification,http://dbpedia.org/resource/Overhead_line,Correct,43,55.06577777862549,39
+http://dbpedia.org/resource/Helsinki_tram,http://dbpedia.org/ontology/typeOfElectrification,http://dbpedia.org/resource/Volt,Incorrect,43,55.06577777862549,39
+http://dbpedia.org/resource/Murata_Manufacturing,http://dbpedia.org/ontology/revenue,8.467E11,Incorrect,44,350.45167779922485,39
+http://dbpedia.org/resource/Murata_Manufacturing,http://dbpedia.org/property/name,"Murata Manufacturing Company, Ltd.",Correct,44,350.45167779922485,39
+http://dbpedia.org/resource/Murata_Manufacturing,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Companies_listed_on_the_Osaka_Securities_Exchange,Correct,44,350.45167779922485,39
+http://dbpedia.org/resource/Murata_Manufacturing,http://dbpedia.org/property/type,http://dbpedia.org/resource/Kabushiki_gaisha,Correct,44,350.45167779922485,39
+http://dbpedia.org/resource/Murata_Manufacturing,http://dbpedia.org/ontology/abstract,"Murata Manufacturing Co., Ltd. (株式会社村田製作所, Kabushiki-gaisha Murata Seisakusho) is a Japanese manufacturer of electronic components, based in Nagaokakyo, Kyoto. Honorary Chairman Akira Murata started Murata Manufacturing as a personal venture in October, 1944. On December 1950 reorganized the company into Murata Manufacturing Co., Ltd. with paid-in Capital ¥1 million.Murata Manufacturing is a leading company primarily involved in the manufacturing of ceramic passive electronic components, primarily capacitors, and it has an overwhelming share worldwide in ceramic filters, high-frequency parts, and sensors. As of March 31, 2013 Murata Manufacturing has 24 subsidiaries in Japan and 52 overseas in the United States, Canada, Mexico, Brazil, Germany, France, Italy, the United Kingdom, Switzerland, the Netherlands, Spain, Hungary, Finland, China, Taiwan, South Korea, Singapore, Malaysia, the Philippines, Thailand, Hong Kong, Vietnam and India.On April 13, 2012, Murata announced a deal to acquire RF Monolithics for $1.78 per share.On August 23, 2014, Murata announced the acquisition of Peregrine Semiconductor Corporation.",Correct,44,350.45167779922485,39
+http://dbpedia.org/resource/St._Stanislaus_Institute_(Slovenia),http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Slovenia,Correct,45,18.938127994537357,39
+http://dbpedia.org/resource/Keegan_DeWitt,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Incorrect,46,13.772836923599243,39
+http://dbpedia.org/resource/Valis_II,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:PlayStation_Network_games,Correct,47,162.58470797538757,39
+http://dbpedia.org/resource/Valis_II,http://dbpedia.org/property/composer,http://dbpedia.org/resource/Tenpei_Sato,Correct,47,162.58470797538757,39
+http://dbpedia.org/resource/Valis_II,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Valis_series,Correct,47,162.58470797538757,39
+http://dbpedia.org/resource/Valis_II,http://dbpedia.org/ontology/computingPlatform,http://dbpedia.org/resource/MSX,Correct,47,162.58470797538757,39
+http://dbpedia.org/resource/Valis_II,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Sega_Genesis_games,Incorrect,47,162.58470797538757,39
+http://dbpedia.org/resource/K1_Speed,http://dbpedia.org/ontology/locationCity,"http://dbpedia.org/resource/Carlsbad,_California",Incorrect,48,75.63836908340454,39
+http://dbpedia.org/resource/K1_Speed,http://dbpedia.org/ontology/regionServed,http://dbpedia.org/resource/Southern_California,Correct,48,75.63836908340454,39
+http://dbpedia.org/resource/K1_Speed,http://www.w3.org/2000/01/rdf-schema#label,K1 Speed,Correct,48,75.63836908340454,39
+http://dbpedia.org/resource/Nathaniel_Gorham,http://dbpedia.org/ontology/abstract,"Nathaniel Gorham (May 27, 1738 – June 11, 1796, his first name is sometimes spelled Nathanial) was a politician and merchant from Massachusetts. He was a delegate from Massachusetts to the Continental Congress, and for six months served as the presiding officer of that body. He also attended the Constitutional Convention and was one of the signers of the United States Constitution on September 17, 1787, in Philadelphia, Pennsylvania.",Correct,49,133.48902487754822,39
+http://dbpedia.org/resource/Nathaniel_Gorham,http://dbpedia.org/property/placeOfDeath,"http://dbpedia.org/resource/Charlestown,_Boston",Correct,49,133.48902487754822,39
+http://dbpedia.org/resource/Nathaniel_Gorham,http://dbpedia.org/property/children,Collinsworth Gorham,Correct,49,133.48902487754822,39
+http://dbpedia.org/resource/Nathaniel_Gorham,http://www.w3.org/2000/01/rdf-schema#label,Nathaniel Gorham,Correct,49,133.48902487754822,39
+http://dbpedia.org/resource/Nathaniel_Gorham,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Politicians_from_Boston,_Massachusetts",Correct,49,133.48902487754822,39
+http://dbpedia.org/resource/Al-Dhubi,http://dbpedia.org/property/commonName,Dhubi,Correct,50,61.88241720199585,39
+http://dbpedia.org/resource/Grand_and_General_Council,http://dbpedia.org/ontology/politicalPartyInLegislature,http://dbpedia.org/resource/Sammarinese_Christian_Democratic_Party,Correct,51,421.0231909751892,39
+http://dbpedia.org/resource/Grand_and_General_Council,http://dbpedia.org/ontology/politicalPartyInLegislature,http://dbpedia.org/resource/Party_of_Socialists_and_Democrats,Correct,51,421.0231909751892,39
+http://dbpedia.org/resource/Grand_and_General_Council,http://dbpedia.org/ontology/politicalPartyInLegislature,http://dbpedia.org/resource/Union_for_the_Republic_(San_Marino),Correct,51,421.0231909751892,39
+http://dbpedia.org/resource/Grand_and_General_Council,http://dbpedia.org/ontology/politicalPartyInLegislature,http://dbpedia.org/resource/Socialist_Party_(San_Marino),Correct,51,421.0231909751892,39
+http://dbpedia.org/resource/Grand_and_General_Council,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/San_Marino,Correct,51,421.0231909751892,39
+http://dbpedia.org/resource/Whitworth_University,http://dbpedia.org/ontology/campus,http://dbpedia.org/resource/Suburb,Correct,52,108.38477206230164,39
+http://dbpedia.org/resource/Whitworth_University,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Private_university,Correct,52,108.38477206230164,39
+http://dbpedia.org/resource/Whitworth_University,http://dbpedia.org/ontology/athletics,http://dbpedia.org/resource/NCAA_Division_III,Correct,52,108.38477206230164,39
+http://dbpedia.org/resource/Whitworth_University,http://dbpedia.org/property/type,http://dbpedia.org/resource/Private_university,Correct,52,108.38477206230164,39
+"http://dbpedia.org/resource/United_States_Customhouse_(New_Bedford,_Massachusetts)",http://dbpedia.org/ontology/governingBody,http://dbpedia.org/resource/U.S._Customs_and_Border_Protection,Incorrect,53,145.9148190021515,39
+http://dbpedia.org/resource/Team_Bondi,http://xmlns.com/foaf/0.1/homepage,http://www.teambondi.com/,I Don't Know,54,34.68167996406555,39
+http://dbpedia.org/resource/Team_Bondi,http://dbpedia.org/property/location,http://dbpedia.org/resource/Sydney,Correct,54,34.68167996406555,39
+http://dbpedia.org/resource/Team_Bondi,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Sydney,Correct,54,34.68167996406555,39
+http://dbpedia.org/resource/Team_Bondi,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Australia,Correct,54,34.68167996406555,39
+http://dbpedia.org/resource/Team_Bondi,http://dbpedia.org/ontology/industry,http://dbpedia.org/resource/Video_game_industry,Correct,54,34.68167996406555,39
+http://dbpedia.org/resource/Gazprom,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/List_of_Gazprom_subsidiaries,Incorrect,55,70.21010088920593,39
+http://dbpedia.org/resource/Daniel_Tammet,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/London,Incorrect,56,53.91127395629883,39
+http://dbpedia.org/resource/Oceans_(film),http://dbpedia.org/property/distributor,http://dbpedia.org/resource/Walt_Disney_Studios_Motion_Pictures,Correct,57,200.22913479804996,39
+http://dbpedia.org/resource/Oceans_(film),http://dbpedia.org/property/language,English,Incorrect,57,200.22913479804996,39
+http://dbpedia.org/resource/Oceans_(film),http://dbpedia.org/property/name,Oceans,Correct,57,200.22913479804996,39
+http://dbpedia.org/resource/Oceans_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_films,Incorrect,57,200.22913479804996,39
+http://dbpedia.org/resource/Oceans_(film),http://dbpedia.org/property/distributor,http://dbpedia.org/resource/Warner_Bros.,Incorrect,57,200.22913479804996,39
+http://dbpedia.org/resource/Eolica_Casimcea_Wind_Farm,http://dbpedia.org/property/status,Approved,Correct,58,401.7462468147278,39
+http://dbpedia.org/resource/Eolica_Casimcea_Wind_Farm,http://dbpedia.org/ontology/status,Approved,Correct,58,401.7462468147278,39
+http://dbpedia.org/resource/Eolica_Casimcea_Wind_Farm,http://dbpedia.org/property/psElectricalCapacity,244.0,Correct,58,401.7462468147278,39
+http://dbpedia.org/resource/Eolica_Casimcea_Wind_Farm,http://www.w3.org/2000/01/rdf-schema#comment,"The Eolica Casimcea Wind Farm is a proposed wind power project in Casimcea, Tulcea County, Romania. It will consist of six individual wind farms connected together. It will have 122 individual wind turbines with a nominal output of around 2 MW which will deliver up to 244 MW of power, enough to power over 150,000 homes, with a capital investment required of approximately US$300 million.",Correct,58,401.7462468147278,39
+http://dbpedia.org/resource/Eolica_Casimcea_Wind_Farm,http://dbpedia.org/property/location,http://dbpedia.org/resource/Tulcea_County,Correct,58,401.7462468147278,39
+http://dbpedia.org/resource/Vodohod,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Companies_of_Russia,Correct,59,58.47065401077271,39
+http://dbpedia.org/resource/Vodohod,http://www.w3.org/2000/01/rdf-schema#label,Vodohod,Correct,59,58.47065401077271,39
+http://dbpedia.org/resource/Vodohod,http://dbpedia.org/property/name,Vodohod,Correct,59,58.47065401077271,39
+http://dbpedia.org/resource/Vodohod,http://dbpedia.org/ontology/foundingYear,2004,Correct,59,58.47065401077271,39
+http://dbpedia.org/resource/Vodohod,http://www.w3.org/2000/01/rdf-schema#comment,"Vodohod is  the Russia’s largest cruise company and river cruise line operator which was founded in 2004 by the Volga Shipping Company named after Ivan Kulibin’s “water-going vessel” or “water-goer”. The company has its headquarters in Moscow and Saint Petersburg, Russia. After merging with Volga Flot Tour company operates more than 50 passenger ships along rivers of Volga, Don, Kama, the Moscow and Volga-Don canals, the Volga-Baltic Waterway, Northern-Western rivers, lakes Ladoga and Onega.",Correct,59,58.47065401077271,39
+http://dbpedia.org/resource/Le_Fantasque_(newspaper),http://www.w3.org/2000/01/rdf-schema#label,Le Fantasque (newspaper),Correct,60,44.97823786735535,39
+http://dbpedia.org/resource/Le_Fantasque_(newspaper),http://dbpedia.org/ontology/foundedBy,http://dbpedia.org/resource/Napoléon_Aubin,Correct,60,44.97823786735535,39
+http://dbpedia.org/resource/Le_Fantasque_(newspaper),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Newspapers_published_in_Quebec_City,Correct,60,44.97823786735535,39
+http://dbpedia.org/resource/Le_Fantasque_(newspaper),http://dbpedia.org/property/ceasedPublication,1845,Correct,60,44.97823786735535,39
+http://dbpedia.org/resource/Le_Fantasque_(newspaper),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Publications_established_in_1837,Correct,60,44.97823786735535,39
+http://dbpedia.org/resource/Separate_Baptists,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Group,Correct,61,95.24820232391356,39
+http://dbpedia.org/resource/Separate_Baptists,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Former_Christian_denominations,I Don't Know,61,95.24820232391356,39
+http://dbpedia.org/resource/Separate_Baptists,http://www.w3.org/2000/01/rdf-schema#comment,"The Separate Baptists were an 18th-century group of Baptists in the United States, primarily in the South, that grew out of the Great Awakening.The Great Awakening was a religious revival and revitalization of piety among the Christian churches. It covered English-speaking countries and swept through the American colonies between the 1730s and the 1770s. Three important preachers of the times were Gilbert Tennent (1703–65), Jonathan Edwards (1703–58), and George Whitefield (1714–70).",I Don't Know,61,95.24820232391356,39
+http://dbpedia.org/resource/Separate_Baptists,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Baptist_denominations_in_North_America,Correct,61,95.24820232391356,39
+http://dbpedia.org/resource/Separate_Baptists,http://dbpedia.org/ontology/abstract,"The Separate Baptists were an 18th-century group of Baptists in the United States, primarily in the South, that grew out of the Great Awakening.The Great Awakening was a religious revival and revitalization of piety among the Christian churches. It covered English-speaking countries and swept through the American colonies between the 1730s and the 1770s. Three important preachers of the times were Gilbert Tennent (1703–65), Jonathan Edwards (1703–58), and George Whitefield (1714–70). The Separate Baptists are most directly connected to Whitefield's influence. The first identifiable congregation of Separate Baptists was formed in Boston, Massachusetts. Whitefield preached in Boston in 1740. The pastor of the Baptist church disapproved of the revival excitement, while several members approved of it and became discontented with the pastor's ministry. They withdrew from the First Baptist Church and formed Second Baptist Church in 1743.The Great Awakening served to both invigorate and divide churches. Many denominations divided into Old Lights — holding a low view of the revivalism, and sometimes directly opposing it — and New Lights — who enthusiastically embraced it. Many New Lights felt that the old ways had allowed too many unconverted church members, and by the end of the 1740s some of the New Lights believed the established churches could not be reformed from within and withdrew from them. A favorite verse among them was II Corinthians 6:17 — ""Come out from among them, and be ye separate."" This led to them being called Separate.A growing body of Separate Baptists began in New England. They were zealous in evangelism and held to heart-felt religion. The most prominent New England pastor and congregation was Isaac Backus (1724–1808) and the church at Middleborough, Massachusetts. Backus was raised a Congregationalist and became a New Light (or Separatist) Congregational pastor in 1748. After conversion to Baptist views on the doctrine of baptism, Backus and others formed a Baptist congregation in 1756. Backus was very active in the fight for religious liberty in America. The Separate Baptists of New England were never truly a separate group from the Regular Baptists. It would remain for the Separate Baptists in the South to develop along distinct lines.In 1745 Shubal Stearns (1706–71), a member of the Congregational church in Tolland, Connecticut, heard evangelist George Whitefield. Stearns was converted and adopted the Awakening's view of revival and conversion. Stearns' church became involved in a controversy over the proper subjects of baptism in 1751. Soon Stearns rejected infant baptism and sought baptism at the hands of Wait Palmer, Baptist minister of Stonington, Connecticut. By March, Shubal Stearns was ordained into the ministry by Palmer and Joshua Morse, the pastor of New London, Connecticut. The next twenty years of Stearns' remarkable ministry is inextricably intertwined with the rise and expansion of the Separate Baptists.In 1754, Stearns moved south to Opequon, Virginia. Here he joined Daniel Marshall and wife Martha (Stearns' sister), who were already active in a Baptist church there. On November 22, 1755, Stearns and his party moved further south to Sandy Creek, in Guilford County, North Carolina. This party consisted of eight men and their wives, mostly relatives of Stearns. Stearns pastored at Sandy Creek until his death. From there, Separate Baptists spread in the South. The church quickly grew from 16 members to 606. Church members moved to other areas and started other churches. The Sandy Creek Association was formed in 1758. Morgan Edwards, Baptist minister and historian contemporary with Stearns, recorded that, ""in 17 years, [Sandy Creek] has spread its branches westward as far as the great river Mississippi; southward as far as Georgia; eastward to the sea and Chesopeck [sic] Bay; and northward to the waters of the Pottowmack [sic]; it, in 17 years, is become mother, grandmother, and great grandmother to 42 churches, from which sprang 125 ministers.""For a time these Baptists remained somewhat distinct from the Regular Baptists. They were in the main in agreement with the Regulars, but holding to some minor points of difference. According to Edwards, ""These are called Separates, not because they withdrew from the Regular-baptists but because they have hitherto declined any union with them. The faith and order of both are the same, except some trivial matters not sufficient to support a distinction, but less a disunion; for both avow the Century-Confession and the annexed discipline.""One distinction was in the number of ordinances or rites observed by the Separates. The nine rites were baptism, the Lord's supper, love feasts, laying on of hands, washing feet, anointing the sick, the right hand of fellowship, kiss of charity, and devoting children. Not all the churches practiced all nine of these, but most churches practiced more than the two ordinances generally held by the Regular Baptists — baptism and the Lord's supper.With the exception of the Separate Baptists in Christ, the denominational name Separate Baptist disappeared in many areas of the country with the formal and informal agreements of union between the Regular Baptists and Separate Baptists, beginning in Virginia in 1787, in the Carolinas in 1789, and in Kentucky in 1797 & 1801. As recorded by Benedict, the conclusion of the terms of union in Virginia stated, ""...we are united, and desire hereafter, that the names Regular and Separate be buried in oblivion; and that from henceforth, we shall be known by the name of the United Baptist Churches, in Virginia.""Descendants of the Separate Baptists include the Separate Baptists in Christ, Landmark Missionary Baptists, Primitive Baptists, Southern Baptists, United Baptists, and The General Association of Baptists.Separate Baptists are particularly visible in Kentucky, where a member of the denomination, Vernie McGaha of Russell Springs, served in the state senate.",Correct,61,95.24820232391356,39
+http://dbpedia.org/resource/Raúl_Silva_Henríquez,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:20th-century_Roman_Catholic_archbishops,Correct,62,167.7504608631134,39
+http://dbpedia.org/resource/Raúl_Silva_Henríquez,http://dbpedia.org/property/offstyle,Your Eminence,Correct,62,167.7504608631134,39
+http://dbpedia.org/resource/Raúl_Silva_Henríquez,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Raúl_Silva_Henríquez,I Don't Know,62,167.7504608631134,39
+http://dbpedia.org/resource/Raúl_Silva_Henríquez,http://dbpedia.org/ontology/deathYear,1999,Correct,62,167.7504608631134,39
+http://dbpedia.org/resource/Raúl_Silva_Henríquez,http://dbpedia.org/property/title,Bishop of Valparaíso,Incorrect,62,167.7504608631134,39
+http://dbpedia.org/resource/Brooks_School,http://www.w3.org/2000/01/rdf-schema#label,Brooks School,Correct,63,130.9027361869812,39
+http://dbpedia.org/resource/Brooks_School,http://dbpedia.org/property/schooltype,http://dbpedia.org/resource/Boarding_school,Correct,63,130.9027361869812,39
+http://dbpedia.org/resource/Brooks_School,http://dbpedia.org/ontology/endowment,5.8E7,I Don't Know,63,130.9027361869812,39
+"http://dbpedia.org/resource/St_David's_Church,_Barmouth",http://dbpedia.org/ontology/architect,"http://dbpedia.org/resource/Edward_Haycock,_Sr.",Correct,64,29.106733083724976,39
+http://dbpedia.org/resource/Johnny_Maestro_&_the_Brooklyn_Bridge,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Incorrect,65,3.787307024002075,39
+http://dbpedia.org/resource/Military_Ordinariate_of_Portugal,http://dbpedia.org/property/name,Military Ordinariate of Portugal,Correct,66,202.4604339599609,39
+http://dbpedia.org/resource/Military_Ordinariate_of_Portugal,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Roman_Catholic_dioceses_in_Portugal,Incorrect,66,202.4604339599609,39
+http://dbpedia.org/resource/Military_Ordinariate_of_Portugal,http://xmlns.com/foaf/0.1/name,Military Ordinariate of Portugal,Correct,66,202.4604339599609,39
+http://dbpedia.org/resource/Military_Ordinariate_of_Portugal,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Roman_Catholic_Military_Ordinariates,Correct,66,202.4604339599609,39
+http://dbpedia.org/resource/Military_Ordinariate_of_Portugal,http://xmlns.com/foaf/0.1/name,Ordinariato Castrense de Portugal,Correct,66,202.4604339599609,39
+http://dbpedia.org/resource/The_Secret_of_the_Whistler,http://dbpedia.org/property/country,United States,Correct,67,49.662830114364624,39
+http://dbpedia.org/resource/The_Secret_of_the_Whistler,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_mystery_films,Correct,67,49.662830114364624,39
+http://dbpedia.org/resource/The_Secret_of_the_Whistler,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Film_noir,Correct,67,49.662830114364624,39
+http://dbpedia.org/resource/The_Secret_of_the_Whistler,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1940s_mystery_films,Correct,67,49.662830114364624,39
+http://dbpedia.org/resource/The_Secret_of_the_Whistler,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1946_films,Correct,67,49.662830114364624,39
+http://dbpedia.org/resource/Alps_Electric,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/Alpine_Electronics,Correct,68,470.91425609588623,39
+http://dbpedia.org/resource/Alps_Electric,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/Cirque_Corporation,Correct,68,470.91425609588623,39
+http://dbpedia.org/resource/Charlie_Chester,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland,Correct,69,138.7705683708191,39
+http://dbpedia.org/resource/Hellville_de_Luxe,http://dbpedia.org/property/nosales,yes,I Don't Know,70,592.0211889743805,39
+http://dbpedia.org/resource/Hellville_de_Luxe,http://dbpedia.org/property/nextAlbum,Las Consecuencias,Correct,70,592.0211889743805,39
+http://dbpedia.org/resource/Hellville_de_Luxe,http://dbpedia.org/property/length,276.0,I Don't Know,70,592.0211889743805,39
+http://dbpedia.org/resource/Hellville_de_Luxe,http://dbpedia.org/property/length,249.0,I Don't Know,70,592.0211889743805,39
+http://dbpedia.org/resource/Hellville_de_Luxe,http://dbpedia.org/property/artist,Enrique Bunbury,Correct,70,592.0211889743805,39
+http://dbpedia.org/resource/Turn_10_Studios,http://dbpedia.org/property/foundation,2001,Correct,71,941.8772552013396,39
+http://dbpedia.org/resource/Turn_10_Studios,http://xmlns.com/foaf/0.1/homepage,http://www.forzamotorsport.net/en-us/turn10,Incorrect,71,941.8772552013396,39
+http://dbpedia.org/resource/Turn_10_Studios,http://dbpedia.org/property/industry,http://dbpedia.org/resource/Video_game_industry,Correct,71,941.8772552013396,39
+http://dbpedia.org/resource/Turn_10_Studios,http://dbpedia.org/property/products,Forza Motorsport,Correct,71,941.8772552013396,39
+http://dbpedia.org/resource/Turn_10_Studios,http://dbpedia.org/property/keyPeople,Phil Frazier,Incorrect,71,941.8772552013396,39
+http://dbpedia.org/resource/South_Leith_Parish_Church,http://xmlns.com/foaf/0.1/page,http://www.slpc.co.uk/html/aboutus_church.html,I Don't Know,72,49.99245882034302,39
+http://dbpedia.org/resource/Eastern_Orthodox_Church,http://www.w3.org/2000/01/rdf-schema#label,Eastern Orthodox Church,Correct,73,4.773836135864258,39
+http://dbpedia.org/resource/WXKB,http://www.w3.org/2000/01/rdf-schema#comment,"WXKB is a commercial radio station located in Cape Coral, Florida, broadcasting to Fort Myers and Naples, Florida on 103.9 FM.  WXKB airs a Rhythmic Top 40 music format branded as ""B-103.9 All The Hits"", sometimes called ""The Killer B"".",Correct,74,1186.996906042099,39
+http://dbpedia.org/resource/WXKB,http://dbpedia.org/ontology/abstract,"WXKB is a commercial radio station located in Cape Coral, Florida, broadcasting to Fort Myers and Naples, Florida on 103.9 FM.  WXKB airs a Rhythmic Top 40 music format branded as ""B-103.9 All The Hits"", sometimes called ""The Killer B"".",Correct,74,1186.996906042099,39
+http://dbpedia.org/resource/WXKB,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Rhythmic_contemporary_radio_stations_in_the_United_States,Incorrect,74,1186.996906042099,39
+http://dbpedia.org/resource/WXKB,http://dbpedia.org/property/webcast,http://b1039.com/streamer/,I Don't Know,74,1186.996906042099,39
+http://dbpedia.org/resource/WXKB,http://dbpedia.org/ontology/broadcastStationClass,C,Correct,74,1186.996906042099,39
+http://dbpedia.org/resource/The_Whispers,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Incorrect,75,4.884533166885376,39
+http://dbpedia.org/resource/Jeremy_Messersmith,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Incorrect,76,3.3980700969696045,39
+http://dbpedia.org/resource/Nedor_Publishing,http://dbpedia.org/property/companyName,Nedor Publishing,I Don't Know,77,106.12226605415344,39
+http://dbpedia.org/resource/Nedor_Publishing,http://dbpedia.org/ontology/parentCompany,http://dbpedia.org/resource/Ned_Pines,Incorrect,77,106.12226605415344,39
+http://dbpedia.org/resource/Nedor_Publishing,http://dbpedia.org/property/imprints,http://dbpedia.org/resource/Standard_Comics,Correct,77,106.12226605415344,39
+http://dbpedia.org/resource/Nedor_Publishing,http://dbpedia.org/property/headquarters,New York City,Correct,77,106.12226605415344,39
+http://dbpedia.org/resource/Nedor_Publishing,http://dbpedia.org/property/parent,http://dbpedia.org/resource/Ned_Pines,Correct,77,106.12226605415344,39
+http://dbpedia.org/resource/The_Cossacks_(1961_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Soviet_films,Correct,78,24.545273065567017,39
+http://dbpedia.org/resource/The_Cossacks_(1961_film),http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Correct,78,24.545273065567017,39
+http://dbpedia.org/resource/The_Cossacks_(1961_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Russian-language_films,Correct,78,24.545273065567017,39
+http://dbpedia.org/resource/Junior_Cook,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Incorrect,79,10.92742133140564,39
+http://dbpedia.org/resource/Qiaoqi_Dam,http://dbpedia.org/ontology/part,http://dbpedia.org/resource/Qiaoqi_Dam__2,I Don't Know,80,52.13050293922424,39
+http://dbpedia.org/resource/Qiaoqi_Dam,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/China,Correct,80,52.13050293922424,39
+http://dbpedia.org/resource/Dell,http://www.w3.org/2000/01/rdf-schema#label,Dell,Correct,81,199.81756210327148,39
+http://dbpedia.org/resource/Dell,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/Alienware,Correct,81,199.81756210327148,39
+http://dbpedia.org/resource/Dell,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/Perot_Systems,Correct,81,199.81756210327148,39
+http://dbpedia.org/resource/Dell,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/Force10,Incorrect,81,199.81756210327148,39
+http://dbpedia.org/resource/Dell,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/SonicWall,Correct,81,199.81756210327148,39
+http://dbpedia.org/resource/Gilbert_Belnap,http://dbpedia.org/ontology/deathPlace,"http://dbpedia.org/resource/Hooper,_Utah",Correct,82,17.222352743148804,39
+http://dbpedia.org/resource/Rentrak,http://dbpedia.org/property/type,http://dbpedia.org/resource/Public_company,Correct,83,10734.06442284584,39
+http://dbpedia.org/resource/Rentrak,http://xmlns.com/foaf/0.1/homepage,http://www.rentrak.com/,I Don't Know,83,10734.06442284584,39
+http://dbpedia.org/resource/Rentrak,http://dbpedia.org/property/locationCountry,http://dbpedia.org/resource/United_States,Correct,83,10734.06442284584,39
+http://dbpedia.org/resource/Rentrak,http://dbpedia.org/property/industry,Media Measurement,Correct,83,10734.06442284584,39
+http://dbpedia.org/resource/Rentrak,http://dbpedia.org/ontology/keyPerson,http://dbpedia.org/resource/Chief_information_officer,Correct,83,10734.06442284584,39
+"http://dbpedia.org/resource/Emerson,_Lake_&_Palmer_(album)",http://dbpedia.org/ontology/artist,"http://dbpedia.org/resource/Emerson,_Lake_&_Palmer",Correct,84,55.386895179748535,39
+http://dbpedia.org/resource/Marcus_Rose,http://dbpedia.org/ontology/university,"http://dbpedia.org/resource/Magdalene_College,_Cambridge",Correct,85,111.32297801971436,39
+http://dbpedia.org/resource/Marcus_Rose,http://dbpedia.org/ontology/university,http://dbpedia.org/resource/Durham_University,Correct,85,111.32297801971436,39
+http://dbpedia.org/resource/Marcus_Rose,http://dbpedia.org/ontology/school,http://dbpedia.org/resource/Loughborough_Grammar_School,Correct,85,111.32297801971436,39
+http://dbpedia.org/resource/Frozen_Assets_(novel),http://dbpedia.org/ontology/publicationDate,1964-07-14,Correct,86,58.647438049316406,39
+http://dbpedia.org/resource/Diocese_of_Shirak,http://dbpedia.org/ontology/territory,http://dbpedia.org/resource/Shirak_Province,Correct,87,4353.2865488529205,39
+http://dbpedia.org/resource/Diocese_of_Shirak,http://www.w3.org/2000/01/rdf-schema#label,Diocese of Shirak,Correct,87,4353.2865488529205,39
+http://dbpedia.org/resource/Diocese_of_Shirak,http://dbpedia.org/ontology/established,4 September 1920,Incorrect,87,4353.2865488529205,39
+http://dbpedia.org/resource/Ibrahim_Pasha_of_Egypt,http://dbpedia.org/ontology/placeOfBurial,http://dbpedia.org/resource/Cairo,Correct,88,130.63223600387573,39
+http://dbpedia.org/resource/Ibrahim_Pasha_of_Egypt,http://dbpedia.org/ontology/placeOfBurial,http://dbpedia.org/resource/Egypt,Correct,88,130.63223600387573,39
+http://dbpedia.org/resource/Oliver_Parker,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English_film_directors,Correct,89,89.51780200004578,39
+http://dbpedia.org/resource/Oliver_Parker,http://dbpedia.org/property/dateOfBirth,1960-09-06,Correct,89,89.51780200004578,39
+http://dbpedia.org/resource/Oliver_Parker,http://dbpedia.org/property/shortDescription,British film director and screenwriter,Correct,89,89.51780200004578,39
+http://dbpedia.org/resource/Oliver_Parker,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Director,Correct,89,89.51780200004578,39
+http://dbpedia.org/resource/Oliver_Parker,http://dbpedia.org/ontology/birthYear,1960,Correct,89,89.51780200004578,39
+http://dbpedia.org/resource/Jneiro_Jarel,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Incorrect,90,14.825671911239624,39
+http://dbpedia.org/resource/William_Petty,http://dbpedia.org/ontology/era,http://dbpedia.org/resource/17th-century_philosophy,Correct,91,223.6665892601013,39
+http://dbpedia.org/resource/William_Petty,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Karl_Marx,Correct,91,223.6665892601013,39
+http://dbpedia.org/resource/William_Petty,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Bernard_Mandeville,Correct,91,223.6665892601013,39
+http://dbpedia.org/resource/Dombivli_railway_station,http://dbpedia.org/ontology/owningOrganisation,http://dbpedia.org/resource/Ministry_of_Railways_(India),Correct,92,123.68916201591492,39
+http://dbpedia.org/resource/Dombivli_railway_station,http://dbpedia.org/property/zone,http://dbpedia.org/resource/Central_Railways,Correct,92,123.68916201591492,39
+http://dbpedia.org/resource/Dombivli_railway_station,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Mumbai_Suburban_Railway_stations,Correct,92,123.68916201591492,39
+http://dbpedia.org/resource/Dombivli_railway_station,http://dbpedia.org/property/owned,http://dbpedia.org/resource/Indian_Railways,Incorrect,92,123.68916201591492,39
+http://dbpedia.org/resource/Dombivli_railway_station,http://dbpedia.org/property/type,Mumbai Suburban Railway station,Correct,92,123.68916201591492,39
+http://dbpedia.org/resource/St._Louis_Car_Company,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/St._Louis_Aircraft_Corporation,Incorrect,93,213.00475907325745,39
+http://dbpedia.org/resource/A_Lowland_Cinderella,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_films,Correct,94,186.2930119037628,39
+http://dbpedia.org/resource/A_Lowland_Cinderella,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:British_films,Correct,94,186.2930119037628,39
+http://dbpedia.org/resource/A_Lowland_Cinderella,http://dbpedia.org/property/language,English intertitles,Correct,94,186.2930119037628,39
+http://dbpedia.org/resource/A_Lowland_Cinderella,http://dbpedia.org/property/country,United Kingdom,Correct,94,186.2930119037628,39
+http://dbpedia.org/resource/A_Lowland_Cinderella,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Black-and-white_films,Correct,94,186.2930119037628,39
+http://dbpedia.org/resource/The_Blue_Kite,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_set_in_Beijing,Correct,95,122.04681205749512,39
+http://dbpedia.org/resource/The_Blue_Kite,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_about_the_Cultural_Revolution,Correct,95,122.04681205749512,39
+http://dbpedia.org/resource/The_Blue_Kite,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Correct,95,122.04681205749512,39
+http://dbpedia.org/resource/The_Blue_Kite,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Political_drama_films,Correct,95,122.04681205749512,39
+http://dbpedia.org/resource/The_Blue_Kite,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_set_in_the_1960s,Incorrect,95,122.04681205749512,39
+http://dbpedia.org/resource/Jennifer_Berry,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Houston,Correct,96,1082.4314558506012,39
+http://dbpedia.org/resource/Billy_Two_Hats,http://xmlns.com/foaf/0.1/name,Billy Two Hats,Correct,97,76483.75384783745,39
+http://dbpedia.org/resource/Billy_Two_Hats,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/United_States,Correct,97,76483.75384783745,39
+http://dbpedia.org/resource/Billy_Two_Hats,http://dbpedia.org/property/writer,http://dbpedia.org/resource/Alan_Sharp,Correct,97,76483.75384783745,39
+http://dbpedia.org/resource/Billy_Two_Hats,http://dbpedia.org/property/language,English,Correct,97,76483.75384783745,39
+http://dbpedia.org/resource/Billy_Two_Hats,http://dbpedia.org/property/music,http://dbpedia.org/resource/John_Scott_(composer),Correct,97,76483.75384783745,39
+http://dbpedia.org/resource/Silicon_Graphics,http://dbpedia.org/property/date,20090327194141,I Don't Know,98,241.1516571044922,40
+http://dbpedia.org/resource/Silicon_Graphics,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Silicon_Graphics,Correct,98,241.1516571044922,40
+http://dbpedia.org/resource/Silicon_Graphics,http://dbpedia.org/property/defunct,May 2009,Correct,98,241.1516571044922,40
+http://dbpedia.org/resource/Silicon_Graphics,http://dbpedia.org/property/url,//www.sgi.com,I Don't Know,98,241.1516571044922,40
+http://dbpedia.org/resource/Silicon_Graphics,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Computer_companies_of_the_United_States,Correct,98,241.1516571044922,40
+http://dbpedia.org/resource/Stone_Poneys,http://dbpedia.org/property/pastMembers,Bill Martin,Correct,99,1019.974809885025,40
+http://dbpedia.org/resource/Stone_Poneys,http://dbpedia.org/property/pastMembers,http://dbpedia.org/resource/Linda_Ronstadt,Correct,99,1019.974809885025,40
+http://dbpedia.org/resource/Stone_Poneys,http://dbpedia.org/property/pastMembers,Kit Alderson,Correct,99,1019.974809885025,40
+http://dbpedia.org/resource/Stone_Poneys,http://dbpedia.org/property/pastMembers,Shep Cooke,Correct,99,1019.974809885025,40
+http://dbpedia.org/resource/Stone_Poneys,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Country_rock,Incorrect,99,1019.974809885025,40
+http://dbpedia.org/resource/WPKN,http://www.georss.org/georss/point,41.279 -73.185,I Don't Know,100,183.1847307682037,40
+http://dbpedia.org/resource/WPKN,http://dbpedia.org/property/airdate,1963,Correct,100,183.1847307682037,40
+http://dbpedia.org/resource/WPKN,http://dbpedia.org/property/callsignMeaning,W Purple Knights Network,Incorrect,100,183.1847307682037,40
+http://dbpedia.org/resource/WPKN,http://dbpedia.org/property/name,WPKN,Correct,100,183.1847307682037,40
+http://dbpedia.org/resource/WPKN,http://xmlns.com/foaf/0.1/name,WPKN,Correct,100,183.1847307682037,40
+http://dbpedia.org/resource/The_Blue_Racer,http://dbpedia.org/ontology/portrayer,http://dbpedia.org/resource/Bob_Holt_(actor),Incorrect,101,43.60097885131836,40
+http://dbpedia.org/resource/National_Library_of_Poland,http://dbpedia.org/ontology/abstract,"The National Library of Poland (Polish: Biblioteka Narodowa) is the central Polish library, subject directly to the Ministry of Culture and National Heritage of the Republic of Poland.The library collects books, journals, electronic and audiovisual publications published in the territory of Poland, as well as Polonica published abroad. It is the most important humanities research library, the main archive of Polish writing and the state centre of bibliographic information about books. It also plays a significant role as a research facility and is an important methodological center for other Polish libraries.The National Library receives a copy of every book published in Poland as legal deposit. The Jagiellonian Library is the only other library in Poland to have a national library status.",Correct,102,136.87297582626343,40
+http://dbpedia.org/resource/National_Library_of_Poland,http://www.w3.org/2000/01/rdf-schema#label,National Library of Poland,Correct,102,136.87297582626343,40
+http://dbpedia.org/resource/Milo_Andrus,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/Milo_Andrus_1890.jpg,Correct,103,188.2507152557373,40
+http://dbpedia.org/resource/Milo_Andrus,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_Mormon_missionaries_in_the_United_Kingdom,Correct,103,188.2507152557373,40
+http://dbpedia.org/resource/Milo_Andrus,http://dbpedia.org/ontology/deathDate,1893-06-19,Correct,103,188.2507152557373,40
+http://dbpedia.org/resource/Milo_Andrus,http://dbpedia.org/property/name,Milo Andrus,Correct,103,188.2507152557373,40
+http://dbpedia.org/resource/Milo_Andrus,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:19th-century_Mormon_missionaries,Correct,103,188.2507152557373,40
+http://dbpedia.org/resource/Ajinomoto,http://dbpedia.org/ontology/product,http://dbpedia.org/resource/Pharmaceutical_drug,Correct,104,12284.087563991548,40
+http://dbpedia.org/resource/Ajinomoto,http://www.w3.org/2000/01/rdf-schema#label,Ajinomoto,Correct,104,12284.087563991548,40
+http://dbpedia.org/resource/Michaela_Paetsch,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Incorrect,105,36.61640119552612,40
+http://dbpedia.org/resource/The_Sky_Ranger,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Black-and-white_films,Correct,106,108.52667212486269,40
+http://dbpedia.org/resource/The_Sky_Ranger,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-movie-noun-1,I Don't Know,106,108.52667212486269,40
+http://dbpedia.org/resource/The_Sky_Ranger,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,106,108.52667212486269,40
+http://dbpedia.org/resource/The_Sky_Ranger,http://dbpedia.org/property/country,United States,Correct,106,108.52667212486269,40
+http://dbpedia.org/resource/The_Sky_Ranger,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_comedy_films,Correct,106,108.52667212486269,40
+http://dbpedia.org/resource/Kill_Sadie,http://dbpedia.org/ontology/associatedMusicalArtist,http://dbpedia.org/resource/Pretty_Girls_Make_Graves,Incorrect,107,139.5254831314087,40
+http://dbpedia.org/resource/Kill_Sadie,http://dbpedia.org/ontology/associatedBand,http://dbpedia.org/resource/Pretty_Girls_Make_Graves,Correct,107,139.5254831314087,40
+http://dbpedia.org/resource/Kill_Sadie,http://xmlns.com/foaf/0.1/name,Kill Sadie,Correct,107,139.5254831314087,40
+http://dbpedia.org/resource/Marina_Bay_MRT_Station,http://dbpedia.org/property/structure,Underground,Correct,108,292.07878828048706,40
+http://dbpedia.org/resource/Marina_Bay_MRT_Station,http://xmlns.com/foaf/0.1/name,滨海湾地铁站,Correct,108,292.07878828048706,40
+http://dbpedia.org/resource/Marina_Bay_MRT_Station,http://dbpedia.org/ontology/numberOfTracks,4,Incorrect,108,292.07878828048706,40
+http://dbpedia.org/resource/Marina_Bay_MRT_Station,http://dbpedia.org/ontology/railwayPlatforms,Island (North South & Circle Lines),Correct,108,292.07878828048706,40
+http://dbpedia.org/resource/Marina_Bay_MRT_Station,http://dbpedia.org/property/name,25,Incorrect,108,292.07878828048706,40
+http://dbpedia.org/resource/Costanzo_Preve,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Piedmont,Correct,109,379.6959929466248,40
+http://dbpedia.org/resource/Costanzo_Preve,http://dbpedia.org/ontology/era,http://dbpedia.org/resource/20th-century_philosophy,Correct,109,379.6959929466248,40
+http://dbpedia.org/resource/Casa_Lleó_Morera,http://dbpedia.org/property/location,http://dbpedia.org/resource/Catalonia,Correct,110,53.196457862854,40
+http://dbpedia.org/resource/Casa_Lleó_Morera,http://dbpedia.org/property/startDate,c. 1902,Correct,110,53.196457862854,40
+http://dbpedia.org/resource/Casa_Lleó_Morera,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Catalonia,Correct,110,53.196457862854,40
+http://dbpedia.org/resource/Sociedad_Hispano-Marroquí_de_Transportes,http://dbpedia.org/ontology/foundationPlace,http://dbpedia.org/resource/Tétouan,Correct,111,53.48359394073486,40
+http://dbpedia.org/resource/Privilege_Ibiza,http://www.georss.org/georss/point,38.95777777777778 1.4080555555555556,I Don't Know,112,60.47410893440247,40
+http://dbpedia.org/resource/Privilege_Ibiza,http://www.w3.org/2000/01/rdf-schema#label,Privilege Ibiza,Correct,112,60.47410893440247,40
+http://dbpedia.org/resource/Privilege_Ibiza,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Privilege_Ibiza,Correct,112,60.47410893440247,40
+http://dbpedia.org/resource/Privilege_Ibiza,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Privilege_Ibiza,I Don't Know,112,60.47410893440247,40
+http://dbpedia.org/resource/Privilege_Ibiza,http://www.w3.org/2000/01/rdf-schema#comment,"Privilege Ibiza is the ""world's largest nightclub"" according to the Guinness Book of Records, with a capacity of 10,000 people. It is located not far from San Rafael, Ibiza, less than 1 km from the nightclub Amnesia. For fourteen years, Privilege hosted Manumission, one of the island's most famous events. After a dispute between the club owner and Manumission's organizers, the event moved to Amnesia.Originally called Ku, Privilege was a restaurant in the 1970s.",Correct,112,60.47410893440247,40
+http://dbpedia.org/resource/Matti_Manushulu,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1990_films,Correct,113,36.671189069747925,40
+http://dbpedia.org/resource/Matti_Manushulu,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Indian_films,Correct,113,36.671189069747925,40
+http://dbpedia.org/resource/Matti_Manushulu,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Telugu-language_films,Correct,113,36.671189069747925,40
+http://dbpedia.org/resource/Matti_Manushulu,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_about_social_issues_in_India,Correct,113,36.671189069747925,40
+http://dbpedia.org/resource/Famous_Studios,http://dbpedia.org/ontology/keyPerson,http://dbpedia.org/resource/Howard_Post,Correct,114,280.1685402393341,40
+http://dbpedia.org/resource/Famous_Studios,http://dbpedia.org/ontology/keyPerson,http://dbpedia.org/resource/Dan_Gordon_(animator),Correct,114,280.1685402393341,40
+http://dbpedia.org/resource/Famous_Studios,http://dbpedia.org/ontology/keyPerson,http://dbpedia.org/resource/Shamus_Culhane,Incorrect,114,280.1685402393341,40
+http://dbpedia.org/resource/Famous_Studios,http://dbpedia.org/ontology/foundingDate,1942-05-25,Incorrect,114,280.1685402393341,40
+http://dbpedia.org/resource/Famous_Studios,http://dbpedia.org/ontology/keyPerson,http://dbpedia.org/resource/Isadore_Sparber,Correct,114,280.1685402393341,40
+"http://dbpedia.org/resource/McAuley_Catholic_High_School_(Joplin,_Missouri)",http://dbpedia.org/property/newspaper,McAuley Times,Incorrect,115,149.19050192832947,40
+"http://dbpedia.org/resource/McAuley_Catholic_High_School_(Joplin,_Missouri)",http://dbpedia.org/property/type,http://dbpedia.org/resource/Private_school,Correct,115,149.19050192832947,40
+"http://dbpedia.org/resource/McAuley_Catholic_High_School_(Joplin,_Missouri)",http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Buildings_and_structures_in_Joplin,_Missouri",Correct,115,149.19050192832947,40
+"http://dbpedia.org/resource/McAuley_Catholic_High_School_(Joplin,_Missouri)",http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Education_in_Joplin,_Missouri",Correct,115,149.19050192832947,40
+"http://dbpedia.org/resource/McAuley_Catholic_High_School_(Joplin,_Missouri)",http://xmlns.com/foaf/0.1/homepage,http://www.jacss.org/mcauley_default.html,I Don't Know,115,149.19050192832947,40
+http://dbpedia.org/resource/Red_Courage,http://dbpedia.org/property/country,United States,Correct,116,320.4787788391113,40
+http://dbpedia.org/resource/Red_Courage,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Black-and-white_films,Correct,116,320.4787788391113,40
+http://dbpedia.org/resource/Red_Courage,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_silent_feature_films,Correct,116,320.4787788391113,40
+http://dbpedia.org/resource/Red_Courage,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,116,320.4787788391113,40
+http://dbpedia.org/resource/Espera,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/Spain,Correct,117,25.8882908821106,40
+http://dbpedia.org/resource/24_Hour_Party_People,http://dbpedia.org/property/starring,http://dbpedia.org/resource/Andy_Serkis,Correct,118,103.97934103012084,40
+http://dbpedia.org/resource/24_Hour_Party_People,http://www.w3.org/2000/01/rdf-schema#label,24 Hour Party People,Correct,118,103.97934103012084,40
+http://dbpedia.org/resource/24_Hour_Party_People,http://dbpedia.org/ontology/abstract,"24 Hour Party People (FAC-401) is a 2002 British comedy-drama film about Manchester's popular music community from 1976 to 1992, and specifically about Factory Records. It was written by Frank Cottrell Boyce and directed by Michael Winterbottom. The film was entered into the 2002 Cannes Film Festival. It received positive reviews.It begins with the punk rock era of the late 1970s and moves through the 1980s into the ""Madchester"" scene of the late 1980s and early 1990s. The main character is Tony Wilson (played by Steve Coogan), a news reporter for Granada Television and the head of Factory Records. The narrative largely follows his career, while also covering the major Factory artists, especially Joy Division and New Order, A Certain Ratio, The Durutti Column and Happy Mondays.The film is a dramatisation based on a combination of real events, rumours, urban legends, and the imaginings of the scriptwriter – as the film makes clear. In one scene, one-time Buzzcocks member Howard Devoto (played by Martin Hancock) is shown having sex with Wilson's first wife in the toilets of a club; the real Devoto, an extra in the scene, turns to the camera and says, ""I definitely don't remember this happening"". The fourth wall is frequently broken, with Wilson (who also acts as the narrator) frequently commenting on events directly to camera as they occur, at one point declaring that he is ""being postmodern, before it's fashionable"". The actors are often intercut with real contemporary concert footage, including the Sex Pistols gig at the Lesser Free Trade Hall.",Correct,118,103.97934103012084,40
+http://dbpedia.org/resource/Pazuzu_(The_Exorcist),http://dbpedia.org/ontology/portrayer,http://dbpedia.org/resource/Linda_Blair,Incorrect,119,251.8572838306427,40
+http://dbpedia.org/resource/Pazuzu_(The_Exorcist),http://dbpedia.org/ontology/portrayer,http://dbpedia.org/resource/Colleen_Dewhurst,Incorrect,119,251.8572838306427,40
+http://dbpedia.org/resource/Pazuzu_(The_Exorcist),http://dbpedia.org/ontology/portrayer,http://dbpedia.org/resource/Mary_Beth_Hurt,Incorrect,119,251.8572838306427,40
+http://dbpedia.org/resource/Pazuzu_(The_Exorcist),http://dbpedia.org/ontology/portrayer,http://dbpedia.org/resource/Eileen_Dietz,Correct,119,251.8572838306427,40
+http://dbpedia.org/resource/Pazuzu_(The_Exorcist),http://dbpedia.org/ontology/portrayer,http://dbpedia.org/resource/Rupert_Degas,Incorrect,119,251.8572838306427,40
+http://dbpedia.org/resource/Bernard_Mary_of_Jesus,http://dbpedia.org/property/deathDate,1911-12-09,Correct,120,124.82253909111024,40
+http://dbpedia.org/resource/Bernard_Mary_of_Jesus,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Bernard_Mary_of_Jesus,Correct,120,124.82253909111024,40
+http://dbpedia.org/resource/Bernard_Mary_of_Jesus,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Bernardo02.jpg?width=300,Correct,120,124.82253909111024,40
+http://dbpedia.org/resource/Bernard_Mary_of_Jesus,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Italian_beatified_people,Correct,120,124.82253909111024,40
+http://dbpedia.org/resource/Bernard_Mary_of_Jesus,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:People_from_Rome,Correct,120,124.82253909111024,40
+http://dbpedia.org/resource/Greg_Davis_(musician),http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Incorrect,121,20.321476697921756,40
+http://dbpedia.org/resource/Mechel_Scheuer,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Frankfurt_am_Main,Correct,122,58.67616319656372,40
+http://dbpedia.org/resource/Mechel_Scheuer,http://dbpedia.org/property/placeOfBirth,http://dbpedia.org/resource/Frankfurt_am_Main,Correct,122,58.67616319656372,40
+http://dbpedia.org/resource/Little_Red_Riding_Hood's_Zombie_BBQ,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2008_video_games,Correct,123,70345.98892903328,40
+http://dbpedia.org/resource/Little_Red_Riding_Hood's_Zombie_BBQ,http://xmlns.com/foaf/0.1/homepage,http://www.gammickentertainment.com/zombie,I Don't Know,123,70345.98892903328,40
+http://dbpedia.org/resource/Little_Red_Riding_Hood's_Zombie_BBQ,http://dbpedia.org/property/released,--10-21,Incorrect,123,70345.98892903328,40
+http://dbpedia.org/resource/Little_Red_Riding_Hood's_Zombie_BBQ,http://dbpedia.org/property/platforms,"Nintendo DS, Nintendo DSi",Correct,123,70345.98892903328,40
+http://dbpedia.org/resource/Little_Red_Riding_Hood's_Zombie_BBQ,http://dbpedia.org/property/developer,EnjoyUp,Correct,123,70345.98892903328,40
+http://dbpedia.org/resource/Bali_Kingdom,http://www.w3.org/2000/01/rdf-schema#label,Bali Kingdom,Correct,124,25.164082288742065,41
+http://dbpedia.org/resource/Neue_Staatsgalerie,http://dbpedia.org/ontology/abstract,"The Neue Staatsgalerie in Stuttgart, Germany, was designed by the British firm James Stirling, Michael Wilford and Associates, although largely accredited solely to partner James Stirling.  It was constructed in the 1970s and opened to the public in 1984. The building has been claimed as the epitome of Post-modernism.",Correct,125,75.50644421577454,41
+http://dbpedia.org/resource/Neue_Staatsgalerie,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Staatsgalerie_Stuttgart_bei_Nacht.jpg?width=300,Correct,125,75.50644421577454,41
+http://dbpedia.org/resource/Maurice_Barrès,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/François_Mauriac,Correct,126,272.73767495155334,41
+http://dbpedia.org/resource/Maurice_Barrès,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Léon_Daudet,Incorrect,126,272.73767495155334,41
+http://dbpedia.org/resource/Maurice_Barrès,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Jacques_Maritain,Incorrect,126,272.73767495155334,41
+http://dbpedia.org/resource/Maurice_Barrès,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Georges_Bernanos,Incorrect,126,272.73767495155334,41
+http://dbpedia.org/resource/James_Donald,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Aberdeen,Correct,127,69.77255582809448,41
+http://dbpedia.org/resource/James_Donald,http://dbpedia.org/property/placeOfDeath,http://dbpedia.org/resource/Wiltshire,Correct,127,69.77255582809448,41
+http://dbpedia.org/resource/James_Donald,http://dbpedia.org/property/deathPlace,http://dbpedia.org/resource/Wiltshire,Correct,127,69.77255582809448,41
+http://dbpedia.org/resource/James_Donald,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Scotland,Correct,127,69.77255582809448,41
+http://dbpedia.org/resource/Tate_Donovan,http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Tenafly,_New_Jersey",Correct,128,67.85950803756714,41
+http://dbpedia.org/resource/Maradona_by_Kusturica,http://www.w3.org/2000/01/rdf-schema#label,Maradona by Kusturica,Correct,129,175.03209114074707,41
+http://dbpedia.org/resource/Maradona_by_Kusturica,http://dbpedia.org/ontology/imdbId,0454976,I Don't Know,129,175.03209114074707,41
+http://dbpedia.org/resource/Maradona_by_Kusturica,http://xmlns.com/foaf/0.1/name,Maradona by Kusturica,Correct,129,175.03209114074707,41
+http://dbpedia.org/resource/Maradona_by_Kusturica,http://dbpedia.org/property/studio,Fidélité,Correct,129,175.03209114074707,41
+http://dbpedia.org/resource/Maradona_by_Kusturica,http://dbpedia.org/property/studio,http://dbpedia.org/resource/Mediaset_España_Comunicación,Incorrect,129,175.03209114074707,41
+http://dbpedia.org/resource/Savyasachi_(film),http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Correct,130,18.252521991729736,41
+http://dbpedia.org/resource/Church_of_St._George_(Cairo),http://dbpedia.org/property/website,http://patriarchateofalexandria.com,Correct,131,187.55501198768616,41
+http://dbpedia.org/resource/Church_of_St._George_(Cairo),http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Church_of_St._George_(Cairo),Correct,131,187.55501198768616,41
+http://dbpedia.org/resource/Church_of_St._George_(Cairo),http://dbpedia.org/ontology/abstract,The Church of St. George is a Greek Orthodox church in Coptic Cairo.  The church dates back to the 10th century (or earlier).  The current structure was rebuilt following a 1904 fire.,Correct,131,187.55501198768616,41
+http://dbpedia.org/resource/Church_of_St._George_(Cairo),http://dbpedia.org/property/constructedDate,10,Correct,131,187.55501198768616,41
+http://dbpedia.org/resource/Church_of_St._George_(Cairo),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Old_Cairo,Correct,131,187.55501198768616,41
+http://dbpedia.org/resource/Tom_Grosvenor,http://dbpedia.org/ontology/team,http://dbpedia.org/resource/Stourbridge_F.C.,Incorrect,132,230.04748797416687,41
+http://dbpedia.org/resource/Tom_Grosvenor,http://dbpedia.org/property/clubs,http://dbpedia.org/resource/Birmingham_City_F.C.,Correct,132,230.04748797416687,41
+http://dbpedia.org/resource/Tom_Grosvenor,http://dbpedia.org/ontology/team,http://dbpedia.org/resource/Birmingham_City_F.C.,Incorrect,132,230.04748797416687,41
+http://dbpedia.org/resource/Tom_Grosvenor,http://dbpedia.org/property/clubs,http://dbpedia.org/resource/Stourbridge_F.C.,Correct,132,230.04748797416687,41
+http://dbpedia.org/resource/Daphne_Heard,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Plymouth,Correct,133,23.28717589378357,41
+http://dbpedia.org/resource/Daphne_Heard,http://dbpedia.org/property/placeOfBirth,http://dbpedia.org/resource/Plymouth,Correct,133,23.28717589378357,41
+http://dbpedia.org/resource/Daphne_Heard,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Plymouth,Correct,133,23.28717589378357,41
+http://dbpedia.org/resource/Bishop_Grimes_Junior/Senior_High_School,http://dbpedia.org/property/type,http://dbpedia.org/resource/Coeducational,Correct,134,376.8508701324463,41
+http://dbpedia.org/resource/Bishop_Grimes_Junior/Senior_High_School,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Schools_in_Onondaga_County,_New_York",Correct,134,376.8508701324463,41
+http://dbpedia.org/resource/Bishop_Grimes_Junior/Senior_High_School,http://dbpedia.org/property/country,USA,Correct,134,376.8508701324463,41
+http://dbpedia.org/resource/Bishop_Grimes_Junior/Senior_High_School,http://dbpedia.org/property/type,http://dbpedia.org/resource/Mixed-sex_education,Correct,134,376.8508701324463,41
+http://dbpedia.org/resource/Bishop_Grimes_Junior/Senior_High_School,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Roman_Catholic_Diocese_of_Syracuse,Correct,134,376.8508701324463,41
+http://dbpedia.org/resource/Ohorongo_Cement,http://xmlns.com/foaf/0.1/homepage,http://www.ohorongo-cement.com,Correct,135,81.00592589378357,41
+http://dbpedia.org/resource/Ohorongo_Cement,http://dbpedia.org/ontology/industry,http://dbpedia.org/resource/Cement,Correct,135,81.00592589378357,41
+http://dbpedia.org/resource/Ohorongo_Cement,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Windhoek,Correct,135,81.00592589378357,41
+http://dbpedia.org/resource/Ohorongo_Cement,http://dbpedia.org/property/keyPeople,"Gerhard Hirth, Klaus Bauer, Peter Frank Koep",Correct,135,81.00592589378357,41
+http://dbpedia.org/resource/Ohorongo_Cement,http://dbpedia.org/property/industry,http://dbpedia.org/resource/Cement,Correct,135,81.00592589378357,41
+"http://dbpedia.org/resource/Council_Bluffs,_Iowa",http://dbpedia.org/property/pushpinMap,USA,Correct,136,22712.099005937576,41
+"http://dbpedia.org/resource/Council_Bluffs,_Iowa",http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/List_of_sovereign_states,Incorrect,136,22712.099005937576,41
+"http://dbpedia.org/resource/Council_Bluffs,_Iowa",http://dbpedia.org/ontology/motto,"""Iowa's Spirit""",Correct,136,22712.099005937576,41
+"http://dbpedia.org/resource/Council_Bluffs,_Iowa",http://xmlns.com/foaf/0.1/depiction,"http://commons.wikimedia.org/wiki/Special:FilePath/Council_Bluffs,_IA.jpg",I Don't Know,136,22712.099005937576,41
+"http://dbpedia.org/resource/Council_Bluffs,_Iowa",http://dbpedia.org/property/blank1Name,GNIS feature ID,I Don't Know,136,22712.099005937576,41
+http://dbpedia.org/resource/Romantic_Princess,http://dbpedia.org/ontology/previousWork,http://dbpedia.org/resource/The_Teen_Age,Incorrect,137,159.78712391853333,42
+http://dbpedia.org/resource/Romantic_Princess,http://dbpedia.org/property/showName,Romantic Princess,Correct,137,159.78712391853333,42
+http://dbpedia.org/resource/Romantic_Princess,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-telecast-noun-1,I Don't Know,137,159.78712391853333,42
+http://dbpedia.org/resource/Romantic_Princess,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Romantic_Princess,I Don't Know,137,159.78712391853333,42
+http://dbpedia.org/resource/Romantic_Princess,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Manga-based_Taiwanese_dramas,Correct,137,159.78712391853333,42
+http://dbpedia.org/resource/Pescanova,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/Aliholding,Incorrect,138,133.15781593322754,42
+http://dbpedia.org/resource/Pescanova,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/Fishco,Incorrect,138,133.15781593322754,42
+http://dbpedia.org/resource/Pescanova,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/Acuinova,Correct,138,133.15781593322754,42
+http://dbpedia.org/resource/Archbishopric_of_Bremen,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Basdahl,Incorrect,139,96.3457100391388,42
+http://dbpedia.org/resource/Archbishopric_of_Bremen,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Bremervörde,Incorrect,139,96.3457100391388,42
+http://dbpedia.org/resource/Archbishopric_of_Bremen,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Bremen,Incorrect,139,96.3457100391388,42
+http://dbpedia.org/resource/Archbishopric_of_Bremen,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Reichsthaler,Correct,139,96.3457100391388,42
+http://dbpedia.org/resource/Archbishopric_of_Bremen,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Bremen,Correct,139,96.3457100391388,42
+http://dbpedia.org/resource/Jumex,http://dbpedia.org/ontology/foundingDate,1961-04-27,Correct,140,38.51203107833862,42
+http://dbpedia.org/resource/Jumex,http://dbpedia.org/ontology/keyPerson,http://dbpedia.org/resource/Eugenio_López_Alonso,Correct,140,38.51203107833862,42
+http://dbpedia.org/resource/Leonard_Susskind,http://dbpedia.org/ontology/field,http://dbpedia.org/resource/Physics,Correct,141,44.08732485771179,42
+http://dbpedia.org/resource/Leonard_Susskind,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/New_York,Correct,141,44.08732485771179,42
+http://dbpedia.org/resource/Leonard_Susskind,http://dbpedia.org/ontology/citizenship,http://dbpedia.org/resource/United_States,Correct,141,44.08732485771179,42
+http://dbpedia.org/resource/Leonard_Susskind,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/New_York_City,Correct,141,44.08732485771179,42
+http://dbpedia.org/resource/Leonard_Susskind,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/United_States,Correct,141,44.08732485771179,42
+http://dbpedia.org/resource/Poultrygeist:_Night_of_the_Chicken_Dead,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2006_horror_films,Correct,142,121.62930512428284,42
+http://dbpedia.org/resource/Poultrygeist:_Night_of_the_Chicken_Dead,http://dbpedia.org/ontology/distributor,http://dbpedia.org/resource/Troma_Entertainment,Correct,142,121.62930512428284,42
+http://dbpedia.org/resource/Poultrygeist:_Night_of_the_Chicken_Dead,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:LGBT-related_horror_films,Correct,142,121.62930512428284,42
+http://dbpedia.org/resource/Poultrygeist:_Night_of_the_Chicken_Dead,http://www.w3.org/2000/01/rdf-schema#comment,"Poultrygeist: Night of the Chicken Dead is a 2006 zombie comedy/horror musical-exploitation film from Troma Entertainment, directed by Lloyd Kaufman and co-directed by former long-time Troma editor Gabriel Friedman from a screenplay by Friedman and Daniel Bova. The film opened to positive reviews from Entertainment Weekly, and The New York Times,. Poultrygeist: Night of the Chicken Dead was released in 2006 in theaters and in 2008 on DVD.",Correct,142,121.62930512428284,42
+http://dbpedia.org/resource/Poultrygeist:_Night_of_the_Chicken_Dead,http://dbpedia.org/property/producer,"* Andy Deemer
+*",Incorrect,142,121.62930512428284,42
+http://dbpedia.org/resource/Radio_America_(band),http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Incorrect,143,7.428017854690552,42
+http://dbpedia.org/resource/Dufftown,http://dbpedia.org/ontology/lieutenancyArea,http://dbpedia.org/resource/Banffshire,Correct,144,101.75653219223022,42
+http://dbpedia.org/resource/Dufftown,http://dbpedia.org/ontology/councilArea,http://dbpedia.org/resource/Moray,Correct,144,101.75653219223022,42
+http://dbpedia.org/resource/Jōshin-etsu_Expressway,http://dbpedia.org/property/cities,"http://dbpedia.org/resource/Saku,_Nagano",Correct,145,146.53814220428467,42
+http://dbpedia.org/resource/Jōshin-etsu_Expressway,http://dbpedia.org/property/cities,"http://dbpedia.org/resource/Myōkō,_Niigata",Correct,145,146.53814220428467,42
+http://dbpedia.org/resource/Jōshin-etsu_Expressway,http://dbpedia.org/property/cities,"http://dbpedia.org/resource/Chikuma,_Nagano",Correct,145,146.53814220428467,42
+http://dbpedia.org/resource/Jōshin-etsu_Expressway,http://dbpedia.org/property/cities,"http://dbpedia.org/resource/Tomioka,_Gunma",Correct,145,146.53814220428467,42
+http://dbpedia.org/resource/Jōshin-etsu_Expressway,http://dbpedia.org/property/cities,"http://dbpedia.org/resource/Nakano,_Nagano",Correct,145,146.53814220428467,42
+http://dbpedia.org/resource/Dyckia_'Lad_Cutak',http://dbpedia.org/ontology/hybrid,http://dbpedia.org/resource/Dyckia,Correct,146,90.57178711891174,42
+http://dbpedia.org/resource/Dyckia_'Lad_Cutak',http://dbpedia.org/ontology/hybrid,http://dbpedia.org/resource/Dyckia_leptostachya,Incorrect,146,90.57178711891174,42
+http://dbpedia.org/resource/Ride_(2014_film),http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Brenton_Thwaites,Correct,147,30.32894086837769,42
+http://dbpedia.org/resource/Regent_University,http://dbpedia.org/property/colors,"Blue, Green",Correct,148,179.8727638721466,42
+http://dbpedia.org/resource/Regent_University,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Regent_University,Correct,148,179.8727638721466,42
+http://dbpedia.org/resource/Regent_University,http://dbpedia.org/ontology/numberOfStudents,6158,Incorrect,148,179.8727638721466,42
+http://dbpedia.org/resource/Regent_University,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-university-noun-2,I Don't Know,148,179.8727638721466,42
+http://dbpedia.org/resource/Regent_University,http://dbpedia.org/ontology/staff,402,Correct,148,179.8727638721466,42
+http://dbpedia.org/resource/American_Association_for_Respiratory_Care,http://dbpedia.org/ontology/locationCity,"http://dbpedia.org/resource/Irving,_Texas",Correct,149,47.46791195869446,42
+http://dbpedia.org/resource/American_Association_for_Respiratory_Care,http://dbpedia.org/ontology/foundingDate,1947-03-16,Incorrect,149,47.46791195869446,42
+http://dbpedia.org/resource/Victor_L._Ludlow,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:People_from_Provo,_Utah",Incorrect,150,47.32280206680298,42
+http://dbpedia.org/resource/Dublin_North_(Dáil_Éireann_constituency),http://dbpedia.org/property/name,http://dbpedia.org/resource/Denis_Cullen,Incorrect,151,62.81873297691345,42
+http://dbpedia.org/resource/Dublin_North_(Dáil_Éireann_constituency),http://dbpedia.org/property/name,http://dbpedia.org/resource/G._V._Wright,Incorrect,151,62.81873297691345,42
+http://dbpedia.org/resource/Dublin_North_(Dáil_Éireann_constituency),http://dbpedia.org/property/name,http://dbpedia.org/resource/Kathleen_Clarke,Incorrect,151,62.81873297691345,42
+http://dbpedia.org/resource/Dublin_North_(Dáil_Éireann_constituency),http://dbpedia.org/property/name,http://dbpedia.org/resource/Alan_Farrell,Incorrect,151,62.81873297691345,42
+http://dbpedia.org/resource/Dublin_North_(Dáil_Éireann_constituency),http://dbpedia.org/property/name,http://dbpedia.org/resource/William_Hewat,Incorrect,151,62.81873297691345,42
+"http://dbpedia.org/resource/St_Mary's_Church,_Knowsley",http://xmlns.com/foaf/0.1/page,http://www.knowsleychurch.co.uk/,I Don't Know,152,2.6356658935546875,42
+http://dbpedia.org/resource/MotorStorm,http://dbpedia.org/property/modes,http://dbpedia.org/resource/Single-player_video_game,Correct,153,148.37053322792053,42
+http://dbpedia.org/resource/MotorStorm,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Game,Correct,153,148.37053322792053,42
+http://dbpedia.org/resource/MotorStorm,http://dbpedia.org/property/mc,82,Correct,153,148.37053322792053,42
+http://dbpedia.org/resource/MotorStorm,http://dbpedia.org/property/gspot,7.9,I Don't Know,153,148.37053322792053,42
+http://dbpedia.org/resource/MotorStorm,http://dbpedia.org/property/developer,http://dbpedia.org/resource/Evolution_Studios,Correct,153,148.37053322792053,42
+"http://dbpedia.org/resource/Sir_Ralph_Verney,_1st_Baronet,_of_Middle_Claydon",http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Buckinghamshire,Correct,154,80.66823482513428,42
+http://dbpedia.org/resource/Damianos_Kyriazis,http://dbpedia.org/property/shortDescription,Greek politician,Correct,155,16.57696795463562,42
+http://dbpedia.org/resource/Nathan_Phelps,http://xmlns.com/foaf/0.1/name,"Phelps, Nathan",Correct,156,90.408851146698,42
+http://dbpedia.org/resource/Nathan_Phelps,http://dbpedia.org/ontology/abstract,"Nathan ""Nate"" Phelps (born November 22, 1958) is an American-Canadian author, LGBT rights activist, and public speaker on the topics of religion and child abuse. He is the sixth of the thirteen children of Fred Phelps, from whom he – along with three of his siblings – had been estranged since his eighteenth birthday in 1976 until his father's death in 2014. Phelps permanently left Westboro Baptist Church in 1980 and has since publicly censured the group.Other members of the Phelps family have also left, most recently Zach Phelps-Roper in February 2014.",Correct,156,90.408851146698,42
+http://dbpedia.org/resource/Nathan_Phelps,http://xmlns.com/foaf/0.1/name,Nathan Phelps,Correct,156,90.408851146698,42
+http://dbpedia.org/resource/Nathan_Phelps,http://dbpedia.org/property/residence,http://dbpedia.org/resource/Calgary,Correct,156,90.408851146698,42
+http://dbpedia.org/resource/Nathan_Phelps,http://dbpedia.org/ontology/ethnicity,http://dbpedia.org/resource/Americans,Correct,156,90.408851146698,42
+http://dbpedia.org/resource/Tokheim,http://www.w3.org/2000/01/rdf-schema#comment,"Tokheim Group S.A.S. is a French-based manufacturer of fuel dispensers. It claims to be one of the world's leading manufacturers and servicers of fuel dispensing equipment. The group has operations in many countries and offers customers a complete range of fuel dispensers and pumps, retail automation systems, payment terminals, media devices, replacement parts and upgrade kits, and support services including service station construction and maintenance.",Correct,157,174.09853601455688,42
+http://dbpedia.org/resource/Tokheim,http://dbpedia.org/ontology/owner,http://dbpedia.org/resource/Motion_Equity_Partners,Incorrect,157,174.09853601455688,42
+http://dbpedia.org/resource/Tokheim,http://dbpedia.org/property/homepage,http://www.tokheim.com/index.php?lgnews=1&lg=,I Don't Know,157,174.09853601455688,42
+http://dbpedia.org/resource/Tokheim,http://dbpedia.org/property/industry,Manufacturing,Correct,157,174.09853601455688,42
+http://dbpedia.org/resource/Tokheim,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Companies_of_France,Incorrect,157,174.09853601455688,42
+http://dbpedia.org/resource/Thunderbolt_and_Lightfoot,http://dbpedia.org/ontology/director,http://dbpedia.org/resource/Michael_Cimino,Correct,158,82.80628991127014,42
+http://dbpedia.org/resource/Thunderbolt_and_Lightfoot,http://dbpedia.org/ontology/producer,http://dbpedia.org/resource/Robert_Daley_(producer),Correct,158,82.80628991127014,42
+http://dbpedia.org/resource/Thunderbolt_and_Lightfoot,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_set_in_Montana,Correct,158,82.80628991127014,42
+http://dbpedia.org/resource/Thunderbolt_and_Lightfoot,http://dbpedia.org/property/producer,http://dbpedia.org/resource/Robert_Daley_(producer),Correct,158,82.80628991127014,42
+http://dbpedia.org/resource/Thunderbolt_and_Lightfoot,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1970s_comedy-drama_films,Incorrect,158,82.80628991127014,42
+http://dbpedia.org/resource/Eilís_Dillon,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Galway,Correct,159,10.687923908233644,42
+http://dbpedia.org/resource/Robin_Leamy_(bishop),http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Wellington,Correct,160,9.866551160812378,42
+http://dbpedia.org/resource/John_Vesey_(archbishop_of_Tuam),http://dbpedia.org/property/after,"http://dbpedia.org/resource/Charles_Talbot,_1st_Duke_of_Shrewsbury",Incorrect,161,207.5438199043274,42
+http://dbpedia.org/resource/John_Vesey_(archbishop_of_Tuam),http://dbpedia.org/property/with,"the Archbishop of Armagh and Sir Constantine Phipps, temp. Queen Anne",Correct,161,207.5438199043274,42
+http://dbpedia.org/resource/John_Vesey_(archbishop_of_Tuam),http://dbpedia.org/property/title,http://dbpedia.org/resource/Dean_of_Cork,Correct,161,207.5438199043274,42
+http://dbpedia.org/resource/John_Vesey_(archbishop_of_Tuam),http://dbpedia.org/property/after,as Lord Lieutenant,Incorrect,161,207.5438199043274,42
+http://dbpedia.org/resource/John_Vesey_(archbishop_of_Tuam),http://dbpedia.org/property/years,1667,Incorrect,161,207.5438199043274,42
+http://dbpedia.org/resource/Aoife_Mulholland,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Galway,Correct,162,11.21407413482666,42
+http://dbpedia.org/resource/La_Lupe,http://dbpedia.org/property/associatedActs,http://dbpedia.org/resource/Celia_Cruz,Incorrect,163,88.44044804573059,42
+http://dbpedia.org/resource/La_Lupe,http://dbpedia.org/ontology/associatedMusicalArtist,http://dbpedia.org/resource/Tito_Puente,Correct,163,88.44044804573059,42
+http://dbpedia.org/resource/La_Lupe,http://dbpedia.org/property/origin,http://dbpedia.org/resource/Cuba,Correct,163,88.44044804573059,42
+http://dbpedia.org/resource/La_Lupe,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Bolero,Correct,163,88.44044804573059,42
+http://dbpedia.org/resource/La_Lupe,http://dbpedia.org/property/deathPlace,http://dbpedia.org/resource/U.S.,Correct,163,88.44044804573059,42
+http://dbpedia.org/resource/Mota-Engil,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Construction_and_civil_engineering_companies_of_Portugal,Correct,164,143.71771383285522,42
+http://dbpedia.org/resource/Mota-Engil,http://dbpedia.org/property/equity,5.78E8,Correct,164,143.71771383285522,42
+http://dbpedia.org/resource/Mota-Engil,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Conglomerate_companies_of_Portugal,Correct,164,143.71771383285522,42
+http://dbpedia.org/resource/Mota-Engil,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Mota-Engil,I Don't Know,164,143.71771383285522,42
+http://dbpedia.org/resource/Mota-Engil,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Companies_established_in_2000,Correct,164,143.71771383285522,42
+"http://dbpedia.org/resource/St_Joseph's_Church,_Brighton",http://xmlns.com/foaf/0.1/page,http://www.stjosephsbrighton.co.uk/,I Don't Know,165,2.87391209602356,42
+http://dbpedia.org/resource/Twitter,http://dbpedia.org/property/revenue,1.4E9,I Don't Know,166,51.9883599281311,42
+http://dbpedia.org/resource/Twitter,http://dbpedia.org/property/float,right,I Don't Know,166,51.9883599281311,42
+http://dbpedia.org/resource/Twitter,http://dbpedia.org/property/locationCity,http://dbpedia.org/resource/California,Correct,166,51.9883599281311,42
+http://dbpedia.org/resource/Twitter,http://dbpedia.org/property/industry,http://dbpedia.org/resource/Internet,Correct,166,51.9883599281311,42
+http://dbpedia.org/resource/Twitter,http://dbpedia.org/property/q,no,I Don't Know,166,51.9883599281311,42
+http://dbpedia.org/resource/SmarTone,http://xmlns.com/foaf/0.1/depiction,http://en.wikipedia.org/wiki/Special:FilePath/Smartone_logo.png,Correct,167,98.53659319877625,42
+http://dbpedia.org/resource/SmarTone,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/SmarTone,I Don't Know,167,98.53659319877625,42
+http://dbpedia.org/resource/SmarTone,http://www.w3.org/2000/01/rdf-schema#comment,"SmarTone Telecommunications Holdings Limited (Chinese: 數碼通) (0315.HK) is a wireless communications carrier with operating subsidiaries in Hong Kong and Macau. SmarTone provides voice, multimedia and broadband services through its territory-wide 4G and 3G HSPA+ networks. The carrier also uses a unique X-celerator engine to speed up Internet access.",Correct,167,98.53659319877625,42
+http://dbpedia.org/resource/SmarTone,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Mobile_phone_companies_of_Hong_Kong,Correct,167,98.53659319877625,42
+http://dbpedia.org/resource/SmarTone,http://xmlns.com/foaf/0.1/name,SmarTone Telecommunications Holdings Limited,Correct,167,98.53659319877625,42
+http://dbpedia.org/resource/Pope_Alexander_I,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Rome,Correct,168,10.984751224517822,42
+http://dbpedia.org/resource/Pope_Alexander_I,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Rome,Correct,168,10.984751224517822,42
+http://dbpedia.org/resource/Take_Away_(song),http://dbpedia.org/ontology/musicalArtist,http://dbpedia.org/resource/Tweet_(singer),Correct,169,60.769015073776245,42
+http://dbpedia.org/resource/Take_Away_(song),http://dbpedia.org/ontology/musicalArtist,http://dbpedia.org/resource/Missy_Elliott,Correct,169,60.769015073776245,42
+http://dbpedia.org/resource/Take_Away_(song),http://www.w3.org/2000/01/rdf-schema#label,Take Away (song),Correct,169,60.769015073776245,42
+http://dbpedia.org/resource/Take_Away_(song),http://dbpedia.org/ontology/producer,http://dbpedia.org/resource/Timbaland,Correct,169,60.769015073776245,42
+http://dbpedia.org/resource/El_Topo,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_independent_films,Incorrect,170,103.35238194465636,42
+http://dbpedia.org/resource/El_Topo,http://dbpedia.org/property/producer,Moshe Rosemberg,Correct,170,103.35238194465636,42
+http://dbpedia.org/resource/El_Topo,http://dbpedia.org/property/music,Alejandro Jodorowsky,Incorrect,170,103.35238194465636,42
+http://dbpedia.org/resource/El_Topo,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1970_films,Correct,170,103.35238194465636,42
+http://dbpedia.org/resource/El_Topo,http://dbpedia.org/ontology/writer,http://dbpedia.org/resource/Alejandro_Jodorowsky,Correct,170,103.35238194465636,42
+http://dbpedia.org/resource/Protestantism_in_the_Philippines,http://www.w3.org/2000/01/rdf-schema#label,Protestantism in the Philippines,Correct,171,60.00180768966675,42
+http://dbpedia.org/resource/Protestantism_in_the_Philippines,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Protestant_schools_in_the_Philippines,Incorrect,171,60.00180768966675,42
+http://dbpedia.org/resource/Protestantism_in_the_Philippines,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Protestantism_by_country,Correct,171,60.00180768966675,42
+http://dbpedia.org/resource/Protestantism_in_the_Philippines,http://www.w3.org/2000/01/rdf-schema#comment,"Protestant Christianity arrived in the Philippines during the late 19th and the early 20th century. American missionaries were mostly responsible for introducing Protestantism, but some were founded locally.",Correct,171,60.00180768966675,42
+http://dbpedia.org/resource/Protestantism_in_the_Philippines,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Christianity_in_the_Philippines,Correct,171,60.00180768966675,42
+http://dbpedia.org/resource/Bordertown_(2006_film),http://dbpedia.org/ontology/distributor,http://dbpedia.org/resource/ThinkFilm,Incorrect,172,91.8276720046997,42
+http://dbpedia.org/resource/Bordertown_(2006_film),http://dbpedia.org/property/distributor,http://dbpedia.org/resource/THINKFilm,Correct,172,91.8276720046997,42
+http://dbpedia.org/resource/Bordertown_(2006_film),http://dbpedia.org/ontology/distributor,http://dbpedia.org/resource/Capitol_Films,Incorrect,172,91.8276720046997,42
+http://dbpedia.org/resource/Bordertown_(2006_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,172,91.8276720046997,42
+http://dbpedia.org/resource/Bordertown_(2006_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_films,Correct,172,91.8276720046997,42
+http://dbpedia.org/resource/Fribourg_railway_station,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Gare_de_Fribourg.jpg?width=300,Correct,173,98.62385725975037,42
+http://dbpedia.org/resource/Fribourg_railway_station,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/Gare_de_Fribourg.jpg,Correct,173,98.62385725975037,42
+http://dbpedia.org/resource/Fribourg_railway_station,http://dbpedia.org/property/connections,http://dbpedia.org/resource/Transports_publics_fribourgeois,Correct,173,98.62385725975037,42
+http://dbpedia.org/resource/Fribourg_railway_station,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Fribourg_railway_station,Correct,173,98.62385725975037,42
+http://dbpedia.org/resource/Fribourg_railway_station,http://dbpedia.org/ontology/address,Avenue de la Gare,Correct,173,98.62385725975037,42
+http://dbpedia.org/resource/Bunker_Bean,http://dbpedia.org/property/country,United States,Correct,174,48.81114292144776,42
+http://dbpedia.org/resource/Bunker_Bean,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Correct,174,48.81114292144776,42
+http://dbpedia.org/resource/Bunker_Bean,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,174,48.81114292144776,42
+http://dbpedia.org/resource/Bunker_Bean,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-movie-noun-1,I Don't Know,174,48.81114292144776,42
+http://dbpedia.org/resource/Cristóbal_Diatristán_de_Acuña,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Viceroyalty_of_Peru,Incorrect,175,52.27126693725586,42
+http://dbpedia.org/resource/Arthur_Wagner,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Arthur_Wagner,Correct,176,94.20078682899477,42
+http://dbpedia.org/resource/Arthur_Wagner,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:People_educated_at_Eton_College,Correct,176,94.20078682899477,42
+http://dbpedia.org/resource/Arthur_Wagner,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/Eton_College,Correct,176,94.20078682899477,42
+http://dbpedia.org/resource/Arthur_Wagner,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Clergy,Correct,176,94.20078682899477,42
+http://dbpedia.org/resource/Arthur_Wagner,http://www.w3.org/2003/01/geo/wgs84_pos#long,-0.115,I Don't Know,176,94.20078682899477,42
+http://dbpedia.org/resource/Wells_Fargo,http://dbpedia.org/ontology/assets,1.69E12,I Don't Know,177,79.43662691116333,42
+http://dbpedia.org/resource/Wells_Fargo,http://dbpedia.org/ontology/foundationPlace,http://dbpedia.org/resource/United_States,Correct,177,79.43662691116333,42
+http://dbpedia.org/resource/Wells_Fargo,http://dbpedia.org/property/netIncome,2.3E10,I Don't Know,177,79.43662691116333,42
+http://dbpedia.org/resource/Wells_Fargo,http://dbpedia.org/ontology/product,http://dbpedia.org/resource/Private_equity,Correct,177,79.43662691116333,42
+http://dbpedia.org/resource/Wells_Fargo,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Wells_Fargo,I Don't Know,177,79.43662691116333,42

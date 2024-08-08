@@ -1,0 +1,626 @@
+Subject,Predicate,Object,Annotation,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/Harold_W._Kuhn,http://dbpedia.org/ontology/birthYear,1925,Correct,0,28152.05704975128,7
+http://dbpedia.org/resource/Harold_W._Kuhn,http://xmlns.com/foaf/0.1/surname,Kuhn,Correct,0,28152.05704975128,7
+http://dbpedia.org/resource/Harold_W._Kuhn,http://xmlns.com/foaf/0.1/givenName,Harold,Correct,0,28152.05704975128,7
+http://dbpedia.org/resource/Marion_Francis_Forst,http://dbpedia.org/ontology/birthDate,1910-09-03,Correct,1,223188.8616025448,7
+http://dbpedia.org/resource/Marion_Francis_Forst,http://dbpedia.org/property/deathPlace,"http://dbpedia.org/resource/Kansas_City,_Kansas",Correct,1,223188.8616025448,7
+http://dbpedia.org/resource/Marion_Francis_Forst,http://dbpedia.org/property/church,http://dbpedia.org/resource/Roman_Catholic_Church,Correct,1,223188.8616025448,7
+http://dbpedia.org/resource/Marion_Francis_Forst,http://dbpedia.org/property/placeOfBirth,"http://dbpedia.org/resource/St._Louis,_Missouri",Correct,1,223188.8616025448,7
+http://dbpedia.org/resource/Marion_Francis_Forst,http://dbpedia.org/property/after,http://dbpedia.org/resource/Eugene_John_Gerber,Incorrect,1,223188.8616025448,7
+http://dbpedia.org/resource/The_Golden_Bullet_(1917_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1917_films,Correct,2,118234.9373998642,10
+http://dbpedia.org/resource/The_Golden_Bullet_(1917_film),http://dbpedia.org/ontology/abstract,The Golden Bullet is a 1917 American Western film featuring Harry Carey.,Correct,2,118234.9373998642,10
+http://dbpedia.org/resource/The_Golden_Bullet_(1917_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_directed_by_Fred_Kelsey,Correct,2,118234.9373998642,10
+http://dbpedia.org/resource/The_Golden_Bullet_(1917_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Universal_Pictures_films,Correct,2,118234.9373998642,10
+http://dbpedia.org/resource/The_Golden_Bullet_(1917_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1910s_short_films,Correct,2,118234.9373998642,10
+http://dbpedia.org/resource/Church_of_St._George_(Cairo),http://dbpedia.org/property/website,http://patriarchateofalexandria.com,Correct,3,1064.720325231552,11
+http://dbpedia.org/resource/Church_of_St._George_(Cairo),http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Church_of_St._George_(Cairo),Correct,3,1064.720325231552,11
+http://dbpedia.org/resource/Church_of_St._George_(Cairo),http://dbpedia.org/ontology/abstract,The Church of St. George is a Greek Orthodox church in Coptic Cairo.  The church dates back to the 10th century (or earlier).  The current structure was rebuilt following a 1904 fire.,Correct,3,1064.720325231552,11
+http://dbpedia.org/resource/Church_of_St._George_(Cairo),http://dbpedia.org/property/constructedDate,10,Incorrect,3,1064.720325231552,11
+http://dbpedia.org/resource/Church_of_St._George_(Cairo),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Old_Cairo,Correct,3,1064.720325231552,11
+http://dbpedia.org/resource/Chandidas_Mahavidyalaya,http://dbpedia.org/property/affiliations,http://dbpedia.org/resource/University_of_Burdwan,Correct,4,654.7405049800873,11
+http://dbpedia.org/resource/Chandidas_Mahavidyalaya,http://dbpedia.org/property/name,Chandidas Mahavidyalaya,Correct,4,654.7405049800873,11
+http://dbpedia.org/resource/Chandidas_Mahavidyalaya,http://dbpedia.org/property/state,http://dbpedia.org/resource/West_Bengal,Correct,4,654.7405049800873,11
+http://dbpedia.org/resource/Chandidas_Mahavidyalaya,http://dbpedia.org/property/type,Undergraduate college,Correct,4,654.7405049800873,11
+http://dbpedia.org/resource/Chandidas_Mahavidyalaya,http://www.w3.org/2000/01/rdf-schema#label,Chandidas Mahavidyalaya,Correct,4,654.7405049800873,11
+http://dbpedia.org/resource/Eric_Feldt,http://dbpedia.org/ontology/deathYear,1968,Correct,5,1259.2386317253113,11
+http://dbpedia.org/resource/Eric_Feldt,http://dbpedia.org/property/deathPlace,"http://dbpedia.org/resource/New_Farm,_Queensland",Correct,5,1259.2386317253113,11
+http://dbpedia.org/resource/Eric_Feldt,http://dbpedia.org/property/battles,http://dbpedia.org/resource/New_Guinea_campaign,Correct,5,1259.2386317253113,11
+http://dbpedia.org/resource/Eric_Feldt,http://dbpedia.org/ontology/serviceStartYear,1913,Correct,5,1259.2386317253113,11
+http://dbpedia.org/resource/Eric_Feldt,http://xmlns.com/foaf/0.1/surname,Feldt,Correct,5,1259.2386317253113,11
+http://dbpedia.org/resource/Soviet_Union,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Moscow,Correct,6,1922.228605747223,11
+http://dbpedia.org/resource/Soviet_Union,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Soviet_ruble,Correct,6,1922.228605747223,11
+http://dbpedia.org/resource/Soviet_Union,http://www.w3.org/2000/01/rdf-schema#label,Soviet Union,Correct,6,1922.228605747223,11
+http://dbpedia.org/resource/Alan_Singley_and_Pants_Machine,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,7,807.8636541366577,11
+http://dbpedia.org/resource/Milton_F._Pavlic,http://dbpedia.org/ontology/deathDate,1942-11-15,Correct,8,895.6560022830963,11
+http://dbpedia.org/resource/Milton_F._Pavlic,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Milton_F._Pavlic,Correct,8,895.6560022830963,11
+http://dbpedia.org/resource/Milton_F._Pavlic,http://dbpedia.org/property/placeofburialLabel,Place of burial,Correct,8,895.6560022830963,11
+http://dbpedia.org/resource/Milton_F._Pavlic,http://dbpedia.org/property/caption,Milton F. Pavlic as a midshipman at the United States Naval Academy in 1932,Incorrect,8,895.6560022830963,11
+http://dbpedia.org/resource/Milton_F._Pavlic,http://dbpedia.org/property/serviceyears,1932,Incorrect,8,895.6560022830963,11
+http://dbpedia.org/resource/In_convertendo_Dominus_(Rameau),http://dbpedia.org/ontology/abstract,"In convertendo Dominus (When the Lord turned [the captivity of Zion]), sometimes referred to as In convertendo, is a setting by Jean-Philippe Rameau of In convertendo Dominus, the Latin version of Psalm 126, (thus numbered in the King James Bible, number 125 in the Latin psalters). It is listed as RCT 14 in the Rameau Catalogue Thématique of Sylvie Bouissou and Denis Herlin.",Correct,9,1064.1623010635376,11
+http://dbpedia.org/resource/In_convertendo_Dominus_(Rameau),http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/In_convertendo_Dominus_(Rameau),Correct,9,1064.1623010635376,11
+http://dbpedia.org/resource/In_convertendo_Dominus_(Rameau),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Psalm_settings,Correct,9,1064.1623010635376,11
+http://dbpedia.org/resource/In_convertendo_Dominus_(Rameau),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Motets,Correct,9,1064.1623010635376,11
+http://dbpedia.org/resource/In_convertendo_Dominus_(Rameau),http://dbpedia.org/property/cname,"In convertendo Dominus, by Jean-Philippe Rameau:  manuscript",Correct,9,1064.1623010635376,11
+http://dbpedia.org/resource/Thiruvisaippa,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Tamil_literature,Correct,10,1583.6007108688354,11
+http://dbpedia.org/resource/Thiruvisaippa,http://dbpedia.org/ontology/abstract,"Thiruvisaipa (Tamil: திருவிசைப்பா Thiru means ""respect"", visai means ""action"" and pa indicates ""poem"") denotes the ninth volumes of the Tirumurai, the twelve-volume collection of Tamil Saivite devotional poetry.",Correct,10,1583.6007108688354,11
+http://dbpedia.org/resource/Thiruvisaippa,http://www.w3.org/2000/01/rdf-schema#comment,"Thiruvisaipa (Tamil: திருவிசைப்பா Thiru means ""respect"", visai means ""action"" and pa indicates ""poem"") denotes the ninth volumes of the Tirumurai, the twelve-volume collection of Tamil Saivite devotional poetry.",Correct,10,1583.6007108688354,11
+http://dbpedia.org/resource/Thiruvisaippa,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Texts_related_to_Nayanar_saints,Correct,10,1583.6007108688354,11
+http://dbpedia.org/resource/Thiruvisaippa,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Carnatic_music,Incorrect,10,1583.6007108688354,11
+http://dbpedia.org/resource/Grant_Doyle_(baritone),http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Adelaide,Correct,11,114.24197602272034,11
+http://dbpedia.org/resource/Chung_Hwa_Middle_School,http://dbpedia.org/property/postalcode,BS8670,Correct,12,831.9430572986603,11
+http://dbpedia.org/resource/Chung_Hwa_Middle_School,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Educational_institutions_established_in_1922,Correct,12,831.9430572986603,11
+http://dbpedia.org/resource/Chung_Hwa_Middle_School,http://dbpedia.org/ontology/language,http://dbpedia.org/resource/Chinese_language,Correct,12,831.9430572986603,11
+http://dbpedia.org/resource/Chung_Hwa_Middle_School,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/School,Correct,12,831.9430572986603,11
+http://dbpedia.org/resource/Chung_Hwa_Middle_School,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Schools_needing_cleanup,Incorrect,12,831.9430572986603,11
+"http://dbpedia.org/resource/Les_Ihara,_Jr.",http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Honolulu,Correct,13,64255.82325983048,11
+http://dbpedia.org/resource/Francis_Mbome,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Cameroon,Correct,14,218.29646611213684,12
+http://dbpedia.org/resource/Peter_Phillips_(artist),http://dbpedia.org/ontology/training,http://dbpedia.org/resource/Birmingham_School_of_Art,Correct,15,354.7600989341736,12
+http://dbpedia.org/resource/Peter_Phillips_(artist),http://dbpedia.org/ontology/movement,http://dbpedia.org/resource/Pop_art,Correct,15,354.7600989341736,12
+http://dbpedia.org/resource/Emad_Ayasrah,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Jordan,Correct,16,473.5598955154419,12
+http://dbpedia.org/resource/The_Geneva_School,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1993_establishments_in_Florida,Correct,17,1534.5362057685852,12
+http://dbpedia.org/resource/The_Geneva_School,http://dbpedia.org/property/enrollment,450,Incorrect,17,1534.5362057685852,12
+http://dbpedia.org/resource/The_Geneva_School,http://dbpedia.org/ontology/mascot,The Knights,Correct,17,1534.5362057685852,12
+http://dbpedia.org/resource/The_Geneva_School,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/School,Correct,17,1534.5362057685852,12
+http://dbpedia.org/resource/The_Geneva_School,http://www.w3.org/2000/01/rdf-schema#label,The Geneva School,Correct,17,1534.5362057685852,12
+http://dbpedia.org/resource/This_Boy's_in_Love,http://dbpedia.org/property/accessdate,2015-05-02,Incorrect,18,2576.503365755081,12
+http://dbpedia.org/resource/This_Boy's_in_Love,http://dbpedia.org/property/writer,http://dbpedia.org/resource/Kim_Moyes,Correct,18,2576.503365755081,12
+http://dbpedia.org/resource/This_Boy's_in_Love,http://dbpedia.org/ontology/Work/runtime,4.183333333333334,Correct,18,2576.503365755081,12
+http://dbpedia.org/resource/This_Boy's_in_Love,http://dbpedia.org/ontology/subsequentWork,http://dbpedia.org/resource/Talk_Like_That,Correct,18,2576.503365755081,12
+http://dbpedia.org/resource/This_Boy's_in_Love,http://dbpedia.org/ontology/musicalBand,http://dbpedia.org/resource/The_Presets,Correct,18,2576.503365755081,12
+http://dbpedia.org/resource/Adrian_Păunescu,http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Copăceni,_Sîngerei",Incorrect,19,849.6431121826172,12
+http://dbpedia.org/resource/Adrian_Păunescu,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Bălți_County,Correct,19,849.6431121826172,12
+http://dbpedia.org/resource/Adrian_Păunescu,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Romania,Correct,19,849.6431121826172,12
+http://dbpedia.org/resource/Adrian_Păunescu,http://dbpedia.org/ontology/restingPlace,http://dbpedia.org/resource/Bellu_Cemetery,Correct,19,849.6431121826172,12
+http://dbpedia.org/resource/Adrian_Păunescu,http://dbpedia.org/property/placeOfBirth,http://dbpedia.org/resource/Moldova,Incorrect,19,849.6431121826172,12
+http://dbpedia.org/resource/Duke_University,http://dbpedia.org/ontology/athletics,http://dbpedia.org/resource/NCAA_Division_I,Correct,20,548.956707239151,12
+http://dbpedia.org/resource/Duke_University,http://dbpedia.org/ontology/affiliation,http://dbpedia.org/resource/Oak_Ridge_Associated_Universities,Correct,20,548.956707239151,12
+http://dbpedia.org/resource/Duke_University,http://dbpedia.org/ontology/facultySize,3398,Incorrect,20,548.956707239151,12
+http://dbpedia.org/resource/Duke_University,http://dbpedia.org/ontology/affiliation,http://dbpedia.org/resource/United_Methodist_Church,Correct,20,548.956707239151,12
+http://dbpedia.org/resource/Duke_University,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Private_university,Correct,20,548.956707239151,12
+http://dbpedia.org/resource/Yoshio_Nishina,http://dbpedia.org/ontology/award,http://dbpedia.org/resource/Asahi_Prize,Correct,21,60620.72908973694,12
+http://dbpedia.org/resource/Yoshio_Nishina,http://dbpedia.org/ontology/notableStudent,http://dbpedia.org/resource/Hideki_Yukawa,Correct,21,60620.72908973694,12
+http://dbpedia.org/resource/Yoshio_Nishina,http://dbpedia.org/ontology/notableStudent,http://dbpedia.org/resource/Sin-Itiro_Tomonaga,Incorrect,21,60620.72908973694,12
+http://dbpedia.org/resource/Yoshio_Nishina,http://dbpedia.org/ontology/notableStudent,http://dbpedia.org/resource/Shoichi_Sakata,Correct,21,60620.72908973694,12
+http://dbpedia.org/resource/Yoshio_Nishina,http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Satoshō,_Okayama",Correct,21,60620.72908973694,12
+http://dbpedia.org/resource/D._Ramanaidu,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/D._Ramanaidu__1,Incorrect,22,6495.46289730072,13
+http://dbpedia.org/resource/D._Ramanaidu,http://dbpedia.org/ontology/award,http://dbpedia.org/resource/Dadasaheb_Phalke_Award,Correct,22,6495.46289730072,13
+http://dbpedia.org/resource/D._Ramanaidu,http://dbpedia.org/ontology/award,http://dbpedia.org/resource/Padma_Bhushan,Correct,22,6495.46289730072,13
+http://dbpedia.org/resource/Sam_Kinison,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Sam_Kinison,Correct,23,17688.109037399292,13
+http://dbpedia.org/resource/Sam_Kinison,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Observational_comedy,Incorrect,23,17688.109037399292,13
+http://dbpedia.org/resource/Sam_Kinison,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Satire,Correct,23,17688.109037399292,13
+http://dbpedia.org/resource/Sam_Kinison,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Black_comedy,Correct,23,17688.109037399292,13
+http://dbpedia.org/resource/Sam_Kinison,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/U.S.,Correct,23,17688.109037399292,13
+http://dbpedia.org/resource/Viewbank_College,http://dbpedia.org/property/country,http://dbpedia.org/resource/Australia,Correct,24,426.1547596454621,13
+http://dbpedia.org/resource/Viewbank_College,http://dbpedia.org/property/staff,95,Incorrect,24,426.1547596454621,13
+http://dbpedia.org/resource/Arizona_Summit_Law_School,http://dbpedia.org/ontology/facultySize,38,Incorrect,25,20775.709463119507,13
+http://dbpedia.org/resource/Arizona_Summit_Law_School,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Private_university,Correct,25,20775.709463119507,13
+http://dbpedia.org/resource/Arizona_Summit_Law_School,http://dbpedia.org/property/type,http://dbpedia.org/resource/Private_university,Correct,25,20775.709463119507,13
+http://dbpedia.org/resource/Robert_Bontine_Cunninghame_Graham,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/London,Correct,26,2546.689428806305,13
+http://dbpedia.org/resource/Robert_Bontine_Cunninghame_Graham,http://dbpedia.org/ontology/otherParty,http://dbpedia.org/resource/Scottish_Labour_Party_(1888),Correct,26,2546.689428806305,13
+http://dbpedia.org/resource/Robert_Bontine_Cunninghame_Graham,http://dbpedia.org/ontology/otherParty,http://dbpedia.org/resource/National_Party_of_Scotland,Correct,26,2546.689428806305,13
+http://dbpedia.org/resource/E._M._S._Namboodiripad,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Perintalmanna,Correct,27,1135.2937622070312,13
+http://dbpedia.org/resource/E._M._S._Namboodiripad,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Madras_Presidency,Correct,27,1135.2937622070312,13
+http://dbpedia.org/resource/E._M._S._Namboodiripad,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Presidencies_and_provinces_of_British_India,Correct,27,1135.2937622070312,13
+http://dbpedia.org/resource/Teresa_Ellen_Dease,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Irish_Roman_Catholic_religious_sisters_and_nuns,Correct,28,1296.776801109314,13
+http://dbpedia.org/resource/Teresa_Ellen_Dease,http://www.w3.org/2000/01/rdf-schema#comment,"Teresa Ellen Dease (4 May 1820 in Naas, Ireland – 1 July 1889 in Toronto, Canada) was a Roman Catholic nun and the foundress of the Loreto Sisters (Institute of the Blessed Virgin Mary in Canada and in North America. She arrived in Toronto, Canada in 1847 at the invitation of Bishop Michael Power.As superior, she oversaw the work of the sisters in both the publicly funded separate schools and private convent schools.",Correct,28,1296.776801109314,13
+http://dbpedia.org/resource/Teresa_Ellen_Dease,http://www.w3.org/2000/01/rdf-schema#label,Teresa Ellen Dease,Correct,28,1296.776801109314,13
+http://dbpedia.org/resource/Teresa_Ellen_Dease,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1889_deaths,Correct,28,1296.776801109314,13
+http://dbpedia.org/resource/Teresa_Ellen_Dease,http://dbpedia.org/ontology/nationality,http://dbpedia.org/resource/Irish_people,Correct,28,1296.776801109314,13
+http://dbpedia.org/resource/Jerry_Roberts,http://dbpedia.org/ontology/soundRecording,http://dbpedia.org/resource/Jerry_Roberts__3,Incorrect,29,626.6998476982117,13
+http://dbpedia.org/resource/Jerry_Roberts,http://dbpedia.org/property/name,"Roberts, Jerry",Correct,29,626.6998476982117,13
+http://dbpedia.org/resource/Jerry_Roberts,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2014_deaths,Correct,29,626.6998476982117,13
+http://dbpedia.org/resource/Jerry_Roberts,http://dbpedia.org/property/deathDate,2014-03-25,Correct,29,626.6998476982117,13
+http://dbpedia.org/resource/Jerry_Roberts,http://dbpedia.org/property/alternativeNames,"Roberts, Raymond C.",Correct,29,626.6998476982117,13
+http://dbpedia.org/resource/Noshi_Gilani,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Ghazal,Correct,30,1032.0441670417786,13
+http://dbpedia.org/resource/Noshi_Gilani,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Free_verse,Correct,30,1032.0441670417786,13
+http://dbpedia.org/resource/Noshi_Gilani,http://dbpedia.org/ontology/citizenship,http://dbpedia.org/resource/United_States,Incorrect,30,1032.0441670417786,13
+http://dbpedia.org/resource/Noshi_Gilani,http://dbpedia.org/ontology/nationality,http://dbpedia.org/resource/Pakistan,Correct,30,1032.0441670417786,13
+http://dbpedia.org/resource/Atlantic_City_(How_I_Met_Your_Mother),http://dbpedia.org/ontology/episodeNumber,8,Correct,31,9354.929856300354,13
+http://dbpedia.org/resource/Atlantic_City_(How_I_Met_Your_Mother),http://dbpedia.org/ontology/seasonNumber,2,Correct,31,9354.929856300354,13
+http://dbpedia.org/resource/Separate_Baptists,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Group,Correct,32,14227.127476215364,14
+http://dbpedia.org/resource/Separate_Baptists,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Former_Christian_denominations,Correct,32,14227.127476215364,14
+http://dbpedia.org/resource/Separate_Baptists,http://www.w3.org/2000/01/rdf-schema#comment,"The Separate Baptists were an 18th-century group of Baptists in the United States, primarily in the South, that grew out of the Great Awakening.The Great Awakening was a religious revival and revitalization of piety among the Christian churches. It covered English-speaking countries and swept through the American colonies between the 1730s and the 1770s. Three important preachers of the times were Gilbert Tennent (1703–65), Jonathan Edwards (1703–58), and George Whitefield (1714–70).",Correct,32,14227.127476215364,14
+http://dbpedia.org/resource/Separate_Baptists,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Baptist_denominations_in_North_America,Correct,32,14227.127476215364,14
+http://dbpedia.org/resource/Separate_Baptists,http://dbpedia.org/ontology/abstract,"The Separate Baptists were an 18th-century group of Baptists in the United States, primarily in the South, that grew out of the Great Awakening.The Great Awakening was a religious revival and revitalization of piety among the Christian churches. It covered English-speaking countries and swept through the American colonies between the 1730s and the 1770s. Three important preachers of the times were Gilbert Tennent (1703–65), Jonathan Edwards (1703–58), and George Whitefield (1714–70). The Separate Baptists are most directly connected to Whitefield's influence. The first identifiable congregation of Separate Baptists was formed in Boston, Massachusetts. Whitefield preached in Boston in 1740. The pastor of the Baptist church disapproved of the revival excitement, while several members approved of it and became discontented with the pastor's ministry. They withdrew from the First Baptist Church and formed Second Baptist Church in 1743.The Great Awakening served to both invigorate and divide churches. Many denominations divided into Old Lights — holding a low view of the revivalism, and sometimes directly opposing it — and New Lights — who enthusiastically embraced it. Many New Lights felt that the old ways had allowed too many unconverted church members, and by the end of the 1740s some of the New Lights believed the established churches could not be reformed from within and withdrew from them. A favorite verse among them was II Corinthians 6:17 — ""Come out from among them, and be ye separate."" This led to them being called Separate.A growing body of Separate Baptists began in New England. They were zealous in evangelism and held to heart-felt religion. The most prominent New England pastor and congregation was Isaac Backus (1724–1808) and the church at Middleborough, Massachusetts. Backus was raised a Congregationalist and became a New Light (or Separatist) Congregational pastor in 1748. After conversion to Baptist views on the doctrine of baptism, Backus and others formed a Baptist congregation in 1756. Backus was very active in the fight for religious liberty in America. The Separate Baptists of New England were never truly a separate group from the Regular Baptists. It would remain for the Separate Baptists in the South to develop along distinct lines.In 1745 Shubal Stearns (1706–71), a member of the Congregational church in Tolland, Connecticut, heard evangelist George Whitefield. Stearns was converted and adopted the Awakening's view of revival and conversion. Stearns' church became involved in a controversy over the proper subjects of baptism in 1751. Soon Stearns rejected infant baptism and sought baptism at the hands of Wait Palmer, Baptist minister of Stonington, Connecticut. By March, Shubal Stearns was ordained into the ministry by Palmer and Joshua Morse, the pastor of New London, Connecticut. The next twenty years of Stearns' remarkable ministry is inextricably intertwined with the rise and expansion of the Separate Baptists.In 1754, Stearns moved south to Opequon, Virginia. Here he joined Daniel Marshall and wife Martha (Stearns' sister), who were already active in a Baptist church there. On November 22, 1755, Stearns and his party moved further south to Sandy Creek, in Guilford County, North Carolina. This party consisted of eight men and their wives, mostly relatives of Stearns. Stearns pastored at Sandy Creek until his death. From there, Separate Baptists spread in the South. The church quickly grew from 16 members to 606. Church members moved to other areas and started other churches. The Sandy Creek Association was formed in 1758. Morgan Edwards, Baptist minister and historian contemporary with Stearns, recorded that, ""in 17 years, [Sandy Creek] has spread its branches westward as far as the great river Mississippi; southward as far as Georgia; eastward to the sea and Chesopeck [sic] Bay; and northward to the waters of the Pottowmack [sic]; it, in 17 years, is become mother, grandmother, and great grandmother to 42 churches, from which sprang 125 ministers.""For a time these Baptists remained somewhat distinct from the Regular Baptists. They were in the main in agreement with the Regulars, but holding to some minor points of difference. According to Edwards, ""These are called Separates, not because they withdrew from the Regular-baptists but because they have hitherto declined any union with them. The faith and order of both are the same, except some trivial matters not sufficient to support a distinction, but less a disunion; for both avow the Century-Confession and the annexed discipline.""One distinction was in the number of ordinances or rites observed by the Separates. The nine rites were baptism, the Lord's supper, love feasts, laying on of hands, washing feet, anointing the sick, the right hand of fellowship, kiss of charity, and devoting children. Not all the churches practiced all nine of these, but most churches practiced more than the two ordinances generally held by the Regular Baptists — baptism and the Lord's supper.With the exception of the Separate Baptists in Christ, the denominational name Separate Baptist disappeared in many areas of the country with the formal and informal agreements of union between the Regular Baptists and Separate Baptists, beginning in Virginia in 1787, in the Carolinas in 1789, and in Kentucky in 1797 & 1801. As recorded by Benedict, the conclusion of the terms of union in Virginia stated, ""...we are united, and desire hereafter, that the names Regular and Separate be buried in oblivion; and that from henceforth, we shall be known by the name of the United Baptist Churches, in Virginia.""Descendants of the Separate Baptists include the Separate Baptists in Christ, Landmark Missionary Baptists, Primitive Baptists, Southern Baptists, United Baptists, and The General Association of Baptists.Separate Baptists are particularly visible in Kentucky, where a member of the denomination, Vernie McGaha of Russell Springs, served in the state senate.",Correct,32,14227.127476215364,14
+"http://dbpedia.org/resource/Church_of_St_Mary_the_Virgin,_Fordwich",http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Fordwich,Correct,33,218.60921239852905,14
+"http://dbpedia.org/resource/Church_of_St_Mary_the_Virgin,_Fordwich",http://dbpedia.org/property/location,http://dbpedia.org/resource/Fordwich,Correct,33,218.60921239852905,14
+http://dbpedia.org/resource/Pope_Alexander_I,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Rome,Correct,34,147.59496641159058,14
+http://dbpedia.org/resource/Pope_Alexander_I,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Rome,Correct,34,147.59496641159058,14
+http://dbpedia.org/resource/CKSW,http://dbpedia.org/ontology/abstract,"CKSW (570 AM) is a radio station broadcasting a country music format. Licensed to Swift Current, Saskatchewan, it serves southwestern Saskatchewan. It first began broadcasting in 1956 at 1400 kHz before moving to its current dial position of 570 kHz in 1977. The station is currently owned by Golden West Broadcasting.CKSW 570 celebrated its 50th anniversary in July 2006 with a 1-day music festival in the city's Riverside Park.  Among the performers at the outdoor event was Saskatchewan Born country music star, Brad Johner.  The event was a huge success with over 2000 listeners in attendance.Through the last 50 years, CKSW 570 has been home to several legends in Canadian radio such as Wilf Gilbey, Lenn Enns, Eric Rosenbaum and most notably, Art Wallman who is in the Canadian Country Music Hall of Fame.CKSW 570 resides with 2 sister stations; Magic 97.1 FM and the Eagle 94.1FM, in the same building at 134 Central Avenue N. in Swift Current. This arrangement gives the parent company, Golden West Broadcasting a monopoly in the Swift Current radio market. With no local competition, this has led to Golden West Broadcasting cutting many on air positions and features while still being able to raise advertising rates each year. A formula they implement in many other markets.",Correct,35,627.6535289287567,14
+http://dbpedia.org/resource/CKSW,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1956_establishments_in_Saskatchewan,Correct,35,627.6535289287567,14
+http://dbpedia.org/resource/CKSW,http://dbpedia.org/ontology/frequency,570000.0,Correct,35,627.6535289287567,14
+http://dbpedia.org/resource/CKSW,http://www.w3.org/2003/01/geo/wgs84_pos#lat,50.1608,Correct,35,627.6535289287567,14
+http://dbpedia.org/resource/CKSW,http://dbpedia.org/property/webcast,http://www.goldenweststreaming.com/cksw_stream/,Correct,35,627.6535289287567,14
+http://dbpedia.org/resource/Carl_Gottlieb,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Syracuse_University_alumni,Correct,36,494.8834071159363,14
+http://dbpedia.org/resource/Carl_Gottlieb,http://dbpedia.org/property/occupation,"Actor, comedian, screenwriter",Correct,36,494.8834071159363,14
+http://dbpedia.org/resource/Carl_Gottlieb,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_male_film_actors,Correct,36,494.8834071159363,14
+http://dbpedia.org/resource/Carl_Gottlieb,http://dbpedia.org/property/notableworks,Jaws,Correct,36,494.8834071159363,14
+http://dbpedia.org/resource/Carl_Gottlieb,http://dbpedia.org/ontology/birthDate,1938-03-18,Correct,36,494.8834071159363,14
+http://dbpedia.org/resource/Skog,http://www.w3.org/2000/01/rdf-schema#label,Skog,Correct,37,405.5883524417877,14
+http://dbpedia.org/resource/Skog,http://dbpedia.org/property/origin,http://dbpedia.org/resource/Norway,Correct,37,405.5883524417877,14
+http://dbpedia.org/resource/Skog,http://dbpedia.org/property/yearsActive,1995,Correct,37,405.5883524417877,14
+http://dbpedia.org/resource/Skog,http://dbpedia.org/property/members,Øystein Gjærder Bruvik,Correct,37,405.5883524417877,14
+http://dbpedia.org/resource/Skog,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Indie_folk,Correct,37,405.5883524417877,14
+http://dbpedia.org/resource/Paul_Verdzekov,http://dbpedia.org/ontology/deathYear,2010,Correct,38,265.0024676322937,14
+http://dbpedia.org/resource/Paul_Verdzekov,http://dbpedia.org/property/name,"Verdzekov, Paul",Correct,38,265.0024676322937,14
+http://dbpedia.org/resource/Paul_Verdzekov,http://dbpedia.org/ontology/birthDate,1931-01-22,Correct,38,265.0024676322937,14
+http://dbpedia.org/resource/Paul_Verdzekov,http://purl.org/dc/elements/1.1/description,Catholic bishop,Correct,38,265.0024676322937,14
+http://dbpedia.org/resource/Paul_Verdzekov,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Archbishop,Correct,38,265.0024676322937,14
+http://dbpedia.org/resource/Michael_Gray_(DJ),http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/England,Correct,39,149.04045820236206,14
+http://dbpedia.org/resource/Ginny_Owens,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,40,99.70937752723694,14
+http://dbpedia.org/resource/Lightning_Strikes_Twice_(1934_film),http://dbpedia.org/property/editing,http://dbpedia.org/resource/Arthur_Roberts_(editor),Correct,41,263.7305676937103,14
+http://dbpedia.org/resource/Lightning_Strikes_Twice_(1934_film),http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Lightning_Strikes_Twice_(1934_film),Correct,41,263.7305676937103,14
+http://dbpedia.org/resource/Lightning_Strikes_Twice_(1934_film),http://dbpedia.org/property/story,http://dbpedia.org/resource/Ben_Holmes,Correct,41,263.7305676937103,14
+http://dbpedia.org/resource/Lightning_Strikes_Twice_(1934_film),http://dbpedia.org/property/starring,http://dbpedia.org/resource/Thelma_Todd,Correct,41,263.7305676937103,14
+http://dbpedia.org/resource/Lightning_Strikes_Twice_(1934_film),http://dbpedia.org/property/title,Lightning Strikes Twice,Correct,41,263.7305676937103,14
+http://dbpedia.org/resource/Maronite_Church,http://dbpedia.org/property/founder,http://dbpedia.org/resource/John_Maron,Correct,42,603.6745829582214,14
+http://dbpedia.org/resource/Maronite_Church,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Eastern_Catholicism,Correct,42,603.6745829582214,14
+http://dbpedia.org/resource/Maronite_Church,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Christianity_in_Lebanon,Correct,42,603.6745829582214,14
+http://dbpedia.org/resource/Maronite_Church,http://dbpedia.org/property/territory,http://dbpedia.org/resource/Israel,Incorrect,42,603.6745829582214,14
+http://dbpedia.org/resource/Maronite_Church,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Lebanese_society,Correct,42,603.6745829582214,14
+http://dbpedia.org/resource/Đỗ_Thị_Minh,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Vietnam,Correct,43,89.18034267425537,14
+http://dbpedia.org/resource/Đỗ_Thị_Minh,http://dbpedia.org/ontology/club,http://dbpedia.org/resource/Thông_tin_Liên_Việt_Post_Bank,Correct,43,89.18034267425537,14
+http://dbpedia.org/resource/Sultan_al-Atrash,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Syria,Correct,44,80.96281003952026,14
+http://dbpedia.org/resource/XNU,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/C++,Correct,45,534.3361976146698,14
+http://dbpedia.org/resource/XNU,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/C_(programming_language),Correct,45,534.3361976146698,14
+http://dbpedia.org/resource/The_Trusts_Arena,http://dbpedia.org/property/stadiumName,The Trusts Arena,Correct,46,321.0758149623871,14
+http://dbpedia.org/resource/The_Trusts_Arena,http://dbpedia.org/property/opened,2004-09-11,Correct,46,321.0758149623871,14
+http://dbpedia.org/resource/The_Trusts_Arena,http://www.w3.org/2000/01/rdf-schema#comment,"The Trusts Arena is an indoor arena located in Waitakere City, Auckland, New Zealand.  It is a multi-purpose stadium that primarily holds sports events and music concerts. The Arena was opened by the Prime Minister Helen Clark on 11 September 2004.The Stadium Arena has hosted the New Zealand Breakers in the past, the Netball World Championships in November 2007 and the Auckland Darts Masters in August 2015. It holds 4,901 people and was built in 2004.",Correct,46,321.0758149623871,14
+http://dbpedia.org/resource/The_Trusts_Arena,http://dbpedia.org/ontology/tenant,http://dbpedia.org/resource/New_Zealand_Breakers,Correct,46,321.0758149623871,14
+http://dbpedia.org/resource/The_Trusts_Arena,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Netball_venues_in_New_Zealand,Incorrect,46,321.0758149623871,14
+http://dbpedia.org/resource/Marie-Magdeleine,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Marie-Magdeleine,Correct,47,5477.373592615128,14
+http://dbpedia.org/resource/Marie-Magdeleine,http://dbpedia.org/property/cname,Marie-Magdeleine,Correct,47,5477.373592615128,14
+http://dbpedia.org/resource/Marie-Magdeleine,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Oratorio,Correct,47,5477.373592615128,14
+http://dbpedia.org/resource/Marie-Magdeleine,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1873_compositions,Correct,47,5477.373592615128,14
+http://dbpedia.org/resource/Marie-Magdeleine,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Marie-Magdeleine,Correct,47,5477.373592615128,14
+http://dbpedia.org/resource/Sanell_Aggenbach,http://dbpedia.org/ontology/training,http://dbpedia.org/resource/Stellenbosch_University,Correct,48,170.1729302406311,14
+http://dbpedia.org/resource/Dr._Who_and_the_Daleks,http://www.w3.org/2000/01/rdf-schema#label,Dr. Who and the Daleks,Correct,49,68.3023099899292,14
+http://dbpedia.org/resource/Joshua_Neustein,http://dbpedia.org/ontology/training,http://dbpedia.org/resource/Pratt_Institute,Correct,50,63.28755211830139,14
+http://dbpedia.org/resource/Graham_Leonard,http://dbpedia.org/ontology/predecessor,http://dbpedia.org/resource/Maurice_Key,Correct,51,863.4883019924164,14
+http://dbpedia.org/resource/Graham_Leonard,http://xmlns.com/foaf/0.1/name,Graham Leonard,Correct,51,863.4883019924164,14
+http://dbpedia.org/resource/Graham_Leonard,http://dbpedia.org/ontology/predecessor,http://dbpedia.org/resource/George_Ingle,Incorrect,51,863.4883019924164,14
+http://dbpedia.org/resource/Graham_Leonard,http://dbpedia.org/property/honorificSuffix,http://dbpedia.org/resource/Royal_Victorian_Order,Correct,51,863.4883019924164,14
+http://dbpedia.org/resource/Graham_Leonard,http://dbpedia.org/property/termStart,1973,Incorrect,51,863.4883019924164,14
+http://dbpedia.org/resource/Pentozali,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Dance,Correct,52,89.15865206718445,14
+http://dbpedia.org/resource/Bruce_Cabot,http://xmlns.com/foaf/0.1/name,"Cabot, Bruce",Correct,53,1468.8075578212738,14
+http://dbpedia.org/resource/Bruce_Cabot,http://xmlns.com/foaf/0.1/name,Bruce Cabot,Correct,53,1468.8075578212738,14
+http://dbpedia.org/resource/Hitler's_Thirty_Days_to_Power,http://www.w3.org/2000/01/rdf-schema#comment,"""Hitler's Thirty Days to Power"" is a 1996 history book by historian and Yale professor Henry Ashby Turner.",Correct,54,612.8406827449799,14
+http://dbpedia.org/resource/Hitler's_Thirty_Days_to_Power,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Hitler's_Thirty_Days_to_Power,Correct,54,612.8406827449799,14
+http://dbpedia.org/resource/Hitler's_Thirty_Days_to_Power,http://dbpedia.org/property/subject,History,Correct,54,612.8406827449799,14
+http://dbpedia.org/resource/Hitler's_Thirty_Days_to_Power,http://dbpedia.org/property/author,"Henry Ashby Turner, Jr.",Correct,54,612.8406827449799,14
+http://dbpedia.org/resource/Hitler's_Thirty_Days_to_Power,http://dbpedia.org/ontology/oclc,34753374,Correct,54,612.8406827449799,14
+http://dbpedia.org/resource/Milo_Andrus,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/Milo_Andrus_1890.jpg,Correct,55,569.5700576305389,14
+http://dbpedia.org/resource/Milo_Andrus,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_Mormon_missionaries_in_the_United_Kingdom,Correct,55,569.5700576305389,14
+http://dbpedia.org/resource/Milo_Andrus,http://dbpedia.org/ontology/deathDate,1893-06-19,Correct,55,569.5700576305389,14
+http://dbpedia.org/resource/Milo_Andrus,http://dbpedia.org/property/name,Milo Andrus,Correct,55,569.5700576305389,14
+http://dbpedia.org/resource/Milo_Andrus,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:19th-century_Mormon_missionaries,Correct,55,569.5700576305389,14
+http://dbpedia.org/resource/Bernard_Mary_of_Jesus,http://dbpedia.org/property/deathDate,1911-12-09,Correct,56,1598.706331729889,14
+http://dbpedia.org/resource/Bernard_Mary_of_Jesus,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Bernard_Mary_of_Jesus,Correct,56,1598.706331729889,14
+http://dbpedia.org/resource/Bernard_Mary_of_Jesus,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Bernardo02.jpg?width=300,Correct,56,1598.706331729889,14
+http://dbpedia.org/resource/Bernard_Mary_of_Jesus,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Italian_beatified_people,Correct,56,1598.706331729889,14
+http://dbpedia.org/resource/Bernard_Mary_of_Jesus,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:People_from_Rome,Correct,56,1598.706331729889,14
+http://dbpedia.org/resource/Military_Ordinariate_of_Portugal,http://dbpedia.org/property/name,Military Ordinariate of Portugal,Correct,57,1306.632078409195,14
+http://dbpedia.org/resource/Military_Ordinariate_of_Portugal,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Roman_Catholic_dioceses_in_Portugal,Correct,57,1306.632078409195,14
+http://dbpedia.org/resource/Military_Ordinariate_of_Portugal,http://xmlns.com/foaf/0.1/name,Military Ordinariate of Portugal,Correct,57,1306.632078409195,14
+http://dbpedia.org/resource/Military_Ordinariate_of_Portugal,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Roman_Catholic_Military_Ordinariates,Correct,57,1306.632078409195,14
+http://dbpedia.org/resource/Military_Ordinariate_of_Portugal,http://xmlns.com/foaf/0.1/name,Ordinariato Castrense de Portugal,Correct,57,1306.632078409195,14
+"http://dbpedia.org/resource/Niantic,_Inc.",http://dbpedia.org/property/industry,"mobile applications, mobile games, alternate reality games",Correct,58,16926.396500110626,14
+"http://dbpedia.org/resource/Niantic,_Inc.",http://dbpedia.org/property/website,http://www.nianticlabs.com/,Incorrect,58,16926.396500110626,14
+"http://dbpedia.org/resource/Niantic,_Inc.",http://dbpedia.org/ontology/product,http://dbpedia.org/resource/Ingress_(video_game),Correct,58,16926.396500110626,14
+"http://dbpedia.org/resource/Niantic,_Inc.",http://xmlns.com/foaf/0.1/homepage,http://www.nianticlabs.com/,Incorrect,58,16926.396500110626,14
+"http://dbpedia.org/resource/Niantic,_Inc.",http://dbpedia.org/property/hasPhotoCollection,"http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Niantic,_Inc.",Correct,58,16926.396500110626,14
+http://dbpedia.org/resource/The_Cowboy_Way_(album),http://dbpedia.org/property/genre,http://dbpedia.org/resource/Western_music_(North_America),Correct,59,413.0122220516205,14
+http://dbpedia.org/resource/The_Cowboy_Way_(album),http://dbpedia.org/property/label,http://dbpedia.org/resource/MCA_Inc.,Correct,59,413.0122220516205,14
+http://dbpedia.org/resource/The_Cowboy_Way_(album),http://dbpedia.org/ontology/recordLabel,http://dbpedia.org/resource/MCA_Inc.,Correct,59,413.0122220516205,14
+http://dbpedia.org/resource/The_Cowboy_Way_(album),http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Western_music_(North_America),Correct,59,413.0122220516205,14
+http://dbpedia.org/resource/University_of_Helmstedt,http://www.w3.org/2003/01/geo/wgs84_pos#lat,52.2292,Correct,60,515.9189574718475,14
+http://dbpedia.org/resource/University_of_Helmstedt,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Universities_and_colleges_in_Historical_Germany,Correct,60,515.9189574718475,14
+http://dbpedia.org/resource/University_of_Helmstedt,http://www.w3.org/2003/01/geo/wgs84_pos#long,11.0086,Correct,60,515.9189574718475,14
+http://dbpedia.org/resource/University_of_Helmstedt,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Principality_of_Brunswick-Wolfenbüttel,Correct,60,515.9189574718475,14
+http://dbpedia.org/resource/University_of_Helmstedt,http://www.georss.org/georss/point,52.229166666666664 11.008611111111112,Correct,60,515.9189574718475,14
+http://dbpedia.org/resource/Wayne_Handy,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,61,81.86657619476318,14
+http://dbpedia.org/resource/Victor_L._Ludlow,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:People_from_Provo,_Utah",Correct,62,443.349714756012,14
+"http://dbpedia.org/resource/Chennakeshava_Temple,_Aralaguppe",http://dbpedia.org/property/pushpinMapCaption,"Location in Karnataka, India",Correct,63,552.4532926082611,14
+"http://dbpedia.org/resource/Chennakeshava_Temple,_Aralaguppe",http://dbpedia.org/property/subdivisionName,http://dbpedia.org/resource/Tumakuru_district,Correct,63,552.4532926082611,14
+"http://dbpedia.org/resource/Chennakeshava_Temple,_Aralaguppe",http://xmlns.com/foaf/0.1/name,Chennakeshava Temple,Correct,63,552.4532926082611,14
+"http://dbpedia.org/resource/Chennakeshava_Temple,_Aralaguppe",http://dbpedia.org/ontology/isPartOf,http://dbpedia.org/resource/Karnataka,Correct,63,552.4532926082611,14
+"http://dbpedia.org/resource/Chennakeshava_Temple,_Aralaguppe",http://dbpedia.org/ontology/utcOffset,+5:30,Correct,63,552.4532926082611,14
+http://dbpedia.org/resource/Roy_Peter_Clark,http://www.w3.org/2000/01/rdf-schema#label,Roy Peter Clark,Correct,64,115.69554376602171,14
+http://dbpedia.org/resource/Roy_Peter_Clark,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/New_York_City,Correct,64,115.69554376602171,14
+http://dbpedia.org/resource/Jim_Henson,http://dbpedia.org/ontology/board,http://dbpedia.org/resource/The_Jim_Henson_Company,Correct,65,329.157329082489,14
+http://dbpedia.org/resource/Jim_Henson,http://www.w3.org/2000/01/rdf-schema#label,Jim Henson,Correct,65,329.157329082489,14
+http://dbpedia.org/resource/Diocese_of_Shirak,http://dbpedia.org/ontology/territory,http://dbpedia.org/resource/Shirak_Province,Correct,66,1103.8079226016998,14
+http://dbpedia.org/resource/Diocese_of_Shirak,http://www.w3.org/2000/01/rdf-schema#label,Diocese of Shirak,Correct,66,1103.8079226016998,14
+http://dbpedia.org/resource/Diocese_of_Shirak,http://dbpedia.org/ontology/established,4 September 1920,Correct,66,1103.8079226016998,14
+http://dbpedia.org/resource/Finnish_Democratic_Republic,http://dbpedia.org/property/commonName,Finnish Democratic Republic,Correct,67,76.54936647415161,14
+"http://dbpedia.org/resource/McAuley_Catholic_High_School_(Joplin,_Missouri)",http://dbpedia.org/property/newspaper,McAuley Times,I Don't Know,68,745.1662003993988,14
+"http://dbpedia.org/resource/McAuley_Catholic_High_School_(Joplin,_Missouri)",http://dbpedia.org/property/type,http://dbpedia.org/resource/Private_school,Correct,68,745.1662003993988,14
+"http://dbpedia.org/resource/McAuley_Catholic_High_School_(Joplin,_Missouri)",http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Buildings_and_structures_in_Joplin,_Missouri",Correct,68,745.1662003993988,14
+"http://dbpedia.org/resource/McAuley_Catholic_High_School_(Joplin,_Missouri)",http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Education_in_Joplin,_Missouri",Correct,68,745.1662003993988,14
+"http://dbpedia.org/resource/McAuley_Catholic_High_School_(Joplin,_Missouri)",http://xmlns.com/foaf/0.1/homepage,http://www.jacss.org/mcauley_default.html,Incorrect,68,745.1662003993988,14
+http://dbpedia.org/resource/Botch_(band),http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,69,45112.17202687264,14
+http://dbpedia.org/resource/Michael_Bauer_(officer),http://dbpedia.org/ontology/allegiance,(to 1918),Correct,70,929.782420873642,15
+http://dbpedia.org/resource/Michael_Bauer_(officer),http://dbpedia.org/property/deathPlace,http://dbpedia.org/resource/Sclobodka,Correct,70,929.782420873642,15
+http://dbpedia.org/resource/Michael_Bauer_(officer),http://dbpedia.org/property/placeOfBirth,http://dbpedia.org/resource/Herzogenaurach,Correct,70,929.782420873642,15
+http://dbpedia.org/resource/Michael_Bauer_(officer),http://dbpedia.org/property/birthDate,1895-11-24,Incorrect,70,929.782420873642,15
+http://dbpedia.org/resource/Michael_Bauer_(officer),http://dbpedia.org/ontology/deathYear,1943,Correct,70,929.782420873642,15
+"http://dbpedia.org/resource/St_Peter's_Church,_Wintringham",http://xmlns.com/foaf/0.1/page,http://www.visitchurches.org.uk/Ourchurches/Completelistofchurches/St-Peters-Church-Wintringham-North-Yorkshire/,Incorrect,71,54.85438275337219,15
+http://dbpedia.org/resource/Harold_Wilson,http://dbpedia.org/property/rows,3,I Don't Know,72,2561.063763618469,15
+http://dbpedia.org/resource/Harold_Wilson,http://dbpedia.org/property/crest,"On a wreath of the colours, Upon a Rock a Lighthouse in front thereof a Spade blade downwards and a Quill point downwards in saltire all proper.",Correct,72,2561.063763618469,15
+http://dbpedia.org/resource/Harold_Wilson,http://dbpedia.org/property/name,Harold Wilson,Correct,72,2561.063763618469,15
+http://dbpedia.org/resource/Harold_Wilson,http://dbpedia.org/property/name,"Wilson, James Harold, Baron Wilson of Rievaulx",Correct,72,2561.063763618469,15
+http://dbpedia.org/resource/Harold_Wilson,http://dbpedia.org/ontology/termPeriod,http://dbpedia.org/resource/Harold_Wilson__9,Incorrect,72,2561.063763618469,15
+http://dbpedia.org/resource/Maksim_Chmerkovskiy,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Ukrainian_male_dancers,Correct,73,440.5898311138153,15
+http://dbpedia.org/resource/Maksim_Chmerkovskiy,http://dbpedia.org/property/placeOfBirth,"Odessa ; present-day Odessa, Ukraine",Correct,73,440.5898311138153,15
+http://dbpedia.org/resource/Maksim_Chmerkovskiy,http://dbpedia.org/property/title,Dancing with the Stars (US) third place contestant,Correct,73,440.5898311138153,15
+http://dbpedia.org/resource/Maksim_Chmerkovskiy,http://dbpedia.org/property/alternativeNames,"Chmerkovskiy, Maksim Aleksandrovich",Correct,73,440.5898311138153,15
+http://dbpedia.org/resource/Maksim_Chmerkovskiy,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Ukrainian_people_of_Jewish_descent,Correct,73,440.5898311138153,15
+http://dbpedia.org/resource/Jennifer_Berry,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Houston,Correct,74,127.52050304412842,15
+http://dbpedia.org/resource/Ian_Bruce_Ferguson,http://xmlns.com/foaf/0.1/name,Ian Bruce Ferguson,Correct,75,773.7924911975861,15
+http://dbpedia.org/resource/Ian_Bruce_Ferguson,http://dbpedia.org/property/serviceyears,1939,Correct,75,773.7924911975861,15
+http://dbpedia.org/resource/Ian_Bruce_Ferguson,http://xmlns.com/foaf/0.1/name,Ian Ferguson,Correct,75,773.7924911975861,15
+http://dbpedia.org/resource/Ian_Bruce_Ferguson,http://xmlns.com/foaf/0.1/name,"Ferguson, Ian",Correct,75,773.7924911975861,15
+http://dbpedia.org/resource/Ian_Bruce_Ferguson,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Canberra,Correct,75,773.7924911975861,15
+http://dbpedia.org/resource/Oscar_Steen,http://purl.org/dc/elements/1.1/description,Swedish ice hockey player,Correct,76,482.9028565883637,15
+http://dbpedia.org/resource/Oscar_Steen,http://dbpedia.org/ontology/team,http://dbpedia.org/resource/AIK_IF,Incorrect,76,482.9028565883637,15
+http://dbpedia.org/resource/Another_48_Hrs.,http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Eddie_Murphy,Correct,77,88.07355690002441,15
+http://dbpedia.org/resource/Walid_Jahdali,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Saudi_Arabia,Correct,78,60.03792667388916,15
+http://dbpedia.org/resource/Salto_Mortale_(1953_film),http://dbpedia.org/ontology/language,http://dbpedia.org/resource/German_language,Correct,79,235.17664051055908,15
+"http://dbpedia.org/resource/St_David's_Church,_Barmouth",http://dbpedia.org/ontology/architect,"http://dbpedia.org/resource/Edward_Haycock,_Sr.",Correct,80,191.3233461380005,15
+http://dbpedia.org/resource/Reshmi_Ghosh,http://xmlns.com/foaf/0.1/name,Reshmi Ghosh,Correct,81,1012.3674726486206,15
+http://dbpedia.org/resource/Reshmi_Ghosh,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Kolkata,Correct,81,1012.3674726486206,15
+http://dbpedia.org/resource/Reshmi_Ghosh,http://dbpedia.org/property/occupation,http://dbpedia.org/resource/Actor,Correct,81,1012.3674726486206,15
+http://dbpedia.org/resource/Reshmi_Ghosh,http://xmlns.com/foaf/0.1/name,"Ghosh, Reshmi",Correct,81,1012.3674726486206,15
+http://dbpedia.org/resource/Reshmi_Ghosh,http://www.w3.org/2000/01/rdf-schema#comment,Reshmi Ghosh (Bengali: রেশমি ঘোষ)  is an Indian  beauty queen and actress. She is currently working on Buddha (TV series).,Incorrect,81,1012.3674726486206,15
+http://dbpedia.org/resource/Friedrich_Hayek,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/George_Stigler,Correct,82,838.072244644165,15
+http://dbpedia.org/resource/Friedrich_Hayek,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Karl_Popper,Correct,82,838.072244644165,15
+http://dbpedia.org/resource/Friedrich_Hayek,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Austria-Hungary,Correct,82,838.072244644165,15
+http://dbpedia.org/resource/Friedrich_Hayek,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/John_Hicks,Correct,82,838.072244644165,15
+http://dbpedia.org/resource/Friedrich_Hayek,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Milton_Friedman,Correct,82,838.072244644165,15
+http://dbpedia.org/resource/Robin_Leamy_(bishop),http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Wellington,Correct,83,4053.379404306412,15
+http://dbpedia.org/resource/Archbishopric_of_Bremen,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Basdahl,Correct,84,981.492858171463,15
+http://dbpedia.org/resource/Archbishopric_of_Bremen,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Bremervörde,Correct,84,981.492858171463,15
+http://dbpedia.org/resource/Archbishopric_of_Bremen,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Bremen,Correct,84,981.492858171463,15
+http://dbpedia.org/resource/Archbishopric_of_Bremen,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Reichsthaler,Correct,84,981.492858171463,15
+http://dbpedia.org/resource/Archbishopric_of_Bremen,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Bremen,Correct,84,981.492858171463,15
+http://dbpedia.org/resource/Never_Kill_a_Boy_on_the_First_Date,http://xmlns.com/foaf/0.1/name,Never Kill a Boy on the First Date,Correct,85,132.92021107673645,15
+http://dbpedia.org/resource/Never_Kill_a_Boy_on_the_First_Date,http://dbpedia.org/ontology/series,http://dbpedia.org/resource/Buffy_the_Vampire_Slayer,Correct,85,132.92021107673645,15
+http://dbpedia.org/resource/Adam_Elliot,http://dbpedia.org/ontology/training,http://dbpedia.org/resource/University_of_Melbourne_Faculty_of_VCA_and_MCM,Correct,86,338.9077498912811,15
+http://dbpedia.org/resource/Brooks_School,http://www.w3.org/2000/01/rdf-schema#label,Brooks School,Correct,87,878.7132301330566,15
+http://dbpedia.org/resource/Brooks_School,http://dbpedia.org/property/schooltype,http://dbpedia.org/resource/Boarding_school,Correct,87,878.7132301330566,15
+http://dbpedia.org/resource/Brooks_School,http://dbpedia.org/ontology/endowment,5.8E7,Incorrect,87,878.7132301330566,15
+http://dbpedia.org/resource/Princess_Academy,http://dbpedia.org/ontology/numberOfPages,314,Correct,88,957.483124256134,15
+http://dbpedia.org/resource/Princess_Academy,http://www.w3.org/2000/01/rdf-schema#label,Princess Academy,Correct,88,957.483124256134,15
+http://dbpedia.org/resource/Princess_Academy,http://dbpedia.org/ontology/publicationDate,2005-06-16,Correct,88,957.483124256134,15
+"http://dbpedia.org/resource/St_Mary's_Church,_Knowsley",http://xmlns.com/foaf/0.1/page,http://www.knowsleychurch.co.uk/,Incorrect,89,89.35061693191528,15
+http://dbpedia.org/resource/James_Stroud,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,90,116.8859875202179,15
+http://dbpedia.org/resource/Gervaise,http://dbpedia.org/property/runtime,7200.0,Incorrect,91,370.9330651760101,15
+http://dbpedia.org/resource/Gervaise,http://xmlns.com/foaf/0.1/name,Gervaise,Correct,91,370.9330651760101,15
+http://dbpedia.org/resource/Gervaise,http://dbpedia.org/ontology/writer,http://dbpedia.org/resource/Pierre_Bost,Correct,91,370.9330651760101,15
+http://dbpedia.org/resource/Gervaise,http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Maria_Schell,Correct,91,370.9330651760101,15
+http://dbpedia.org/resource/Gervaise,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Gervaise,Correct,91,370.9330651760101,15
+http://dbpedia.org/resource/Rolo_Tomassi,http://dbpedia.org/property/currentMembers,Eva Spence,Correct,92,637.2730121612549,15
+http://dbpedia.org/resource/Rolo_Tomassi,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Art_punk,Correct,92,637.2730121612549,15
+http://dbpedia.org/resource/Rolo_Tomassi,http://dbpedia.org/property/background,group_or_band,Correct,92,637.2730121612549,15
+http://dbpedia.org/resource/Rolo_Tomassi,http://dbpedia.org/property/landscape,yes,Incorrect,92,637.2730121612549,15
+http://dbpedia.org/resource/Rolo_Tomassi,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Band,Correct,92,637.2730121612549,15
+http://dbpedia.org/resource/Vanessa_Bell_Armstrong,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,93,1312.5386114120483,15
+http://dbpedia.org/resource/Nathan_Phelps,http://xmlns.com/foaf/0.1/name,"Phelps, Nathan",Correct,94,663.2665734291077,15
+http://dbpedia.org/resource/Nathan_Phelps,http://dbpedia.org/ontology/abstract,"Nathan ""Nate"" Phelps (born November 22, 1958) is an American-Canadian author, LGBT rights activist, and public speaker on the topics of religion and child abuse. He is the sixth of the thirteen children of Fred Phelps, from whom he – along with three of his siblings – had been estranged since his eighteenth birthday in 1976 until his father's death in 2014. Phelps permanently left Westboro Baptist Church in 1980 and has since publicly censured the group.Other members of the Phelps family have also left, most recently Zach Phelps-Roper in February 2014.",Correct,94,663.2665734291077,15
+http://dbpedia.org/resource/Nathan_Phelps,http://xmlns.com/foaf/0.1/name,Nathan Phelps,Correct,94,663.2665734291077,15
+http://dbpedia.org/resource/Nathan_Phelps,http://dbpedia.org/property/residence,http://dbpedia.org/resource/Calgary,Correct,94,663.2665734291077,15
+http://dbpedia.org/resource/Nathan_Phelps,http://dbpedia.org/ontology/ethnicity,http://dbpedia.org/resource/Americans,Correct,94,663.2665734291077,15
+http://dbpedia.org/resource/Tibet_(1912–51),http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Tibetan_skar,Correct,95,1233.491225481033,15
+http://dbpedia.org/resource/Tibet_(1912–51),http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Tibetan_tangka,Correct,95,1233.491225481033,15
+http://dbpedia.org/resource/Tibet_(1912–51),http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Lhasa,Correct,95,1233.491225481033,15
+http://dbpedia.org/resource/Tibet_(1912–51),http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Tibetan_srang,Correct,95,1233.491225481033,15
+http://dbpedia.org/resource/Robert_Redford,http://xmlns.com/foaf/0.1/name,"Redford, Robert",Correct,96,599.4401195049286,15
+http://dbpedia.org/resource/Robert_Redford,http://dbpedia.org/ontology/spouse,http://dbpedia.org/resource/Lola_Van_Wagenen,Incorrect,96,599.4401195049286,15
+http://dbpedia.org/resource/Robert_Redford,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Best_Actor_BAFTA_Award_winners,Correct,96,599.4401195049286,15
+http://dbpedia.org/resource/Robert_Redford,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Best_Director_Golden_Globe_winners,Correct,96,599.4401195049286,15
+http://dbpedia.org/resource/Robert_Redford,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_people_of_Scottish_descent,Correct,96,599.4401195049286,15
+http://dbpedia.org/resource/South_Leith_Parish_Church,http://xmlns.com/foaf/0.1/page,http://www.slpc.co.uk/html/aboutus_church.html,Correct,97,261.3001682758332,15
+http://dbpedia.org/resource/Dufftown,http://dbpedia.org/ontology/lieutenancyArea,http://dbpedia.org/resource/Banffshire,Correct,98,346.67574524879456,15
+http://dbpedia.org/resource/Dufftown,http://dbpedia.org/ontology/councilArea,http://dbpedia.org/resource/Moray,Correct,98,346.67574524879456,15
+http://dbpedia.org/resource/Regent_University,http://dbpedia.org/property/colors,"Blue, Green",Correct,99,722.546263217926,15
+http://dbpedia.org/resource/Regent_University,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Regent_University,Correct,99,722.546263217926,15
+http://dbpedia.org/resource/Regent_University,http://dbpedia.org/ontology/numberOfStudents,6158,Correct,99,722.546263217926,15
+http://dbpedia.org/resource/Regent_University,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-university-noun-2,I Don't Know,99,722.546263217926,15
+http://dbpedia.org/resource/Regent_University,http://dbpedia.org/ontology/staff,402,Correct,99,722.546263217926,15
+http://dbpedia.org/resource/Jo_Van_Fleet,http://dbpedia.org/property/birthname,Catherine Josephine Van Fleet,Correct,100,608.6134927272797,15
+http://dbpedia.org/resource/Jo_Van_Fleet,http://dbpedia.org/ontology/deathYear,1996,Correct,100,608.6134927272797,15
+http://dbpedia.org/resource/Jo_Van_Fleet,http://dbpedia.org/property/birthDate,1915-12-29,Correct,100,608.6134927272797,15
+http://dbpedia.org/resource/Jo_Van_Fleet,http://dbpedia.org/property/deathPlace,"Jamaica, New York, U.S.",Incorrect,100,608.6134927272797,15
+http://dbpedia.org/resource/Jo_Van_Fleet,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:University_of_the_Pacific_(United_States)_alumni,Correct,100,608.6134927272797,15
+http://dbpedia.org/resource/Pope_Alexander_II,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Rome,Correct,101,44.44453263282776,15
+http://dbpedia.org/resource/Society_of_Jesus,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Rome,Correct,102,209.48175048828125,15
+http://dbpedia.org/resource/Society_of_Jesus,http://dbpedia.org/ontology/mainOrgan,http://dbpedia.org/resource/Curia,Correct,102,209.48175048828125,15
+http://dbpedia.org/resource/Society_of_Jesus,http://www.w3.org/2000/01/rdf-schema#label,Society of Jesus,Correct,102,209.48175048828125,15
+http://dbpedia.org/resource/People's_Socialist_Republic_of_Albania,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Tirana,Correct,103,221.46516633033752,15
+http://dbpedia.org/resource/People's_Socialist_Republic_of_Albania,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Albanian_lek,Correct,103,221.46516633033752,15
+http://dbpedia.org/resource/Down_Peninsula_Audio,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2002_establishments_in_Michigan,Correct,104,1766.6799218654633,15
+http://dbpedia.org/resource/Down_Peninsula_Audio,http://dbpedia.org/ontology/abstract,"Down Peninsula Audio is a record label in Dearborn, Michigan, and is home to artists such as The Holy Fire, I, the Magician, Heads Will Roll, Thoughts of Ionesco, Ancourage, War Between the States and Leaving Rouge.",Correct,104,1766.6799218654633,15
+http://dbpedia.org/resource/Down_Peninsula_Audio,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Record_labels_established_in_2002,Correct,104,1766.6799218654633,15
+http://dbpedia.org/resource/Down_Peninsula_Audio,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Down_Peninsula_Audio,Correct,104,1766.6799218654633,15
+http://dbpedia.org/resource/Down_Peninsula_Audio,http://www.w3.org/2000/01/rdf-schema#label,Down Peninsula Audio,Correct,104,1766.6799218654633,15
+http://dbpedia.org/resource/Robert_Mundell,http://dbpedia.org/ontology/award,http://dbpedia.org/resource/Nobel_Memorial_Prize_in_Economic_Sciences,Correct,105,94.21436858177184,15
+http://dbpedia.org/resource/N._D._Cocea,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Satire,Correct,106,617.7208235263824,15
+http://dbpedia.org/resource/N._D._Cocea,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Travel_literature,Correct,106,617.7208235263824,15
+http://dbpedia.org/resource/N._D._Cocea,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Essay,Correct,106,617.7208235263824,15
+http://dbpedia.org/resource/N._D._Cocea,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Prose_poetry,Incorrect,106,617.7208235263824,15
+http://dbpedia.org/resource/N._D._Cocea,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Parody,Correct,106,617.7208235263824,15
+http://dbpedia.org/resource/List_of_Super_Dave_Osborne_Show_episodes,http://dbpedia.org/property/shortsummary,30.0,I Don't Know,107,1561.458704471588,15
+http://dbpedia.org/resource/List_of_Super_Dave_Osborne_Show_episodes,http://dbpedia.org/property/writtenby,"Michelle Wright, Glen Campbell, Fuji Hakayito",Incorrect,107,1561.458704471588,15
+http://dbpedia.org/resource/List_of_Super_Dave_Osborne_Show_episodes,http://dbpedia.org/property/writtenby,"En Vogue, Donald Glanz",Incorrect,107,1561.458704471588,15
+http://dbpedia.org/resource/List_of_Super_Dave_Osborne_Show_episodes,http://dbpedia.org/property/title,Swim Stadium,Correct,107,1561.458704471588,15
+http://dbpedia.org/resource/List_of_Super_Dave_Osborne_Show_episodes,http://dbpedia.org/property/shortsummary,"Glen Campbell sings ""On a Good Night"". Super and Donald give a tour of the new Super Dave Senior Citizen's Theatre, which has features specifically built for senior citizens and their needs. The movie playing is Super's ""Garbane"" fuel demonstration. Super find out the building was renovated, and he wonders what the building used to be. Donald tells him it used to be a Senior Citizen's parking lot.
+
+The Super One gets hurt: ""Of course…"" Gladys, a senior lady, still thinks it's a parking lot, and drives through the screen flattening him.
+
+The Last Word: He pleads with everyone for help. 
+
+Arrival Vehicle:  The Super dave black motorbike and sidecar.
+
+Mike Walden's Outfit: Pale Peach jacket, red tie, white hanky and shirt, white pants and shoes.",Correct,107,1561.458704471588,15
+http://dbpedia.org/resource/Gilbert_Belnap,http://dbpedia.org/ontology/deathPlace,"http://dbpedia.org/resource/Hooper,_Utah",Correct,108,301.65559911727905,15
+http://dbpedia.org/resource/The_Penguins_of_Madagascar,http://dbpedia.org/ontology/distributor,http://dbpedia.org/resource/20th_Television,Correct,109,577.1133720874786,15
+http://dbpedia.org/resource/The_Penguins_of_Madagascar,http://dbpedia.org/property/showName,The Penguins of Madagascar,Correct,109,577.1133720874786,15
+http://dbpedia.org/resource/The_Penguins_of_Madagascar,http://dbpedia.org/property/starring,*,Incorrect,109,577.1133720874786,15
+http://dbpedia.org/resource/The_Penguins_of_Madagascar,http://dbpedia.org/property/network,http://dbpedia.org/resource/Nickelodeon,Correct,109,577.1133720874786,15
+http://dbpedia.org/resource/The_Penguins_of_Madagascar,http://dbpedia.org/property/composer,http://dbpedia.org/resource/Adam_Berry,Correct,109,577.1133720874786,15
+http://dbpedia.org/resource/Chrysostome_Liausu,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Chrysostome_Liausu__1,Incorrect,110,3061.6291649341583,15
+http://dbpedia.org/resource/Chrysostome_Liausu,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Deaths_from_typhus,Incorrect,110,3061.6291649341583,15
+http://dbpedia.org/resource/Chrysostome_Liausu,http://xmlns.com/foaf/0.1/name,Chrysostome Liausu,Correct,110,3061.6291649341583,15
+http://dbpedia.org/resource/Chrysostome_Liausu,http://dbpedia.org/property/deathPlace,"Valparaíso, Chile",Correct,110,3061.6291649341583,15
+http://dbpedia.org/resource/Chrysostome_Liausu,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1807_births,Correct,110,3061.6291649341583,15
+http://dbpedia.org/resource/Tote_(footballer),http://dbpedia.org/ontology/team,http://dbpedia.org/resource/Real_Madrid_Castilla,Correct,111,499.8106527328491,15
+http://dbpedia.org/resource/Tote_(footballer),http://dbpedia.org/ontology/team,http://dbpedia.org/resource/Real_Madrid_C,Correct,111,499.8106527328491,15
+http://dbpedia.org/resource/Tote_(footballer),http://dbpedia.org/ontology/team,http://dbpedia.org/resource/CD_Los_Yébenes_San_Bruno,Correct,111,499.8106527328491,15
+http://dbpedia.org/resource/Tote_(footballer),http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Madrid,Correct,111,499.8106527328491,15
+http://dbpedia.org/resource/Tote_(footballer),http://dbpedia.org/ontology/team,http://dbpedia.org/resource/Real_Madrid_C.F.,Correct,111,499.8106527328491,15
+http://dbpedia.org/resource/Der_bewegte_Mann,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Der_bewegte_Mann,Correct,112,214.39608001708984,15
+http://dbpedia.org/resource/Der_bewegte_Mann,http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Katja_Riemann,Correct,112,214.39608001708984,15
+http://dbpedia.org/resource/Der_bewegte_Mann,http://dbpedia.org/property/editing,http://dbpedia.org/resource/Ueli_Christen,Correct,112,214.39608001708984,15
+http://dbpedia.org/resource/Der_bewegte_Mann,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Der_bewegte_Mann,Correct,112,214.39608001708984,15
+http://dbpedia.org/resource/Der_bewegte_Mann,http://dbpedia.org/property/producer,http://dbpedia.org/resource/Bernd_Eichinger,Correct,112,214.39608001708984,15
+"http://dbpedia.org/resource/Council_Bluffs,_Iowa",http://dbpedia.org/property/pushpinMap,USA,Correct,113,1226.512847185135,15
+"http://dbpedia.org/resource/Council_Bluffs,_Iowa",http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/List_of_sovereign_states,Incorrect,113,1226.512847185135,15
+"http://dbpedia.org/resource/Council_Bluffs,_Iowa",http://dbpedia.org/ontology/motto,"""Iowa's Spirit""",Correct,113,1226.512847185135,15
+"http://dbpedia.org/resource/Council_Bluffs,_Iowa",http://xmlns.com/foaf/0.1/depiction,"http://commons.wikimedia.org/wiki/Special:FilePath/Council_Bluffs,_IA.jpg",Correct,113,1226.512847185135,15
+"http://dbpedia.org/resource/Council_Bluffs,_Iowa",http://dbpedia.org/property/blank1Name,GNIS feature ID,Correct,113,1226.512847185135,15
+http://dbpedia.org/resource/Projekt_Herz,http://xmlns.com/foaf/0.1/name,Projekt Herz,Correct,114,373.2874789237976,15
+http://dbpedia.org/resource/Projekt_Herz,http://dbpedia.org/property/title,Western Beta,Correct,114,373.2874789237976,15
+http://dbpedia.org/resource/Projekt_Herz,http://dbpedia.org/property/label,Independent,Correct,114,373.2874789237976,15
+http://dbpedia.org/resource/Projekt_Herz,http://dbpedia.org/property/title,Supernova,Correct,114,373.2874789237976,15
+http://dbpedia.org/resource/Projekt_Herz,http://www.w3.org/2000/01/rdf-schema#comment,"Projekt Herz (English: Project Heart)  is the first EP by German metalcore band, We Butter the Bread with Butter. It was released December 19, 2012 independently. It is also the band's first release to feature Paul Bartzsch on vocals.On Facebook, the band posted a comment on November 18, 2012 with a picture of their new album cover for ""Projekt Herz"" saying ""It all begins Thursday"".The album was hitting Nr. 10 at US Album Charts.",Correct,114,373.2874789237976,15
+http://dbpedia.org/resource/Clay_Davidson,http://dbpedia.org/ontology/associatedBand,http://dbpedia.org/resource/Jude_Cole,Incorrect,115,303.7295265197754,15
+http://dbpedia.org/resource/Clay_Davidson,http://dbpedia.org/ontology/instrument,http://dbpedia.org/resource/Guitar,Correct,115,303.7295265197754,15
+http://dbpedia.org/resource/Protestantism_in_the_Philippines,http://www.w3.org/2000/01/rdf-schema#label,Protestantism in the Philippines,Correct,116,189.9395973682404,15
+http://dbpedia.org/resource/Protestantism_in_the_Philippines,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Protestant_schools_in_the_Philippines,Correct,116,189.9395973682404,15
+http://dbpedia.org/resource/Protestantism_in_the_Philippines,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Protestantism_by_country,Correct,116,189.9395973682404,15
+http://dbpedia.org/resource/Protestantism_in_the_Philippines,http://www.w3.org/2000/01/rdf-schema#comment,"Protestant Christianity arrived in the Philippines during the late 19th and the early 20th century. American missionaries were mostly responsible for introducing Protestantism, but some were founded locally.",Correct,116,189.9395973682404,15
+http://dbpedia.org/resource/Protestantism_in_the_Philippines,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Christianity_in_the_Philippines,Correct,116,189.9395973682404,15
+http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden,http://dbpedia.org/ontology/spouse,http://dbpedia.org/resource/Louise_Mountbatten,Correct,117,507.8704371452332,15
+http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden,http://dbpedia.org/ontology/restingPlace,http://dbpedia.org/resource/Solna_Municipality,Correct,117,507.8704371452332,15
+http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden,http://dbpedia.org/ontology/restingPlace,http://dbpedia.org/resource/Kungliga_begravningsplatsen,Correct,117,507.8704371452332,15
+"http://dbpedia.org/resource/St_Joseph's_Church,_Brighton",http://xmlns.com/foaf/0.1/page,http://www.stjosephsbrighton.co.uk/,Incorrect,118,8.708416223526001,15
+http://dbpedia.org/resource/Brian_Slagel,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,119,74.45417618751526,15
+http://dbpedia.org/resource/Devil_May_Cry_3:_Dante's_Awakening,http://dbpedia.org/ontology/director,http://dbpedia.org/resource/Hideaki_Itsuno,Correct,120,233.9328122138977,15
+http://dbpedia.org/resource/Devil_May_Cry_3:_Dante's_Awakening,http://dbpedia.org/property/platforms,PlayStation 3,Correct,120,233.9328122138977,15
+http://dbpedia.org/resource/Devil_May_Cry_3:_Dante's_Awakening,http://dbpedia.org/property/mc,84,Correct,120,233.9328122138977,15
+http://dbpedia.org/resource/Devil_May_Cry_3:_Dante's_Awakening,http://dbpedia.org/property/platforms,Xbox 360,Correct,120,233.9328122138977,15
+http://dbpedia.org/resource/Devil_May_Cry_3:_Dante's_Awakening,http://xmlns.com/foaf/0.1/name,Devil May Cry 3: Dante's Awakening,Correct,120,233.9328122138977,15
+http://dbpedia.org/resource/Mark_Kirk,http://dbpedia.org/ontology/religion,http://dbpedia.org/resource/United_Church_of_Christ,Correct,121,438.6341462135315,15
+http://dbpedia.org/resource/Mark_Kirk,http://dbpedia.org/property/imdb,3268451,Incorrect,121,438.6341462135315,15
+http://dbpedia.org/resource/Mark_Kirk,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Georgetown_University_Law_Center_alumni,Correct,121,438.6341462135315,15
+http://dbpedia.org/resource/Mark_Kirk,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Republican_Party_members_of_the_United_States_House_of_Representatives,Correct,121,438.6341462135315,15
+http://dbpedia.org/resource/Mark_Kirk,http://dbpedia.org/property/termEnd,2010-11-29,Correct,121,438.6341462135315,15
+http://dbpedia.org/resource/Jan_Długosz,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Historian,Correct,122,622.6252627372742,15
+http://dbpedia.org/resource/Jan_Długosz,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Diplomat,Correct,122,622.6252627372742,15
+http://dbpedia.org/resource/Jan_Długosz,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Jan_Długosz__9,Incorrect,122,622.6252627372742,15
+http://dbpedia.org/resource/Jan_Długosz,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Jan_Długosz__6,Incorrect,122,622.6252627372742,15
+http://dbpedia.org/resource/Jan_Długosz,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Jan_Długosz__5,Incorrect,122,622.6252627372742,15
+http://dbpedia.org/resource/Conrad_Letzkau,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Assassinated_mayors,Correct,123,34990.52417087555,15
+http://dbpedia.org/resource/Conrad_Letzkau,http://xmlns.com/foaf/0.1/name,Conrad Letzkau,Correct,123,34990.52417087555,15
+http://dbpedia.org/resource/Conrad_Letzkau,http://dbpedia.org/property/shortDescription,Mayor of Danzig,Correct,123,34990.52417087555,15
+http://dbpedia.org/resource/Conrad_Letzkau,http://dbpedia.org/ontology/deathDate,1412,Incorrect,123,34990.52417087555,15
+http://dbpedia.org/resource/Conrad_Letzkau,http://xmlns.com/foaf/0.1/surname,Letzkau,Correct,123,34990.52417087555,15
+http://dbpedia.org/resource/Jneiro_Jarel,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,124,259.7503592967987,16
+http://dbpedia.org/resource/University_of_Ostrava,http://dbpedia.org/property/nativeName,Ostravská univerzita v Ostravě,Correct,125,165.65998530387878,16
+http://dbpedia.org/resource/University_of_Ostrava,http://dbpedia.org/property/name,University of Ostrava,Correct,125,165.65998530387878,16
+http://dbpedia.org/resource/Living_a_Dream,http://dbpedia.org/ontology/abstract,"Living a Dream is the third album by Welsh mezzo-soprano Katherine Jenkins, released on 31 October 2005, in the UK. It charted at number 4 on the UK Albums Chart and at number 1 on the UK Classical Album Chart.",Correct,126,1933.8184480667117,16
+http://dbpedia.org/resource/Living_a_Dream,http://www.w3.org/2000/01/rdf-schema#comment,"Living a Dream is the third album by Welsh mezzo-soprano Katherine Jenkins, released on 31 October 2005, in the UK. It charted at number 4 on the UK Albums Chart and at number 1 on the UK Classical Album Chart.",Correct,126,1933.8184480667117,16
+http://dbpedia.org/resource/Living_a_Dream,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2005_albums,Correct,126,1933.8184480667117,16
+http://dbpedia.org/resource/Living_a_Dream,http://xmlns.com/foaf/0.1/name,Living a Dream,Correct,126,1933.8184480667117,16
+http://dbpedia.org/resource/Living_a_Dream,http://dbpedia.org/property/rev,musicOMH,Correct,126,1933.8184480667117,16
+http://dbpedia.org/resource/Lane_College,http://dbpedia.org/ontology/officialSchoolColour,CardinalandRoyal Blue,Correct,127,11290.336987018583,16
+http://dbpedia.org/resource/Lane_College,http://dbpedia.org/property/name,Lane College,Correct,127,11290.336987018583,16
+http://dbpedia.org/resource/Lane_College,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Educational_institutions_established_in_1882,Correct,127,11290.336987018583,16
+http://dbpedia.org/resource/Lane_College,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:National_Register_of_Historic_Places_in_Tennessee,Correct,127,11290.336987018583,16
+http://dbpedia.org/resource/Lane_College,http://dbpedia.org/property/students,2000,Incorrect,127,11290.336987018583,16
+http://dbpedia.org/resource/Mal_Peet,http://dbpedia.org/ontology/notableWork,http://dbpedia.org/resource/Tamar_(novel),Correct,128,2811.068242788315,16
+http://dbpedia.org/resource/Mal_Peet,http://dbpedia.org/ontology/notableWork,http://dbpedia.org/resource/Exposure_(Peet_novel),Correct,128,2811.068242788315,16
+http://dbpedia.org/resource/Mal_Peet,http://dbpedia.org/ontology/notableWork,http://dbpedia.org/resource/Keeper_(Peet_novel),Correct,128,2811.068242788315,16
+http://dbpedia.org/resource/Mumford_(film),http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Jason_Lee_(actor),I Don't Know,129,94.4378218650818,16
+http://dbpedia.org/resource/Salomé_(1923_film),http://dbpedia.org/property/country,http://dbpedia.org/resource/United_States,Correct,130,117.40170812606812,16
+http://dbpedia.org/resource/Bali_Kingdom,http://www.w3.org/2000/01/rdf-schema#label,Bali Kingdom,I Don't Know,131,5.119211673736572,16
+http://dbpedia.org/resource/Erwin_von_Witzleben,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Executed_generals_and_admirals,Correct,132,2344.423932313919,16
+http://dbpedia.org/resource/Erwin_von_Witzleben,http://dbpedia.org/ontology/serviceStartYear,1901,Correct,132,2344.423932313919,16
+http://dbpedia.org/resource/Erwin_von_Witzleben,http://dbpedia.org/property/serviceyears,1901,Correct,132,2344.423932313919,16
+http://dbpedia.org/resource/Erwin_von_Witzleben,http://xmlns.com/foaf/0.1/surname,Witzleben,Correct,132,2344.423932313919,16
+http://dbpedia.org/resource/Erwin_von_Witzleben,http://dbpedia.org/ontology/militaryCommand,OB West,Correct,132,2344.423932313919,16
+http://dbpedia.org/resource/Hotel_Colorado,http://dbpedia.org/property/architecture,http://dbpedia.org/resource/Italianate_architecture,Correct,133,5979.273921489716,16
+http://dbpedia.org/resource/Hotel_Colorado,http://dbpedia.org/ontology/architecturalStyle,http://dbpedia.org/resource/Italianate_architecture,Correct,133,5979.273921489716,16
+http://dbpedia.org/resource/AJ_Michalka,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:21st-century_American_singers,Correct,134,401.9429681301117,16
+http://dbpedia.org/resource/AJ_Michalka,http://dbpedia.org/property/alternativeNames,"Michalka, AJ",Correct,134,401.9429681301117,16
+http://dbpedia.org/resource/AJ_Michalka,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1991_births,Correct,134,401.9429681301117,16
+http://dbpedia.org/resource/AJ_Michalka,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Actors_from_Torrance,_California",Correct,134,401.9429681301117,16
+http://dbpedia.org/resource/AJ_Michalka,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:78violet,Correct,134,401.9429681301117,16
+http://dbpedia.org/resource/Sex_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1920s_drama_films,Correct,135,613.4389636516571,16
+http://dbpedia.org/resource/Sex_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_drama_films,Correct,135,613.4389636516571,16
+http://dbpedia.org/resource/Sex_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Black-and-white_films,Correct,135,613.4389636516571,16
+http://dbpedia.org/resource/Sex_(film),http://dbpedia.org/ontology/director,http://dbpedia.org/resource/Fred_Niblo,Correct,135,613.4389636516571,16
+http://dbpedia.org/resource/Sex_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_silent_feature_films,Correct,135,613.4389636516571,16
+http://dbpedia.org/resource/Street_Warrior,http://dbpedia.org/ontology/editor,http://dbpedia.org/resource/Tricia_Gorman,Incorrect,136,811.755457162857,16
+http://dbpedia.org/resource/Street_Warrior,http://dbpedia.org/ontology/person,http://dbpedia.org/resource/Yaron_Levy,Correct,136,811.755457162857,16
+http://dbpedia.org/resource/Street_Warrior,http://dbpedia.org/ontology/abstract,Street Warrior is a 2008 action film directed by David Jackson.,Correct,136,811.755457162857,16
+http://dbpedia.org/resource/A._B._Masilamani,http://xmlns.com/foaf/0.1/depiction,http://en.wikipedia.org/wiki/Special:FilePath/AB_Masilamani.png,Correct,137,259.2349474430084,16
+http://dbpedia.org/resource/A._B._Masilamani,http://www.w3.org/2000/01/rdf-schema#label,A. B. Masilamani,Correct,137,259.2349474430084,16
+http://dbpedia.org/resource/A._B._Masilamani,http://www.w3.org/2000/01/rdf-schema#comment,"Acharya A. B. Masilamani or Abel Boanerges Masilamani (1914-1990) (Telugu: ఎబెల్ బోనెర్గెస్ మాసిలామణి) was a Baptist Pastor and Evangelist ordained by the Convention of Baptist Churches of Northern Circars and Spiritual Formator from 1956-1959 at the Baptist Theological Seminary, a Major Seminary in Kakinada.",Correct,137,259.2349474430084,16
+http://dbpedia.org/resource/A._B._Masilamani,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/A._B._Masilamani,Correct,137,259.2349474430084,16
+http://dbpedia.org/resource/A._B._Masilamani,http://dbpedia.org/ontology/deathDate,1990-04-05,Correct,137,259.2349474430084,16
+http://dbpedia.org/resource/William_Alexander_McMaster,http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/London,_Ontario",Incorrect,138,104.41257190704346,16
+http://dbpedia.org/resource/Jason_Kenny,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Bolton,Correct,139,65.91466426849365,16
+http://dbpedia.org/resource/Priest,http://dbpedia.org/ontology/abstract,"A priest or priestess (feminine) (from  Greek πρεσβύτερος presbýteros through Latin presbyter, ""elder"", or from Old High German priast, prest, from Vulgar Latin ""prevost"" ""one put over others"", from Latin praepositus ""person placed in charge""), is a person authorized to perform the sacred rituals of a religion, especially as a mediatory agent between humans and one or more deities. They also have the authority or power to administer religious rites; in particular, rites of sacrifice to, and propitiation of, a deity or deities. Their office or position is the priesthood, a term which also may apply to such persons collectively.Priests and priestesses have existed since the earliest of times (see Proto-indo-European trifunctional hypothesis) and in the simplest societies, most likely as a result of agricultural surplus and consequent social stratification.  The necessity to read sacred texts and keep temple or church records helped foster literacy in many early societies.   Priests exist in many religions today, such as all or some branches of Judaism, Christianity, Shintoism, Hinduism.  They are generally regarded as having positive contact with the deity or deities of the religion to which they subscribe, often interpreting the meaning of events and performing the rituals of the religion.  There is no common definition of the duties of priesthood between faiths;  but generally it includes mediating the relationship between one's congregation, worshippers, and other members of the religious body, and its deity or deities, and administering religious rituals and rites.  These often include blessing worshipers with prayers of joy at marriages, after a birth, and at consecrations, teaching the wisdom and dogma of the faith at any regular worship service, and mediating and easing the experience of grief and death at funerals - maintaining a spiritual connection to the afterlife in faiths where such a concept exists.  Administering religious building grounds and office affairs and papers, including any religious library or collection of sacred texts, is also commonly a responsibility - for example, the modern term for clerical duties in a secular office refers originally to the duties of a cleric.  The question of which religions have a ""priest"" depends on how the titles of leaders are used or translated into English. In some cases, leaders are more like those that other believers will often turn to for advice on spiritual matters, and less of a ""person authorized to perform the sacred rituals."" For example, clergy in Roman Catholicism and Orthodox Christianity are priests, but in Protestant Christianity they are typically minister and pastor. The terms priest and priestess are sufficiently generic that they may be used in an anthropological sense to describe the religious mediators of an unknown or otherwise unspecified religion.In many religions, being a priest or priestess is a full-time position, ruling out any other career.  Many Christian priests and pastors choose or are mandated to dedicate themselves to their churches and receive their living directly from their churches.  In other cases it is a part-time role. For example, in the early history of Iceland the chieftains were titled goði, a word meaning ""priest"". As seen in the saga of Hrafnkell Freysgoði, however, being a priest consisted merely of offering periodic sacrifices to the Norse gods and goddesses; it was not a full-time role, nor did it involve ordination.In some religions, being a priest or priestess is by human election or human choice. In Judaism the priesthood is inherited in familial lines. In a theocracy a society is governed by its priesthood.",Correct,140,188.695880651474,16
+http://dbpedia.org/resource/Steve_Lavin,http://dbpedia.org/property/birthPlace,"http://dbpedia.org/resource/San_Francisco,_California",Correct,141,357.5043761730194,16
+http://dbpedia.org/resource/Steve_Lavin,http://dbpedia.org/property/overall,21,Correct,141,357.5043761730194,16
+http://dbpedia.org/resource/Steve_Lavin,http://dbpedia.org/property/dateOfBirth,1964-09-04,Correct,141,357.5043761730194,16
+http://dbpedia.org/resource/Steve_Lavin,http://dbpedia.org/property/endyear,2015,Correct,141,357.5043761730194,16
+http://dbpedia.org/resource/Steve_Lavin,http://dbpedia.org/property/confstanding,1.0,Correct,141,357.5043761730194,16
+http://dbpedia.org/resource/Yul_Edochie,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Lagos,Incorrect,142,647.7329239845276,16
+http://dbpedia.org/resource/Yul_Edochie,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Enugu,Correct,142,647.7329239845276,16
+http://dbpedia.org/resource/Tagalog_Republic,http://dbpedia.org/property/commonName,Republic of Katagalugan,Correct,143,442.9197437763214,16
+http://dbpedia.org/resource/Tagalog_Republic,http://dbpedia.org/property/commonName,Tagalog Republic,Correct,143,442.9197437763214,16
+http://dbpedia.org/resource/Balwant_Singh_(footballer),http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Punjab,_India",Correct,144,354.84309911727905,16
+http://dbpedia.org/resource/Balwant_Singh_(footballer),http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Hoshiarpur,Correct,144,354.84309911727905,16
+http://dbpedia.org/resource/Whitworth_University,http://dbpedia.org/ontology/campus,http://dbpedia.org/resource/Suburb,Correct,145,2928.6218111515045,16
+http://dbpedia.org/resource/Whitworth_University,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Private_university,Correct,145,2928.6218111515045,16
+http://dbpedia.org/resource/Whitworth_University,http://dbpedia.org/ontology/athletics,http://dbpedia.org/resource/NCAA_Division_III,Correct,145,2928.6218111515045,16
+http://dbpedia.org/resource/Whitworth_University,http://dbpedia.org/property/type,http://dbpedia.org/resource/Private_university,Correct,145,2928.6218111515045,16
+http://dbpedia.org/resource/Gérard_Debreu,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Jacques_Drèze,Correct,146,629.1675369739532,16
+http://dbpedia.org/resource/Gérard_Debreu,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/École_Normale_Supérieure,Correct,146,629.1675369739532,16
+http://dbpedia.org/resource/Gérard_Debreu,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Stephen_Smale,Incorrect,146,629.1675369739532,16
+http://dbpedia.org/resource/Gérard_Debreu,http://dbpedia.org/ontology/almaMater,"http://dbpedia.org/resource/University_of_California,_Berkeley",Incorrect,146,629.1675369739532,16
+http://dbpedia.org/resource/Gérard_Debreu,http://dbpedia.org/ontology/institution,"http://dbpedia.org/resource/University_of_California,_Berkeley",Correct,146,629.1675369739532,16
+http://dbpedia.org/resource/Nishi_Honganji,http://xmlns.com/foaf/0.1/page,http://www.hongwanji.or.jp/english/,Incorrect,147,18.367237091064453,16
+http://dbpedia.org/resource/William_J._Bichsel,http://dbpedia.org/ontology/abstract,"William Jerome Bichsel, S.J. (May 26, 1928 – February 28, 2015), nicknamed ""Bix"", was Jesuit priest in Tacoma, Washington, United States. He is notable for his actions as a non-violent protester, spending time in federal prison for demonstrating on issues such as nuclear weapons and the School of the Americas.",Correct,148,17543.615735292435,16
+http://dbpedia.org/resource/William_J._Bichsel,http://xmlns.com/foaf/0.1/name,"Bichsel, William J., S.J.",Correct,148,17543.615735292435,16
+http://dbpedia.org/resource/Gallant_Journey,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_set_in_the_1890s,Incorrect,149,528.8630113601685,16
+http://dbpedia.org/resource/Gallant_Journey,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1940s_historical_films,Correct,149,528.8630113601685,16
+http://dbpedia.org/resource/Gallant_Journey,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_films,Correct,149,528.8630113601685,16
+http://dbpedia.org/resource/Gallant_Journey,http://dbpedia.org/ontology/abstract,"Gallant Journey is a 1946 American historical film directed by William A. Wellman and starring Glenn Ford, Janet Blair, Charles Ruggles. The film is a biopic of the early U.S. aviation pioneer John Joseph Montgomery.  It depicts his efforts to build and fly gliders, from his childhood through to his death in 1911. The Columbia Pictures movie debuted in San Diego, California on September 4, 1946. The chief stunt pilot for the film was Paul Mantz. It is also known as The Great Highway.",Correct,149,528.8630113601685,16
+http://dbpedia.org/resource/Gallant_Journey,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1940s_drama_films,Correct,149,528.8630113601685,16
+http://dbpedia.org/resource/Wolf_Prize,http://www.w3.org/2000/01/rdf-schema#label,Wolf Prize,Correct,150,7.8668622970581055,16
+http://dbpedia.org/resource/Mathnet,http://dbpedia.org/property/episodenumber,26,Incorrect,151,1572.8221199512482,16
+http://dbpedia.org/resource/Mathnet,http://dbpedia.org/property/title,The Case of the Unnatural,Incorrect,151,1572.8221199512482,16
+http://dbpedia.org/resource/Mathnet,http://dbpedia.org/property/director,James F. Golway,Correct,151,1572.8221199512482,16
+http://dbpedia.org/resource/Mathnet,http://dbpedia.org/property/director,Bill Schreiner,Correct,151,1572.8221199512482,16
+http://dbpedia.org/resource/Mathnet,http://dbpedia.org/property/shortsummary,A record company was producing hit records... ALL BAD! Pat & George go undercover as a music band to find out what's going on.,Correct,151,1572.8221199512482,16
+http://dbpedia.org/resource/Madame_Butterfly_(1915_film),http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Mary_Pickford,Correct,152,292.82467126846313,16
+http://dbpedia.org/resource/Madame_Butterfly_(1915_film),http://dbpedia.org/property/language,http://dbpedia.org/resource/Silent_film,Correct,152,292.82467126846313,16
+http://dbpedia.org/resource/Madame_Butterfly_(1915_film),http://dbpedia.org/ontology/writer,http://dbpedia.org/resource/John_Luther_Long,Correct,152,292.82467126846313,16
+http://dbpedia.org/resource/Madame_Butterfly_(1915_film),http://dbpedia.org/ontology/releaseDate,1915-11-07,Incorrect,152,292.82467126846313,16
+http://dbpedia.org/resource/Madame_Butterfly_(1915_film),http://dbpedia.org/ontology/thumbnail,http://en.wikipedia.org/wiki/Special:FilePath/Madame_Butterfly_1915_poster.jpg?width=300,Correct,152,292.82467126846313,16
+http://dbpedia.org/resource/Ari_Up,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Vocalist,Correct,153,437.9870481491089,16
+http://dbpedia.org/resource/Ari_Up,http://dbpedia.org/property/website,http://www.ariup.com/,Incorrect,153,437.9870481491089,16
+http://dbpedia.org/resource/Ari_Up,http://dbpedia.org/property/alternativeNames,"Forster, Ariane Daniele",Correct,153,437.9870481491089,16
+http://dbpedia.org/resource/Ari_Up,http://dbpedia.org/ontology/birthDate,1962-01-17,Correct,153,437.9870481491089,16
+http://dbpedia.org/resource/Ari_Up,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Techno,Incorrect,153,437.9870481491089,16
+http://dbpedia.org/resource/Questacon,http://dbpedia.org/property/location,http://dbpedia.org/resource/Australian_Capital_Territory,Correct,154,42518.67697286606,16
+http://dbpedia.org/resource/Questacon,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:National_museums_of_Australia,Correct,154,42518.67697286606,16
+http://dbpedia.org/resource/Questacon,http://dbpedia.org/ontology/numberOfVisitors,407000,Correct,154,42518.67697286606,16
+http://dbpedia.org/resource/Questacon,http://xmlns.com/foaf/0.1/homepage,http://www.questacon.edu.au/,Incorrect,154,42518.67697286606,16
+http://dbpedia.org/resource/Questacon,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Questacon,Correct,154,42518.67697286606,16
+http://dbpedia.org/resource/H._H._Asquith,http://dbpedia.org/ontology/primeMinister,http://dbpedia.org/resource/Bonar_Law,Incorrect,155,564.0635001659393,17
+http://dbpedia.org/resource/H._H._Asquith,http://dbpedia.org/ontology/primeMinister,http://dbpedia.org/resource/David_Lloyd_George,Incorrect,155,564.0635001659393,17
+http://dbpedia.org/resource/H._H._Asquith,http://dbpedia.org/property/primeminister,http://dbpedia.org/resource/David_Lloyd_George,Incorrect,155,564.0635001659393,17
+http://dbpedia.org/resource/H._H._Asquith,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/West_Riding_of_Yorkshire,Correct,155,564.0635001659393,17
+http://dbpedia.org/resource/H._H._Asquith,http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Morley,_West_Yorkshire",Correct,155,564.0635001659393,17
+http://dbpedia.org/resource/Oran_Etkin,http://dbpedia.org/property/birthplace,http://dbpedia.org/resource/Israel,Correct,156,125.23754072189332,17
+http://dbpedia.org/resource/Justin_R._Durban,http://dbpedia.org/ontology/birthDate,1977-12-07,Correct,157,514.363517999649,17
+http://dbpedia.org/resource/Justin_R._Durban,http://dbpedia.org/property/name,Justin R. Durban,Correct,157,514.363517999649,17
+http://dbpedia.org/resource/Justin_R._Durban,http://dbpedia.org/ontology/instrument,http://dbpedia.org/resource/Guitar,Correct,157,514.363517999649,17
+http://dbpedia.org/resource/Justin_R._Durban,http://dbpedia.org/property/alternativeNames,"Edgen, Justin Durban",Correct,157,514.363517999649,17
+http://dbpedia.org/resource/Justin_R._Durban,http://dbpedia.org/property/name,"Durban, Justin R.",Correct,157,514.363517999649,17
+"http://dbpedia.org/resource/Alfonso,_Prince_of_Asturias_(1907–1938)",http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Spain,Correct,158,46.060795068740845,17
+http://dbpedia.org/resource/The_Alphabet_Murders,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Correct,159,104.88382744789124,17
+http://dbpedia.org/resource/The_Alphabet_Murders,http://dbpedia.org/ontology/abstract,"The Alphabet Murders is a British detective film based on the novel The A.B.C. Murders by Agatha Christie, starring Tony Randall as Hercule Poirot.",Correct,159,104.88382744789124,17
+http://dbpedia.org/resource/The_Alphabet_Murders,http://dbpedia.org/property/language,English,Correct,159,104.88382744789124,17
+http://dbpedia.org/resource/Bishop_Grimes_Junior/Senior_High_School,http://dbpedia.org/property/type,http://dbpedia.org/resource/Coeducational,Correct,160,458.7819933891296,17
+http://dbpedia.org/resource/Bishop_Grimes_Junior/Senior_High_School,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Schools_in_Onondaga_County,_New_York",Correct,160,458.7819933891296,17
+http://dbpedia.org/resource/Bishop_Grimes_Junior/Senior_High_School,http://dbpedia.org/property/country,USA,Correct,160,458.7819933891296,17
+http://dbpedia.org/resource/Bishop_Grimes_Junior/Senior_High_School,http://dbpedia.org/property/type,http://dbpedia.org/resource/Mixed-sex_education,Correct,160,458.7819933891296,17
+http://dbpedia.org/resource/Bishop_Grimes_Junior/Senior_High_School,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Roman_Catholic_Diocese_of_Syracuse,Correct,160,458.7819933891296,17
+http://dbpedia.org/resource/Arthur_Anderson_(architect),http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Hobart,Correct,161,110.99631905555724,17
+http://dbpedia.org/resource/Faisal_II_of_Iraq,http://dbpedia.org/property/placeOfBirth,http://dbpedia.org/resource/Baghdad,Correct,162,598.0453834533691,17
+http://dbpedia.org/resource/Faisal_II_of_Iraq,http://dbpedia.org/property/deathPlace,http://dbpedia.org/resource/Baghdad,Correct,162,598.0453834533691,17
+http://dbpedia.org/resource/Faisal_II_of_Iraq,http://xmlns.com/foaf/0.1/name,Faisal bin Ghazi bin Faisal bin Hussein bin Ali,Correct,162,598.0453834533691,17
+http://dbpedia.org/resource/Faisal_II_of_Iraq,http://xmlns.com/foaf/0.1/name,Faisal II,Correct,162,598.0453834533691,17
+http://dbpedia.org/resource/Faisal_II_of_Iraq,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Arab_Federation,Incorrect,162,598.0453834533691,17
+http://dbpedia.org/resource/Roger_Daltrey,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:British_harmonica_players,Correct,163,601.6305229663849,17
+http://dbpedia.org/resource/Roger_Daltrey,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Atco_Records_artists,Correct,163,601.6305229663849,17
+http://dbpedia.org/resource/Roger_Daltrey,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:20th-century_English_male_actors,Correct,163,601.6305229663849,17
+http://dbpedia.org/resource/Roger_Daltrey,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Polydor_Records_artists,Correct,163,601.6305229663849,17
+http://dbpedia.org/resource/Roger_Daltrey,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English_rock_musicians,Correct,163,601.6305229663849,17
+http://dbpedia.org/resource/Faiz_Ahmad_Faiz,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Nazm,Correct,164,1545.5579702854156,17
+http://dbpedia.org/resource/Faiz_Ahmad_Faiz,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Ghazal,Correct,164,1545.5579702854156,17
+http://dbpedia.org/resource/Faiz_Ahmad_Faiz,http://dbpedia.org/ontology/movement,http://dbpedia.org/resource/Progressive_Writers'_Movement,Correct,164,1545.5579702854156,17
+http://dbpedia.org/resource/Faiz_Ahmad_Faiz,http://dbpedia.org/ontology/movement,http://dbpedia.org/resource/Communist_Party_of_Pakistan,Correct,164,1545.5579702854156,17
+http://dbpedia.org/resource/Mrs_Henderson_Presents,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Correct,165,553.5857996940613,17
+http://dbpedia.org/resource/Mrs_Henderson_Presents,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:British_films,Correct,165,553.5857996940613,17
+http://dbpedia.org/resource/Mrs_Henderson_Presents,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-movie-noun-1,Correct,165,553.5857996940613,17
+http://dbpedia.org/resource/Mrs_Henderson_Presents,http://dbpedia.org/property/language,English,Correct,165,553.5857996940613,17
+http://dbpedia.org/resource/Mrs_Henderson_Presents,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_films,Correct,165,553.5857996940613,17
+http://dbpedia.org/resource/Thomas_A._Steitz,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Milwaukee,Correct,166,121.35568833351137,17
+http://dbpedia.org/resource/Édouard_Balladur,http://dbpedia.org/property/president,http://dbpedia.org/resource/François_Mitterrand,Correct,167,770.3361120223999,17
+http://dbpedia.org/resource/Édouard_Balladur,http://www.w3.org/2000/01/rdf-schema#label,Édouard Balladur,Correct,167,770.3361120223999,17
+http://dbpedia.org/resource/Édouard_Balladur,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Izmir,Correct,167,770.3361120223999,17
+http://dbpedia.org/resource/Édouard_Balladur,http://dbpedia.org/property/president,http://dbpedia.org/resource/Georges_Pompidou,Correct,167,770.3361120223999,17
+http://dbpedia.org/resource/Édouard_Balladur,http://dbpedia.org/ontology/party,http://dbpedia.org/resource/Union_for_a_Popular_Movement,Correct,167,770.3361120223999,17
+http://dbpedia.org/resource/Duane_Carter,http://xmlns.com/foaf/0.1/givenName,Duane,Correct,168,449.1619973182678,17
+http://dbpedia.org/resource/Duane_Carter,http://purl.org/dc/elements/1.1/description,American racing driver,Correct,168,449.1619973182678,17
+http://dbpedia.org/resource/Duane_Carter,http://www.w3.org/2000/01/rdf-schema#comment,"Duane Carter (May 5, 1913 – May 7, 1993) was an American racecar driver. He raced midget cars, sprint cars, and IndyCars. Carter was born in Fresno, California, and he died in Indianapolis, Indiana. His son Pancho raced in Indy cars, along with Johnny Parsons (who he helped raise).",Incorrect,168,449.1619973182678,17
+http://dbpedia.org/resource/Duane_Carter,http://dbpedia.org/property/deathDate,1993-05-07,Incorrect,168,449.1619973182678,17
+http://dbpedia.org/resource/Duane_Carter,http://dbpedia.org/property/years,"–, –",Incorrect,168,449.1619973182678,17
+http://dbpedia.org/resource/Hackley_School,http://dbpedia.org/property/type,http://dbpedia.org/resource/Private_school,Correct,169,364.988018989563,17
+http://dbpedia.org/resource/Hackley_School,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Preparatory_schools_in_New_York,Correct,169,364.988018989563,17
+http://dbpedia.org/resource/Hackley_School,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-school-noun-1,Correct,169,364.988018989563,17
+http://dbpedia.org/resource/Hackley_School,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/University-preparatory_school,Correct,169,364.988018989563,17
+http://dbpedia.org/resource/Hackley_School,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Private_school,Correct,169,364.988018989563,17
+http://dbpedia.org/resource/Scoop_(2006_film),http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Ian_McShane,Correct,170,304.0223741531372,17
+http://dbpedia.org/resource/Scoop_(2006_film),http://dbpedia.org/property/name,Scoop,Correct,170,304.0223741531372,17
+http://dbpedia.org/resource/Scoop_(2006_film),http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Scarlett_Johansson,Correct,170,304.0223741531372,17
+http://dbpedia.org/resource/Scoop_(2006_film),http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Hugh_Jackman,Correct,170,304.0223741531372,17
+http://dbpedia.org/resource/Scoop_(2006_film),http://dbpedia.org/ontology/budget,4000000.0,Correct,170,304.0223741531372,17
+http://dbpedia.org/resource/Leonard_Susskind,http://dbpedia.org/ontology/field,http://dbpedia.org/resource/Physics,Correct,171,194.0411491394043,17
+http://dbpedia.org/resource/Leonard_Susskind,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/New_York,Correct,171,194.0411491394043,17
+http://dbpedia.org/resource/Leonard_Susskind,http://dbpedia.org/ontology/citizenship,http://dbpedia.org/resource/United_States,Correct,171,194.0411491394043,17
+http://dbpedia.org/resource/Leonard_Susskind,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/New_York_City,Correct,171,194.0411491394043,17
+http://dbpedia.org/resource/Leonard_Susskind,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/United_States,Correct,171,194.0411491394043,17
+http://dbpedia.org/resource/Costanzo_Preve,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Piedmont,Correct,172,408.9743900299072,17
+http://dbpedia.org/resource/Costanzo_Preve,http://dbpedia.org/ontology/era,http://dbpedia.org/resource/20th-century_philosophy,Correct,172,408.9743900299072,17
+http://dbpedia.org/resource/John_Vesey_(archbishop_of_Tuam),http://dbpedia.org/property/after,"http://dbpedia.org/resource/Charles_Talbot,_1st_Duke_of_Shrewsbury",Correct,173,908.4732937812804,17
+http://dbpedia.org/resource/John_Vesey_(archbishop_of_Tuam),http://dbpedia.org/property/with,"the Archbishop of Armagh and Sir Constantine Phipps, temp. Queen Anne",Correct,173,908.4732937812804,17
+http://dbpedia.org/resource/John_Vesey_(archbishop_of_Tuam),http://dbpedia.org/property/title,http://dbpedia.org/resource/Dean_of_Cork,Correct,173,908.4732937812804,17
+http://dbpedia.org/resource/John_Vesey_(archbishop_of_Tuam),http://dbpedia.org/property/after,as Lord Lieutenant,Incorrect,173,908.4732937812804,17
+http://dbpedia.org/resource/John_Vesey_(archbishop_of_Tuam),http://dbpedia.org/property/years,1667,Correct,173,908.4732937812804,17
+http://dbpedia.org/resource/Junior_Blue,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/Canada,Correct,174,150.00674152374268,17
+http://dbpedia.org/resource/Junior_Blue,http://xmlns.com/foaf/0.1/name,Junior Blue,Correct,174,150.00674152374268,17
+http://dbpedia.org/resource/PFFR,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,175,32.21156644821167,17
+http://dbpedia.org/resource/Carillon_Historical_Park,http://dbpedia.org/property/name,Deeds Carillon,Correct,176,340.6890354156494,17
+http://dbpedia.org/resource/Carillon_Historical_Park,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Carillon_Historical_Park,Correct,176,340.6890354156494,17
+http://dbpedia.org/resource/Carillon_Historical_Park,http://dbpedia.org/property/longDegrees,84,Incorrect,176,340.6890354156494,17
+http://dbpedia.org/resource/Carillon_Historical_Park,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Historic_house_museums_in_Ohio,Correct,176,340.6890354156494,17
+http://dbpedia.org/resource/Carillon_Historical_Park,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:History_of_Dayton,_Ohio",Correct,176,340.6890354156494,17
+http://dbpedia.org/resource/Martin_Smith_(Royal_Marines_officer),http://dbpedia.org/ontology/battle,http://dbpedia.org/resource/Iraq_War,Correct,177,132.53762984275818,17
+http://dbpedia.org/resource/Martin_Smith_(Royal_Marines_officer),http://dbpedia.org/property/battles,http://dbpedia.org/resource/Iraq_War,Correct,177,132.53762984275818,17
+http://dbpedia.org/resource/Martin_Smith_(Royal_Marines_officer),http://dbpedia.org/ontology/militaryBranch,http://dbpedia.org/resource/Royal_Marines,Correct,177,132.53762984275818,17
+http://dbpedia.org/resource/Eugenio_Barba,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Brindisi,Correct,178,474.9769244194031,17
+http://dbpedia.org/resource/Eugenio_Barba,http://www.w3.org/2000/01/rdf-schema#label,Eugenio Barba,Correct,178,474.9769244194031,17
+http://dbpedia.org/resource/La_Lupe,http://dbpedia.org/property/associatedActs,http://dbpedia.org/resource/Celia_Cruz,Correct,179,458.3948349952698,17
+http://dbpedia.org/resource/La_Lupe,http://dbpedia.org/ontology/associatedMusicalArtist,http://dbpedia.org/resource/Tito_Puente,Correct,179,458.3948349952698,17
+http://dbpedia.org/resource/La_Lupe,http://dbpedia.org/property/origin,http://dbpedia.org/resource/Cuba,Correct,179,458.3948349952698,17
+http://dbpedia.org/resource/La_Lupe,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Bolero,Correct,179,458.3948349952698,17
+http://dbpedia.org/resource/La_Lupe,http://dbpedia.org/property/deathPlace,http://dbpedia.org/resource/U.S.,Correct,179,458.3948349952698,17
+http://dbpedia.org/resource/Joe_Jonas,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,180,58.76385760307312,17
+http://dbpedia.org/resource/Frances_Lennon,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Stretford,Correct,181,43.9619460105896,17
+http://dbpedia.org/resource/Westminster_School,http://dbpedia.org/property/chairLabel,Chairman of Governors,Correct,182,640.1001765727997,17
+http://dbpedia.org/resource/Westminster_School,http://dbpedia.org/ontology/foundedBy,http://dbpedia.org/resource/Henry_VIII_of_England,Correct,182,640.1001765727997,17
+http://dbpedia.org/resource/Westminster_School,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Member_schools_of_the_Headmasters'_and_Headmistresses'_Conference,Correct,182,640.1001765727997,17
+http://dbpedia.org/resource/Westminster_School,http://dbpedia.org/property/houses,Milne's,Correct,182,640.1001765727997,17
+http://dbpedia.org/resource/Westminster_School,http://dbpedia.org/ontology/abstract,"The Royal College of St Peter in Westminster, better known as Westminster School, is an independent school within in the precincts of Westminster Abbey in England. It has the highest Oxford and Cambridge acceptance rates of any secondary school or college in the world. With a history going back to the 14th century, the school's alumni include Ben Jonson, John Dryden, Robert Hooke, Sir Christopher Wren, John Locke, Jeremy Bentham, Edward Gibbon, Henry Mayhew, A. A. Milne, Sir Peter Ustinov, Tony Benn and seven Prime Ministers. Boys are admitted to the Under School at age seven, and to the senior school at age thirteen; girls are admitted only at sixteen. The school has around 750 pupils; around a quarter are boarders, most of whom go home at weekends, after Saturday morning school. It is one of the original nine British public schools (the so-called 'Clarendon Schools') as defined by the Public Schools Act 1868. Charging up to £7,800 for day pupils per term and £11,264 for boarders per term in 2014/15, Westminster is the 13th most expensive HMC day school and 10th most expensive HMC boarding school in the UK.",Correct,182,640.1001765727997,17
+http://dbpedia.org/resource/Sydney_Pollack,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_male_television_actors,Correct,183,356.765647649765,17
+http://dbpedia.org/resource/Sydney_Pollack,http://dbpedia.org/property/placeOfBirth,"Lafayette, Indiana, U.S.",Correct,183,356.765647649765,17
+http://dbpedia.org/resource/Sydney_Pollack,http://xmlns.com/foaf/0.1/surname,Pollack,Correct,183,356.765647649765,17
+http://dbpedia.org/resource/Sydney_Pollack,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Male_actors_from_Los_Angeles,_California",Correct,183,356.765647649765,17
+http://dbpedia.org/resource/Sydney_Pollack,http://dbpedia.org/property/caption,Pollack in 2006,Correct,183,356.765647649765,17

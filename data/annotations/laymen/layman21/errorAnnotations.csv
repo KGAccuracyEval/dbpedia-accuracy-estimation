@@ -1,0 +1,105 @@
+Subject,Predicate,Object,Error,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/Adrian_Păunescu,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Romania,Object,10,14.079259872436523,7
+http://dbpedia.org/resource/Antonio_Leviste,http://dbpedia.org/ontology/otherParty,http://dbpedia.org/resource/Lakas–CMD_(1991),Predicate,11,142.2751669883728,7
+http://dbpedia.org/resource/Grigoriy_Rechkalov,http://dbpedia.org/property/serviceyears,1938,Predicate,14,5.664316892623901,7
+http://dbpedia.org/resource/James_Kay_(Kentucky_politician),http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/University_of_Kentucky,Predicate,15,11.619625091552734,7
+http://dbpedia.org/resource/James_Kay_(Kentucky_politician),http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/University_of_Kentucky_College_of_Law,Predicate,15,11.619625091552734,7
+http://dbpedia.org/resource/James_Kay_(Kentucky_politician),http://dbpedia.org/property/almaMater,http://dbpedia.org/resource/University_of_Kentucky,Predicate,15,11.619625091552734,7
+http://dbpedia.org/resource/James_Kay_(Kentucky_politician),http://dbpedia.org/property/almaMater,http://dbpedia.org/resource/University_of_Kentucky_College_of_Law,Predicate,15,11.619625091552734,7
+http://dbpedia.org/resource/Brad_Sherman,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Los_Angeles,Object,16,4.207825183868408,7
+http://dbpedia.org/resource/Norris_v._Ireland,http://dbpedia.org/property/court,ECtHR,Object,22,12.442050218582152,7
+http://dbpedia.org/resource/8th_Fighter_Wing,http://dbpedia.org/ontology/garrison,http://dbpedia.org/resource/South_Korea,Predicate,24,2.4212541580200195,7
+http://dbpedia.org/resource/Homotopia,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:LGBT_opposition_to_same-sex_marriage,Object,25,4.527189016342163,8
+http://dbpedia.org/resource/Ari_Up,http://dbpedia.org/property/website,http://www.ariup.com/,Object,27,11.243798017501833,9
+http://dbpedia.org/resource/Ari_Up,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Techno,Object,27,11.243798017501833,9
+http://dbpedia.org/resource/Mutterschied,http://dbpedia.org/ontology/associationOfLocalGovernment,http://dbpedia.org/resource/Simmern,Predicate,33,1.901212215423584,9
+http://dbpedia.org/resource/Smooth_Glasgow,http://dbpedia.org/ontology/shareSource,http://www.rajar.co.uk/listening/quarterly_listening.php,Subject,36,37.03104305267334,11
+http://dbpedia.org/resource/Smooth_Glasgow,http://dbpedia.org/ontology/firstAirDate,2007-03-26,Subject;Object,36,37.03104305267334,11
+http://dbpedia.org/resource/Smooth_Glasgow,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Radio_stations_established_in_2007,Subject;Object,36,37.03104305267334,11
+http://dbpedia.org/resource/Leipzig,http://dbpedia.org/property/janSun,62.8,Predicate,37,19.490710973739624,11
+http://dbpedia.org/resource/Leipzig,http://dbpedia.org/property/imageCoa,Coat of arms of Leipzig.svg,Predicate,37,19.490710973739624,11
+http://dbpedia.org/resource/Leipzig,http://dbpedia.org/property/aprRecordLowC,-6.5,Object,37,19.490710973739624,11
+http://dbpedia.org/resource/Leipzig,http://dbpedia.org/property/latDeg,51,Predicate,37,19.490710973739624,11
+http://dbpedia.org/resource/In_the_Name_of_the_Father_(film),http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/In_the_Name_of_the_Father_(film),Predicate,39,12.49294900894165,11
+http://dbpedia.org/resource/In_the_Name_of_the_Father_(film),http://dbpedia.org/ontology/budget,1.3E7,Object,39,12.49294900894165,11
+http://dbpedia.org/resource/In_the_Name_of_the_Father_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_about_The_Troubles_(Northern_Ireland),Object,39,12.49294900894165,11
+http://dbpedia.org/resource/Battle_of_Pancorbo_(1808),http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Battle_of_Pancorbo_(1808),Predicate,41,10.963265180587769,16
+http://dbpedia.org/resource/Republic_of_Texas,http://dbpedia.org/ontology/capital,"http://dbpedia.org/resource/Velasco,_Texas",Object,42,9.866386890411375,16
+http://dbpedia.org/resource/Republic_of_Texas,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Houston,Object,42,9.866386890411375,16
+http://dbpedia.org/resource/Republic_of_Texas,http://dbpedia.org/ontology/capital,"http://dbpedia.org/resource/Washington-on-the-Brazos,_Texas",Object,42,9.866386890411375,16
+http://dbpedia.org/resource/Time_of_My_Life_(George_Fox_song),http://dbpedia.org/ontology/writer,http://dbpedia.org/resource/George_Fox_(singer),Object,43,18.14552116394043,16
+http://dbpedia.org/resource/WPKN,http://www.georss.org/georss/point,41.279 -73.185,Predicate,44,4.7357940673828125,16
+http://dbpedia.org/resource/Capture_of_USS_President,http://dbpedia.org/property/casualties,1,Object,46,9.100707054138184,16
+http://dbpedia.org/resource/Capture_of_USS_President,http://dbpedia.org/property/strength,1,Predicate,46,9.100707054138184,16
+http://dbpedia.org/resource/Capture_of_USS_President,http://dbpedia.org/ontology/date,1815-01-15,Object,46,9.100707054138184,16
+http://dbpedia.org/resource/Projekt_Herz,http://dbpedia.org/property/label,Independent,Object,48,6.304128170013428,16
+http://dbpedia.org/resource/Charles_Bukowski,http://xmlns.com/foaf/0.1/givenName,Charles,Object,58,4.306926965713501,18
+http://dbpedia.org/resource/Bruce_Cabot,http://xmlns.com/foaf/0.1/name,"Cabot, Bruce",Object,60,3.5911941528320312,18
+http://dbpedia.org/resource/Bruce_Cabot,http://xmlns.com/foaf/0.1/name,Bruce Cabot,Object,60,3.5911941528320312,18
+http://dbpedia.org/resource/Young_Fabians_Finance_Network,http://dbpedia.org/ontology/parentOrganisation,http://dbpedia.org/resource/Young_Fabians,Predicate,64,1.928987979888916,18
+http://dbpedia.org/resource/Louis_Gerhard_De_Geer,http://dbpedia.org/property/dateOfDeath,1896-09-24,Object,67,9.336888074874878,18
+http://dbpedia.org/resource/Louis_Gerhard_De_Geer,http://dbpedia.org/property/years,--03-20,Object,67,9.336888074874878,18
+http://dbpedia.org/resource/Devil_May_Cry_3:_Dante's_Awakening,http://dbpedia.org/property/mc,84,Predicate,68,2.27063512802124,18
+http://dbpedia.org/resource/Emmanuel_Stupanus,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Georg_Balthasar_Metzger,Object,69,3.3483428955078125,18
+http://dbpedia.org/resource/Us_with_Salvini,http://dbpedia.org/ontology/headquarter,http://dbpedia.org/resource/Rome,Object,70,2.303400754928589,18
+http://dbpedia.org/resource/Ralph_Hanan,http://dbpedia.org/property/nolist,true,Predicate,73,3.0662851333618164,20
+http://dbpedia.org/resource/Erwin_von_Witzleben,http://dbpedia.org/property/serviceyears,1901,Predicate,75,2.4324827194213867,20
+http://dbpedia.org/resource/Mark_Kirk,http://dbpedia.org/property/imdb,3268451,Predicate,85,4.893024921417236,21
+http://dbpedia.org/resource/Mark_Kirk,http://dbpedia.org/property/termEnd,2010-11-29,Object,85,4.893024921417236,21
+http://dbpedia.org/resource/Bristol_Law_School,http://dbpedia.org/property/students,300,Object,89,5.686997890472412,21
+http://dbpedia.org/resource/Giuseppe_Medici,http://dbpedia.org/property/deathPlace,http://dbpedia.org/resource/Modena,Object,93,5.706567049026489,21
+http://dbpedia.org/resource/Giuseppe_Medici,http://dbpedia.org/property/termEnd,1960-07-26,Predicate,93,5.706567049026489,21
+http://dbpedia.org/resource/Brian_O'Brien,http://dbpedia.org/property/birthDate,1898-01-02,Subject,98,7.362529039382935,22
+http://dbpedia.org/resource/Brian_O'Brien,http://dbpedia.org/ontology/deathYear,1992,Subject,98,7.362529039382935,22
+http://dbpedia.org/resource/Brian_O'Brien,http://dbpedia.org/ontology/deathDate,1992-07-01,Subject,98,7.362529039382935,22
+http://dbpedia.org/resource/Brian_O'Brien,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:University_of_Rochester_faculty,Subject,98,7.362529039382935,22
+http://dbpedia.org/resource/Brian_O'Brien,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Colorado,Subject,98,7.362529039382935,22
+"http://dbpedia.org/resource/Gundakar,_Prince_of_Liechtenstein",http://dbpedia.org/property/dateOfDeath,1658-08-05,Object,101,7.28032922744751,22
+http://dbpedia.org/resource/Kingdom_of_Portugal,http://dbpedia.org/property/statYear,1910,Predicate,106,3.207777976989746,23
+http://dbpedia.org/resource/Nyai_Ahmad_Dahlan,http://xmlns.com/foaf/0.1/name,Nyai Ahmad Dahlan,Object,107,10.059531927108765,23
+http://dbpedia.org/resource/Nyai_Ahmad_Dahlan,http://xmlns.com/foaf/0.1/name,"Dahlan, Nyai Ahmad",Object,107,10.059531927108765,23
+http://dbpedia.org/resource/Ray_Musto,http://dbpedia.org/property/termStart,1983-01-04,Object,108,8.811221837997437,23
+http://dbpedia.org/resource/Ray_Musto,http://xmlns.com/foaf/0.1/name,Raphael Musto,Object,108,8.811221837997437,23
+http://dbpedia.org/resource/Faisal_II_of_Iraq,http://xmlns.com/foaf/0.1/name,Faisal bin Ghazi bin Faisal bin Hussein bin Ali,Object,113,7.13926100730896,23
+http://dbpedia.org/resource/Faisal_II_of_Iraq,http://xmlns.com/foaf/0.1/name,Faisal II,Object,113,7.13926100730896,23
+http://dbpedia.org/resource/Alberto_Giacometti,http://dbpedia.org/ontology/movement,http://dbpedia.org/resource/Expressionism,Object,118,6.91908597946167,23
+http://dbpedia.org/resource/Alberto_Giacometti,http://dbpedia.org/ontology/movement,http://dbpedia.org/resource/Formalism_(art),Object,118,6.91908597946167,23
+http://dbpedia.org/resource/List_of_Brickleberry_episodes,http://dbpedia.org/property/aux,0.66,Predicate,119,7.844503164291382,23
+http://dbpedia.org/resource/List_of_Brickleberry_episodes,http://dbpedia.org/property/directedby,http://dbpedia.org/resource/Susie_Dietter,Object,119,7.844503164291382,23
+http://dbpedia.org/resource/List_of_Brickleberry_episodes,http://dbpedia.org/property/shortsummary,"Woody gets angry when a fancy country club turns him down but welcomes Denzel as a member. Meanwhile, Malloy balks at having his anal glands expressed, only for them to enlarge and become infected.",Object,119,7.844503164291382,23
+http://dbpedia.org/resource/Poultrygeist:_Night_of_the_Chicken_Dead,http://www.w3.org/2000/01/rdf-schema#comment,"Poultrygeist: Night of the Chicken Dead is a 2006 zombie comedy/horror musical-exploitation film from Troma Entertainment, directed by Lloyd Kaufman and co-directed by former long-time Troma editor Gabriel Friedman from a screenplay by Friedman and Daniel Bova. The film opened to positive reviews from Entertainment Weekly, and The New York Times,. Poultrygeist: Night of the Chicken Dead was released in 2006 in theaters and in 2008 on DVD.",Object,122,6.787254095077515,23
+http://dbpedia.org/resource/Poultrygeist:_Night_of_the_Chicken_Dead,http://dbpedia.org/property/producer,"* Andy Deemer
+*",Object,122,6.787254095077515,23
+http://dbpedia.org/resource/Chrysostome_Liausu,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Chrysostome_Liausu__1,Object,125,5.24385404586792,24
+http://dbpedia.org/resource/One_Night_at_McCool's,http://dbpedia.org/property/caption,Theatrical release poster,Predicate;Object,127,7.527487993240356,24
+"http://dbpedia.org/resource/Nicholas_V,_Duke_of_Krnov",http://dbpedia.org/ontology/parent,http://dbpedia.org/resource/Helena_of_Lithuania,Object,130,8.140366792678833,28
+http://dbpedia.org/resource/Don_Davis_(composer),http://dbpedia.org/property/id,204485,Predicate,131,4.293998956680298,28
+"http://dbpedia.org/resource/Thomas_Burlison,_Baron_Burlison",http://dbpedia.org/property/years,1992,Predicate,133,5.352468013763428,28
+http://dbpedia.org/resource/Sri_Lanka,http://dbpedia.org/property/gdpNominalPerCapita,3818.0,Object,135,11.103693008422852,29
+http://dbpedia.org/resource/Sri_Lanka,http://dbpedia.org/property/populationDensityRank,40,Object,135,11.103693008422852,29
+http://dbpedia.org/resource/Sri_Lanka,http://dbpedia.org/property/latd,6,Predicate;Object,135,11.103693008422852,29
+http://dbpedia.org/resource/Sri_Lanka,http://dbpedia.org/property/callingCode,http://dbpedia.org/resource/Telephone_numbers_in_Sri_Lanka,Object,135,11.103693008422852,29
+http://dbpedia.org/resource/Sri_Lanka,http://dbpedia.org/property/sovereigntyType,http://dbpedia.org/resource/History_of_Sri_Lanka,Object,135,11.103693008422852,29
+"http://dbpedia.org/resource/Laugh_Now,_Cry_Later",http://dbpedia.org/property/rev,http://dbpedia.org/resource/AllMusic,Predicate,136,4.436316251754761,29
+http://dbpedia.org/resource/Gary_Wilhelms,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Gary_Wilhelms,Object,137,5.051202774047852,29
+http://dbpedia.org/resource/Samuel_Fitch,http://dbpedia.org/property/children,"Susannah Fitch Church, Elizabeth Fitch Rogers , Samuel Jr., Daniel Fitch, Anne Fitch St. John , Jonathan Fitch",Predicate,139,5.771573066711426,30
+http://dbpedia.org/resource/The_Best_of_Cozy_Powell,http://dbpedia.org/property/type,greatest,Predicate,144,6.433592081069946,31
+http://dbpedia.org/resource/Carlisle_Cathedral,http://dbpedia.org/property/denomination,http://dbpedia.org/resource/Church_of_England,Predicate,146,186.1447167396545,36
+http://dbpedia.org/resource/Carlisle_Cathedral,http://dbpedia.org/property/fullname,Cathedral Church of the Holy and Undivided Trinity,Object,146,186.1447167396545,36
+http://dbpedia.org/resource/Carlisle_Cathedral,http://dbpedia.org/property/lats,41,Predicate;Object,146,186.1447167396545,36
+http://dbpedia.org/resource/Carlisle_Cathedral,http://dbpedia.org/property/width,300,Object,146,186.1447167396545,36
+http://dbpedia.org/resource/David_Parks_(politician),http://dbpedia.org/property/percentage,34.67,Object,148,6.859647035598755,36
+http://dbpedia.org/resource/David_Parks_(politician),http://dbpedia.org/property/party,Republican Party,Object,148,6.859647035598755,36
+http://dbpedia.org/resource/I'm_No_Dummy,http://dbpedia.org/ontology/abstract,"I'm No Dummy is a 2009 documentary film about ventriloquism directed by Bryan W. Simon, produced by Marjorie Engesser through Montivagus Productions.  It premiered at the 2009 Seattle International Film Festival before being released theatrically in the United States by Salient Media and NBCUniversal in 2010.The comic documentary examines and deconstructs this now obscure art form through clips, photos and interviews with many of the greatest “vents” from today and yesterday as well as their puppets. The idea came to Simon while on a bike ride in Los Angeles, as he kicked around ideas for a new project and decided to focus on a documentary about something he loved as a child. The film stars Jeff Dunham, Jay Johnson and Lynn Trefzger and features Kelly Asbury, Tom Ladshaw, Jimmy Nelson and Willie Tyler.  Archival footage of Edgar Bergen, Paul Winchell and Senor Wences is also included in the feature.",Object,151,4.348857641220093,36
+http://dbpedia.org/resource/Emmanuel_Le_Roy_Ladurie,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Emmanuel_Le_Roy_Ladurie,Object,154,4.687813997268677,37
+http://dbpedia.org/resource/That_Night,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Long_Island_in_fiction,Object,155,3.9114749431610103,37
+http://dbpedia.org/resource/Tomasz_Budzyński,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Painting,Object,156,13.507676362991331,37
+http://dbpedia.org/resource/Tomasz_Budzyński,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Tomasz_Budzyński__1,Object,156,13.507676362991331,37
+http://dbpedia.org/resource/Tomasz_Budzyński,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Tomasz_Budzyński,Object,156,13.507676362991331,37
+http://dbpedia.org/resource/Sezgin_Tanrıkulu,http://dbpedia.org/ontology/termPeriod,http://dbpedia.org/resource/Sezgin_Tanrıkulu__1,Object,157,5.273274898529053,37
+http://dbpedia.org/resource/Andrew_Jackson_Montague,http://dbpedia.org/property/governor,http://dbpedia.org/resource/James_Hoge_Tyler,Predicate,159,2.7007651329040527,37
+http://dbpedia.org/resource/Operation_Infatuate,http://dbpedia.org/property/caption,--11-01,Object,163,5.270081043243408,37
+http://dbpedia.org/resource/Maksim_Chmerkovskiy,http://dbpedia.org/property/placeOfBirth,"Odessa ; present-day Odessa, Ukraine",Predicate,164,4.021852016448975,37
+http://dbpedia.org/resource/Lightning_Strikes_Twice_(1934_film),http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Lightning_Strikes_Twice_(1934_film),Object,165,2.6544198989868164,37
+http://dbpedia.org/resource/The_Simpsons,http://dbpedia.org/property/b,no,Predicate;Object,166,5.030452013015747,37
+http://dbpedia.org/resource/Federal_judiciary_of_the_United_States,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Federal_judiciary_of_the_United_States,Object,167,5.779119253158569,38

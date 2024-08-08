@@ -1,0 +1,118 @@
+Subject,Predicate,Object,Error,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/KZLE,http://dbpedia.org/ontology/alias,Classic Rock 93,Object,0,254.04172921180725,7
+http://dbpedia.org/resource/KZLE,http://www.w3.org/2000/01/rdf-schema#label,KZLE,Object,0,254.04172921180725,7
+http://dbpedia.org/resource/KZLE,http://dbpedia.org/property/branding,Classic Rock 93,Object,0,254.04172921180725,7
+http://dbpedia.org/resource/KMVP_(AM),http://dbpedia.org/ontology/sisterStation,http://dbpedia.org/resource/KMVP-FM,Object,2,4.381042718887329,7
+http://dbpedia.org/resource/Marcel_van_Eeden,http://dbpedia.org/ontology/birthDate,1965-11-22,Object,8,8.845690727233887,7
+http://dbpedia.org/resource/Marcel_van_Eeden,http://dbpedia.org/property/name,"Eeden, Marcel Van",Object,8,8.845690727233887,7
+http://dbpedia.org/resource/Duck_Soup_(1933_film),http://dbpedia.org/property/starring,http://dbpedia.org/resource/Margaret_Dumont,Object,9,2.3403573036193848,7
+http://dbpedia.org/resource/Doctor_Who,http://dbpedia.org/ontology/related,http://dbpedia.org/resource/Doctor_Who_Extra,Object,10,6.700021028518677,7
+http://dbpedia.org/resource/Doctor_Who,http://dbpedia.org/ontology/format,http://dbpedia.org/resource/5.1_surround_sound,Object,10,6.700021028518677,7
+http://dbpedia.org/resource/It's_All_About_the_Stragglers,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2000_debut_albums,Object,12,3.3418891429901123,7
+http://dbpedia.org/resource/It's_All_About_the_Stragglers,http://dbpedia.org/ontology/runtime,3736.0,Object,12,3.3418891429901123,7
+http://dbpedia.org/resource/The_Reef_(1999_film),http://www.w3.org/2000/01/rdf-schema#comment,"The Reef (also known as Passion's Way) is a 1999 historical drama film directed by Robert Allan Ackerman based on the book The Reef by Edith Wharton. It starred Sela Ward, Timothy Dalton, Alicia Witt, Jamie Glover. It was filmed in Prague, Czech Republic in 1996 but did not premiere on CBS until July 1999.",Predicate,13,17.634743213653564,7
+http://dbpedia.org/resource/WUPA,http://dbpedia.org/ontology/formerBroadcastNetwork,http://dbpedia.org/resource/Fox_Kids,Object,15,106.97295546531676,7
+http://dbpedia.org/resource/WUPA,http://dbpedia.org/ontology/sisterStation,http://dbpedia.org/resource/WVEE,Object,15,106.97295546531676,7
+http://dbpedia.org/resource/WUPA,http://dbpedia.org/ontology/formerBroadcastNetwork,http://dbpedia.org/resource/Independent_station_(North_America),Object,15,106.97295546531676,7
+http://dbpedia.org/resource/A_Buffalope's_Tale,http://dbpedia.org/property/publisher,http://dbpedia.org/resource/Guild_Publishing,Object,17,3.935647010803223,7
+http://dbpedia.org/resource/1040_(film),http://www.w3.org/2000/01/rdf-schema#label,1040 (film),Object,26,3.2702550888061523,7
+http://dbpedia.org/resource/Flash_of_Genius_(film),http://dbpedia.org/ontology/producer,http://dbpedia.org/resource/Gary_Barber,Object,28,21.03079080581665,7
+http://dbpedia.org/resource/Delaney_&_Bonnie,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Object,29,2.0931177139282227,7
+http://dbpedia.org/resource/Tania_(artist),http://dbpedia.org/ontology/movement,http://dbpedia.org/resource/Pop_art,Object,36,6.352410554885864,7
+http://dbpedia.org/resource/Tania_(artist),http://dbpedia.org/ontology/movement,http://dbpedia.org/resource/Geometric_abstraction,Object,36,6.352410554885864,7
+http://dbpedia.org/resource/Tania_(artist),http://dbpedia.org/ontology/movement,http://dbpedia.org/resource/Public_art,Object,36,6.352410554885864,7
+http://dbpedia.org/resource/Tania_(artist),http://dbpedia.org/ontology/movement,http://dbpedia.org/resource/Hard-edge_painting,Object,36,6.352410554885864,7
+http://dbpedia.org/resource/Cidade_Negra,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Band,Object,37,2.1554501056671143,7
+http://dbpedia.org/resource/Cidade_Negra,http://dbpedia.org/property/pastMembers,http://dbpedia.org/resource/Alexandre_Massau,Object,37,2.1554501056671143,7
+http://dbpedia.org/resource/Double_Dragon,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Atari_2600_games,Object,38,2.9626052379608154,14
+http://dbpedia.org/resource/Double_Dragon,http://dbpedia.org/ontology/cpu,http://dbpedia.org/resource/Hertz,Object,38,2.9626052379608154,14
+"http://dbpedia.org/resource/Ferdinand_Philippe,_Duke_of_Orléans",http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:People_from_Palermo,Object,40,1.9354066848754885,14
+http://dbpedia.org/resource/The_Clarks,http://dbpedia.org/ontology/recordLabel,http://dbpedia.org/resource/MCA_Records,Object,42,3.351313352584839,14
+http://dbpedia.org/resource/The_Clarks,http://dbpedia.org/property/label,MCA,Object,42,3.351313352584839,14
+http://dbpedia.org/resource/Girl_of_My_Dreams,http://dbpedia.org/ontology/album,http://dbpedia.org/resource/Chapter_I:_A_New_Beginning,Object,43,1.5665404796600342,14
+http://dbpedia.org/resource/Animal_Crossing,http://dbpedia.org/property/platforms,http://dbpedia.org/resource/Wii_U,Object,45,2.675923109054565,14
+http://dbpedia.org/resource/Animal_Crossing,http://dbpedia.org/property/platformOfOrigin,Nintendo 64,Object,45,2.675923109054565,14
+http://dbpedia.org/resource/Johnny_Wright_(music_manager),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_talent_agents,Object,46,2.069052696228028,14
+http://dbpedia.org/resource/Johnny_Wright_(music_manager),http://dbpedia.org/property/associatedArtists,http://dbpedia.org/resource/Laurieann_Gibson,Object,46,2.069052696228028,14
+http://dbpedia.org/resource/Planet_Earth_(TV_series),http://xmlns.com/foaf/0.1/homepage,http://www.bbc.co.uk/programmes/b006mywy,Object,50,19.630902528762817,14
+http://dbpedia.org/resource/Timothy_Dalton,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:People_from_Belper,Object,52,5.550137042999268,14
+http://dbpedia.org/resource/Timothy_Dalton,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-actor-noun-1,Object,52,5.550137042999268,14
+http://dbpedia.org/resource/Timothy_Dalton,http://dbpedia.org/property/partner,http://dbpedia.org/resource/Vanessa_Redgrave,Object,52,5.550137042999268,14
+http://dbpedia.org/resource/Vettri_FM,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Media_in_Colombo,Object,53,2.3267080783843994,14
+http://dbpedia.org/resource/Vettri_FM,http://dbpedia.org/property/website,http://www.vettri.lk/,Object,53,2.3267080783843994,14
+http://dbpedia.org/resource/The_Heart_Specialist_(1922_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Lost_films,Object,56,3.3014698028564453,14
+http://dbpedia.org/resource/David_Robbins_(artist),http://dbpedia.org/ontology/birthDate,1957,Object,60,17.21163034439087,14
+http://dbpedia.org/resource/Signs_(band),http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-musician-noun-1,Object,61,7.614014625549316,14
+http://dbpedia.org/resource/Signs_(band),http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Signs_(band),Object,61,7.614014625549316,14
+http://dbpedia.org/resource/Fabula_Nova_Crystallis_Final_Fantasy,http://dbpedia.org/property/platforms,http://dbpedia.org/resource/PlayStation_4,Object,66,1.7344436645507812,14
+http://dbpedia.org/resource/Ray_Brassier,http://dbpedia.org/ontology/mainInterest,http://dbpedia.org/resource/Nihilism,Object,67,1.966848850250244,14
+http://dbpedia.org/resource/Ray_Brassier,http://dbpedia.org/property/influences,http://dbpedia.org/resource/Gilles_Deleuze,Object,67,1.966848850250244,14
+http://dbpedia.org/resource/Bruce_Herman,http://xmlns.com/foaf/0.1/name,"Herman, Bruce",Object,68,1.453568935394287,14
+http://dbpedia.org/resource/The_Drowsy_Chaperone,http://dbpedia.org/property/productions,2001,Object,71,2.452232837677002,14
+http://dbpedia.org/resource/Zeenat_Aman,http://dbpedia.org/property/name,"Aman, Zeenat",Object,72,1.924405574798584,14
+http://dbpedia.org/resource/Offbeat_(film),http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/John_Meillon,Object,73,3.428743362426758,14
+http://dbpedia.org/resource/Santosh_Shukla,http://xmlns.com/foaf/0.1/name,"Shukla, Santosh",Object,74,1.5307936668395996,14
+http://dbpedia.org/resource/Ex_Machina_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Universal_Pictures_films,Object,77,1.8960249423980715,14
+http://dbpedia.org/resource/Ex_Machina_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_shot_in_London,Object,77,1.8960249423980715,14
+http://dbpedia.org/resource/The_Great_Gildersleeve_(film),http://dbpedia.org/property/director,http://dbpedia.org/resource/Gordon_Douglas_(director),Object,78,14.580544471740724,14
+http://dbpedia.org/resource/The_Great_Gildersleeve_(film),http://dbpedia.org/property/runtime,3720.0,Object,78,14.580544471740724,14
+http://dbpedia.org/resource/Lilian_Velez,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Cebu_City,Object,79,34.7122585773468,14
+http://dbpedia.org/resource/Lilian_Velez,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Metro_Manila,Object,79,34.7122585773468,14
+http://dbpedia.org/resource/Isaac_Grünewald,http://dbpedia.org/ontology/movement,http://dbpedia.org/resource/Expressionism,Object,80,4.346377372741699,14
+http://dbpedia.org/resource/Božo_Koprivica,http://dbpedia.org/ontology/ethnicity,http://dbpedia.org/resource/Yugoslavs,Object,81,12.759028911590576,14
+http://dbpedia.org/resource/Albert_King,http://dbpedia.org/ontology/recordLabel,http://dbpedia.org/resource/Utopia_Records,Object,84,7.845376968383789,14
+http://dbpedia.org/resource/Tank_Girl_(film),http://dbpedia.org/property/alt,Theatrical release poster,Object,85,2.714449882507324,14
+http://dbpedia.org/resource/Tank_Girl_(film),http://dbpedia.org/property/extra,http://dbpedia.org/resource/Stomp_(theatrical_show),Object,85,2.714449882507324,14
+http://dbpedia.org/resource/Tank_Girl_(film),http://dbpedia.org/property/title,Shove,Object,85,2.714449882507324,14
+http://dbpedia.org/resource/L'inafferrabile_12,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_directed_by_Mario_Mattoli,Object,88,1.6384596824645996,14
+http://dbpedia.org/resource/Aselin_Debison,http://xmlns.com/foaf/0.1/name,"Debison, Aselin",Object,89,2.072450399398804,14
+http://dbpedia.org/resource/Moloya_Goswami,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Dibrugarh,Object,93,2.476779222488404,14
+http://dbpedia.org/resource/Moloya_Goswami,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/India,Object,93,2.476779222488404,14
+"http://dbpedia.org/resource/Déjà_Vu_(Crosby,_Stills,_Nash_&_Young_album)",http://dbpedia.org/property/title,http://dbpedia.org/resource/Kent_Music_Report,Object,99,1.644974708557129,14
+"http://dbpedia.org/resource/Déjà_Vu_(Crosby,_Stills,_Nash_&_Young_album)",http://dbpedia.org/ontology/Work/runtime,36.4,Object,99,1.644974708557129,14
+http://dbpedia.org/resource/Ella_Fitzgerald's_Christmas,http://dbpedia.org/ontology/recordLabel,http://dbpedia.org/resource/Capitol_Records,Predicate,102,2.2428207397460938,17
+http://dbpedia.org/resource/Braceface,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Disney_Channel_shows,Object,104,2.41135573387146,17
+http://dbpedia.org/resource/Overture_to_The_Merry_Wives_of_Windsor,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Metro-Goldwyn-Mayer_short_films,Object,105,42.51275086402893,17
+http://dbpedia.org/resource/Overture_to_The_Merry_Wives_of_Windsor,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_based_on_The_Merry_Wives_of_Windsor,Object,105,42.51275086402893,17
+http://dbpedia.org/resource/Overture_to_The_Merry_Wives_of_Windsor,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Live_Action_Short_Film_Academy_Award_winners,Object,105,42.51275086402893,17
+http://dbpedia.org/resource/WCYO,http://www.w3.org/2000/01/rdf-schema#label,WCYO,Object,108,24.732191562652588,17
+http://dbpedia.org/resource/The_China_Lake_Murders,http://www.w3.org/2000/01/rdf-schema#label,The China Lake Murders,Object,111,16.30897307395935,17
+http://dbpedia.org/resource/Badichowdi,http://www.w3.org/2000/01/rdf-schema#label,Badichowdi,Object,112,12.926786184310911,17
+http://dbpedia.org/resource/Nino_Porzio,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/Italy,Predicate,121,1.5150740146636963,17
+http://dbpedia.org/resource/Miracle_(Cascada_song),http://dbpedia.org/property/accessdate,2011-08-28,Predicate,122,12.2464919090271,17
+http://dbpedia.org/resource/Jan_Montyn,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Netherlands,Predicate,123,1.8972556591033936,17
+http://dbpedia.org/resource/Les_Tontons_flingueurs,http://dbpedia.org/ontology/language,http://dbpedia.org/resource/German_language,Object,125,1.486553430557251,17
+http://dbpedia.org/resource/Chorus_(2015_film),http://www.w3.org/2000/01/rdf-schema#label,Chorus (2015 film),Predicate,128,24.734310388565063,17
+http://dbpedia.org/resource/Chorus_(2015_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Canadian_drama_films,Object,128,24.734310388565063,17
+http://dbpedia.org/resource/Rhoda_Levine,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Choreographer,Predicate,132,9.516752004623411,17
+http://dbpedia.org/resource/Rimshot,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Characteristic_rock_drum_pattern_rimshot.png?width=300,Object,134,3.941775560379028,17
+http://dbpedia.org/resource/Charlie_Chan's_Chance,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_based_on_American_novels,Object,135,3.6860291957855225,17
+http://dbpedia.org/resource/Kilroy_was_here,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English_phrases,Object,138,3.566159248352051,17
+http://dbpedia.org/resource/Kilroy_was_here,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Military_history_of_the_United_States_during_World_War_II,Object,138,3.566159248352051,17
+http://dbpedia.org/resource/Neethaane_En_Ponvasantham,http://dbpedia.org/property/studio,http://dbpedia.org/resource/Photon_Kathaas,Object,145,25.46110224723816,17
+http://dbpedia.org/resource/Neethaane_En_Ponvasantham,http://dbpedia.org/ontology/cinematography,http://dbpedia.org/resource/M._S._Prabhu,Predicate,145,25.46110224723816,17
+http://dbpedia.org/resource/Neethaane_En_Ponvasantham,http://dbpedia.org/property/story,Reshma Ghatala,Object,145,25.46110224723816,17
+http://dbpedia.org/resource/The_Call_of_the_Savage,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Serial,Predicate;Object,146,3.694604635238648,17
+http://dbpedia.org/resource/Oszkár_Molnár,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Hungarian_People's_Republic,Predicate,148,1.422175645828247,17
+http://dbpedia.org/resource/Paul_Lawrie,http://dbpedia.org/property/name,"Lawrie, Paul",Object,149,2.251211643218994,17
+http://dbpedia.org/resource/Paul_Lawrie,http://xmlns.com/foaf/0.1/name,"Lawrie, Paul",Object,149,2.251211643218994,17
+http://dbpedia.org/resource/Olives_and_Their_Oil,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Short_documentary_films,Object,151,2.494446277618408,17
+http://dbpedia.org/resource/Olives_and_Their_Oil,http://dbpedia.org/property/id,228668,Object,151,2.494446277618408,17
+http://dbpedia.org/resource/Popstars_2015,http://dbpedia.org/property/starring,http://dbpedia.org/resource/Stefanie_Heinzmann,Object,152,4.176008939743042,17
+http://dbpedia.org/resource/Popstars_2015,http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Miss_Platnum,Object,152,4.176008939743042,17
+http://dbpedia.org/resource/Popstars_2015,http://dbpedia.org/property/website,http://www.rtl2.de/sendung/popstars-2015,Object,152,4.176008939743042,17
+http://dbpedia.org/resource/Popstars_2015,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Season,Object,152,4.176008939743042,17
+http://dbpedia.org/resource/Dead_Game,http://dbpedia.org/property/caption,Film poster,Predicate;Object,153,3.605105400085449,17
+http://dbpedia.org/resource/Teenage_Kicks,http://dbpedia.org/property/length,96.0,Predicate;Object,154,5.979811429977417,17
+http://dbpedia.org/resource/Teenage_Kicks,http://dbpedia.org/property/length,113.0,Predicate;Object,154,5.979811429977417,17
+http://dbpedia.org/resource/Teenage_Kicks,http://dbpedia.org/property/headline,Side two,Object,154,5.979811429977417,17
+http://dbpedia.org/resource/Todd_McCaffrey,http://xmlns.com/foaf/0.1/name,"McCaffrey, Todd",Object,155,1.6547918319702148,17
+http://dbpedia.org/resource/The_Wizard_of_Gore_(2007_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_mystery_films,Object,156,1.853274822235108,17
+http://dbpedia.org/resource/Charlene_(song),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Song_recordings_produced_by_Mark_Batson,Object,157,1.7573940753936768,17
+http://dbpedia.org/resource/Charlene_(song),http://dbpedia.org/property/length,246.0,Object,157,1.7573940753936768,17
+http://dbpedia.org/resource/Feline_Frame-Up,http://dbpedia.org/property/musician,http://dbpedia.org/resource/Carl_Stalling,Object,158,6.663053035736084,17
+http://dbpedia.org/resource/Nia_Long,http://www.w3.org/2000/01/rdf-schema#label,Nia Long,Predicate,159,9.74765944480896,17
+http://dbpedia.org/resource/Nia_Long,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/United_States,Predicate,159,9.74765944480896,17
+http://dbpedia.org/resource/Nia_Long,http://dbpedia.org/property/placeOfBirth,http://dbpedia.org/resource/Brooklyn,Object,159,9.74765944480896,17
+http://dbpedia.org/resource/Go_West_(1940_film),http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Marx,Object,160,4.27447772026062,17
+http://dbpedia.org/resource/Go_West_(1940_film),http://xmlns.com/foaf/0.1/depiction,http://en.wikipedia.org/wiki/Special:FilePath/Go_West.jpg,Object,160,4.27447772026062,17

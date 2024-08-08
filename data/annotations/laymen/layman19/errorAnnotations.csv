@@ -1,0 +1,110 @@
+Subject,Predicate,Object,Error,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/WYUU,http://dbpedia.org/property/webcast,http://wyuu.beasleyi.com,Object,1,313.53353357315063,41
+http://dbpedia.org/resource/Michael_Chertoff,http://dbpedia.org/property/appointer,http://dbpedia.org/resource/George_H._W._Bush,Object,2,13.168259143829346,41
+http://dbpedia.org/resource/Oded_Forer,http://xmlns.com/foaf/0.1/givenName,Oded,Predicate,5,16.51045322418213,41
+http://dbpedia.org/resource/Oded_Forer,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Oded_Forer,Object,5,16.51045322418213,41
+http://dbpedia.org/resource/Oded_Forer,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Oded_Forer,Predicate,5,16.51045322418213,41
+http://dbpedia.org/resource/Youth's_Endearing_Charm,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1910s_drama_films,Object,6,9.4426589012146,41
+http://dbpedia.org/resource/Youth's_Endearing_Charm,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Mutual_Film_films,Predicate,6,9.4426589012146,41
+http://dbpedia.org/resource/Amy_Winehouse,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English_female_guitarists,Object,10,4.460241317749023,41
+http://dbpedia.org/resource/Hassan_Ghul,http://dbpedia.org/property/name,"Ghul, Hassan",Object,11,6.250462532043457,41
+http://dbpedia.org/resource/Bob_Hoskins,http://dbpedia.org/ontology/activeYearsStartYear,1969,Object,13,4.070312976837158,41
+http://dbpedia.org/resource/Pleurotomella_marshalli,http://dbpedia.org/property/classis,http://dbpedia.org/resource/Gastropoda,Predicate,14,6.454513549804688,41
+http://dbpedia.org/resource/Pleurotomella_marshalli,http://dbpedia.org/ontology/family,http://dbpedia.org/resource/Conoidea,Predicate,14,6.454513549804688,41
+http://dbpedia.org/resource/Stan_Rosenberg,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Jewish_American_politicians,Object,16,4.245805740356445,41
+http://dbpedia.org/resource/Conn_McCluskey,http://xmlns.com/foaf/0.1/name,"McCluskey, Conn",Object,17,3.2344369888305664,41
+http://dbpedia.org/resource/The_Mating_Call,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Black-and-white_films,Object,19,7.769875526428223,41
+http://dbpedia.org/resource/The_Mating_Call,http://dbpedia.org/property/language,http://dbpedia.org/resource/Silent_film,Predicate,19,7.769875526428223,41
+http://dbpedia.org/resource/Eleventh_Hour_(U.S._TV_series),http://dbpedia.org/property/title,Olfactus,Object,20,6.950289726257324,41
+http://dbpedia.org/resource/Eleventh_Hour_(U.S._TV_series),http://dbpedia.org/property/writtenby,Heather Mitchell  & André Bormanis,Object,20,6.950289726257324,41
+http://dbpedia.org/resource/Murder_of_Elisa_Izquierdo,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Brooklyn,Object,23,4.036749839782715,41
+http://dbpedia.org/resource/Jean_Doujat,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:French_academics,Object,24,11.2727530002594,41
+http://dbpedia.org/resource/Jean_Doujat,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:French_translators,Object,24,11.2727530002594,41
+http://dbpedia.org/resource/Jean_Doujat,http://www.w3.org/2000/01/rdf-schema#comment,"Jean Doujat (1609, Toulouse – 27 October 1688, Paris) was a French lawyer, juris consultus, professor of canon law at the Collège royal, docteur-régent at the faculté de droit de Paris, preceptor of the Dauphin and historian. His works include histories of the reign of Louis XIV.He wrote an important Grammaire espagnole abrégée.",Predicate,24,11.2727530002594,41
+http://dbpedia.org/resource/Ron_Marlenee,http://xmlns.com/foaf/0.1/name,Ron Marlenee,Object,25,7.129979610443115,41
+http://dbpedia.org/resource/Ron_Marlenee,http://dbpedia.org/property/years,1977,Predicate,25,7.129979610443115,41
+http://dbpedia.org/resource/Vesta_M._Roy,http://dbpedia.org/property/placeOfBirth,"http://dbpedia.org/resource/Dearborn,_Michigan",Predicate,26,2.650280714035034,41
+http://dbpedia.org/resource/Zorro's_Black_Whip,http://dbpedia.org/ontology/writer,http://dbpedia.org/resource/Johnston_McCulley,Object,28,4.72545313835144,41
+http://dbpedia.org/resource/WHKY-TV,http://dbpedia.org/ontology/digitalChannel,Virtual: 14 (PSIP),Subject,29,6.572060108184815,41
+http://dbpedia.org/resource/WHKY-TV,http://dbpedia.org/property/haat,182 m,Object,29,6.572060108184815,41
+http://dbpedia.org/resource/Pained,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:South_Korean_films,Object,30,10.306406497955322,41
+http://dbpedia.org/resource/Pained,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Korean-language_films,Object,30,10.306406497955322,41
+http://dbpedia.org/resource/Pained,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_based_on_South_Korean_comics,Object,30,10.306406497955322,41
+http://dbpedia.org/resource/Novorossiya_Governorate,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Kremenchuk,Object,32,8.509997606277466,41
+http://dbpedia.org/resource/Novorossiya_Governorate,http://dbpedia.org/ontology/capital,"http://dbpedia.org/resource/Novomoskovsk,_Dnipropetrovsk_Oblast",Object,32,8.509997606277466,41
+http://dbpedia.org/resource/Daniel_C._Roper,http://dbpedia.org/ontology/profession,http://dbpedia.org/resource/Government,Object,33,4.429378509521484,41
+http://dbpedia.org/resource/The_Angry_God,http://dbpedia.org/ontology/musicComposer,http://dbpedia.org/resource/Vernon_Duke,Predicate,35,2.62016224861145,41
+http://dbpedia.org/resource/Eve_von_Bibra,http://dbpedia.org/property/name,"Von Bibra, Eve",Object,36,3.7402501106262207,41
+http://dbpedia.org/resource/Disco_2000_(song),http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-phonograph_record-noun-1,Object,38,8.208120346069336,41
+http://dbpedia.org/resource/Disco_2000_(song),http://www.w3.org/2000/01/rdf-schema#comment,"""Disco 2000"" is a hit single by British band Pulp, released in 1995. It reached No. 7 in the UK Singles Chart. It was the third single from the album Different Class, following ""Common People"" and the double A-side ""Mis-Shapes""/""Sorted for E's & Wizz"", both of which reached No. 2.The song tells the story of a narrator falling for a childhood friend called Deborah, who is more popular than he is and wondering what it would be like to meet again when they are older.",Object,38,8.208120346069336,41
+http://dbpedia.org/resource/WKSU-FM,http://dbpedia.org/property/repeater,WKSV/,Object,42,11.071447849273682,41
+http://dbpedia.org/resource/WKSU-FM,http://dbpedia.org/property/translator,"http://dbpedia.org/resource/Ashland,_Ohio",Object,42,11.071447849273682,41
+http://dbpedia.org/resource/Mike_Simpson,http://dbpedia.org/property/placeOfBirth,http://dbpedia.org/resource/Idaho,Predicate,46,3.1454503536224365,41
+http://dbpedia.org/resource/Théophile_Gautier,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:19th-century_poets,Object,47,4.525153398513794,41
+http://dbpedia.org/resource/Avtar_Singh_Kang,http://xmlns.com/foaf/0.1/name,A. S. Kang,Predicate,48,11.708301544189451,41
+http://dbpedia.org/resource/Mother_Up!,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Canadian_animated_television_series,Object,49,8.216549158096313,41
+http://dbpedia.org/resource/Mother_Up!,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_television_programming,Object,49,8.216549158096313,41
+http://dbpedia.org/resource/Esther_Rolle,http://purl.org/dc/elements/1.1/description,Actress,Predicate,54,4.503109693527222,41
+http://dbpedia.org/resource/Esther_Rolle,http://dbpedia.org/property/education,http://dbpedia.org/resource/Blanche_Ely_High_School,Predicate,54,4.503109693527222,41
+http://dbpedia.org/resource/Barry_Davis_(footballer),http://dbpedia.org/property/heightweight,185,Predicate,55,10.996495008468628,41
+http://dbpedia.org/resource/Barry_Davis_(footballer),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:W._S._Crichton_Medal_winners,Object,55,10.996495008468628,41
+http://dbpedia.org/resource/Subhumans_(Canadian_band),http://dbpedia.org/ontology/recordLabel,http://dbpedia.org/resource/Quintessence_Records,Object,57,11.946399688720703,41
+http://dbpedia.org/resource/Bigger_Picture_Music_Group,http://dbpedia.org/ontology/distributingLabel,http://dbpedia.org/resource/List_of_Universal_Music_Group_labels,Object,59,7.839026689529419,41
+http://dbpedia.org/resource/Bigger_Picture_Music_Group,http://dbpedia.org/ontology/distributingCompany,http://dbpedia.org/resource/List_of_Universal_Music_Group_labels,Object,59,7.839026689529419,41
+http://dbpedia.org/resource/Sanaya_Irani,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Sanaya_Irani,Predicate,60,5.426320314407349,41
+http://dbpedia.org/resource/Sanaya_Irani,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Indian_female_models,Object,60,5.426320314407349,41
+http://dbpedia.org/resource/Larry_Larrañaga,http://dbpedia.org/ontology/abstract,"Lorenzo A. Larrañaga, (born December 31, 1937) is a Republican member of the New Mexico House of Representatives, representing the 27th District since 1995. He sits on the House Agriculture and Water Resources committee, Appropriations and Finance committee and Rules and Order of Business committee.He attended the University of New Mexico where he attained his masters and bachelor degrees in engineering and civil engineering. Larrañaga is the retired owner of a ranching company. He has also worked as an engineer for the State of New Mexico in the highways department, also serving as Secretary of Highways in 1982. He was Deputy Chief Administrator for the City of Albuquerque from 1987 to 1988.He resides in Albuquerque and is married with two children.",Object,61,14.676369428634644,41
+http://dbpedia.org/resource/Larry_Larrañaga,http://xmlns.com/foaf/0.1/givenName,Lorenzo,Predicate,61,14.676369428634644,41
+http://dbpedia.org/resource/Carmit_Bachar,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Predicate,62,2.943976402282715,41
+http://dbpedia.org/resource/John_Boozman,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/United_States,Predicate,63,22.436408042907715,41
+http://dbpedia.org/resource/John_Boozman,http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Fort_Smith,_Arkansas",Object,63,22.436408042907715,41
+http://dbpedia.org/resource/Body_of_Evidence_(1993_film),http://www.w3.org/2000/01/rdf-schema#comment,"Body of Evidence is a 1993 American erotic thriller film produced by Dino De Laurentiis and distributed by Metro-Goldwyn-Mayer and originally had the rare NC-17 rating.It was directed by Uli Edel and written by Brad Mirman. The film stars Madonna and Willem Dafoe, with Joe Mantegna, Anne Archer, Julianne Moore and Jürgen Prochnow in supporting roles.The first theatrical release was censored for the purpose of obtaining an R rating, reducing the film's running time from 101 to 99 minutes.",Object,64,13.228325366973875,41
+http://dbpedia.org/resource/Body_of_Evidence_(1993_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_films,Object,64,13.228325366973875,41
+http://dbpedia.org/resource/Body_of_Evidence_(1993_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1990s_mystery_films,Object,64,13.228325366973875,41
+http://dbpedia.org/resource/The_Wheel_of_the_Law,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Lost_films,Object,65,8.132390022277832,41
+http://dbpedia.org/resource/The_Wheel_of_the_Law,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_drama_films,Object,65,8.132390022277832,41
+http://dbpedia.org/resource/We_Dive_at_Dawn,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-movie-noun-1,Predicate,67,17.983813047409058,41
+http://dbpedia.org/resource/We_Dive_at_Dawn,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:British_films,Object,67,17.983813047409058,41
+http://dbpedia.org/resource/The_Rough_Guide_to_Acoustic_Africa,http://dbpedia.org/property/rev,http://dbpedia.org/resource/Robert_Christgau,Predicate;Object,68,37.18195962905884,41
+http://dbpedia.org/resource/The_Rough_Guide_to_Acoustic_Africa,http://dbpedia.org/property/lastAlbum,The Rough Guide to African Disco,Predicate,68,37.18195962905884,41
+http://dbpedia.org/resource/Amy_Bach,http://dbpedia.org/ontology/abstract,"Amy Bach is an American author, journalist, and attorney. She won the 2010 Robert F. Kennedy Book Award for Ordinary Injustice: How America Holds Court.She has served as the Haywood Burns Fellow at The Nation magazine, and was the recipient of an Echoing Green Fellowship in 2011.She is the Executive Director of Measures for Justice, a non-profit organization that collects and analyzes data about the American justice system.",Object,70,15.77556586265564,41
+http://dbpedia.org/resource/Amy_Bach,http://xmlns.com/foaf/0.1/givenName,Amy,Predicate,70,15.77556586265564,41
+http://dbpedia.org/resource/Amy_Bach,http://dbpedia.org/property/shortDescription,"American writer, journalist, attorney",Predicate,70,15.77556586265564,41
+http://dbpedia.org/resource/Amy_Bach,http://dbpedia.org/ontology/nationality,http://dbpedia.org/resource/United_States,Predicate,70,15.77556586265564,41
+http://dbpedia.org/resource/Mavis_Staples,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Predicate,71,3.231934070587158,41
+http://dbpedia.org/resource/My_Life_in_Ruins,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2000s_romantic_comedy_films,Object,72,6.204988479614258,41
+http://dbpedia.org/resource/French_Fifth_Republic,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/ISO_4217,Object,74,4.96287989616394,41
+http://dbpedia.org/resource/The_Troublemaker_(album),http://dbpedia.org/property/note,http://dbpedia.org/resource/A.P._Carter,Predicate,75,5.184834241867065,41
+http://dbpedia.org/resource/The_Troublemaker_(album),http://dbpedia.org/ontology/Work/runtime,44.4,Predicate,75,5.184834241867065,41
+"http://dbpedia.org/resource/United_States_Senate_election_in_Montana,_1922",http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:United_States_Senate_elections,_1922",Object,76,8.65636134147644,41
+"http://dbpedia.org/resource/United_States_Senate_election_in_Montana,_1922",http://dbpedia.org/property/hasPhotoCollection,"http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/United_States_Senate_election_in_Montana,_1922",Predicate,76,8.65636134147644,41
+http://dbpedia.org/resource/The_Starting_Line,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_pop_punk_musical_groups,Object,78,6.669677257537842,41
+http://dbpedia.org/resource/The_Starting_Line,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Starting_Line,Predicate,78,6.669677257537842,41
+http://dbpedia.org/resource/Tom_Clancy's_Splinter_Cell,http://dbpedia.org/property/game,http://dbpedia.org/resource/Tom_Clancy's_Splinter_Cell:_Chaos_Theory,Subject,79,8.387366771697998,41
+http://dbpedia.org/resource/Tom_Clancy's_Splinter_Cell,http://dbpedia.org/property/publisher,http://dbpedia.org/resource/Gameloft,Subject,79,8.387366771697998,41
+http://dbpedia.org/resource/Tom_Clancy's_Splinter_Cell,http://dbpedia.org/property/game,http://dbpedia.org/resource/Tom_Clancy's_Splinter_Cell:_Double_Agent,Subject,79,8.387366771697998,41
+http://dbpedia.org/resource/Tom_Clancy's_Splinter_Cell,http://dbpedia.org/property/developer,http://dbpedia.org/resource/Gameloft,Subject,79,8.387366771697998,41
+http://dbpedia.org/resource/Tom_Clancy's_Splinter_Cell,http://dbpedia.org/property/game,http://dbpedia.org/resource/Tom_Clancy's_Splinter_Cell:_Essentials,Subject,79,8.387366771697998,41
+http://dbpedia.org/resource/Tommy_Davidson,http://xmlns.com/foaf/0.1/name,"Davidson, Tommy",Object,80,7.223401546478271,41
+http://dbpedia.org/resource/Tommy_Davidson,http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Washington,_D.C.",Object,80,7.223401546478271,41
+http://dbpedia.org/resource/Beki_Adam,http://dbpedia.org/ontology/abstract,"Beki Adam (born 25 June 1966), is a researcher, Sussex farm and campsite owner. She was a parliamentary candidate for Mid Sussex (UK Parliament constituency) in the 2015 British General Election.",Object,84,10.239635467529297,41
+http://dbpedia.org/resource/Beki_Adam,http://xmlns.com/foaf/0.1/name,"Adam, Beki",Object,84,10.239635467529297,41
+http://dbpedia.org/resource/Horna,http://www.w3.org/2000/01/rdf-schema#comment,"Horna (formerly known as Shadowed) is a Finnish black metal band that formed in 1993. The band has appeared on over thirty releases including splits, demos, EPs and albums since 1995, which have been released through numerous record labels.",Object,85,4.583961486816406,41
+http://dbpedia.org/resource/William_C._Marland,http://dbpedia.org/property/name,"Marland, William C.",Object,88,5.778332710266113,41
+http://dbpedia.org/resource/Sergio_Osmeña,http://purl.org/dc/elements/1.1/description,Filipino lawyer and politician; 4th President of the Philippines,Predicate,89,17.717336416244507,41
+http://dbpedia.org/resource/Sergio_Osmeña,http://dbpedia.org/property/spouse,Esperanza Limjap ; 3 children,Predicate,89,17.717336416244507,41
+http://dbpedia.org/resource/Sergio_Osmeña,http://dbpedia.org/ontology/office,2ndSenate President pro tempore of the Philippines,Object,89,17.717336416244507,41
+http://dbpedia.org/resource/Sergio_Osmeña,http://dbpedia.org/property/dateOfBirth,1878-09-09,Predicate,89,17.717336416244507,41
+http://dbpedia.org/resource/11:14,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Nonlinear_narrative_films,Object,90,4.360778331756592,41
+http://dbpedia.org/resource/Robbery_Under_Arms_(1957_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Pinewood_Studios_films,Object,92,3.840720176696777,41
+http://dbpedia.org/resource/Battle_of_Spartolos,http://dbpedia.org/property/casualties,Over 430,Object,93,11.779643058776855,41
+http://dbpedia.org/resource/Battle_of_Spartolos,http://dbpedia.org/ontology/combatant,"Chalcidice,",Object,93,11.779643058776855,41
+http://dbpedia.org/resource/Battle_of_Spartolos,http://dbpedia.org/property/result,Athenian defeat,Object,93,11.779643058776855,41
+http://dbpedia.org/resource/Hard_Boiled_(1919_film),http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Hard_Boiled_(1919_film),Predicate,94,3.2127044200897217,41
+http://dbpedia.org/resource/Stolen_Honor,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Object,98,4.307440519332886,41
+http://dbpedia.org/resource/East_Germany,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Deutsche_Mark,Object,99,4.8959126472473145,41
+http://dbpedia.org/resource/Henry_Baldwin_(judge),http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Pennsylvania,Object,100,5.259040832519531,41
+http://dbpedia.org/resource/Burnout_Dominator,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Burnout_Dominator,Predicate,101,2.908564805984497,41
+http://dbpedia.org/resource/Hot_Coffee_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Articles_created_via_the_Article_Wizard,Object,103,7.125105619430542,41
+http://dbpedia.org/resource/Sahasam,http://dbpedia.org/property/label,http://dbpedia.org/resource/T-Series,Object,105,9.04505443572998,41
+http://dbpedia.org/resource/The_Pleasure_of_His_Company,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1960s_comedy_films,Object,106,4.809996366500855,41

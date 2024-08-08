@@ -1,0 +1,176 @@
+Subject,Predicate,Object,Error,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/Orson_Welles,http://dbpedia.org/property/align,right,Predicate;Object,0,22.243189573287964,6
+http://dbpedia.org/resource/Orson_Welles,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Orson_Welles,Object,0,22.243189573287964,6
+http://dbpedia.org/resource/Orson_Welles,http://dbpedia.org/property/parents,Richard Hodgdon Head Welles,Object,0,22.243189573287964,6
+http://dbpedia.org/resource/John_Denver,http://dbpedia.org/ontology/associatedBand,http://dbpedia.org/resource/Tina_Turner,Object,3,10.666077375411987,6
+http://dbpedia.org/resource/John_Denver,http://dbpedia.org/ontology/associatedBand,http://dbpedia.org/resource/Olivia_Newton-John,Object,3,10.666077375411987,6
+http://dbpedia.org/resource/John_Denver,http://dbpedia.org/property/label,http://dbpedia.org/resource/Sony_Wonder,Object,3,10.666077375411987,6
+http://dbpedia.org/resource/John_Denver,http://dbpedia.org/ontology/associatedMusicalArtist,http://dbpedia.org/resource/Johnny_Cash,Object,3,10.666077375411987,6
+http://dbpedia.org/resource/John_Denver,http://dbpedia.org/ontology/deathPlace,"http://dbpedia.org/resource/Pacific_Grove,_California",Object,3,10.666077375411987,6
+http://dbpedia.org/resource/David_Rawlings,http://www.w3.org/2000/01/rdf-schema#label,David Rawlings,Object,4,2.453204870223999,6
+http://dbpedia.org/resource/Josh_Homme,http://dbpedia.org/property/label,http://dbpedia.org/resource/Man's_Ruin_Records,Object,6,8.127349853515625,6
+http://dbpedia.org/resource/Josh_Homme,http://dbpedia.org/ontology/associatedMusicalArtist,http://dbpedia.org/resource/Mark_Lanegan,Predicate;Object,6,8.127349853515625,6
+http://dbpedia.org/resource/Josh_Homme,http://dbpedia.org/property/associatedActs,http://dbpedia.org/resource/Unkle,Object,6,8.127349853515625,6
+http://dbpedia.org/resource/Josh_Homme,http://dbpedia.org/property/genre,http://dbpedia.org/resource/Heavy_metal_music,Object,6,8.127349853515625,6
+http://dbpedia.org/resource/Albert_King,http://dbpedia.org/ontology/instrument,http://dbpedia.org/resource/Gibson_Flying_V,Object,8,55.8291449546814,6
+http://dbpedia.org/resource/Albert_King,http://dbpedia.org/property/notableInstruments,http://dbpedia.org/resource/Gibson_Flying_V,Predicate;Object,8,55.8291449546814,6
+http://dbpedia.org/resource/Albert_King,http://dbpedia.org/ontology/recordLabel,http://dbpedia.org/resource/Utopia_Records,Object,8,55.8291449546814,6
+http://dbpedia.org/resource/The_Killing_Fields_(film),http://dbpedia.org/property/starring,*,Object,9,4.163308620452881,6
+http://dbpedia.org/resource/Casablanca_(film),http://dbpedia.org/property/v,no,Predicate;Object,11,6.545757293701172,6
+http://dbpedia.org/resource/Casablanca_(film),http://dbpedia.org/property/budget,878000.0,Object,11,6.545757293701172,6
+http://dbpedia.org/resource/University_of_the_East,http://dbpedia.org/property/nickname,http://dbpedia.org/resource/UE_Red_Warriors,Predicate,12,10.867472648620604,7
+http://dbpedia.org/resource/University_of_the_East,http://dbpedia.org/ontology/campus,http://dbpedia.org/resource/University_of_the_East_Caloocan,Object,12,10.867472648620604,7
+http://dbpedia.org/resource/University_of_the_East,http://dbpedia.org/ontology/campus,http://dbpedia.org/resource/University_of_the_East_Ramon_Magsaysay_Memorial_Medical_Center,Object,12,10.867472648620604,7
+http://dbpedia.org/resource/University_of_the_East,http://dbpedia.org/property/city,http://dbpedia.org/resource/Caloocan,Object,12,10.867472648620604,7
+http://dbpedia.org/resource/Terry_Bowden,http://dbpedia.org/property/name,http://dbpedia.org/resource/2009_North_Alabama_Lions_football_team,Predicate;Object,14,3.093698263168335,7
+http://dbpedia.org/resource/WUPA,http://dbpedia.org/ontology/formerBroadcastNetwork,http://dbpedia.org/resource/Fox_Kids,Object,15,8.96616268157959,7
+http://dbpedia.org/resource/WUPA,http://dbpedia.org/ontology/formerBroadcastNetwork,http://dbpedia.org/resource/Independent_station_(North_America),Object,15,8.96616268157959,7
+http://dbpedia.org/resource/French_occupation_of_Malta,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Maltese_scudo,Predicate;Object,17,3.05850601196289,7
+http://dbpedia.org/resource/Number_Nine_Research_Laboratory,http://dbpedia.org/ontology/activeYearsEndYear,1945,Predicate,21,3.470874071121216,7
+http://dbpedia.org/resource/Number_Nine_Research_Laboratory,http://dbpedia.org/property/garrison,http://dbpedia.org/resource/Kanagawa_Prefecture,Object,21,3.470874071121216,7
+http://dbpedia.org/resource/Bob_James_(musician),http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Predicate,22,2.1379973888397217,7
+http://dbpedia.org/resource/Kofi_Annan,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/Macalester_College,Predicate;Object,23,17.406237840652466,7
+http://dbpedia.org/resource/Kofi_Annan,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/Graduate_Institute_of_International_and_Development_Studies,Predicate;Object,23,17.406237840652466,7
+http://dbpedia.org/resource/Kofi_Annan,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/MIT_Sloan_School_of_Management,Predicate;Object,23,17.406237840652466,7
+http://dbpedia.org/resource/Kofi_Annan,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/Kwame_Nkrumah_University_of_Science_and_Technology,Predicate,23,17.406237840652466,7
+http://dbpedia.org/resource/James_Francis_Garrick,http://dbpedia.org/ontology/successor,http://dbpedia.org/resource/James_Robert_Dickson,Object,24,16.79163646697998,7
+http://dbpedia.org/resource/James_Francis_Garrick,http://dbpedia.org/ontology/abstract,"Sir James Francis Garrick KCMG QC, (10 January 1836 – 12 January 1907) was a politician and agent-general from Brisbane, Queensland, Australia. In his later years, he lived in London.",Predicate;Object,24,16.79163646697998,7
+http://dbpedia.org/resource/James_Francis_Garrick,http://dbpedia.org/property/years,1878,Predicate;Object,24,16.79163646697998,7
+http://dbpedia.org/resource/James_Francis_Garrick,http://dbpedia.org/property/rows,2,Predicate,24,16.79163646697998,7
+http://dbpedia.org/resource/James_Francis_Garrick,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Members_of_the_Queensland_Legislative_Assembly,Object,24,16.79163646697998,7
+http://dbpedia.org/resource/Roy_Acuff,http://xmlns.com/foaf/0.1/name,"Acuff, Roy",Object,25,15.367133855819702,7
+http://dbpedia.org/resource/Death_of_a_Legend,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Death_of_a_Legend,Predicate;Object,26,13.318457841873167,7
+http://dbpedia.org/resource/Death_of_a_Legend,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Documentary_films_about_nature,Object,26,13.318457841873167,7
+http://dbpedia.org/resource/Death_of_a_Legend,http://dbpedia.org/ontology/writer,http://dbpedia.org/resource/Bill_Mason,Object,26,13.318457841873167,7
+http://dbpedia.org/resource/Death_of_a_Legend,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Death_of_a_Legend,Predicate;Object,26,13.318457841873167,7
+http://dbpedia.org/resource/Volkhard_Eitner,http://xmlns.com/foaf/0.1/name,Dr. med. Volkhard Eitner,Object,27,4.64126181602478,7
+http://dbpedia.org/resource/Volkhard_Eitner,http://xmlns.com/foaf/0.1/name,"Eitner, Volkhard",Object,27,4.64126181602478,7
+"http://dbpedia.org/resource/Alexander_Cambridge,_1st_Earl_of_Athlone",http://dbpedia.org/ontology/monarch,http://dbpedia.org/resource/George_V,Object,28,3.168022632598877,7
+http://dbpedia.org/resource/Robert_Lepage,http://xmlns.com/foaf/0.1/homepage,http://www.robertlepage.com/,Subject;Predicate;Object,32,11.216656923294067,7
+http://dbpedia.org/resource/Robert_Lepage,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Canadian_dramatists_and_playwrights_in_French,Object,32,11.216656923294067,7
+http://dbpedia.org/resource/Robert_Lepage,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1957_births,Object,32,11.216656923294067,7
+http://dbpedia.org/resource/Dangerous_(film),http://dbpedia.org/property/cinematography,http://dbpedia.org/resource/Ernest_Haller,Object,33,5.706811666488648,7
+http://dbpedia.org/resource/Dangerous_(film),http://dbpedia.org/property/starring,http://dbpedia.org/resource/Franchot_Tone,Object,33,5.706811666488648,7
+http://dbpedia.org/resource/Dangerous_(film),http://dbpedia.org/ontology/producer,http://dbpedia.org/resource/Harry_Joe_Brown,Object,33,5.706811666488648,7
+http://dbpedia.org/resource/Rose_Tremain,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Rose_Tremain,Predicate,34,3.3615503311157227,7
+http://dbpedia.org/resource/Leonardo_Benvenuti,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Leonardo_Benvenuti,Predicate,35,3.913646697998047,7
+http://dbpedia.org/resource/Julia_Roberts,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_female_models,Object,36,6.060371398925781,7
+http://dbpedia.org/resource/Michael_Nesmith,http://dbpedia.org/property/width,35.0,Predicate;Object,37,8.304582834243774,7
+http://dbpedia.org/resource/Michael_Nesmith,http://dbpedia.org/property/tsurl,Michael_Nesmith,Predicate;Object,37,8.304582834243774,7
+http://dbpedia.org/resource/Benjamin_Franklin,http://dbpedia.org/ontology/vicePresident,http://dbpedia.org/resource/Charles_Biddle,Object,39,3.915704965591431,7
+http://dbpedia.org/resource/Ben_Chapman_(actor),http://dbpedia.org/property/children,"Ben Chapman III, Grant Chapman",Object,43,5.266484260559082,7
+http://dbpedia.org/resource/Carillon_Historical_Park,http://dbpedia.org/property/name,Deeds Carillon,Object,46,29.705254077911377,7
+http://dbpedia.org/resource/Carillon_Historical_Park,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Carillon_Historical_Park,Predicate,46,29.705254077911377,7
+http://dbpedia.org/resource/Carillon_Historical_Park,http://dbpedia.org/property/longDegrees,84,Predicate;Object,46,29.705254077911377,7
+http://dbpedia.org/resource/Carillon_Historical_Park,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Historic_house_museums_in_Ohio,Object,46,29.705254077911377,7
+http://dbpedia.org/resource/Carillon_Historical_Park,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:History_of_Dayton,_Ohio",Object,46,29.705254077911377,7
+http://dbpedia.org/resource/Gauhati_University,http://dbpedia.org/property/affiliations,http://dbpedia.org/resource/National_Assessment_and_Accreditation_Council,Object,48,9.626201152801514,7
+http://dbpedia.org/resource/Gauhati_University,http://www.w3.org/2003/01/geo/wgs84_pos#long,91.6634,Predicate;Object,48,9.626201152801514,7
+http://dbpedia.org/resource/Gauhati_University,http://dbpedia.org/property/motto,Vidyana Sadhayeta,Object,48,9.626201152801514,7
+http://dbpedia.org/resource/Joseph_Stalin,http://dbpedia.org/property/years,1945,Predicate;Object,49,4.574775457382202,7
+http://dbpedia.org/resource/Ysgol_John_Bright,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/United_Kingdom,Object,51,15.636027574539185,7
+http://dbpedia.org/resource/FH_Joanneum,http://dbpedia.org/property/staff,578,Object,52,5.402968168258667,7
+http://dbpedia.org/resource/FH_Joanneum,http://dbpedia.org/property/students,3830,Object,52,5.402968168258667,7
+http://dbpedia.org/resource/Gloria_Gaynor,http://dbpedia.org/property/label,Logic( ),Object,53,3.1187727451324463,7
+http://dbpedia.org/resource/Fatih_Terim,http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Fatih_Terim__1,Object,62,4.397848844528198,7
+http://dbpedia.org/resource/Fatih_Terim,http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Fatih_Terim__8,Object,62,4.397848844528198,7
+http://dbpedia.org/resource/Red_Hot_Chili_Peppers,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Predicate,64,2.183214902877808,7
+http://dbpedia.org/resource/Victoria_Memorial_(India),http://xmlns.com/foaf/0.1/homepage,http://www.victoriamemorial-cal.org/,Predicate;Object,67,11.634244680404665,7
+http://dbpedia.org/resource/Goopy_Gyne_Bagha_Byne,http://dbpedia.org/ontology/abstract,"Goopy Gyne Bagha Byne (Bengali: গুপী গাইন বাঘা বাইন Gupi Gain Bagha Bain) is a 1969 Indian Bengali fantasy adventure comedy film directed by Satyajit Ray and based on a story by his grandfather Upendra Kishore Roychowdhury. The film is the first film of the Goopy Gyne Bagha Byne series, followed by a couple of sequels - Hirak Rajar Deshe was released in 1980 and Goopy Bagha Phire Elo, written by Ray, but directed by his son Sandip Ray was released in 1992.The film was based on the characters Goopy Gyne and Bagha Byne, who made their first appearance in the Sandesh magazine in 1915, with illustrations by Ray's grandfather Upendrakishore Ray Chowdhury.  In 1961, after revival of Sandesh, Ray began contemplating the idea of making a film based on that story, and he was partly compelled by his son Sandeep to make a film which was less 'grim and adult'.  This was matched by Ray's own desire to make a movie, which unlike his previous movies, would cater to children. Plus this would also give him an opportunity to lace the story with music and dancing, a point his movies' producers and distributors were always insisting upon. Ray managed to convince producers to finance the movie, even though it was clear from the beginning that the film would cost a lot of money. The movie released to great critical and commercial reception, creating record longest continuous run for a Bengali movie in Bengal, running for 51 straight weeks. It won the Best Feature Film and Best Direction awards at the 16th National Film Awards, and went on to win many other international awards as well. Critical reception was highly positive. Raja Sen called it to be the most innovative movie to have ever come out of India. Phil Hall said that the movie comes as a delightful surprise – Ray, it appears, not only possessed a great sense of humor but also enjoyed a stunning talent for musical cinema.",Object,69,3.2536489963531494,7
+http://dbpedia.org/resource/Friedrich_von_Rabenau,http://dbpedia.org/property/name,"Rabenau, Friedrich von",Object,70,5.1084582805633545,7
+http://dbpedia.org/resource/Friedrich_von_Rabenau,http://xmlns.com/foaf/0.1/name,"Rabenau, Friedrich von",Object,70,5.1084582805633545,7
+http://dbpedia.org/resource/Durham_University_Oriental_Museum,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Durham_University_Oriental_Museum,Predicate,75,5.61629843711853,7
+http://dbpedia.org/resource/Durham_University_Oriental_Museum,http://dbpedia.org/property/latitude,54.764,Object,75,5.61629843711853,7
+http://dbpedia.org/resource/Jerry_Roberts,http://dbpedia.org/ontology/soundRecording,http://dbpedia.org/resource/Jerry_Roberts__3,Object,81,4.611465930938721,7
+http://dbpedia.org/resource/Jerry_Roberts,http://dbpedia.org/property/name,"Roberts, Jerry",Object,81,4.611465930938721,7
+http://dbpedia.org/resource/Jerry_Roberts,http://dbpedia.org/property/alternativeNames,"Roberts, Raymond C.",Object,81,4.611465930938721,7
+http://dbpedia.org/resource/Bob_Hoskins,http://dbpedia.org/ontology/activeYearsStartYear,1969,Object,84,3.934571027755737,7
+http://dbpedia.org/resource/Questacon,http://dbpedia.org/ontology/numberOfVisitors,407000,Object,86,8.555573463439941,7
+http://dbpedia.org/resource/Questacon,http://xmlns.com/foaf/0.1/homepage,http://www.questacon.edu.au/,Predicate;Object,86,8.555573463439941,7
+http://dbpedia.org/resource/Questacon,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Questacon,Predicate;Object,86,8.555573463439941,7
+http://dbpedia.org/resource/Charles_Darwin,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Charles_Darwin,Predicate,90,2.3816702365875244,7
+http://dbpedia.org/resource/Jimmy_Wales,http://dbpedia.org/ontology/personFunction,http://dbpedia.org/resource/Jimmy_Wales__8,Object,91,3.7428736686706543,7
+http://dbpedia.org/resource/Jimmy_Wales,http://dbpedia.org/ontology/personFunction,http://dbpedia.org/resource/Jimmy_Wales__10,Object,91,3.7428736686706543,7
+http://dbpedia.org/resource/Paul_Lawrie,http://dbpedia.org/property/name,"Lawrie, Paul",Object,94,4.032061576843262,7
+http://dbpedia.org/resource/Paul_Lawrie,http://dbpedia.org/ontology/height,1.8034,Object,94,4.032061576843262,7
+http://dbpedia.org/resource/Paul_Lawrie,http://xmlns.com/foaf/0.1/name,"Lawrie, Paul",Object,94,4.032061576843262,7
+http://dbpedia.org/resource/Paul_Dresser,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Paul_Dresser__1,Object,95,4.35887598991394,7
+http://dbpedia.org/resource/Bruce_Hornsby,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Predicate,100,1.5693280696868896,7
+http://dbpedia.org/resource/Michael_Bauer_(officer),http://dbpedia.org/ontology/allegiance,(to 1918),Object,102,3.578191041946411,7
+http://dbpedia.org/resource/Donna_Summer,http://dbpedia.org/property/name,"Gaines, LaDonna Adrian",Object,105,3.463021278381348,7
+http://dbpedia.org/resource/Duane_Carter,http://www.w3.org/2000/01/rdf-schema#comment,"Duane Carter (May 5, 1913 – May 7, 1993) was an American racecar driver. He raced midget cars, sprint cars, and IndyCars. Carter was born in Fresno, California, and he died in Indianapolis, Indiana. His son Pancho raced in Indy cars, along with Johnny Parsons (who he helped raise).",Object,107,8.505086660385132,7
+http://dbpedia.org/resource/Duane_Carter,http://dbpedia.org/property/deathDate,1993-05-07,Object,107,8.505086660385132,7
+http://dbpedia.org/resource/Duane_Carter,http://dbpedia.org/property/years,"–, –",Predicate;Object,107,8.505086660385132,7
+http://dbpedia.org/resource/Manchester_Museum,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Wilmslow_Road,Object,109,4.922955513000488,7
+http://dbpedia.org/resource/Manchester_Museum,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Manchester_Museum,Predicate,109,4.922955513000488,7
+http://dbpedia.org/resource/Lionel_Messi,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Argentina_national_football_team,Predicate,111,3.1191625595092773,7
+http://dbpedia.org/resource/Yul_Brynner,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:White_Russian_emigrants_to_China,Object,112,3.709636688232422,7
+http://dbpedia.org/resource/James_Tien_(politician),http://xmlns.com/foaf/0.1/name,"Tien, James",Object,115,7.411888360977173,12
+http://dbpedia.org/resource/Rupert_De_la_Bère,http://dbpedia.org/property/years,1950,Predicate;Object,116,14.29993748664856,12
+http://dbpedia.org/resource/Rupert_De_la_Bère,http://dbpedia.org/property/years,1952,Predicate;Object,116,14.29993748664856,12
+http://dbpedia.org/resource/Alexander_Holle,http://dbpedia.org/property/years,--09-26,Predicate;Object,124,75.15046167373657,12
+http://dbpedia.org/resource/Alexander_Holle,http://dbpedia.org/property/battles,http://dbpedia.org/resource/Operation_Flax,Predicate;Object,124,75.15046167373657,12
+http://dbpedia.org/resource/Inzamam-ul-Haq,http://dbpedia.org/property/matches,245,Object,125,5.141579627990723,12
+http://dbpedia.org/resource/Inzamam-ul-Haq,http://dbpedia.org/property/bowlAvg,21.33,Predicate;Object,125,5.141579627990723,12
+http://dbpedia.org/resource/The_Call_of_the_Savage,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Serial,Predicate,126,8.683197736740112,12
+http://dbpedia.org/resource/Robert_Vinçotte,http://xmlns.com/foaf/0.1/name,Robert Vincotte,Object,127,4.965292453765869,12
+http://dbpedia.org/resource/Robert_Vinçotte,http://xmlns.com/foaf/0.1/name,"Vincotte, Robert",Object,127,4.965292453765869,12
+http://dbpedia.org/resource/Barry_Davis_(footballer),http://dbpedia.org/property/heightweight,185,Predicate;Object,129,8.14949631690979,12
+http://dbpedia.org/resource/Barry_Davis_(footballer),http://dbpedia.org/property/years,1973,Predicate;Object,129,8.14949631690979,12
+http://dbpedia.org/resource/Really_Doe,http://xmlns.com/foaf/0.1/name,"Doe, Really",Object,132,4.330232381820679,13
+http://dbpedia.org/resource/Sarah_Kennedy,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/West_Sussex,Object,133,5.285732269287109,13
+http://dbpedia.org/resource/Charles_de_Gaulle,http://dbpedia.org/ontology/predecessor,http://dbpedia.org/resource/André_Mutter,Object,134,10.946527481079102,13
+http://dbpedia.org/resource/Edward_Kolb,http://dbpedia.org/property/prizes,Oersted Medal,Object,136,3.104378223419189,13
+http://dbpedia.org/resource/Ken_Gatward,http://dbpedia.org/ontology/battle,http://dbpedia.org/resource/Battle_of_France,Object,137,8.440793514251709,13
+http://dbpedia.org/resource/Ken_Gatward,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:People_from_Frinton-on-Sea,Object,137,8.440793514251709,13
+http://dbpedia.org/resource/Michael_Caine,http://xmlns.com/foaf/0.1/name,"Caine, Michael",Object,138,4.262401819229126,13
+http://dbpedia.org/resource/Michael_Caine,http://xmlns.com/foaf/0.1/name,CBE,Predicate,138,4.262401819229126,13
+http://dbpedia.org/resource/Bryan_Forbes,http://dbpedia.org/property/children,Sarah Standing,Predicate,140,5.352026700973511,13
+http://dbpedia.org/resource/Bryan_Forbes,http://dbpedia.org/property/spouse,2013,Object,140,5.352026700973511,13
+http://dbpedia.org/resource/Joaquin_Phoenix,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_people_of_French_descent,Object,141,10.390180587768556,13
+http://dbpedia.org/resource/Joaquin_Phoenix,http://dbpedia.org/property/title,Awards for Joaquin Phoenix,Predicate;Object,141,10.390180587768556,13
+http://dbpedia.org/resource/Joaquin_Phoenix,http://dbpedia.org/ontology/alias,"Phoenix, Joaquin",Object,141,10.390180587768556,13
+http://dbpedia.org/resource/Robert_Musil,http://dbpedia.org/property/influences,http://dbpedia.org/resource/Ralph_Waldo_Emerson,Object,144,7.204164743423462,14
+http://dbpedia.org/resource/Robert_Musil,http://dbpedia.org/property/influences,http://dbpedia.org/resource/Fyodor_Dostoyevsky,Predicate,144,7.204164743423462,14
+http://dbpedia.org/resource/Robert_Musil,http://dbpedia.org/property/influences,http://dbpedia.org/resource/Friedrich_Nietzsche,Predicate,144,7.204164743423462,14
+http://dbpedia.org/resource/Clove_Furnace_Ruin,http://dbpedia.org/ontology/nearestCity,"http://dbpedia.org/resource/Newburgh_(city),_New_York",Object,145,15.96737504005432,14
+http://dbpedia.org/resource/Hans_Waldmann_(fighter_pilot),http://dbpedia.org/property/serviceyears,1940,Predicate,147,3.015921115875244,14
+http://dbpedia.org/resource/Tina_Turner,http://dbpedia.org/ontology/alias,Anna Mae Turner,Object,149,3.123244285583496,14
+http://dbpedia.org/resource/Thomas_Paine,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Thomas_Edison,Object,151,3.2417945861816406,14
+http://dbpedia.org/resource/Ron_Shamir,http://dbpedia.org/ontology/doctoralStudent,http://gatviks.lab.mytau.org/,Object,152,17.553348779678345,14
+http://dbpedia.org/resource/Ron_Shamir,http://dbpedia.org/ontology/doctoralStudent,http://compgenomics.weizmann.ac.il/tanay/,Object,152,17.553348779678345,14
+http://dbpedia.org/resource/Ron_Shamir,http://dbpedia.org/ontology/doctoralAdvisor,http://www.ieor.berkeley.edu/People/Faculty/adler.htm,Object,152,17.553348779678345,14
+http://dbpedia.org/resource/Ron_Shamir,http://dbpedia.org/ontology/doctoralStudent,http://www.engr.uconn.edu/~mukul/,Object,152,17.553348779678345,14
+http://dbpedia.org/resource/Ron_Shamir,http://dbpedia.org/ontology/doctoralStudent,http://reuts4.wix.com/reutshalgi,Object,152,17.553348779678345,14
+http://dbpedia.org/resource/Gnarls_Barkley,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Predicate,153,1.8825922012329104,14
+http://dbpedia.org/resource/Salt-N-Pepa,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Predicate,154,4.377376317977905,14
+http://dbpedia.org/resource/The_Champs,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Predicate,156,2.370771169662476,14
+http://dbpedia.org/resource/Arthur_Schwartz,http://xmlns.com/foaf/0.1/name,"Schwartz, Arthur",Object,158,2.245781898498535,14
+http://dbpedia.org/resource/Goodfellas,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Goodfellas,Predicate;Object,159,7.059963226318359,14
+http://dbpedia.org/resource/Pauline_Collins,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Officers_of_the_Order_of_the_British_Empire,Object,160,3.2728636264801025,14
+http://dbpedia.org/resource/Pauline_Collins,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:People_educated_at_Sacred_Heart_High_School_(London),Object,160,3.2728636264801025,14
+http://dbpedia.org/resource/Carl_Jackson,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Predicate,161,2.016636371612549,14
+http://dbpedia.org/resource/Max_Born,http://dbpedia.org/ontology/doctoralAdvisor,http://dbpedia.org/resource/Carl_David_Tolmé_Runge,Object,162,4.231682777404785,14
+http://dbpedia.org/resource/Max_Born,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Victor_Weisskopf,Object,162,4.231682777404785,14
+"http://dbpedia.org/resource/James_Douglas,_Lord_of_Douglas",http://dbpedia.org/property/name,Sir James Douglas,Object,163,16.556378602981567,14
+"http://dbpedia.org/resource/James_Douglas,_Lord_of_Douglas",http://xmlns.com/foaf/0.1/name,Sir James Douglas,Object,163,16.556378602981567,14
+http://dbpedia.org/resource/Howard_Dietz,http://xmlns.com/foaf/0.1/name,"Dietz, Howard",Object,164,3.40608286857605,14
+http://dbpedia.org/resource/Howard_Dietz,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Predicate,164,3.40608286857605,14
+http://dbpedia.org/resource/Steve_Mantis,http://dbpedia.org/ontology/citizenship,http://dbpedia.org/resource/Canadians,Object,165,2.4820921421051025,14
+http://dbpedia.org/resource/Gene_Hackman,http://xmlns.com/foaf/0.1/name,"Hackman, Gene",Object,167,2.5753488540649414,14
+http://dbpedia.org/resource/Dorothy_Dunnett,http://dbpedia.org/ontology/notableWork,http://dbpedia.org/resource/Johnson_Johnson,Object,168,4.131101846694946,14
+http://dbpedia.org/resource/Ennio_Flaiano,http://dbpedia.org/property/influences,http://dbpedia.org/resource/Vincenzo_Cardarelli,Predicate,170,3.180475950241089,14
+http://dbpedia.org/resource/Ennio_Flaiano,http://dbpedia.org/property/influences,http://dbpedia.org/resource/Leo_Longanesi,Predicate,170,3.180475950241089,14
+http://dbpedia.org/resource/Prince_(musician),http://dbpedia.org/ontology/alias,Prince; Joey Coco (pseudonym); Alexander Nevermind (pseudonym); Paisley Park (pseudonym); Jamie Starr (pseudonym): Christopher (pseudonym),Object,171,5.829081296920776,14
+http://dbpedia.org/resource/Prince_(musician),http://dbpedia.org/property/yearsActive,1976,Object,171,5.829081296920776,14
+http://dbpedia.org/resource/Budapest_Business_School,http://dbpedia.org/property/type,http://dbpedia.org/resource/Public_university,Object,172,3.3961987495422363,14
+http://dbpedia.org/resource/Irving_Gordon,http://xmlns.com/foaf/0.1/name,"Gordon, Irving",Object,173,3.572041273117065,14
+http://dbpedia.org/resource/Mrs._Doubtfire,http://dbpedia.org/ontology/Work/runtime,119.0,Object,178,3.414015293121338,14
+http://dbpedia.org/resource/Irena_Santor,http://xmlns.com/foaf/0.1/name,"Santor, Irena",Object,179,3.2031404972076416,14
+http://dbpedia.org/resource/Frank_E._Petersen,http://xmlns.com/foaf/0.1/name,"Petersen, Frank E.",Object,180,4.034001350402832,14
+http://dbpedia.org/resource/Babyface_(musician),http://xmlns.com/foaf/0.1/name,"Edmonds, Kenneth",Object,185,3.7915642261505127,14
+http://dbpedia.org/resource/Otto_Wallach,http://dbpedia.org/ontology/doctoralAdvisor,http://dbpedia.org/resource/August_Wilhelm_von_Hofmann,Object,186,4.778587102890015,14
+http://dbpedia.org/resource/Otto_Wallach,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Norman_Haworth,Object,186,4.778587102890015,14
+http://dbpedia.org/resource/Otto_Wallach,http://dbpedia.org/ontology/doctoralAdvisor,http://dbpedia.org/resource/Friedrich_Wöhler,Object,186,4.778587102890015,14
+http://dbpedia.org/resource/James_Blunt,http://dbpedia.org/ontology/recordLabel,http://dbpedia.org/resource/Warner_Bros._Records,Object,189,3.2843759059906006,14
+http://dbpedia.org/resource/Robert_Burns_Woodward,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Kendall_Houk,Object,192,2.4809160232543945,14

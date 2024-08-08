@@ -1,0 +1,96 @@
+Subject,Predicate,Object,Error,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/International_Surf_Lifesaving_Association,http://dbpedia.org/property/content,"Huntington Beach, California, USA",Predicate,1,784.4849896430969,10
+http://dbpedia.org/resource/International_Surf_Lifesaving_Association,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Organization,Predicate,1,784.4849896430969,10
+http://dbpedia.org/resource/International_Surf_Lifesaving_Association,http://dbpedia.org/property/heading,Region served,Predicate;Object,1,784.4849896430969,10
+http://dbpedia.org/resource/Chung_Hwa_Middle_School,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/School,Predicate,2,4.068315267562866,10
+http://dbpedia.org/resource/The_Lost_World_of_Mr._Hardy,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Predicate,3,4.799773931503296,10
+http://dbpedia.org/resource/Gina_Torres,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Gina_Torres__1,Object,4,20.396260499954224,10
+http://dbpedia.org/resource/Gina_Torres,http://xmlns.com/foaf/0.1/name,Gina Fernando Torres,Object,4,20.396260499954224,10
+http://dbpedia.org/resource/Newton_Running,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Manufacturer,Predicate,7,2.6674749851226807,10
+http://dbpedia.org/resource/H._H._Asquith,http://dbpedia.org/property/primeminister,http://dbpedia.org/resource/David_Lloyd_George,Predicate,11,5.317691326141357,13
+http://dbpedia.org/resource/The_Sky_Ranger,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_comedy_films,Object,15,11.813265323638916,13
+http://dbpedia.org/resource/Dublin_North_(Dáil_Éireann_constituency),http://dbpedia.org/property/name,http://dbpedia.org/resource/Denis_Cullen,Predicate;Object,17,31.731377840042114,14
+http://dbpedia.org/resource/Dublin_North_(Dáil_Éireann_constituency),http://dbpedia.org/property/name,http://dbpedia.org/resource/Kathleen_Clarke,Predicate;Object,17,31.731377840042114,14
+http://dbpedia.org/resource/Dublin_North_(Dáil_Éireann_constituency),http://dbpedia.org/property/name,http://dbpedia.org/resource/Alan_Farrell,Predicate;Object,17,31.731377840042114,14
+http://dbpedia.org/resource/Dublin_North_(Dáil_Éireann_constituency),http://dbpedia.org/property/name,http://dbpedia.org/resource/William_Hewat,Predicate;Object,17,31.731377840042114,14
+http://dbpedia.org/resource/Little_Red_Riding_Hood's_Zombie_BBQ,http://xmlns.com/foaf/0.1/homepage,http://www.gammickentertainment.com/zombie,Object,21,11.883399724960327,14
+http://dbpedia.org/resource/Bunker_Bean,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Predicate,23,2.875215530395508,14
+http://dbpedia.org/resource/John_Richardson_(drummer),http://dbpedia.org/ontology/associatedBand,http://dbpedia.org/resource/Tommy_Keene,Predicate,25,3.607287883758545,15
+http://dbpedia.org/resource/John_Richardson_(drummer),http://dbpedia.org/ontology/associatedBand,http://dbpedia.org/resource/Adam_Schmitt,Predicate,25,3.607287883758545,15
+http://dbpedia.org/resource/Westminster_School,http://dbpedia.org/ontology/foundedBy,http://dbpedia.org/resource/Henry_VIII_of_England,Object,26,15.400852918624878,15
+http://dbpedia.org/resource/Southwest_Airlines,http://dbpedia.org/property/frequentFlyer,http://dbpedia.org/resource/Southwest_Airlines,Predicate,28,5.009548187255859,15
+http://dbpedia.org/resource/MotorStorm,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Game,Predicate,31,4.731063365936279,16
+http://dbpedia.org/resource/Savyasachi_(film),http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Predicate,32,1.890650749206543,16
+http://dbpedia.org/resource/Smart_Personal_Objects_Technology,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Smartphones,Object,33,4.175943374633789,16
+http://dbpedia.org/resource/Pizza_73,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Pizza_73,Predicate,35,11.214736938476562,16
+http://dbpedia.org/resource/Pizza_73,http://dbpedia.org/ontology/abstract,"Pizza 73 is a Canadian restaurant chain that offers a number of different styles of pizza, along with chicken wings. It has been operated by Pizza Pizza since 2007. Toronto-based Pizza Pizza had acquired the restaurant for a total of $CAN70.2 million. There are 89 locations throughout Western Canada, which include the provinces of British Columbia, Alberta, and Saskatchewan. The restaurant's name originates from its original phone number: 473–7373. Founded by David Tougas and Guy Goodwin in 1985, Pizza 73 is headquartered in Edmonton, Alberta, Canada, with Michael Overs serving as the restaurant's chairman.It was the first delivery chain in Western Canada that provided a centralized call center, allowing customers to order their meal by phone; Pizza 73 has allowed orders online by the internet since 1995. The restaurant has been recognized as one of Canada's 50 best managed services, and one of Alberta's 50 fastest growing companies by Alberta Venture. On August 18, 2011, Pizza 73 launched its iPhone application, thus allowing potential customers a new way to order food.",Object,35,11.214736938476562,16
+http://dbpedia.org/resource/Pizza_73,http://dbpedia.org/ontology/numberOfLocations,89,Object,35,11.214736938476562,16
+http://dbpedia.org/resource/Avant_Window_Navigator,http://dbpedia.org/ontology/license,http://dbpedia.org/resource/GNU_Lesser_General_Public_License,Object,36,3.3152825832366943,16
+http://dbpedia.org/resource/Ronneby_Municipality,http://dbpedia.org/property/subdivisionName,Sweden,Object,38,13.814759731292725,16
+http://dbpedia.org/resource/Ronneby_Municipality,http://dbpedia.org/property/areaNote,Area as of .,Predicate;Object,38,13.814759731292725,16
+http://dbpedia.org/resource/Ronneby_Municipality,http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/List_of_sovereign_states,Object,38,13.814759731292725,16
+http://dbpedia.org/resource/The_Penguins_of_Madagascar,http://dbpedia.org/property/starring,*,Object,40,5.331084728240967,16
+http://dbpedia.org/resource/PRTM,http://dbpedia.org/property/homepage,http://www.prtm.com/,Object,43,7.391977071762085,18
+http://dbpedia.org/resource/A_Lowland_Cinderella,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_films,Object,44,4.225842475891113,18
+http://dbpedia.org/resource/IPad_Air,http://dbpedia.org/property/connectivity,http://dbpedia.org/resource/Global_Positioning_System,Predicate,45,8.012673616409302,18
+http://dbpedia.org/resource/IPad_Air,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Computer,Predicate,45,8.012673616409302,18
+http://dbpedia.org/resource/Twitter,http://dbpedia.org/property/revenue,1.4E9,Object,46,4.974256753921509,18
+http://dbpedia.org/resource/Twitter,http://dbpedia.org/property/q,no,Predicate;Object,46,4.974256753921509,18
+http://dbpedia.org/resource/Anti-Scrunti_Faction,http://dbpedia.org/property/currentMembers,Leslie Mah,Predicate,47,10.128904342651367,18
+http://dbpedia.org/resource/Anti-Scrunti_Faction,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1984_establishments_in_Colorado,Object,47,10.128904342651367,18
+http://dbpedia.org/resource/Duke_University,http://dbpedia.org/ontology/facultySize,3398,Object,50,2.975226879119873,18
+http://dbpedia.org/resource/Thunderbolt_and_Lightfoot,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1970s_comedy-drama_films,Object,51,2.8018510341644287,18
+http://dbpedia.org/resource/Le_Fantasque_(newspaper),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Publications_established_in_1837,Object,53,2.830749273300171,20
+http://dbpedia.org/resource/BQ_Aquaris_E4.5_Ubuntu_Edition,http://dbpedia.org/property/os,http://dbpedia.org/resource/Android_(operating_system),Object,54,2.697304964065552,20
+http://dbpedia.org/resource/The_Cossacks_(1961_film),http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Predicate,56,2.34397554397583,20
+http://dbpedia.org/resource/Blue_Ridge_Christian_Academy,http://dbpedia.org/ontology/motto,"""Equipping students to impact the world for Christ""",Object,58,7.9624714851379395,20
+http://dbpedia.org/resource/Blue_Ridge_Christian_Academy,http://dbpedia.org/property/caption,School logo,Predicate;Object,58,7.9624714851379395,20
+http://dbpedia.org/resource/Rentrak,http://dbpedia.org/property/type,http://dbpedia.org/resource/Public_company,Object,59,6.679280757904053,20
+http://dbpedia.org/resource/Rentrak,http://xmlns.com/foaf/0.1/homepage,http://www.rentrak.com/,Object,59,6.679280757904053,20
+http://dbpedia.org/resource/Carpathian_Ruthenia,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Khust,Object,62,3.21626353263855,21
+http://dbpedia.org/resource/Balázs_Szokolay,http://dbpedia.org/property/name,"Szokolay, Balazs",Object,63,2.996987581253052,21
+http://dbpedia.org/resource/Terence_Cole_(jurist),http://dbpedia.org/property/appointer,Michael Jeffery,Object,64,2.325156211853028,21
+http://dbpedia.org/resource/Julia_Cameron,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Writers_from_New_Mexico,Object,68,3.1468827724456787,25
+http://dbpedia.org/resource/Asking_for_Trouble,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Predicate,69,11.31090521812439,25
+http://dbpedia.org/resource/MediaCoder,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Program,Predicate,70,2.36677360534668,25
+http://dbpedia.org/resource/Mota-Engil,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Mota-Engil,Predicate,71,2.402752161026001,25
+http://dbpedia.org/resource/WTWW,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Companies_based_in_Nashville,_Tennessee",Object,73,5.5077736377716064,25
+http://dbpedia.org/resource/WTWW,http://dbpedia.org/ontology/broadcastNetwork,http://dbpedia.org/resource/Scriptures_For_America,Object,73,5.5077736377716064,25
+http://dbpedia.org/resource/Chandidas_Mahavidyalaya,http://dbpedia.org/property/type,Undergraduate college,Object,74,2.130577564239502,25
+http://dbpedia.org/resource/'65_Love_Affair,http://dbpedia.org/ontology/previousWork,http://dbpedia.org/resource/Cool_Night_(song),Predicate,76,5.769800662994385,25
+http://dbpedia.org/resource/'65_Love_Affair,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Synthpop,Object,76,5.769800662994385,25
+http://dbpedia.org/resource/'65_Love_Affair,http://dbpedia.org/ontology/Work/runtime,3.716666666666667,Object,76,5.769800662994385,25
+http://dbpedia.org/resource/Gervaise,http://dbpedia.org/property/runtime,7200.0,Object,77,4.148430585861206,26
+http://dbpedia.org/resource/Hellville_de_Luxe,http://dbpedia.org/property/nosales,yes,Object,78,7.475130558013916,26
+http://dbpedia.org/resource/Hellville_de_Luxe,http://dbpedia.org/property/length,276.0,Object,78,7.475130558013916,26
+http://dbpedia.org/resource/Hellville_de_Luxe,http://dbpedia.org/property/length,249.0,Object,78,7.475130558013916,26
+http://dbpedia.org/resource/Rock_&_Roll_Heart_Attack,http://dbpedia.org/property/title,Big Kiss,Predicate,85,20.884472370147705,26
+http://dbpedia.org/resource/Rock_&_Roll_Heart_Attack,http://dbpedia.org/property/length,300.0,Object,85,20.884472370147705,26
+http://dbpedia.org/resource/Rock_&_Roll_Heart_Attack,http://dbpedia.org/property/writer,"C. Valentine, T. Green",Object,85,20.884472370147705,26
+http://dbpedia.org/resource/Rock_&_Roll_Heart_Attack,http://dbpedia.org/property/length,243.0,Object,85,20.884472370147705,26
+http://dbpedia.org/resource/Rock_&_Roll_Heart_Attack,http://dbpedia.org/property/label,Magada Records,Object,85,20.884472370147705,26
+"http://dbpedia.org/resource/Atlas_Mill,_Ashton-under-Lyne",http://dbpedia.org/property/mapType,Greater Manchester,Predicate,88,4.109144449234009,27
+"http://dbpedia.org/resource/Atlas_Mill,_Ashton-under-Lyne",http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Mill,Predicate,88,4.109144449234009,27
+http://dbpedia.org/resource/Haitham_Zein,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Lebanon,Object,89,3.769911050796509,27
+http://dbpedia.org/resource/University_of_Helmstedt,http://www.w3.org/2003/01/geo/wgs84_pos#long,11.0086,Object,91,6.731971025466919,27
+http://dbpedia.org/resource/University_of_Helmstedt,http://www.georss.org/georss/point,52.229166666666664 11.008611111111112,Object,91,6.731971025466919,27
+http://dbpedia.org/resource/Saiyuki_(manga),http://dbpedia.org/property/last,2011-11-25,Object,95,7.15402102470398,27
+http://dbpedia.org/resource/Saiyuki_(manga),http://dbpedia.org/property/title,Saiyuki Gaiden,Object,95,7.15402102470398,27
+http://dbpedia.org/resource/Saiyuki_(manga),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Programs_acquired_by_GMA_Network,Object,95,7.15402102470398,27
+http://dbpedia.org/resource/Saiyuki_(manga),http://dbpedia.org/ontology/numberOfVolumes,10,Object,95,7.15402102470398,27
+http://dbpedia.org/resource/The_Geneva_School,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/School,Predicate,98,3.356207847595215,29
+http://dbpedia.org/resource/Sydney_Pollack,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Male_actors_from_Los_Angeles,_California",Object,99,6.440229415893555,29
+http://dbpedia.org/resource/Sydney_Pollack,http://dbpedia.org/property/caption,Pollack in 2006,Predicate;Object,99,6.440229415893555,29
+http://dbpedia.org/resource/Harold_Wilson,http://dbpedia.org/property/rows,3,Object,100,11.802805423736572,29
+http://dbpedia.org/resource/Harold_Wilson,http://dbpedia.org/ontology/termPeriod,http://dbpedia.org/resource/Harold_Wilson__9,Object,100,11.802805423736572,29
+http://dbpedia.org/resource/Westfield_Middle_School,http://dbpedia.org/property/postcode,MK40 4HW,Object,101,2.4643213748931885,29
+http://dbpedia.org/resource/Windows_Server_2003,http://dbpedia.org/property/license,http://dbpedia.org/resource/Proprietary_software,Object,102,8.582433700561523,29
+http://dbpedia.org/resource/Windows_Server_2003,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Windows_Server_2003,Predicate,102,8.582433700561523,29
+http://dbpedia.org/resource/Windows_Server_2003,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Server,Predicate,102,8.582433700561523,29
+http://dbpedia.org/resource/Ian_Bruce_Ferguson,http://dbpedia.org/property/serviceyears,1939,Object,104,7.815234422683716,29
+http://dbpedia.org/resource/Ian_Bruce_Ferguson,http://xmlns.com/foaf/0.1/name,Ian Ferguson,Object,104,7.815234422683716,29
+http://dbpedia.org/resource/Ian_Bruce_Ferguson,http://xmlns.com/foaf/0.1/name,"Ferguson, Ian",Object,104,7.815234422683716,29
+http://dbpedia.org/resource/International_Standard_Serial_Number,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Serial_numbers,Predicate,106,26.301963329315186,29
+http://dbpedia.org/resource/ALGOL_58,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Fortran,Object,107,7.947348594665527,29
+http://dbpedia.org/resource/ALGOL_58,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Plankalkül,Object,107,7.947348594665527,29
+http://dbpedia.org/resource/Mickey_Walls,http://dbpedia.org/ontology/raceHorse,http://dbpedia.org/resource/Prospective_Dolly,Object,108,2.7434535026550293,29

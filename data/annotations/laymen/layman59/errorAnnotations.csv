@@ -1,0 +1,169 @@
+Subject,Predicate,Object,Error,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/Nikkor,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Nikon,Predicate,1,2.889329671859741,4
+http://dbpedia.org/resource/Pancham_(TV_series),http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Pancham_(TV_series),Object,2,11.80811333656311,4
+http://dbpedia.org/resource/Antoine_Augustin_Cournot,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Haute-Saône,Object,3,3.481126308441162,4
+http://dbpedia.org/resource/1995–96_Liverpool_F.C._season,http://dbpedia.org/property/team,http://dbpedia.org/resource/Arsenal_F.C.,Object,4,4.49483585357666,4
+http://dbpedia.org/resource/1995–96_Liverpool_F.C._season,http://dbpedia.org/property/team,http://dbpedia.org/resource/Chelsea_F.C.,Object,4,4.49483585357666,4
+http://dbpedia.org/resource/1995–96_Liverpool_F.C._season,http://dbpedia.org/property/team,http://dbpedia.org/resource/West_Ham_United_F.C.,Object,4,4.49483585357666,4
+http://dbpedia.org/resource/1995–96_Liverpool_F.C._season,http://dbpedia.org/property/team,http://dbpedia.org/resource/Aston_Villa_F.C.,Object,4,4.49483585357666,4
+http://dbpedia.org/resource/Today!_(Mississippi_John_Hurt_album),http://dbpedia.org/property/label,http://dbpedia.org/resource/Vanguard_Records,Object,7,2.356289386749268,4
+http://dbpedia.org/resource/Piet_Lindeque,http://dbpedia.org/ontology/school,http://dbpedia.org/resource/Bloemfontein,Object,10,2.081834077835083,4
+http://dbpedia.org/resource/Spanish_conquest_of_Chiapas,http://dbpedia.org/property/1p,78,Predicate;Object,11,12.501631498336792,4
+http://dbpedia.org/resource/Spanish_conquest_of_Chiapas,http://dbpedia.org/property/2y,1997,Predicate;Object,11,12.501631498336792,4
+http://dbpedia.org/resource/Spanish_conquest_of_Chiapas,http://dbpedia.org/property/2a,Gómez Coutiño,Predicate;Object,11,12.501631498336792,4
+http://dbpedia.org/resource/Spanish_conquest_of_Chiapas,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Spanish_conquest_of_Chiapas,Predicate;Object,11,12.501631498336792,4
+http://dbpedia.org/resource/Spanish_conquest_of_Chiapas,http://dbpedia.org/property/1p,75,Predicate;Object,11,12.501631498336792,4
+http://dbpedia.org/resource/Of_All_Things_I_Will_Soon_Grow_Tired,http://dbpedia.org/property/genre,http://dbpedia.org/resource/Emo,Object,12,2.572262048721313,4
+http://dbpedia.org/resource/Of_All_Things_I_Will_Soon_Grow_Tired,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Emo,Object,12,2.572262048721313,4
+http://dbpedia.org/resource/Sentrigo,http://dbpedia.org/property/industry,http://dbpedia.org/resource/Software,Object,13,5.593804836273193,4
+http://dbpedia.org/resource/Sentrigo,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/United_States,Object,13,5.593804836273193,4
+http://dbpedia.org/resource/Atari_7800,http://dbpedia.org/property/releaseDate,EU: 1987,Object,15,28.26734471321106,4
+http://dbpedia.org/resource/Atari_7800,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Products_introduced_in_1984,Object,15,28.26734471321106,4
+http://dbpedia.org/resource/WXEI-LP,http://dbpedia.org/property/erp,100,Predicate;Object,16,23.2155499458313,5
+http://dbpedia.org/resource/WXEI-LP,http://dbpedia.org/ontology/city,http://dbpedia.org/resource/Florida,Object,16,23.2155499458313,5
+http://dbpedia.org/resource/WXEI-LP,http://dbpedia.org/ontology/webcast,http://wxei.8m.com/,Object,16,23.2155499458313,5
+http://dbpedia.org/resource/David_Thwaites_(flying_ace),http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/David_Thwaites_(flying_ace),Object,18,3.1191093921661377,5
+http://dbpedia.org/resource/David_Thwaites_(flying_ace),http://xmlns.com/foaf/0.1/name,David Thwaites,Object,18,3.1191093921661377,5
+http://dbpedia.org/resource/Republic_of_Montenegro_(1992–2006),http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Euro,Object,19,2.6853585243225098,5
+http://dbpedia.org/resource/Republic_of_Montenegro_(1992–2006),http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Yugoslav_dinar,Object,19,2.6853585243225098,5
+http://dbpedia.org/resource/Romuald_the_Reindeer,http://dbpedia.org/property/country,http://dbpedia.org/resource/France,Object,22,2.2118706703186035,5
+http://dbpedia.org/resource/Shamari_Fears,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Object,23,1.216624736785889,5
+http://dbpedia.org/resource/John_Cantwell_(general),http://dbpedia.org/property/battles,http://dbpedia.org/resource/Iraq_War,Predicate,24,1.0131120681762695,5
+http://dbpedia.org/resource/Siege_of_Aintab,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Siege_of_Aintab,Object,26,5.367786884307861,5
+http://dbpedia.org/resource/Siege_of_Aintab,http://dbpedia.org/ontology/strength,Total force:,Object,26,5.367786884307861,5
+http://dbpedia.org/resource/2012–13_Pittsburgh_Penguins_season,http://dbpedia.org/property/birthplace,"http://dbpedia.org/resource/Virginia,_Minnesota",Predicate;Object,28,7.228631973266602,5
+http://dbpedia.org/resource/2012–13_Pittsburgh_Penguins_season,http://dbpedia.org/property/birthplace,http://dbpedia.org/resource/Bromma,Predicate;Object,28,7.228631973266602,5
+http://dbpedia.org/resource/2012–13_Pittsburgh_Penguins_season,http://dbpedia.org/property/birthplace,"http://dbpedia.org/resource/Belleville,_Ontario",Predicate;Object,28,7.228631973266602,5
+http://dbpedia.org/resource/2012–13_Pittsburgh_Penguins_season,http://dbpedia.org/property/birthplace,http://dbpedia.org/resource/Magnitogorsk,Predicate;Object,28,7.228631973266602,5
+http://dbpedia.org/resource/2012–13_Pittsburgh_Penguins_season,http://dbpedia.org/property/birthplace,http://dbpedia.org/resource/St._Louis,Predicate;Object,28,7.228631973266602,5
+http://dbpedia.org/resource/IPad_Air,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Computer,Object,29,5.290090560913086,5
+http://dbpedia.org/resource/Nguyễn_Quốc_Huân,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Vietnam,Object,30,2.474977970123291,5
+http://dbpedia.org/resource/John_Peter_Portelli,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Malta,Object,31,1.7497508525848389,5
+http://dbpedia.org/resource/1994_WCHA_Men's_Ice_Hockey_Tournament,http://dbpedia.org/property/stadium,http://dbpedia.org/resource/Lakeview_Arena,Object,33,2.4852054119110107,5
+http://dbpedia.org/resource/The_Sheep-Pig,http://dbpedia.org/ontology/publicationDate,1983-11-12,Object,34,1.966700553894043,7
+http://dbpedia.org/resource/The_Sheep-Pig,http://dbpedia.org/ontology/numberOfPages,118,Object,34,1.966700553894043,7
+http://dbpedia.org/resource/SonicWall,http://dbpedia.org/property/parent,http://dbpedia.org/resource/Dell,Predicate,35,1.9237477779388428,7
+http://dbpedia.org/resource/Tangren_Media,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Shanghai,Object,37,3.74619460105896,7
+http://dbpedia.org/resource/Častolovice,http://dbpedia.org/property/populationDensity,auto,Object,38,1.3912813663482666,7
+http://dbpedia.org/resource/John_Hennessy_Saul,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/John_Hennessy_Saul,Predicate,39,59.53926348686218,7
+http://dbpedia.org/resource/John_Hennessy_Saul,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_people_of_Anglo-Irish_descent,Object,39,59.53926348686218,7
+http://dbpedia.org/resource/United_States,http://dbpedia.org/property/imageFlag,Flag of the United States.svg,Object,40,9.665987491607666,7
+http://dbpedia.org/resource/United_States,http://dbpedia.org/property/latns,N,Predicate;Object,40,9.665987491607666,7
+http://dbpedia.org/resource/United_States,http://dbpedia.org/property/cctld,http://dbpedia.org/resource/.gov,Object,40,9.665987491607666,7
+http://dbpedia.org/resource/United_States,http://dbpedia.org/property/caption,--09-11,Predicate;Object,40,9.665987491607666,7
+http://dbpedia.org/resource/ZUK_Z1,http://dbpedia.org/property/type,http://dbpedia.org/resource/Phablet,Object,45,1.565201759338379,7
+http://dbpedia.org/resource/Wagon_Master,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-movie-noun-1,Predicate;Object,46,1.9573123455047607,7
+http://dbpedia.org/resource/Slovakia,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Euro_sign,Object,47,1.8288695812225344,7
+http://dbpedia.org/resource/Riola,http://dbpedia.org/property/areaCodeType,http://dbpedia.org/resource/Telephone_numbers_in_Spain,Object,48,7.576977252960205,7
+http://dbpedia.org/resource/Riola,http://dbpedia.org/property/longew,W,Object,48,7.576977252960205,7
+http://dbpedia.org/resource/Riola,http://dbpedia.org/property/longd,0,Object,48,7.576977252960205,7
+http://dbpedia.org/resource/TextDrive,http://xmlns.com/foaf/0.1/homepage,http://www.textdrive.com/,Object,49,3.981391429901123,8
+http://dbpedia.org/resource/Qeyah_Baghi,http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/Bakhsh,Subject;Predicate;Object,51,16.97036099433899,8
+http://dbpedia.org/resource/Qeyah_Baghi,http://dbpedia.org/property/subdivisionName,http://dbpedia.org/resource/Hamadan_Province,Subject;Predicate;Object,51,16.97036099433899,8
+http://dbpedia.org/resource/Qeyah_Baghi,http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/List_of_countries,Subject;Predicate;Object,51,16.97036099433899,8
+http://dbpedia.org/resource/Qeyah_Baghi,http://dbpedia.org/property/populationDensityKm,auto,Subject;Predicate;Object,51,16.97036099433899,8
+http://dbpedia.org/resource/Qeyah_Baghi,http://dbpedia.org/property/subdivisionName,http://dbpedia.org/resource/Central_District_(Famenin_County),Subject;Predicate;Object,51,16.97036099433899,8
+http://dbpedia.org/resource/UD_Melilla,http://dbpedia.org/property/clubname,Melilla,Object,54,9.441189765930176,8
+http://dbpedia.org/resource/UD_Melilla,http://dbpedia.org/property/body,FF0011,Predicate;Object,54,9.441189765930176,8
+http://dbpedia.org/resource/UD_Melilla,http://dbpedia.org/property/position,2,Predicate;Object,54,9.441189765930176,8
+http://dbpedia.org/resource/UD_Melilla,http://dbpedia.org/ontology/ground,http://dbpedia.org/resource/Estadio_Municipal_Álvarez_Claro,Predicate,54,9.441189765930176,8
+http://dbpedia.org/resource/UD_Melilla,http://dbpedia.org/property/name,http://dbpedia.org/resource/Ricardo_Segura_Martínez,Predicate,54,9.441189765930176,8
+http://dbpedia.org/resource/Battle_of_Quingua,http://dbpedia.org/ontology/place,http://dbpedia.org/resource/Bulacan,Object,56,8.390437841415405,8
+http://dbpedia.org/resource/Battle_of_Quingua,http://dbpedia.org/property/strength,700,Predicate;Object,56,8.390437841415405,8
+http://dbpedia.org/resource/Battle_of_Quingua,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1,Object,56,8.390437841415405,8
+http://dbpedia.org/resource/Arizona_Territory,http://dbpedia.org/ontology/capital,"http://dbpedia.org/resource/Prescott,_Arizona",Predicate,59,9.18137788772583,8
+http://dbpedia.org/resource/Arizona_Territory,http://dbpedia.org/ontology/capital,"http://dbpedia.org/resource/Tucson,_Arizona",Predicate,59,9.18137788772583,8
+http://dbpedia.org/resource/Arizona_Territory,http://dbpedia.org/ontology/capital,"http://dbpedia.org/resource/Fort_Whipple,_Arizona",Predicate,59,9.18137788772583,8
+http://dbpedia.org/resource/Carl_Stumpf,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Bernard_Bolzano,Object,61,1.3505370616912842,8
+http://dbpedia.org/resource/Karl_Marx,http://dbpedia.org/property/b,Sociological Theory/Karl Marx,Predicate,65,4.721558809280396,8
+http://dbpedia.org/resource/Karl_Marx,http://dbpedia.org/property/deathPlace,http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland,Object,65,4.721558809280396,8
+http://dbpedia.org/resource/Robert_Simpson_Woodward,http://xmlns.com/foaf/0.1/name,"Woodward, Robert Simpson",Object,66,4.282829284667969,10
+http://dbpedia.org/resource/Conjure_One_(album),http://dbpedia.org/property/label,http://dbpedia.org/resource/Nettwerk,Predicate,70,1.7020213603973389,10
+http://dbpedia.org/resource/Dale_Brown,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Writers_from_New_York,Object,71,6.095450162887573,10
+http://dbpedia.org/resource/A_Price_Above_Rubies,http://dbpedia.org/property/released,August 1999,Object,73,4.585384845733643,10
+http://dbpedia.org/resource/Silapathar,http://dbpedia.org/property/lats,43,Object,74,4.550532102584839,10
+http://dbpedia.org/resource/Silapathar,http://dbpedia.org/property/longd,94,Object,74,4.550532102584839,10
+http://dbpedia.org/resource/Silapathar,http://www.georss.org/georss/point,27.595277777777778 94.72,Object,74,4.550532102584839,10
+http://dbpedia.org/resource/Silapathar,http://dbpedia.org/property/areaCode,"+91, 03753",Object,74,4.550532102584839,10
+http://dbpedia.org/resource/Battle_of_the_Espero_Convoy,http://dbpedia.org/property/strength,3,Object,76,1.7708871364593506,10
+http://dbpedia.org/resource/Varāhamihira,http://dbpedia.org/ontology/notableWork,http://dbpedia.org/resource/Varāhamihira,Object,77,1.7215373516082764,10
+http://dbpedia.org/resource/Adobe_Persuasion,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Adobe_Persuasion,Object,78,2.613292932510376,10
+http://dbpedia.org/resource/Bonerama,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Object,79,1.4223449230194092,10
+http://dbpedia.org/resource/Sørum,http://dbpedia.org/property/capital,http://dbpedia.org/resource/Sørumsand,Predicate;Object,81,2.3840034008026123,10
+http://dbpedia.org/resource/Music_of_Final_Fantasy_XIII,http://dbpedia.org/property/length,276.0,Object,82,4.56435227394104,10
+http://dbpedia.org/resource/Music_of_Final_Fantasy_XIII,http://dbpedia.org/property/extra,撃墜,Object,82,4.56435227394104,10
+http://dbpedia.org/resource/Music_of_Final_Fantasy_XIII,http://dbpedia.org/property/extra,決意,Object,82,4.56435227394104,10
+http://dbpedia.org/resource/International_Standard_Serial_Number,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Checksum_algorithms,Object,84,14.47173261642456,10
+http://dbpedia.org/resource/Auja_al-Hafir,http://dbpedia.org/property/district,br,Object,85,4.819106578826904,10
+http://dbpedia.org/resource/Auja_al-Hafir,http://dbpedia.org/property/cause,M,Object,85,4.819106578826904,10
+http://dbpedia.org/resource/Auja_al-Hafir,http://dbpedia.org/property/longm,23,Object,85,4.819106578826904,10
+http://dbpedia.org/resource/David_Mordaunt,http://dbpedia.org/property/fivefor,–,Predicate;Object,88,12.723641872406006,10
+http://dbpedia.org/resource/David_Mordaunt,http://dbpedia.org/property/year,1964,Object,88,12.723641872406006,10
+http://dbpedia.org/resource/David_Mordaunt,http://dbpedia.org/property/matches,4,Object,88,12.723641872406006,10
+http://dbpedia.org/resource/Denmark,http://dbpedia.org/ontology/leader,http://dbpedia.org/resource/Margrethe_II_of_Denmark,Predicate,90,13.983204126358032,15
+http://dbpedia.org/resource/Amr_Kashmiri,http://dbpedia.org/property/name,Amr Kahmiri,Object,91,8.942637920379639,15
+http://dbpedia.org/resource/Amr_Kashmiri,http://dbpedia.org/ontology/nationality,http://dbpedia.org/resource/Pakistanis,Object,91,8.942637920379639,15
+http://dbpedia.org/resource/Amr_Kashmiri,http://dbpedia.org/ontology/birthName,Amr Kahmiri,Object,91,8.942637920379639,15
+http://dbpedia.org/resource/Amr_Kashmiri,http://xmlns.com/foaf/0.1/name,Amr Kahmiri,Object,91,8.942637920379639,15
+http://dbpedia.org/resource/Windows_Server_2003,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Windows_Server_2003,Object,93,5.89993953704834,15
+http://dbpedia.org/resource/Windows_Server_2003,http://dbpedia.org/property/releaseUrl,http://blogs.technet.com/windowsserver/archive/2007/03/13/sp2-goes-live.aspx,Object,93,5.89993953704834,15
+http://dbpedia.org/resource/Roy_Webb,http://xmlns.com/foaf/0.1/name,"Webb, Roy",Object,94,4.648366451263428,15
+http://dbpedia.org/resource/Yosi_Piamenta,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/United_States,Predicate,100,5.126467943191528,15
+http://dbpedia.org/resource/Yosi_Piamenta,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Israel,Predicate,100,5.126467943191528,15
+http://dbpedia.org/resource/Servis,http://dbpedia.org/ontology/location,"http://dbpedia.org/resource/Windsor,_Berkshire",Object,102,1.9376087188720703,15
+http://dbpedia.org/resource/Servis,http://dbpedia.org/property/location,"http://dbpedia.org/resource/Windsor,_Berkshire",Object,102,1.9376087188720703,15
+http://dbpedia.org/resource/Stephen_Low,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Film_directors_from_Montreal,Object,104,1.781646490097046,15
+http://dbpedia.org/resource/Maxime_de_Zeeuw,http://dbpedia.org/property/years,2011,Predicate;Object,106,7.079312086105347,15
+http://dbpedia.org/resource/Maxime_de_Zeeuw,http://dbpedia.org/property/spg,0.7,Predicate;Object,106,7.079312086105347,15
+http://dbpedia.org/resource/Maxime_de_Zeeuw,http://dbpedia.org/property/gp,23,Predicate;Object,106,7.079312086105347,15
+http://dbpedia.org/resource/Gianfranco_Giachetti,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Tuscany,Object,108,1.1878774166107178,15
+http://dbpedia.org/resource/Rome2rio,http://xmlns.com/foaf/0.1/homepage,http://www.rome2rio.com/,Object,109,2.548095226287842,15
+http://dbpedia.org/resource/Rome2rio,http://dbpedia.org/property/foundation,2010,Object,109,2.548095226287842,15
+http://dbpedia.org/resource/2012_Iran_Futsal's_2nd_Division,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/2012_Iran_Futsal's_2nd_Division,Object,110,2.344447612762451,15
+http://dbpedia.org/resource/Victoria_Marchenkova,http://dbpedia.org/ontology/movement,http://dbpedia.org/resource/Young_Clever,Object,111,4.5570995807647705,15
+http://dbpedia.org/resource/Preaortic_lymph_node,http://dbpedia.org/property/caption,Left Lumbar Lymph Nodes,Predicate;Object,113,10.249255895614624,15
+http://dbpedia.org/resource/Preaortic_lymph_node,http://dbpedia.org/property/caption,The parietal lymph glands of the pelvis.,Predicate;Object,113,10.249255895614624,15
+http://dbpedia.org/resource/Preaortic_lymph_node,http://dbpedia.org/property/caption,1,Predicate;Object,113,10.249255895614624,15
+http://dbpedia.org/resource/Casper_and_the_Angels,http://dbpedia.org/property/title,Prehistoric Hi-Jinx / The Commander Is Missing,Object,114,5.741803169250488,15
+http://dbpedia.org/resource/Casper_and_the_Angels,http://dbpedia.org/property/episodenumber,7,Object,114,5.741803169250488,15
+http://dbpedia.org/resource/Casper_and_the_Angels,http://dbpedia.org/property/title,A Pocket Full O'Schemes / A Tale of Two Trashmen,Object,114,5.741803169250488,15
+http://dbpedia.org/resource/Catarrhal_Noise,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/Italy,Predicate,115,5.1519856452941895,15
+http://dbpedia.org/resource/Avant_Window_Navigator,http://dbpedia.org/ontology/license,http://dbpedia.org/resource/Creative_Commons_license,Object,118,1.799569845199585,15
+http://dbpedia.org/resource/Avant_Window_Navigator,http://dbpedia.org/ontology/license,http://dbpedia.org/resource/GNU_Lesser_General_Public_License,Object,118,1.799569845199585,15
+http://dbpedia.org/resource/SiteGround,http://dbpedia.org/property/logo,http://dbpedia.org/resource/File:SiteGround.Com_Inc._Logo.png,Object,119,14.491236925125122,15
+http://dbpedia.org/resource/SiteGround,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/SiteGround,Predicate,119,14.491236925125122,15
+http://dbpedia.org/resource/Love_Crime,http://dbpedia.org/property/runtime,6360.0,Object,122,1.2817533016204834,15
+http://dbpedia.org/resource/Vasa_IFK,http://dbpedia.org/property/name,Artur Lemanowicz,Predicate,134,5.557856321334839,20
+http://dbpedia.org/resource/Vasa_IFK,http://dbpedia.org/property/no,21,Predicate;Object,134,5.557856321334839,20
+http://dbpedia.org/resource/Vasa_IFK,http://dbpedia.org/property/no,2,Predicate;Object,134,5.557856321334839,20
+http://dbpedia.org/resource/Çağlar_Birinci,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Turkey_national_football_team,Predicate,135,6.652817726135254,20
+http://dbpedia.org/resource/Çağlar_Birinci,http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Çağlar_Birinci__7,Predicate;Object,135,6.652817726135254,20
+http://dbpedia.org/resource/Çağlar_Birinci,http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Çağlar_Birinci__12,Predicate;Object,135,6.652817726135254,20
+http://dbpedia.org/resource/Çağlar_Birinci,http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Çağlar_Birinci__6,Predicate;Object,135,6.652817726135254,20
+http://dbpedia.org/resource/Contao,http://dbpedia.org/ontology/language,http://dbpedia.org/resource/German_language,Predicate;Object,137,7.313674211502075,20
+http://dbpedia.org/resource/O.G.C.,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Predicate,138,0.9086947441101074,20
+http://dbpedia.org/resource/Naoum_Aronson,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Naoum_Aronson__1,Predicate;Object,139,3.84489369392395,20
+http://dbpedia.org/resource/Naoum_Aronson,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Naoum_Aronson,Object,139,3.84489369392395,20
+http://dbpedia.org/resource/Kenji_Fujimori,http://xmlns.com/foaf/0.1/homepage,http://www.kenjifujimori.com.pe/,Predicate;Object,141,2.7889516353607178,20
+http://dbpedia.org/resource/West_of_Scotland_F.C.,http://dbpedia.org/property/patternSo,_hoops_red,Predicate;Object,143,6.09870195388794,20
+http://dbpedia.org/resource/West_of_Scotland_F.C.,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/West_of_Scotland_F.C.,Object,143,6.09870195388794,20
+http://dbpedia.org/resource/West_of_Scotland_F.C.,http://xmlns.com/foaf/0.1/homepage,http://www.westofscotlandfc.co.uk/,Object,143,6.09870195388794,20
+http://dbpedia.org/resource/Corrupt_Absolute,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Predicate,144,1.195946216583252,20
+http://dbpedia.org/resource/Jean-Louis_Verdier,http://dbpedia.org/ontology/deathYear,1989,Object,145,1.6996338367462158,20
+http://dbpedia.org/resource/Barry_Gibbs,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Saskatchewan,Object,147,4.82910680770874,20
+http://dbpedia.org/resource/St._Louis_Blues,http://dbpedia.org/property/divisionTitles,9,Predicate,148,14.858422994613647,20
+http://dbpedia.org/resource/St._Louis_Blues,http://dbpedia.org/property/textColor,#000000,Predicate,148,14.858422994613647,20
+http://dbpedia.org/resource/Matt_McColm,http://xmlns.com/foaf/0.1/name,"McColm, Matt",Object,150,1.5649588108062744,20
+http://dbpedia.org/resource/Robert_Ford_(poet),http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Ontario,Object,151,1.477447509765625,20
+http://dbpedia.org/resource/General_paresis_of_the_insane,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Sexually_transmitted_diseases_and_infections,Object,153,3.394597291946411,20
+http://dbpedia.org/resource/General_paresis_of_the_insane,http://dbpedia.org/property/icd,A52.1,Predicate;Object,153,3.394597291946411,20
+http://dbpedia.org/resource/Britannia_Industries,http://dbpedia.org/ontology/internationally,1,Predicate;Object,155,4.1039206981658936,20
+http://dbpedia.org/resource/Britannia_Industries,http://dbpedia.org/property/intl,yes,Predicate;Object,155,4.1039206981658936,20
+http://dbpedia.org/resource/International_Surf_Lifesaving_Association,http://dbpedia.org/property/name,Articles for creation/International Surf Lifesaving Association,Object,156,5.649022579193115,20
+http://dbpedia.org/resource/International_Surf_Lifesaving_Association,http://dbpedia.org/property/content,"Huntington Beach, California, USA",Predicate,156,5.649022579193115,20
+http://dbpedia.org/resource/International_Surf_Lifesaving_Association,http://dbpedia.org/property/heading,Region served,Object,156,5.649022579193115,20
+http://dbpedia.org/resource/1953_Dutch_Grand_Prix,http://dbpedia.org/ontology/secondTeam,http://dbpedia.org/resource/Scuderia_Ferrari,Predicate,158,1.160506248474121,20
+http://dbpedia.org/resource/Paessler,http://dbpedia.org/property/homepage,http://www.paessler.com/,Object,160,3.061418294906616,20
+http://dbpedia.org/resource/Josefus,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Predicate,161,1.1473443508148191,20
+http://dbpedia.org/resource/Royal_Netherlands_Air_Force,http://dbpedia.org/property/unitName,Royal Netherlands Air Force,Object,162,9.393827438354492,20
+http://dbpedia.org/resource/Royal_Netherlands_Air_Force,http://dbpedia.org/property/identificationSymbolLabel,Roundel,Object,162,9.393827438354492,20

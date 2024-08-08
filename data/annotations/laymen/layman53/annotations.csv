@@ -1,0 +1,553 @@
+Subject,Predicate,Object,Annotation,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/Grant_Doyle_(baritone),http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Adelaide,Correct,0,63.7640814781189,9
+http://dbpedia.org/resource/James_Donald,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Aberdeen,Correct,1,119.576167345047,9
+http://dbpedia.org/resource/James_Donald,http://dbpedia.org/property/placeOfDeath,http://dbpedia.org/resource/Wiltshire,Correct,1,119.576167345047,9
+http://dbpedia.org/resource/James_Donald,http://dbpedia.org/property/deathPlace,http://dbpedia.org/resource/Wiltshire,Correct,1,119.576167345047,9
+http://dbpedia.org/resource/James_Donald,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Scotland,Correct,1,119.576167345047,9
+http://dbpedia.org/resource/Blue_Ridge_Christian_Academy,http://dbpedia.org/ontology/motto,"""Equipping students to impact the world for Christ""",Incorrect,2,941.8453788757324,9
+http://dbpedia.org/resource/Blue_Ridge_Christian_Academy,http://dbpedia.org/ontology/city,"http://dbpedia.org/resource/Landrum,_South_Carolina",Correct,2,941.8453788757324,9
+http://dbpedia.org/resource/Blue_Ridge_Christian_Academy,http://dbpedia.org/property/caption,School logo,Incorrect,2,941.8453788757324,9
+http://dbpedia.org/resource/Blue_Ridge_Christian_Academy,http://dbpedia.org/property/denomination,Non-denominational,Incorrect,2,941.8453788757324,9
+http://dbpedia.org/resource/Blue_Ridge_Christian_Academy,http://dbpedia.org/property/athletics,"Ladies' Volleyball, Cross Country, Boys' Fall Soccer, Boys' and Girls' Basketball, Boys' and Girls' Spring Soccer",Incorrect,2,941.8453788757324,9
+http://dbpedia.org/resource/Wolf_Prize,http://www.w3.org/2000/01/rdf-schema#label,Wolf Prize,Correct,3,35.901202917099,9
+"http://dbpedia.org/resource/Llano,_Texas",http://dbpedia.org/property/junRecordLowF,38,Incorrect,4,90.90892577171326,9
+"http://dbpedia.org/resource/Llano,_Texas",http://dbpedia.org/property/source,http://dbpedia.org/resource/The_Weather_Channel,Incorrect,4,90.90892577171326,9
+"http://dbpedia.org/resource/Llano,_Texas",http://dbpedia.org/property/sepMeanF,77,Incorrect,4,90.90892577171326,9
+"http://dbpedia.org/resource/Llano,_Texas",http://dbpedia.org/property/octRecordHighF,105,Incorrect,4,90.90892577171326,9
+"http://dbpedia.org/resource/Llano,_Texas",http://dbpedia.org/property/marPrecipitationInch,1.9,Incorrect,4,90.90892577171326,9
+http://dbpedia.org/resource/Rudyard_Kipling,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/John_W._Campbell,I Don't Know,5,344.3607807159424,9
+http://dbpedia.org/resource/Rudyard_Kipling,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Mumbai,Correct,5,344.3607807159424,9
+http://dbpedia.org/resource/Rudyard_Kipling,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/British_Raj,Incorrect,5,344.3607807159424,9
+http://dbpedia.org/resource/Rudyard_Kipling,http://www.w3.org/2000/01/rdf-schema#label,Rudyard Kipling,Correct,5,344.3607807159424,9
+http://dbpedia.org/resource/Rudyard_Kipling,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Bombay_Presidency,Correct,5,344.3607807159424,9
+http://dbpedia.org/resource/Ulrich_von_Wilamowitz-Moellendorff,http://dbpedia.org/ontology/academicAdvisor,http://dbpedia.org/resource/Hermann_Usener,Correct,6,2931.014935493469,9
+http://dbpedia.org/resource/Ulrich_von_Wilamowitz-Moellendorff,http://dbpedia.org/ontology/notableStudent,http://dbpedia.org/resource/Paul_Friedländer_(philologist),Correct,6,2931.014935493469,9
+http://dbpedia.org/resource/Ulrich_von_Wilamowitz-Moellendorff,http://dbpedia.org/ontology/notableStudent,http://dbpedia.org/resource/Johannes_Geffcken,I Don't Know,6,2931.014935493469,9
+http://dbpedia.org/resource/Ulrich_von_Wilamowitz-Moellendorff,http://dbpedia.org/ontology/notableStudent,http://dbpedia.org/resource/Johannes_Sykutris,I Don't Know,6,2931.014935493469,9
+http://dbpedia.org/resource/Ulrich_von_Wilamowitz-Moellendorff,http://dbpedia.org/ontology/notableStudent,http://dbpedia.org/resource/Werner_Jaeger,Correct,6,2931.014935493469,9
+http://dbpedia.org/resource/Truck_Parham,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,7,37.63477087020874,9
+http://dbpedia.org/resource/Georg_Rickhey,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Hildesheim,Correct,8,369.4082598686218,9
+http://dbpedia.org/resource/Battle_of_Saigon_(1968),http://dbpedia.org/ontology/place,http://dbpedia.org/resource/South_Vietnam,Correct,9,143.30111074447632,9
+http://dbpedia.org/resource/Battle_of_Saigon_(1968),http://dbpedia.org/property/place,http://dbpedia.org/resource/South_Vietnam,Correct,9,143.30111074447632,9
+http://dbpedia.org/resource/Tomasz_Budzyński,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Painting,Correct,10,138.96775341033936,9
+http://dbpedia.org/resource/Tomasz_Budzyński,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Tomasz_Budzyński__1,Incorrect,10,138.96775341033936,9
+http://dbpedia.org/resource/Tomasz_Budzyński,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Tomasz_Budzyński,Incorrect,10,138.96775341033936,9
+http://dbpedia.org/resource/Tomasz_Budzyński,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Tarnobrzeg,Correct,10,138.96775341033936,9
+http://dbpedia.org/resource/Tomasz_Budzyński,http://xmlns.com/foaf/0.1/surname,Budzynski,Correct,10,138.96775341033936,9
+http://dbpedia.org/resource/Draga_pri_Šentrupertu,http://dbpedia.org/ontology/areaTotal,2.25e+06,Incorrect,11,444.283349275589,9
+http://dbpedia.org/resource/Draga_pri_Šentrupertu,http://dbpedia.org/property/subdivisionType,Country,Correct,11,444.283349275589,9
+http://dbpedia.org/resource/Draga_pri_Šentrupertu,http://dbpedia.org/property/subdivisionName,http://dbpedia.org/resource/Southeast_Slovenia_Statistical_Region,Correct,11,444.283349275589,9
+http://dbpedia.org/resource/Draga_pri_Šentrupertu,http://dbpedia.org/ontology/isPartOf,http://dbpedia.org/resource/Šentrupert,Incorrect,11,444.283349275589,9
+http://dbpedia.org/resource/Draga_pri_Šentrupertu,http://dbpedia.org/property/latns,N,Incorrect,11,444.283349275589,9
+"http://dbpedia.org/resource/Bahçecik,_Bilecik",http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Populated_places_in_Bilecik_Province,I Don't Know,12,327.7179436683655,9
+"http://dbpedia.org/resource/Bahçecik,_Bilecik",http://dbpedia.org/property/provname,Bilecik,Correct,12,327.7179436683655,9
+"http://dbpedia.org/resource/Bahçecik,_Bilecik",http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Bilecik_District,Correct,12,327.7179436683655,9
+"http://dbpedia.org/resource/Bahçecik,_Bilecik",http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Town,Correct,12,327.7179436683655,9
+"http://dbpedia.org/resource/Bahçecik,_Bilecik",http://dbpedia.org/ontology/abstract,Bahçecik is a town in Bilecik Province in the Marmara region of Turkey.,Correct,12,327.7179436683655,9
+http://dbpedia.org/resource/Razan,http://www.w3.org/2000/01/rdf-schema#label,Razan,Correct,13,17.1058292388916,9
+http://dbpedia.org/resource/Brian_Slagel,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,14,148.71730208396912,9
+http://dbpedia.org/resource/Gervaise,http://dbpedia.org/property/runtime,7200.0,Incorrect,15,361.3855721950531,10
+http://dbpedia.org/resource/Gervaise,http://xmlns.com/foaf/0.1/name,Gervaise,Correct,15,361.3855721950531,10
+http://dbpedia.org/resource/Gervaise,http://dbpedia.org/ontology/writer,http://dbpedia.org/resource/Pierre_Bost,Correct,15,361.3855721950531,10
+http://dbpedia.org/resource/Gervaise,http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Maria_Schell,Correct,15,361.3855721950531,10
+http://dbpedia.org/resource/Gervaise,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Gervaise,Correct,15,361.3855721950531,10
+http://dbpedia.org/resource/WVAH-TV,http://dbpedia.org/property/affiliations,http://dbpedia.org/resource/Fox_Broadcasting_Company,Correct,16,249.88540816307068,10
+http://dbpedia.org/resource/WVAH-TV,http://dbpedia.org/property/location,"http://dbpedia.org/resource/Huntington,_West_Virginia",Incorrect,16,249.88540816307068,10
+http://dbpedia.org/resource/WVAH-TV,http://dbpedia.org/ontology/locationCity,"http://dbpedia.org/resource/Charleston,_West_Virginia",Correct,16,249.88540816307068,10
+http://dbpedia.org/resource/WVAH-TV,http://dbpedia.org/ontology/locationCity,http://dbpedia.org/resource/West_Virginia,Correct,16,249.88540816307068,10
+http://dbpedia.org/resource/WVAH-TV,http://dbpedia.org/ontology/locationCountry,http://dbpedia.org/resource/United_States,Correct,16,249.88540816307068,10
+http://dbpedia.org/resource/PFFR,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,17,104.92676663398744,10
+http://dbpedia.org/resource/Savyon_Liebrecht,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1948_births,Correct,18,157.24310111999512,10
+http://dbpedia.org/resource/Savyon_Liebrecht,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Women_short_story_writers,Correct,18,157.24310111999512,10
+http://dbpedia.org/resource/Savyon_Liebrecht,http://dbpedia.org/ontology/birthYear,1948,Correct,18,157.24310111999512,10
+http://dbpedia.org/resource/Savyon_Liebrecht,http://dbpedia.org/property/shortDescription,Israeli writer,Correct,18,157.24310111999512,10
+http://dbpedia.org/resource/Savyon_Liebrecht,http://dbpedia.org/property/dateOfBirth,1948,Correct,18,157.24310111999512,10
+http://dbpedia.org/resource/Jamal_Jones,http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Washington,_D.C.",Correct,19,220.6501955986023,10
+http://dbpedia.org/resource/Jamal_Jones,http://dbpedia.org/ontology/formerTeam,http://dbpedia.org/resource/Philadelphia_Eagles,Correct,19,220.6501955986023,10
+"http://dbpedia.org/resource/Villa_Rica,_Georgia",http://dbpedia.org/property/imageMap,Carroll_County_Georgia_Incorporated_and_Unincorporated_areas_Villa_Rica_Highlighted.svg,Correct,20,1987.780556678772,10
+"http://dbpedia.org/resource/Villa_Rica,_Georgia",http://dbpedia.org/property/areaWaterKm,0.4,I Don't Know,20,1987.780556678772,10
+"http://dbpedia.org/resource/Villa_Rica,_Georgia",http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Cities_in_Carroll_County,_Georgia",Correct,20,1987.780556678772,10
+"http://dbpedia.org/resource/Villa_Rica,_Georgia",http://dbpedia.org/property/blank1Info,333333,Incorrect,20,1987.780556678772,10
+"http://dbpedia.org/resource/Villa_Rica,_Georgia",http://dbpedia.org/property/imageSeal,VillaRicaSeal.png,Incorrect,20,1987.780556678772,10
+http://dbpedia.org/resource/Croatian_Radiotelevision,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Zgrada_HRT_Zagreb.jpg?width=300,Incorrect,21,464.25552201271057,10
+http://dbpedia.org/resource/Croatian_Radiotelevision,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:European_Broadcasting_Union_members,Correct,21,464.25552201271057,10
+http://dbpedia.org/resource/Croatian_Radiotelevision,http://dbpedia.org/property/website,http://www.hrt.hr/,Incorrect,21,464.25552201271057,10
+http://dbpedia.org/resource/Croatian_Radiotelevision,http://dbpedia.org/property/name,Hrvatska radiotelevizija,Correct,21,464.25552201271057,10
+http://dbpedia.org/resource/Croatian_Radiotelevision,http://dbpedia.org/property/owner,http://dbpedia.org/resource/Croatian_Government,Correct,21,464.25552201271057,10
+http://dbpedia.org/resource/In_the_Name_of_the_Father_(film),http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/In_the_Name_of_the_Father_(film),Incorrect,22,167.54491233825684,10
+http://dbpedia.org/resource/In_the_Name_of_the_Father_(film),http://dbpedia.org/ontology/budget,1.3E7,Incorrect,22,167.54491233825684,10
+http://dbpedia.org/resource/In_the_Name_of_the_Father_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:British_biographical_films,Correct,22,167.54491233825684,10
+http://dbpedia.org/resource/In_the_Name_of_the_Father_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_about_The_Troubles_(Northern_Ireland),Correct,22,167.54491233825684,10
+http://dbpedia.org/resource/In_the_Name_of_the_Father_(film),http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Emma_Thompson,Correct,22,167.54491233825684,10
+http://dbpedia.org/resource/Mashhadi_Barag_Jar,http://dbpedia.org/property/subdivisionName,http://dbpedia.org/resource/Lorestan_Province,Correct,23,38.021997690200806,10
+http://dbpedia.org/resource/Mashhadi_Barag_Jar,http://www.w3.org/2000/01/rdf-schema#label,Mashhadi Barag Jar,Correct,23,38.021997690200806,10
+http://dbpedia.org/resource/Mashhadi_Barag_Jar,http://dbpedia.org/ontology/isPartOf,http://dbpedia.org/resource/Lorestan_Province,Correct,23,38.021997690200806,10
+http://dbpedia.org/resource/Grigoriy_Rechkalov,http://dbpedia.org/property/deathDate,1990-12-20,Correct,24,612.7787511348724,10
+http://dbpedia.org/resource/Grigoriy_Rechkalov,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Grigoriy_Rechkalov,Correct,24,612.7787511348724,10
+http://dbpedia.org/resource/Grigoriy_Rechkalov,http://dbpedia.org/property/placeofburial,"cemetery of settlement Bobrovskiy, Sysertskiy DC",Correct,24,612.7787511348724,10
+http://dbpedia.org/resource/Grigoriy_Rechkalov,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Russian_aviators,Correct,24,612.7787511348724,10
+http://dbpedia.org/resource/Grigoriy_Rechkalov,http://dbpedia.org/property/serviceyears,1938,Correct,24,612.7787511348724,10
+http://dbpedia.org/resource/Don_Davis_(composer),http://dbpedia.org/property/occupation,http://dbpedia.org/resource/Film_composer,Correct,25,120.08137321472168,10
+http://dbpedia.org/resource/Don_Davis_(composer),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Living_people,Correct,25,120.08137321472168,10
+http://dbpedia.org/resource/Don_Davis_(composer),http://dbpedia.org/property/id,204485,Incorrect,25,120.08137321472168,10
+http://dbpedia.org/resource/Don_Davis_(composer),http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Don_Davis_(composer),Correct,25,120.08137321472168,10
+http://dbpedia.org/resource/Don_Davis_(composer),http://dbpedia.org/ontology/birthDate,1957-02-04,Correct,25,120.08137321472168,10
+http://dbpedia.org/resource/Southern_Nigeria_Protectorate,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Lagos,Correct,26,206.98382019996643,10
+http://dbpedia.org/resource/Southern_Nigeria_Protectorate,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/British_West_African_pound,Correct,26,206.98382019996643,10
+http://dbpedia.org/resource/Southern_Nigeria_Protectorate,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Pound_sterling,Correct,26,206.98382019996643,10
+http://dbpedia.org/resource/Christopher_Koch,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Tasmania,Correct,27,172.39701795578003,10
+http://dbpedia.org/resource/Christopher_Koch,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Hobart,Correct,27,172.39701795578003,10
+http://dbpedia.org/resource/Gérard_Debreu,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Jacques_Drèze,Correct,28,321.3975145816803,10
+http://dbpedia.org/resource/Gérard_Debreu,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/École_Normale_Supérieure,Correct,28,321.3975145816803,10
+http://dbpedia.org/resource/Gérard_Debreu,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Stephen_Smale,Correct,28,321.3975145816803,10
+http://dbpedia.org/resource/Gérard_Debreu,http://dbpedia.org/ontology/almaMater,"http://dbpedia.org/resource/University_of_California,_Berkeley",Correct,28,321.3975145816803,10
+http://dbpedia.org/resource/Gérard_Debreu,http://dbpedia.org/ontology/institution,"http://dbpedia.org/resource/University_of_California,_Berkeley",Correct,28,321.3975145816803,10
+http://dbpedia.org/resource/Norfolk_Ridge,http://www.w3.org/2000/01/rdf-schema#label,Norfolk Ridge,Correct,29,5.282574415206909,10
+http://dbpedia.org/resource/Carillon_Historical_Park,http://dbpedia.org/property/name,Deeds Carillon,Correct,30,359.7968945503235,11
+http://dbpedia.org/resource/Carillon_Historical_Park,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Carillon_Historical_Park,Correct,30,359.7968945503235,11
+http://dbpedia.org/resource/Carillon_Historical_Park,http://dbpedia.org/property/longDegrees,84,Incorrect,30,359.7968945503235,11
+http://dbpedia.org/resource/Carillon_Historical_Park,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Historic_house_museums_in_Ohio,Correct,30,359.7968945503235,11
+http://dbpedia.org/resource/Carillon_Historical_Park,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:History_of_Dayton,_Ohio",Correct,30,359.7968945503235,11
+http://dbpedia.org/resource/Inseminoid,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:British_science_fiction_films,Correct,31,399.7812440395355,11
+http://dbpedia.org/resource/Inseminoid,http://dbpedia.org/property/type,Soundtrack,Incorrect,31,399.7812440395355,11
+http://dbpedia.org/resource/Inseminoid,http://dbpedia.org/property/language,English,Correct,31,399.7812440395355,11
+http://dbpedia.org/resource/Inseminoid,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:British_films,Correct,31,399.7812440395355,11
+http://dbpedia.org/resource/Inseminoid,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1980s_science_fiction_horror_films,Correct,31,399.7812440395355,11
+http://dbpedia.org/resource/Hidayat_Orujov,http://xmlns.com/foaf/0.1/name,Hidayat Orujov,Correct,32,563.6996848583221,11
+http://dbpedia.org/resource/Hidayat_Orujov,http://dbpedia.org/ontology/abstract,"Hidayat Khudush oglu Orujov (Azerbaijani: Hidayət Orucov Xuduş oğlu; born September 5, 1944) is a notable writer and an Azerbaijani politician serving as the Chairman of State Committee for Work with Religious Organizations of Azerbaijan Republic.During the Karabakh movement and days leading up to the Sumgait pogrom of Armenians, Orujov threatened the Armenian population of Sumgait to ""break into your houses, torch your apartments, rape your women, and kill your children"".",Correct,32,563.6996848583221,11
+http://dbpedia.org/resource/Hidayat_Orujov,http://xmlns.com/foaf/0.1/name,"Orujov, Hidayat",Correct,32,563.6996848583221,11
+http://dbpedia.org/resource/Hidayat_Orujov,http://xmlns.com/foaf/0.1/name,(Hidayət Orucov),Correct,32,563.6996848583221,11
+http://dbpedia.org/resource/Joshua_Neustein,http://dbpedia.org/ontology/training,http://dbpedia.org/resource/Pratt_Institute,Correct,33,39.63988018035889,11
+http://dbpedia.org/resource/Lithivm,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1998_films,Correct,34,2874.474433660507,11
+http://dbpedia.org/resource/Lithivm,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Swedish_thriller_films,Correct,34,2874.474433660507,11
+http://dbpedia.org/resource/Lithivm,http://dbpedia.org/ontology/abstract,Lithivm (also known as Lithium Europe) is a Swedish horror thriller from 1998 directed by David Flamholc and Swedish voice acting veteran Fredrik Dolk and Johan Widerberg. The title of the film is a stylised spelling of Lithium which is used to treat people with schizophrenia.,Incorrect,34,2874.474433660507,11
+http://dbpedia.org/resource/Lithivm,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Swedish_films,Correct,34,2874.474433660507,11
+http://dbpedia.org/resource/La_Robla,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/Spain,Correct,35,20.5230975151062,11
+http://dbpedia.org/resource/G._E._Moore,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Ludwig_Wittgenstein,Correct,36,490.0925891399384,11
+http://dbpedia.org/resource/G._E._Moore,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Gottlob_Frege,I Don't Know,36,490.0925891399384,11
+http://dbpedia.org/resource/G._E._Moore,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Bertrand_Russell,Correct,36,490.0925891399384,11
+http://dbpedia.org/resource/G._E._Moore,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/J._L._Austin,Correct,36,490.0925891399384,11
+http://dbpedia.org/resource/G._E._Moore,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/John_Maynard_Keynes,Correct,36,490.0925891399384,11
+http://dbpedia.org/resource/WPKN,http://www.georss.org/georss/point,41.279 -73.185,Incorrect,37,286.5053870677948,13
+http://dbpedia.org/resource/WPKN,http://dbpedia.org/property/airdate,1963,Correct,37,286.5053870677948,13
+http://dbpedia.org/resource/WPKN,http://dbpedia.org/property/callsignMeaning,W Purple Knights Network,Correct,37,286.5053870677948,13
+http://dbpedia.org/resource/WPKN,http://dbpedia.org/property/name,WPKN,Correct,37,286.5053870677948,13
+http://dbpedia.org/resource/WPKN,http://xmlns.com/foaf/0.1/name,WPKN,Correct,37,286.5053870677948,13
+http://dbpedia.org/resource/Dr._Who_and_the_Daleks,http://www.w3.org/2000/01/rdf-schema#label,Dr. Who and the Daleks,Correct,38,14.632766008377075,13
+http://dbpedia.org/resource/Arizona_Summit_Law_School,http://dbpedia.org/ontology/facultySize,38,Incorrect,39,142.3910210132599,13
+http://dbpedia.org/resource/Arizona_Summit_Law_School,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Private_university,Correct,39,142.3910210132599,13
+http://dbpedia.org/resource/Arizona_Summit_Law_School,http://dbpedia.org/property/type,http://dbpedia.org/resource/Private_university,Correct,39,142.3910210132599,13
+http://dbpedia.org/resource/Roger_Daltrey,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:British_harmonica_players,Correct,40,580.5221199989319,13
+http://dbpedia.org/resource/Roger_Daltrey,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Atco_Records_artists,Correct,40,580.5221199989319,13
+http://dbpedia.org/resource/Roger_Daltrey,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:20th-century_English_male_actors,Correct,40,580.5221199989319,13
+http://dbpedia.org/resource/Roger_Daltrey,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Polydor_Records_artists,Correct,40,580.5221199989319,13
+http://dbpedia.org/resource/Roger_Daltrey,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English_rock_musicians,Correct,40,580.5221199989319,13
+http://dbpedia.org/resource/The_Secret_of_the_Whistler,http://dbpedia.org/property/country,United States,Correct,41,69.26169204711914,13
+http://dbpedia.org/resource/The_Secret_of_the_Whistler,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_mystery_films,Correct,41,69.26169204711914,13
+http://dbpedia.org/resource/The_Secret_of_the_Whistler,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Film_noir,Correct,41,69.26169204711914,13
+http://dbpedia.org/resource/The_Secret_of_the_Whistler,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1940s_mystery_films,Correct,41,69.26169204711914,13
+http://dbpedia.org/resource/The_Secret_of_the_Whistler,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1946_films,Correct,41,69.26169204711914,13
+http://dbpedia.org/resource/Carlisle_Cathedral,http://dbpedia.org/property/denomination,http://dbpedia.org/resource/Church_of_England,Incorrect,42,785.6399447917938,13
+http://dbpedia.org/resource/Carlisle_Cathedral,http://dbpedia.org/property/fullname,Cathedral Church of the Holy and Undivided Trinity,Incorrect,42,785.6399447917938,13
+http://dbpedia.org/resource/Carlisle_Cathedral,http://dbpedia.org/property/lats,41,Incorrect,42,785.6399447917938,13
+http://dbpedia.org/resource/Carlisle_Cathedral,http://dbpedia.org/property/name,Carlisle Cathedral,Correct,42,785.6399447917938,13
+http://dbpedia.org/resource/Carlisle_Cathedral,http://dbpedia.org/property/width,300,Incorrect,42,785.6399447917938,13
+http://dbpedia.org/resource/Lucy_Angel,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,43,58.93257021903992,13
+http://dbpedia.org/resource/Viewbank_College,http://dbpedia.org/property/country,http://dbpedia.org/resource/Australia,Correct,44,128.78349041938782,13
+http://dbpedia.org/resource/Viewbank_College,http://dbpedia.org/property/staff,95,Incorrect,44,128.78349041938782,13
+http://dbpedia.org/resource/Post-Soviet_transition_in_Ukraine,http://www.w3.org/2000/01/rdf-schema#label,Post-Soviet transition in Ukraine,Correct,45,27.79989981651306,13
+http://dbpedia.org/resource/Post-Soviet_transition_in_Ukraine,http://dbpedia.org/property/capital,http://dbpedia.org/resource/Kiev,Incorrect,45,27.79989981651306,13
+http://dbpedia.org/resource/Archery_at_the_1996_Summer_Olympics_–_Men's_team,http://dbpedia.org/ontology/goldMedalist,http://dbpedia.org/resource/Butch_Johnson,Correct,46,355.08558201789856,13
+http://dbpedia.org/resource/Archery_at_the_1996_Summer_Olympics_–_Men's_team,http://dbpedia.org/ontology/goldMedalist,http://dbpedia.org/resource/Rod_White,Correct,46,355.08558201789856,13
+http://dbpedia.org/resource/Archery_at_the_1996_Summer_Olympics_–_Men's_team,http://dbpedia.org/ontology/games,1996 Summer,Correct,46,355.08558201789856,13
+http://dbpedia.org/resource/Archery_at_the_1996_Summer_Olympics_–_Men's_team,http://dbpedia.org/ontology/goldMedalist,http://dbpedia.org/resource/Justin_Huish,Correct,46,355.08558201789856,13
+http://dbpedia.org/resource/Noshi_Gilani,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Ghazal,Correct,47,173.21462178230286,13
+http://dbpedia.org/resource/Noshi_Gilani,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Free_verse,I Don't Know,47,173.21462178230286,13
+http://dbpedia.org/resource/Noshi_Gilani,http://dbpedia.org/ontology/citizenship,http://dbpedia.org/resource/United_States,Incorrect,47,173.21462178230286,13
+http://dbpedia.org/resource/Noshi_Gilani,http://dbpedia.org/ontology/nationality,http://dbpedia.org/resource/Pakistan,Correct,47,173.21462178230286,13
+http://dbpedia.org/resource/Jim_Henson,http://dbpedia.org/ontology/board,http://dbpedia.org/resource/The_Jim_Henson_Company,Correct,48,20.52412295341492,13
+http://dbpedia.org/resource/Jim_Henson,http://www.w3.org/2000/01/rdf-schema#label,Jim Henson,Correct,48,20.52412295341492,13
+http://dbpedia.org/resource/H._H._Asquith,http://dbpedia.org/ontology/primeMinister,http://dbpedia.org/resource/Bonar_Law,Correct,49,1460.298189163208,17
+http://dbpedia.org/resource/H._H._Asquith,http://dbpedia.org/ontology/primeMinister,http://dbpedia.org/resource/David_Lloyd_George,Correct,49,1460.298189163208,17
+http://dbpedia.org/resource/H._H._Asquith,http://dbpedia.org/property/primeminister,http://dbpedia.org/resource/David_Lloyd_George,Correct,49,1460.298189163208,17
+http://dbpedia.org/resource/H._H._Asquith,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/West_Riding_of_Yorkshire,Correct,49,1460.298189163208,17
+http://dbpedia.org/resource/H._H._Asquith,http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Morley,_West_Yorkshire",Correct,49,1460.298189163208,17
+http://dbpedia.org/resource/Scoop_(2006_film),http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Ian_McShane,Correct,50,186.4596061706543,17
+http://dbpedia.org/resource/Scoop_(2006_film),http://dbpedia.org/property/name,Scoop,Correct,50,186.4596061706543,17
+http://dbpedia.org/resource/Scoop_(2006_film),http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Scarlett_Johansson,Correct,50,186.4596061706543,17
+http://dbpedia.org/resource/Scoop_(2006_film),http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Hugh_Jackman,Correct,50,186.4596061706543,17
+http://dbpedia.org/resource/Scoop_(2006_film),http://dbpedia.org/ontology/budget,4000000.0,Correct,50,186.4596061706543,17
+http://dbpedia.org/resource/Questacon,http://dbpedia.org/property/location,http://dbpedia.org/resource/Australian_Capital_Territory,Correct,51,288.6919384002685,17
+http://dbpedia.org/resource/Questacon,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:National_museums_of_Australia,Correct,51,288.6919384002685,17
+http://dbpedia.org/resource/Questacon,http://dbpedia.org/ontology/numberOfVisitors,407000,Incorrect,51,288.6919384002685,17
+http://dbpedia.org/resource/Questacon,http://xmlns.com/foaf/0.1/homepage,http://www.questacon.edu.au/,Incorrect,51,288.6919384002685,17
+http://dbpedia.org/resource/Questacon,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Questacon,Incorrect,51,288.6919384002685,17
+http://dbpedia.org/resource/Eryue_He,http://dbpedia.org/ontology/nationality,http://dbpedia.org/resource/China,Correct,52,74.83289337158203,17
+http://dbpedia.org/resource/Eryue_He,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Historical_fiction,Correct,52,74.83289337158203,17
+http://dbpedia.org/resource/Laurence_Olivier,http://dbpedia.org/ontology/alias,"Olivier, Laurence Kerr; Olivier, Sir Laurence",Correct,53,384.5081362724304,17
+http://dbpedia.org/resource/Laurence_Olivier,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English_theatre_directors,Correct,53,384.5081362724304,17
+http://dbpedia.org/resource/Laurence_Olivier,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Cecil_B._DeMille_Award_Golden_Globe_winners,Correct,53,384.5081362724304,17
+http://dbpedia.org/resource/Laurence_Olivier,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Best_Supporting_Actor_Golden_Globe_(film)_winners,Correct,53,384.5081362724304,17
+http://dbpedia.org/resource/Laurence_Olivier,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Deaths_from_renal_failure,Incorrect,53,384.5081362724304,17
+http://dbpedia.org/resource/Sri_Lanka,http://dbpedia.org/property/gdpNominalPerCapita,3818.0,I Don't Know,54,412.4669418334961,17
+http://dbpedia.org/resource/Sri_Lanka,http://dbpedia.org/property/populationDensityRank,40,Incorrect,54,412.4669418334961,17
+http://dbpedia.org/resource/Sri_Lanka,http://dbpedia.org/property/latd,6,Incorrect,54,412.4669418334961,17
+http://dbpedia.org/resource/Sri_Lanka,http://dbpedia.org/property/callingCode,http://dbpedia.org/resource/Telephone_numbers_in_Sri_Lanka,Incorrect,54,412.4669418334961,17
+http://dbpedia.org/resource/Sri_Lanka,http://dbpedia.org/property/sovereigntyType,http://dbpedia.org/resource/History_of_Sri_Lanka,Incorrect,54,412.4669418334961,17
+http://dbpedia.org/resource/Sanell_Aggenbach,http://dbpedia.org/ontology/training,http://dbpedia.org/resource/Stellenbosch_University,Correct,55,147.22611737251282,17
+http://dbpedia.org/resource/Charles_Grene_Ellicombe,http://dbpedia.org/property/placeofburial,"http://dbpedia.org/resource/Christ_Church,_Worthing",Correct,56,251.2086117267609,17
+http://dbpedia.org/resource/Charles_Grene_Ellicombe,http://dbpedia.org/property/deathPlace,"Worthing, West Sussex, England",Correct,56,251.2086117267609,17
+http://dbpedia.org/resource/Charles_Grene_Ellicombe,http://www.w3.org/2000/01/rdf-schema#label,Charles Grene Ellicombe,Correct,56,251.2086117267609,17
+http://dbpedia.org/resource/Charles_Grene_Ellicombe,http://xmlns.com/foaf/0.1/surname,Ellicombe,Correct,56,251.2086117267609,17
+http://dbpedia.org/resource/Charles_Grene_Ellicombe,http://dbpedia.org/property/name,"Ellicombe, Charles Grene",Correct,56,251.2086117267609,17
+http://dbpedia.org/resource/Boston,http://www.w3.org/2000/01/rdf-schema#label,Boston,Correct,57,5.863094329833984,17
+http://dbpedia.org/resource/Roy_Peter_Clark,http://www.w3.org/2000/01/rdf-schema#label,Roy Peter Clark,Correct,58,112.00632834434508,17
+http://dbpedia.org/resource/Roy_Peter_Clark,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/New_York_City,Correct,58,112.00632834434508,17
+http://dbpedia.org/resource/Elinor_Ostrom,http://dbpedia.org/ontology/institution,http://dbpedia.org/resource/Virginia_Tech,Correct,59,98.54247689247131,17
+http://dbpedia.org/resource/Elinor_Ostrom,http://dbpedia.org/ontology/award,http://dbpedia.org/resource/Nobel_Memorial_Prize_in_Economic_Sciences,Correct,59,98.54247689247131,17
+http://dbpedia.org/resource/Elinor_Ostrom,http://xmlns.com/foaf/0.1/surname,Ostrom,Correct,59,98.54247689247131,17
+http://dbpedia.org/resource/Elinor_Ostrom,http://xmlns.com/foaf/0.1/givenName,Elinor,Correct,59,98.54247689247131,17
+http://dbpedia.org/resource/Elinor_Ostrom,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Los_Angeles,Correct,59,98.54247689247131,17
+http://dbpedia.org/resource/Bill_Richmond_(writer),http://xmlns.com/foaf/0.1/name,Bill Richmond,Correct,60,50.625680685043335,17
+http://dbpedia.org/resource/Bill_Richmond_(writer),http://xmlns.com/foaf/0.1/name,"Richmond, Bill",Correct,60,50.625680685043335,17
+http://dbpedia.org/resource/Azuara,http://dbpedia.org/property/subdivisionName,http://dbpedia.org/resource/Zaragoza_(province),Correct,61,256.5892004966736,19
+http://dbpedia.org/resource/Azuara,http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/List_of_countries,Incorrect,61,256.5892004966736,19
+http://dbpedia.org/resource/Azuara,http://dbpedia.org/property/utcOffset,+1,Correct,61,256.5892004966736,19
+http://dbpedia.org/resource/Azuara,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Municipality,Correct,61,256.5892004966736,19
+http://dbpedia.org/resource/Azuara,http://dbpedia.org/property/timezoneDst,http://dbpedia.org/resource/Central_European_Summer_Time,Correct,61,256.5892004966736,19
+http://dbpedia.org/resource/Maksim_Chmerkovskiy,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Ukrainian_male_dancers,Correct,62,403.3252143859863,19
+http://dbpedia.org/resource/Maksim_Chmerkovskiy,http://dbpedia.org/property/placeOfBirth,"Odessa ; present-day Odessa, Ukraine",Correct,62,403.3252143859863,19
+http://dbpedia.org/resource/Maksim_Chmerkovskiy,http://dbpedia.org/property/title,Dancing with the Stars (US) third place contestant,Correct,62,403.3252143859863,19
+http://dbpedia.org/resource/Maksim_Chmerkovskiy,http://dbpedia.org/property/alternativeNames,"Chmerkovskiy, Maksim Aleksandrovich",Correct,62,403.3252143859863,19
+http://dbpedia.org/resource/Maksim_Chmerkovskiy,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Ukrainian_people_of_Jewish_descent,Correct,62,403.3252143859863,19
+http://dbpedia.org/resource/Frances_Lennon,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Stretford,Correct,63,22.09265923500061,19
+http://dbpedia.org/resource/The_Best_of_Cozy_Powell,http://dbpedia.org/property/type,greatest,Correct,64,123.66366839408876,19
+http://dbpedia.org/resource/The_Best_of_Cozy_Powell,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Collection,Correct,64,123.66366839408876,19
+http://dbpedia.org/resource/The_Best_of_Cozy_Powell,http://dbpedia.org/ontology/releaseDate,1997-07-15,Correct,64,123.66366839408876,19
+http://dbpedia.org/resource/The_Best_of_Cozy_Powell,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1997_greatest_hits_albums,Correct,64,123.66366839408876,19
+http://dbpedia.org/resource/The_Best_of_Cozy_Powell,http://dbpedia.org/property/name,The Best of Cozy Powell,Correct,64,123.66366839408876,19
+http://dbpedia.org/resource/Emmanuel_Stupanus,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Johann_Caspar_Bauhin,Correct,65,231.53937458992004,19
+http://dbpedia.org/resource/Emmanuel_Stupanus,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Georg_Balthasar_Metzger,I Don't Know,65,231.53937458992004,19
+http://dbpedia.org/resource/Emmanuel_Stupanus,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Nikolaus_Eglinger,Correct,65,231.53937458992004,19
+http://dbpedia.org/resource/Emmanuel_Stupanus,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Franciscus_Sylvius,Correct,65,231.53937458992004,19
+http://dbpedia.org/resource/William_Petty,http://dbpedia.org/ontology/era,http://dbpedia.org/resource/17th-century_philosophy,Correct,66,123.23173379898073,19
+http://dbpedia.org/resource/William_Petty,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Karl_Marx,Correct,66,123.23173379898073,19
+http://dbpedia.org/resource/William_Petty,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Bernard_Mandeville,Correct,66,123.23173379898073,19
+http://dbpedia.org/resource/Gombe_State,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/Nigeria,Correct,67,115.0475254058838,19
+http://dbpedia.org/resource/Gombe_State,http://dbpedia.org/property/seatType,http://dbpedia.org/resource/List_of_Nigerian_state_capitals,Correct,67,115.0475254058838,19
+http://dbpedia.org/resource/Gombe_State,http://dbpedia.org/ontology/postalCode,771100,I Don't Know,67,115.0475254058838,19
+http://dbpedia.org/resource/Gombe_State,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Gombe_State,Correct,67,115.0475254058838,19
+http://dbpedia.org/resource/Gombe_State,http://dbpedia.org/property/timezone,http://dbpedia.org/resource/West_Africa_Time,Correct,67,115.0475254058838,19
+http://dbpedia.org/resource/Winnie_Madikizela-Mandela,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Union_of_South_Africa,Correct,68,56.73643136024475,19
+http://dbpedia.org/resource/Mumford_(film),http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Jason_Lee_(actor),Correct,69,30.27287769317627,19
+http://dbpedia.org/resource/Tomorrow_Wendy,http://dbpedia.org/ontology/publisher,http://dbpedia.org/resource/IUniverse,Correct,70,240.0479655265808,19
+http://dbpedia.org/resource/Tomorrow_Wendy,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Lesbian_teen_fiction,Correct,70,240.0479655265808,19
+http://dbpedia.org/resource/Tomorrow_Wendy,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Tomorrow_Wendy,Correct,70,240.0479655265808,19
+http://dbpedia.org/resource/Tomorrow_Wendy,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_LGBT_novels,Correct,70,240.0479655265808,19
+http://dbpedia.org/resource/Tomorrow_Wendy,http://dbpedia.org/ontology/isbn,0-595-26954-0,Correct,70,240.0479655265808,19
+http://dbpedia.org/resource/Kahlil_Gibran,http://dbpedia.org/ontology/movement,http://dbpedia.org/resource/Mahjar,Correct,71,89.68195700645447,19
+http://dbpedia.org/resource/Kahlil_Gibran,http://dbpedia.org/ontology/movement,http://dbpedia.org/resource/The_Pen_League,Correct,71,89.68195700645447,19
+http://dbpedia.org/resource/Kahlil_Gibran,http://dbpedia.org/ontology/notableWork,http://dbpedia.org/resource/The_Prophet_(book),Correct,71,89.68195700645447,19
+http://dbpedia.org/resource/Kahlil_Gibran,http://dbpedia.org/ontology/notableWork,http://dbpedia.org/resource/Broken_Wings_(Gibran_novel),Correct,71,89.68195700645447,19
+http://dbpedia.org/resource/Pajwar,http://dbpedia.org/property/coordinatesRegion,AF,Incorrect,72,242.69678711891171,19
+http://dbpedia.org/resource/Pajwar,http://dbpedia.org/property/longd,71,Correct,72,242.69678711891171,19
+http://dbpedia.org/resource/Pajwar,http://www.w3.org/2003/01/geo/wgs84_pos#long,71.45,Correct,72,242.69678711891171,19
+http://dbpedia.org/resource/Pajwar,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Pajwar,Correct,72,242.69678711891171,19
+http://dbpedia.org/resource/Pajwar,http://dbpedia.org/ontology/abstract,Pajwar is a village in Badakhshan Province in north-eastern Afghanistan.,Correct,72,242.69678711891171,19
+http://dbpedia.org/resource/Carl_Gottlieb,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Syracuse_University_alumni,Correct,73,164.9314730167389,19
+http://dbpedia.org/resource/Carl_Gottlieb,http://dbpedia.org/property/occupation,"Actor, comedian, screenwriter",Correct,73,164.9314730167389,19
+http://dbpedia.org/resource/Carl_Gottlieb,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_male_film_actors,Correct,73,164.9314730167389,19
+http://dbpedia.org/resource/Carl_Gottlieb,http://dbpedia.org/property/notableworks,Jaws,Correct,73,164.9314730167389,19
+http://dbpedia.org/resource/Carl_Gottlieb,http://dbpedia.org/ontology/birthDate,1938-03-18,Correct,73,164.9314730167389,19
+http://dbpedia.org/resource/Brian_O'Brien,http://dbpedia.org/property/birthDate,1898-01-02,I Don't Know,74,304.0656523704529,20
+http://dbpedia.org/resource/Brian_O'Brien,http://dbpedia.org/ontology/deathYear,1992,Correct,74,304.0656523704529,20
+http://dbpedia.org/resource/Brian_O'Brien,http://dbpedia.org/ontology/deathDate,1992-07-01,Correct,74,304.0656523704529,20
+http://dbpedia.org/resource/Brian_O'Brien,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:University_of_Rochester_faculty,Correct,74,304.0656523704529,20
+http://dbpedia.org/resource/Brian_O'Brien,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Colorado,Correct,74,304.0656523704529,20
+http://dbpedia.org/resource/Wemmershoek_Dam,http://dbpedia.org/ontology/river,http://dbpedia.org/resource/Wemmershoek_River,Correct,75,28.587225198745728,20
+http://dbpedia.org/resource/Smith_College,http://dbpedia.org/ontology/president,http://dbpedia.org/resource/Kathleen_McCartney_(college_president),Correct,76,663.771244764328,20
+http://dbpedia.org/resource/Smith_College,http://www.w3.org/2000/01/rdf-schema#label,Smith College,Correct,76,663.771244764328,20
+http://dbpedia.org/resource/Smith_College,http://dbpedia.org/property/affiliations,http://dbpedia.org/resource/Oberlin_Group,I Don't Know,76,663.771244764328,20
+http://dbpedia.org/resource/Smith_College,http://dbpedia.org/ontology/facultySize,285,Incorrect,76,663.771244764328,20
+http://dbpedia.org/resource/Smith_College,http://dbpedia.org/ontology/campus,http://dbpedia.org/resource/Urban_area,Correct,76,663.771244764328,20
+http://dbpedia.org/resource/Bronze_Head_of_Hypnos_from_Civitella_d'Arna,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/Hypnos_(BM).jpg,Correct,77,190.6860921382904,20
+http://dbpedia.org/resource/Bronze_Head_of_Hypnos_from_Civitella_d'Arna,http://dbpedia.org/property/size,21,Correct,77,190.6860921382904,20
+http://dbpedia.org/resource/Bronze_Head_of_Hypnos_from_Civitella_d'Arna,http://dbpedia.org/property/registration,GR 1868.6-6.9,Incorrect,77,190.6860921382904,20
+http://dbpedia.org/resource/Bronze_Head_of_Hypnos_from_Civitella_d'Arna,http://dbpedia.org/property/name,Bronze Head of Hypnos,Correct,77,190.6860921382904,20
+http://dbpedia.org/resource/Bronze_Head_of_Hypnos_from_Civitella_d'Arna,http://www.w3.org/2000/01/rdf-schema#comment,"The Bronze Head of Hypnos is a Roman copy of an ancient Greek statue found at Civitella d'Arna near Perugia in central Italy.  Widely copied since its discovery in the early nineteenth century, it has been part of the British Museum's collection since 1868.",Correct,77,190.6860921382904,20
+"http://dbpedia.org/resource/Awanat,_Ras_al-Khaimah",http://www.w3.org/2000/01/rdf-schema#label,"Awanat, Ras al-Khaimah",Correct,78,9.1309814453125,20
+http://dbpedia.org/resource/Westminster_School,http://dbpedia.org/property/chairLabel,Chairman of Governors,Incorrect,79,714.710524559021,20
+http://dbpedia.org/resource/Westminster_School,http://dbpedia.org/ontology/foundedBy,http://dbpedia.org/resource/Henry_VIII_of_England,Incorrect,79,714.710524559021,20
+http://dbpedia.org/resource/Westminster_School,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Member_schools_of_the_Headmasters'_and_Headmistresses'_Conference,Correct,79,714.710524559021,20
+http://dbpedia.org/resource/Westminster_School,http://dbpedia.org/property/houses,Milne's,Correct,79,714.710524559021,20
+http://dbpedia.org/resource/Westminster_School,http://dbpedia.org/ontology/abstract,"The Royal College of St Peter in Westminster, better known as Westminster School, is an independent school within in the precincts of Westminster Abbey in England. It has the highest Oxford and Cambridge acceptance rates of any secondary school or college in the world. With a history going back to the 14th century, the school's alumni include Ben Jonson, John Dryden, Robert Hooke, Sir Christopher Wren, John Locke, Jeremy Bentham, Edward Gibbon, Henry Mayhew, A. A. Milne, Sir Peter Ustinov, Tony Benn and seven Prime Ministers. Boys are admitted to the Under School at age seven, and to the senior school at age thirteen; girls are admitted only at sixteen. The school has around 750 pupils; around a quarter are boarders, most of whom go home at weekends, after Saturday morning school. It is one of the original nine British public schools (the so-called 'Clarendon Schools') as defined by the Public Schools Act 1868. Charging up to £7,800 for day pupils per term and £11,264 for boarders per term in 2014/15, Westminster is the 13th most expensive HMC day school and 10th most expensive HMC boarding school in the UK.",I Don't Know,79,714.710524559021,20
+"http://dbpedia.org/resource/Lompoc,_California",http://dbpedia.org/property/julLowF,56,Correct,80,174.73522090911865,20
+"http://dbpedia.org/resource/Lompoc,_California",http://dbpedia.org/property/aprLowF,47,Correct,80,174.73522090911865,20
+"http://dbpedia.org/resource/Lompoc,_California",http://dbpedia.org/property/populationDensitySqMi,auto,Incorrect,80,174.73522090911865,20
+"http://dbpedia.org/resource/Lompoc,_California",http://xmlns.com/foaf/0.1/name,City of Lompoc,Correct,80,174.73522090911865,20
+"http://dbpedia.org/resource/Lompoc,_California",http://dbpedia.org/property/namedFor,"Chumash: Lompo': ""Stagnant Water""",Correct,80,174.73522090911865,20
+http://dbpedia.org/resource/Street_Warrior,http://dbpedia.org/ontology/editor,http://dbpedia.org/resource/Tricia_Gorman,Correct,81,148.83465838432312,20
+http://dbpedia.org/resource/Street_Warrior,http://dbpedia.org/ontology/person,http://dbpedia.org/resource/Yaron_Levy,Incorrect,81,148.83465838432312,20
+http://dbpedia.org/resource/Street_Warrior,http://dbpedia.org/ontology/abstract,Street Warrior is a 2008 action film directed by David Jackson.,Correct,81,148.83465838432312,20
+http://dbpedia.org/resource/Lucian_Freud,http://dbpedia.org/property/dateOfDeath,2011-07-20,Correct,82,163.80208277702332,20
+http://dbpedia.org/resource/Lucian_Freud,http://dbpedia.org/ontology/abstract,"Lucian Michael Freud, OM, CH (/ˈluː.si.ən ˈfrɔɪd/; 8 December 1922 – 20 July 2011) was a German-born British painter. Known chiefly for his thickly impastoed portrait and figure paintings, he was widely considered the pre-eminent British artist of his time. His works are noted for their psychological penetration, and for their often discomforting examination of the relationship between artist and model.",Correct,82,163.80208277702332,20
+http://dbpedia.org/resource/Lucian_Freud,http://dbpedia.org/property/deathDate,2011-07-20,Correct,82,163.80208277702332,20
+http://dbpedia.org/resource/Lucian_Freud,http://dbpedia.org/property/birthName,Lucian Michael Freud,Correct,82,163.80208277702332,20
+http://dbpedia.org/resource/Lucian_Freud,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Jewish_painters,Correct,82,163.80208277702332,20
+http://dbpedia.org/resource/Will_Patton,http://dbpedia.org/property/nationality,American,Correct,83,53.31024432182312,20
+http://dbpedia.org/resource/Will_Patton,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Male_actors_from_South_Carolina,Correct,83,53.31024432182312,20
+http://dbpedia.org/resource/Will_Patton,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Will_Patton,Correct,83,53.31024432182312,20
+http://dbpedia.org/resource/Will_Patton,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_male_actors,Correct,83,53.31024432182312,20
+http://dbpedia.org/resource/Will_Patton,http://xmlns.com/foaf/0.1/surname,Patton,Correct,83,53.31024432182312,20
+http://dbpedia.org/resource/A_Little_Princess_(1995_film),http://dbpedia.org/property/starring,http://dbpedia.org/resource/Liesel_Matthews,Correct,84,546.755951166153,20
+http://dbpedia.org/resource/A_Little_Princess_(1995_film),http://dbpedia.org/ontology/producer,http://dbpedia.org/resource/Mark_Johnson_(producer),Correct,84,546.755951166153,20
+http://dbpedia.org/resource/A_Little_Princess_(1995_film),http://dbpedia.org/property/cover,AlbumALP95Cover.jpg,Incorrect,84,546.755951166153,20
+http://dbpedia.org/resource/A_Little_Princess_(1995_film),http://dbpedia.org/property/label,http://dbpedia.org/resource/Varèse_Sarabande,Incorrect,84,546.755951166153,20
+http://dbpedia.org/resource/A_Little_Princess_(1995_film),http://dbpedia.org/ontology/musicComposer,http://dbpedia.org/resource/Patrick_Doyle,Correct,84,546.755951166153,20
+http://dbpedia.org/resource/Uganda_Protectorate,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/East_African_shilling,Correct,85,226.6475019454956,20
+http://dbpedia.org/resource/Uganda_Protectorate,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Rupee,Incorrect,85,226.6475019454956,20
+http://dbpedia.org/resource/Uganda_Protectorate,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Entebbe,Correct,85,226.6475019454956,20
+http://dbpedia.org/resource/Eugenio_Barba,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Brindisi,Correct,86,85.74245142936707,20
+http://dbpedia.org/resource/Eugenio_Barba,http://www.w3.org/2000/01/rdf-schema#label,Eugenio Barba,Correct,86,85.74245142936707,20
+http://dbpedia.org/resource/Never_Kill_a_Boy_on_the_First_Date,http://xmlns.com/foaf/0.1/name,Never Kill a Boy on the First Date,Correct,87,18.813586235046387,20
+http://dbpedia.org/resource/Never_Kill_a_Boy_on_the_First_Date,http://dbpedia.org/ontology/series,http://dbpedia.org/resource/Buffy_the_Vampire_Slayer,Correct,87,18.813586235046387,20
+http://dbpedia.org/resource/Lane_College,http://dbpedia.org/ontology/officialSchoolColour,CardinalandRoyal Blue,Correct,88,223.4366853237152,20
+http://dbpedia.org/resource/Lane_College,http://dbpedia.org/property/name,Lane College,Correct,88,223.4366853237152,20
+http://dbpedia.org/resource/Lane_College,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Educational_institutions_established_in_1882,Correct,88,223.4366853237152,20
+http://dbpedia.org/resource/Lane_College,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:National_Register_of_Historic_Places_in_Tennessee,Correct,88,223.4366853237152,20
+http://dbpedia.org/resource/Lane_College,http://dbpedia.org/property/students,2000,Incorrect,88,223.4366853237152,20
+"http://dbpedia.org/resource/Carnarvon,_Western_Australia",http://dbpedia.org/property/decRainMm,5.5,I Don't Know,89,514.6194317340851,20
+"http://dbpedia.org/resource/Carnarvon,_Western_Australia",http://dbpedia.org/property/name,Carnarvon,Correct,89,514.6194317340851,20
+"http://dbpedia.org/resource/Carnarvon,_Western_Australia",http://dbpedia.org/property/maxtemp,27.2,Incorrect,89,514.6194317340851,20
+"http://dbpedia.org/resource/Carnarvon,_Western_Australia",http://dbpedia.org/property/octLowC,16.4,Correct,89,514.6194317340851,20
+"http://dbpedia.org/resource/Carnarvon,_Western_Australia",http://dbpedia.org/property/yearRecordLowC,2.4,Incorrect,89,514.6194317340851,20
+"http://dbpedia.org/resource/Nicholas_V,_Duke_of_Krnov",http://dbpedia.org/ontology/parent,"http://dbpedia.org/resource/John_II,_Duke_of_Opava-Ratibor",I Don't Know,90,808.6475684642792,20
+"http://dbpedia.org/resource/Nicholas_V,_Duke_of_Krnov",http://dbpedia.org/ontology/parent,http://dbpedia.org/resource/Helena_of_Lithuania,I Don't Know,90,808.6475684642792,20
+http://dbpedia.org/resource/D._Ramanaidu,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/D._Ramanaidu__1,Incorrect,91,103.30686926841736,20
+http://dbpedia.org/resource/D._Ramanaidu,http://dbpedia.org/ontology/award,http://dbpedia.org/resource/Dadasaheb_Phalke_Award,Correct,91,103.30686926841736,20
+http://dbpedia.org/resource/D._Ramanaidu,http://dbpedia.org/ontology/award,http://dbpedia.org/resource/Padma_Bhushan,Correct,91,103.30686926841736,20
+http://dbpedia.org/resource/Botch_(band),http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,92,58.00747036933899,20
+http://dbpedia.org/resource/Deborah_Meaden,http://dbpedia.org/ontology/residence,http://dbpedia.org/resource/Somerset,Correct,93,216.91810512542725,20
+http://dbpedia.org/resource/Deborah_Meaden,http://dbpedia.org/ontology/residence,http://dbpedia.org/resource/Primrose_Hill,Correct,93,216.91810512542725,20
+http://dbpedia.org/resource/Deborah_Meaden,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/City_College_Brighton_&_Hove,Correct,93,216.91810512542725,20
+http://dbpedia.org/resource/Balázs_Szokolay,http://purl.org/dc/elements/1.1/description,Hungarian pianist,Correct,94,105.89524388313292,21
+http://dbpedia.org/resource/Balázs_Szokolay,http://www.w3.org/2000/01/rdf-schema#label,Balázs Szokolay,Correct,94,105.89524388313292,21
+http://dbpedia.org/resource/Balázs_Szokolay,http://dbpedia.org/property/dateOfBirth,1961,Correct,94,105.89524388313292,21
+http://dbpedia.org/resource/Balázs_Szokolay,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Living_people,Correct,94,105.89524388313292,21
+http://dbpedia.org/resource/Balázs_Szokolay,http://dbpedia.org/property/name,"Szokolay, Balazs",Incorrect,94,105.89524388313292,21
+http://dbpedia.org/resource/Elisabeth_Wiedemann,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Lower_Saxony,Correct,95,48.18014097213745,21
+http://dbpedia.org/resource/Elisabeth_Wiedemann,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Marquartstein,Correct,95,48.18014097213745,21
+http://dbpedia.org/resource/Elisabeth_Wiedemann,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Lower_Saxony,Correct,95,48.18014097213745,21
+http://dbpedia.org/resource/Rolo_Tomassi,http://dbpedia.org/property/currentMembers,Eva Spence,Correct,96,130.0726146697998,21
+http://dbpedia.org/resource/Rolo_Tomassi,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Art_punk,Correct,96,130.0726146697998,21
+http://dbpedia.org/resource/Rolo_Tomassi,http://dbpedia.org/property/background,group_or_band,Correct,96,130.0726146697998,21
+http://dbpedia.org/resource/Rolo_Tomassi,http://dbpedia.org/property/landscape,yes,Incorrect,96,130.0726146697998,21
+http://dbpedia.org/resource/Rolo_Tomassi,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Band,Correct,96,130.0726146697998,21
+http://dbpedia.org/resource/Charles_Bukowski,http://dbpedia.org/ontology/nationality,http://dbpedia.org/resource/German_American,Correct,97,273.0804440975189,21
+http://dbpedia.org/resource/Charles_Bukowski,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:20th-century_American_novelists,Correct,97,273.0804440975189,21
+http://dbpedia.org/resource/Charles_Bukowski,http://dbpedia.org/property/influenced,http://dbpedia.org/resource/Prvoslav_Vujčić,Correct,97,273.0804440975189,21
+http://dbpedia.org/resource/Charles_Bukowski,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Rhineland-Palatinate,Correct,97,273.0804440975189,21
+http://dbpedia.org/resource/Charles_Bukowski,http://xmlns.com/foaf/0.1/givenName,Charles,Correct,97,273.0804440975189,21
+http://dbpedia.org/resource/Alifakovac,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Sarajevo,Correct,98,222.5759060382843,21
+http://dbpedia.org/resource/Alifakovac,http://dbpedia.org/property/settlementType,Neighborhood,Correct,98,222.5759060382843,21
+http://dbpedia.org/resource/Alifakovac,http://dbpedia.org/property/imageSkyline,Alifakovac1.jpg,Correct,98,222.5759060382843,21
+http://dbpedia.org/resource/Alifakovac,http://dbpedia.org/ontology/utcOffset,+1,Correct,98,222.5759060382843,21
+http://dbpedia.org/resource/Alifakovac,http://dbpedia.org/property/pushpinLabelPosition,bottom,I Don't Know,98,222.5759060382843,21
+http://dbpedia.org/resource/Province_of_Westphalia,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Münster_(region),Correct,99,44.4842574596405,21
+http://dbpedia.org/resource/Yarkon_River,http://dbpedia.org/ontology/mouthPlace,http://dbpedia.org/resource/Tel_Aviv,Correct,100,75.16461896896362,21
+http://dbpedia.org/resource/Yarkon_River,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/Israel,Correct,100,75.16461896896362,21
+http://dbpedia.org/resource/Yoshio_Nishina,http://dbpedia.org/ontology/award,http://dbpedia.org/resource/Asahi_Prize,Correct,101,366.5365207195282,21
+http://dbpedia.org/resource/Yoshio_Nishina,http://dbpedia.org/ontology/notableStudent,http://dbpedia.org/resource/Hideki_Yukawa,Correct,101,366.5365207195282,21
+http://dbpedia.org/resource/Yoshio_Nishina,http://dbpedia.org/ontology/notableStudent,http://dbpedia.org/resource/Sin-Itiro_Tomonaga,Correct,101,366.5365207195282,21
+http://dbpedia.org/resource/Yoshio_Nishina,http://dbpedia.org/ontology/notableStudent,http://dbpedia.org/resource/Shoichi_Sakata,Correct,101,366.5365207195282,21
+http://dbpedia.org/resource/Yoshio_Nishina,http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Satoshō,_Okayama",Correct,101,366.5365207195282,21
+http://dbpedia.org/resource/Jaco_Pastorius,http://www.w3.org/2000/01/rdf-schema#label,Jaco Pastorius,Correct,102,12.69658136367798,21
+http://dbpedia.org/resource/Pula,http://dbpedia.org/ontology/timeZone,http://dbpedia.org/resource/Central_European_Time,Correct,103,137.54509782791138,21
+http://dbpedia.org/resource/Pula,http://dbpedia.org/property/populationAsOf,2011,Incorrect,103,137.54509782791138,21
+http://dbpedia.org/resource/Pula,http://dbpedia.org/property/populationDensityKm,auto,Incorrect,103,137.54509782791138,21
+http://dbpedia.org/resource/Pula,http://dbpedia.org/ontology/utcOffset,+2,Correct,103,137.54509782791138,21
+http://dbpedia.org/resource/Pula,http://dbpedia.org/property/metricFirst,yes,Incorrect,103,137.54509782791138,21
+http://dbpedia.org/resource/Tyumen,http://dbpedia.org/property/febPrecipitationMm,15,I Don't Know,104,401.0013155937195,21
+http://dbpedia.org/resource/Tyumen,http://www.w3.org/2000/01/rdf-schema#comment,"Tyumen (Russian: Тюмень; IPA: [tʲʉˈmʲenʲ]) is the largest city and the administrative center of Tyumen Oblast, Russia, located on the Tura River 2,500 kilometers (1,600 mi) east of Moscow.Tyumen was the first Russian settlement in Siberia. Founded in 1586 to support Russia's eastward expansion, the city has remained one of the most important industrial and economic centers east of the Ural Mountains.",Correct,104,401.0013155937195,21
+http://dbpedia.org/resource/Tyumen,http://dbpedia.org/property/octLowC,-0.4,Incorrect,104,401.0013155937195,21
+http://dbpedia.org/resource/Tyumen,http://dbpedia.org/property/augSnowCm,0,Correct,104,401.0013155937195,21
+http://dbpedia.org/resource/Tyumen,http://dbpedia.org/property/febLowC,-18.1,Incorrect,104,401.0013155937195,21
+http://dbpedia.org/resource/Sam_Kinison,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Sam_Kinison,Correct,105,249.15885424613955,21
+http://dbpedia.org/resource/Sam_Kinison,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Observational_comedy,Correct,105,249.15885424613955,21
+http://dbpedia.org/resource/Sam_Kinison,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Satire,Correct,105,249.15885424613955,21
+http://dbpedia.org/resource/Sam_Kinison,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Black_comedy,Correct,105,249.15885424613955,21
+http://dbpedia.org/resource/Sam_Kinison,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/U.S.,Correct,105,249.15885424613955,21
+http://dbpedia.org/resource/List_of_Brickleberry_episodes,http://dbpedia.org/property/aux,0.66,Incorrect,106,3383.2452249526978,21
+http://dbpedia.org/resource/List_of_Brickleberry_episodes,http://dbpedia.org/property/directedby,http://dbpedia.org/resource/Susie_Dietter,Correct,106,3383.2452249526978,21
+http://dbpedia.org/resource/List_of_Brickleberry_episodes,http://dbpedia.org/property/title,That Brother's My Father,Correct,106,3383.2452249526978,21
+http://dbpedia.org/resource/List_of_Brickleberry_episodes,http://dbpedia.org/property/directedby,http://dbpedia.org/resource/Zac_Moncrief,Correct,106,3383.2452249526978,21
+http://dbpedia.org/resource/List_of_Brickleberry_episodes,http://dbpedia.org/property/shortsummary,"Woody gets angry when a fancy country club turns him down but welcomes Denzel as a member. Meanwhile, Malloy balks at having his anal glands expressed, only for them to enlarge and become infected.",I Don't Know,106,3383.2452249526978,21
+http://dbpedia.org/resource/Secret_Sunshine,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Cinema_Service_films,Correct,107,462.54221200942993,21
+http://dbpedia.org/resource/Secret_Sunshine,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Correct,107,462.54221200942993,21
+http://dbpedia.org/resource/Secret_Sunshine,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:South_Korean_drama_films,Correct,107,462.54221200942993,21
+http://dbpedia.org/resource/Secret_Sunshine,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_based_on_short_fiction,Correct,107,462.54221200942993,21
+http://dbpedia.org/resource/Secret_Sunshine,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_directed_by_Lee_Chang-dong,Correct,107,462.54221200942993,21
+http://dbpedia.org/resource/The_Geneva_School,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1993_establishments_in_Florida,Correct,108,479.6171658039093,21
+http://dbpedia.org/resource/The_Geneva_School,http://dbpedia.org/property/enrollment,450,I Don't Know,108,479.6171658039093,21
+http://dbpedia.org/resource/The_Geneva_School,http://dbpedia.org/ontology/mascot,The Knights,Correct,108,479.6171658039093,21
+http://dbpedia.org/resource/The_Geneva_School,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/School,Correct,108,479.6171658039093,21
+http://dbpedia.org/resource/The_Geneva_School,http://www.w3.org/2000/01/rdf-schema#label,The Geneva School,Correct,108,479.6171658039093,21
+http://dbpedia.org/resource/8th_Fighter_Wing,http://dbpedia.org/ontology/garrison,http://dbpedia.org/resource/South_Korea,Correct,109,46.88408327102661,21
+http://dbpedia.org/resource/Heligoland,http://www.w3.org/2003/01/geo/wgs84_pos#long,7.88528,I Don't Know,110,173.63033962249756,21
+http://dbpedia.org/resource/Heligoland,http://www.w3.org/2003/01/geo/wgs84_pos#lat,54.1825,I Don't Know,110,173.63033962249756,21
+http://dbpedia.org/resource/Heligoland,http://dbpedia.org/ontology/elevation,61.0,I Don't Know,110,173.63033962249756,21
+http://dbpedia.org/resource/Heligoland,http://dbpedia.org/ontology/areaTotal,1.7e+06,I Don't Know,110,173.63033962249756,21
+http://dbpedia.org/resource/University_of_Pittsburgh_School_of_Health_and_Rehabilitation_Sciences,http://dbpedia.org/ontology/city,http://dbpedia.org/resource/Pittsburgh,Correct,111,217.43529295921329,21
+http://dbpedia.org/resource/University_of_Pittsburgh_School_of_Health_and_Rehabilitation_Sciences,http://dbpedia.org/property/city,http://dbpedia.org/resource/Pittsburgh,Correct,111,217.43529295921329,21
+http://dbpedia.org/resource/University_of_Pittsburgh_School_of_Health_and_Rehabilitation_Sciences,http://dbpedia.org/property/undergrad,476,I Don't Know,111,217.43529295921329,21
+http://dbpedia.org/resource/University_of_Pittsburgh_School_of_Health_and_Rehabilitation_Sciences,http://dbpedia.org/property/campus,http://dbpedia.org/resource/Oakland_(Pittsburgh),Correct,111,217.43529295921329,21
+http://dbpedia.org/resource/Atlantic_City_(How_I_Met_Your_Mother),http://dbpedia.org/ontology/episodeNumber,8,Correct,112,43.48396897315979,21
+http://dbpedia.org/resource/Atlantic_City_(How_I_Met_Your_Mother),http://dbpedia.org/ontology/seasonNumber,2,Correct,112,43.48396897315979,21
+http://dbpedia.org/resource/Leipzig,http://dbpedia.org/property/janSun,62.8,I Don't Know,113,262.8143258094788,21
+http://dbpedia.org/resource/Leipzig,http://dbpedia.org/property/imageCoa,Coat of arms of Leipzig.svg,Correct,113,262.8143258094788,21
+http://dbpedia.org/resource/Leipzig,http://dbpedia.org/property/aprRecordLowC,-6.5,Correct,113,262.8143258094788,21
+http://dbpedia.org/resource/Leipzig,http://dbpedia.org/property/latDeg,51,Correct,113,262.8143258094788,21
+http://dbpedia.org/resource/Asya_(singer),http://dbpedia.org/ontology/activeYearsStartYear,1990,Correct,114,96.37439131736755,21
+http://dbpedia.org/resource/Asya_(singer),http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/Turkey,Correct,114,96.37439131736755,21
+http://dbpedia.org/resource/Asya_(singer),http://dbpedia.org/property/shortDescription,Turkish singer,Correct,114,96.37439131736755,21
+http://dbpedia.org/resource/Asya_(singer),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1965_births,Correct,114,96.37439131736755,21
+http://dbpedia.org/resource/Asya_(singer),http://dbpedia.org/property/alternativeNames,Tülay Keçialan,Correct,114,96.37439131736755,21
+http://dbpedia.org/resource/Tribalistas,http://dbpedia.org/ontology/associatedMusicalArtist,http://dbpedia.org/resource/Timbalada,Correct,115,256.9617068767548,21
+http://dbpedia.org/resource/Tribalistas,http://dbpedia.org/ontology/associatedBand,http://dbpedia.org/resource/Timbalada,Correct,115,256.9617068767548,21
+http://dbpedia.org/resource/Tribalistas,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Pop_rock,Correct,115,256.9617068767548,21
+http://dbpedia.org/resource/Tribalistas,http://dbpedia.org/property/associatedActs,http://dbpedia.org/resource/Timbalada,Correct,115,256.9617068767548,21
+http://dbpedia.org/resource/Tribalistas,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/Brazil,Correct,115,256.9617068767548,21
+http://dbpedia.org/resource/January_07003:_Bell_Studies_for_the_Clock_of_the_Long_Now,http://dbpedia.org/ontology/artist,http://dbpedia.org/resource/Brian_Eno,Correct,116,636.485743522644,21
+http://dbpedia.org/resource/January_07003:_Bell_Studies_for_the_Clock_of_the_Long_Now,http://dbpedia.org/property/genre,http://dbpedia.org/resource/Ambient_music,Correct,116,636.485743522644,21
+http://dbpedia.org/resource/January_07003:_Bell_Studies_for_the_Clock_of_the_Long_Now,http://dbpedia.org/property/artist,http://dbpedia.org/resource/Brian_Eno,Correct,116,636.485743522644,21
+http://dbpedia.org/resource/January_07003:_Bell_Studies_for_the_Clock_of_the_Long_Now,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Ambient_music,Correct,116,636.485743522644,21
+http://dbpedia.org/resource/January_07003:_Bell_Studies_for_the_Clock_of_the_Long_Now,http://dbpedia.org/ontology/producer,http://dbpedia.org/resource/Brian_Eno,Correct,116,636.485743522644,21
+http://dbpedia.org/resource/Robert_Mundell,http://dbpedia.org/ontology/award,http://dbpedia.org/resource/Nobel_Memorial_Prize_in_Economic_Sciences,Correct,117,19.59873604774475,21
+http://dbpedia.org/resource/Jack_Dempsey_(politician),http://purl.org/dc/elements/1.1/description,Australian politician,Correct,118,179.06225180625916,21
+http://dbpedia.org/resource/Jack_Dempsey_(politician),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Living_people,Correct,118,179.06225180625916,21
+http://dbpedia.org/resource/Jack_Dempsey_(politician),http://xmlns.com/foaf/0.1/homepage,http://jackdempseymp.com/,Incorrect,118,179.06225180625916,21
+http://dbpedia.org/resource/Jack_Dempsey_(politician),http://dbpedia.org/property/office,"Minister for Aboriginal, Torres Strait Islander and Multicultural Affairs of Queensland",Correct,118,179.06225180625916,21
+http://dbpedia.org/resource/Jack_Dempsey_(politician),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people),Incorrect,118,179.06225180625916,21
+http://dbpedia.org/resource/Masha-ye_Pang_Posht_Kuh_Do_Sari,http://dbpedia.org/property/subdivisionName,http://dbpedia.org/resource/Anbarabad_County,Correct,119,47.80390286445618,22
+http://dbpedia.org/resource/Masha-ye_Pang_Posht_Kuh_Do_Sari,http://dbpedia.org/ontology/isPartOf,http://dbpedia.org/resource/Anbarabad_County,Correct,119,47.80390286445618,22
+http://dbpedia.org/resource/Princess_Academy,http://dbpedia.org/ontology/numberOfPages,314,Correct,120,258.955502986908,22
+http://dbpedia.org/resource/Princess_Academy,http://www.w3.org/2000/01/rdf-schema#label,Princess Academy,Correct,120,258.955502986908,22
+http://dbpedia.org/resource/Princess_Academy,http://dbpedia.org/ontology/publicationDate,2005-06-16,Incorrect,120,258.955502986908,22
+http://dbpedia.org/resource/My_Heart_To_Joy,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,121,27.439910888671875,22
+http://dbpedia.org/resource/Junior_Blue,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/Canada,Correct,122,225.1410617828369,22
+http://dbpedia.org/resource/Junior_Blue,http://xmlns.com/foaf/0.1/name,Junior Blue,Correct,122,225.1410617828369,22
+http://dbpedia.org/resource/Mya_Byrne,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Folk_music,Correct,123,102.5167362689972,22
+http://dbpedia.org/resource/Mya_Byrne,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/New_Jersey,Correct,123,102.5167362689972,22
+http://dbpedia.org/resource/José_Domingues_dos_Santos,http://purl.org/dc/elements/1.1/description,Portuguese prime-minister,Correct,124,307.5645480155945,22
+http://dbpedia.org/resource/José_Domingues_dos_Santos,http://xmlns.com/foaf/0.1/surname,Santos,Correct,124,307.5645480155945,22
+http://dbpedia.org/resource/José_Domingues_dos_Santos,http://dbpedia.org/property/years,1924,Incorrect,124,307.5645480155945,22
+http://dbpedia.org/resource/José_Domingues_dos_Santos,http://dbpedia.org/ontology/abstract,"José Domingues dos Santos (Lavra, Matosinhos, August 5, 1885 – Porto, August 16, 1958) was a Portuguese politician, jurist, professor and journalist who, among other positions, served as President of the Council of Ministers (Prime Minister) of one of the many governments of the Portuguese First Republic (1924-1925). He was a member of the free masonry, at least since 1922.",Correct,124,307.5645480155945,22
+http://dbpedia.org/resource/José_Domingues_dos_Santos,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Portuguese_journalists,Correct,124,307.5645480155945,22
+http://dbpedia.org/resource/Charlie_Chaplin,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English_film_score_composers,Correct,125,45.237520694732666,22
+http://dbpedia.org/resource/Charlie_Chaplin,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English_male_comedians,Correct,125,45.237520694732666,22
+http://dbpedia.org/resource/Charlie_Chaplin,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English_male_silent_film_actors,Correct,125,45.237520694732666,22
+http://dbpedia.org/resource/Charlie_Chaplin,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:20th-century_English_male_actors,Correct,125,45.237520694732666,22
+http://dbpedia.org/resource/Charlie_Chaplin,http://dbpedia.org/property/name,Sir Charles Chaplin,Correct,125,45.237520694732666,22
+http://dbpedia.org/resource/Lotte_Stam-Beese,http://www.w3.org/2000/01/rdf-schema#comment,"Charlotte Ida Anna ""Lotte"" Stam-Beese (nee Beese, January 28, 1903 - November 18, 1988) was a German architect and urban planner who helped with the reconstruction of Rotterdam after World War II.",Correct,126,145.45222783088684,22
+http://dbpedia.org/resource/Lotte_Stam-Beese,http://dbpedia.org/property/almaMater,Bauhaus,Correct,126,145.45222783088684,22
+http://dbpedia.org/resource/Lotte_Stam-Beese,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Reisicht,Correct,126,145.45222783088684,22
+http://dbpedia.org/resource/Lotte_Stam-Beese,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Architect,Correct,126,145.45222783088684,22
+http://dbpedia.org/resource/Lotte_Stam-Beese,http://dbpedia.org/ontology/birthDate,1903-01-28,Correct,126,145.45222783088684,22
+http://dbpedia.org/resource/Denis_Herron,http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Chambly,_Quebec",Correct,127,27.040812492370605,22
+http://dbpedia.org/resource/The_Simpsons,http://dbpedia.org/property/b,no,Incorrect,128,139.00074577331543,22
+http://dbpedia.org/resource/The_Simpsons,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Animated_sitcom,Correct,128,139.00074577331543,22
+http://dbpedia.org/resource/The_Simpsons,http://dbpedia.org/ontology/format,http://dbpedia.org/resource/576i,Correct,128,139.00074577331543,22
+http://dbpedia.org/resource/The_Simpsons,http://dbpedia.org/ontology/company,http://dbpedia.org/resource/Klasky_Csupo,Correct,128,139.00074577331543,22
+http://dbpedia.org/resource/The_Simpsons,http://dbpedia.org/ontology/company,http://dbpedia.org/resource/20th_Century_Fox_Television,Correct,128,139.00074577331543,22
+http://dbpedia.org/resource/Kingdom_of_Portugal,http://dbpedia.org/property/statYear,1910,Correct,129,191.5781216621399,22
+http://dbpedia.org/resource/Kingdom_of_Portugal,http://dbpedia.org/property/continent,Europe,Correct,129,191.5781216621399,22
+http://dbpedia.org/resource/Kingdom_of_Portugal,http://www.w3.org/2000/01/rdf-schema#comment,"The Kingdom of Portugal (Latin: Regnum Portugalliae, Portuguese: Reino de Portugal) was a monarchy on the Iberian Peninsula and the predecessor of modern Portugal. It was in existence from 1139 until 1910. After 1248, it was also known as the Kingdom of Portugal and the Algarves and between 1815 and 1822, it was known as the United Kingdom of Portugal, Brazil and the Algarves.",Incorrect,129,191.5781216621399,22
+http://dbpedia.org/resource/Kingdom_of_Portugal,http://dbpedia.org/property/flagS,Flag of Portugal.svg,Incorrect,129,191.5781216621399,22
+http://dbpedia.org/resource/Kingdom_of_Portugal,http://dbpedia.org/property/yearDeputy,1910,Correct,129,191.5781216621399,22
+http://dbpedia.org/resource/Chandidas_Mahavidyalaya,http://dbpedia.org/property/affiliations,http://dbpedia.org/resource/University_of_Burdwan,Correct,130,191.8340840339661,23
+http://dbpedia.org/resource/Chandidas_Mahavidyalaya,http://dbpedia.org/property/name,Chandidas Mahavidyalaya,Correct,130,191.8340840339661,23
+http://dbpedia.org/resource/Chandidas_Mahavidyalaya,http://dbpedia.org/property/state,http://dbpedia.org/resource/West_Bengal,Correct,130,191.8340840339661,23
+http://dbpedia.org/resource/Chandidas_Mahavidyalaya,http://dbpedia.org/property/type,Undergraduate college,Correct,130,191.8340840339661,23
+http://dbpedia.org/resource/Chandidas_Mahavidyalaya,http://www.w3.org/2000/01/rdf-schema#label,Chandidas Mahavidyalaya,Correct,130,191.8340840339661,23
+http://dbpedia.org/resource/Inger_McCabe_Elliott,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Norway,Correct,131,77.73614120483398,23
+http://dbpedia.org/resource/University_of_Helmstedt,http://www.w3.org/2003/01/geo/wgs84_pos#lat,52.2292,Correct,132,311.54851269721985,23
+http://dbpedia.org/resource/University_of_Helmstedt,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Universities_and_colleges_in_Historical_Germany,Correct,132,311.54851269721985,23
+http://dbpedia.org/resource/University_of_Helmstedt,http://www.w3.org/2003/01/geo/wgs84_pos#long,11.0086,Correct,132,311.54851269721985,23
+http://dbpedia.org/resource/University_of_Helmstedt,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Principality_of_Brunswick-Wolfenbüttel,Correct,132,311.54851269721985,23
+http://dbpedia.org/resource/University_of_Helmstedt,http://www.georss.org/georss/point,52.229166666666664 11.008611111111112,Correct,132,311.54851269721985,23
+http://dbpedia.org/resource/You_Have_to_Run_Fast,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_films,Correct,133,35.390496253967285,23
+http://dbpedia.org/resource/You_Have_to_Run_Fast,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,133,35.390496253967285,23
+http://dbpedia.org/resource/The_Love_Bug_(1925_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Black-and-white_films,Correct,134,201.57801270484924,23
+http://dbpedia.org/resource/The_Love_Bug_(1925_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_comedy_films,Correct,134,201.57801270484924,23
+http://dbpedia.org/resource/The_Love_Bug_(1925_film),http://dbpedia.org/ontology/writer,http://dbpedia.org/resource/Hal_Roach,Correct,134,201.57801270484924,23
+http://dbpedia.org/resource/The_Love_Bug_(1925_film),http://dbpedia.org/ontology/producer,http://dbpedia.org/resource/Hal_Roach,Correct,134,201.57801270484924,23
+http://dbpedia.org/resource/The_Love_Bug_(1925_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,134,201.57801270484924,23
+http://dbpedia.org/resource/Devrekani,http://dbpedia.org/property/postalCode,37,Incorrect,135,109.4277675151825,23
+http://dbpedia.org/resource/Devrekani,http://dbpedia.org/property/longm,50,Incorrect,135,109.4277675151825,23
+http://dbpedia.org/resource/Devrekani,http://dbpedia.org/property/postalCodeType,http://dbpedia.org/resource/Postal_code,Correct,135,109.4277675151825,23
+http://dbpedia.org/resource/Devrekani,http://www.georss.org/georss/point,41.60027777777778 33.833333333333336,Correct,135,109.4277675151825,23
+http://dbpedia.org/resource/Devrekani,http://www.georss.org/georss/point,41.6 33.833333333333336,Correct,135,109.4277675151825,23
+http://dbpedia.org/resource/Time_of_My_Life_(George_Fox_song),http://dbpedia.org/ontology/runtime,205.0,Correct,136,465.9729468822479,23
+http://dbpedia.org/resource/Time_of_My_Life_(George_Fox_song),http://dbpedia.org/property/name,Time of My Life,Correct,136,465.9729468822479,23
+http://dbpedia.org/resource/Time_of_My_Life_(George_Fox_song),http://dbpedia.org/ontology/writer,http://dbpedia.org/resource/George_Fox_(singer),Correct,136,465.9729468822479,23
+http://dbpedia.org/resource/Time_of_My_Life_(George_Fox_song),http://dbpedia.org/property/nextSingle,"""I Give You My Word""",Incorrect,136,465.9729468822479,23
+http://dbpedia.org/resource/Time_of_My_Life_(George_Fox_song),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:George_Fox_songs,Correct,136,465.9729468822479,23
+http://dbpedia.org/resource/Sebastian_Kehl,http://dbpedia.org/property/nationalyears,1998,Incorrect,137,313.57685112953186,23
+http://dbpedia.org/resource/Sebastian_Kehl,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/Sebastian_Kehl.jpg,Correct,137,313.57685112953186,23
+http://dbpedia.org/resource/Sebastian_Kehl,http://dbpedia.org/ontology/team,http://dbpedia.org/resource/Germany_national_youth_football_team,Correct,137,313.57685112953186,23
+http://dbpedia.org/resource/Sebastian_Kehl,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2006_FIFA_World_Cup_players,Incorrect,137,313.57685112953186,23
+http://dbpedia.org/resource/Sebastian_Kehl,http://dbpedia.org/property/shortDescription,German footballer,Correct,137,313.57685112953186,23
+http://dbpedia.org/resource/Eric_Feldt,http://dbpedia.org/ontology/deathYear,1968,Correct,138,320.7043690681457,23
+http://dbpedia.org/resource/Eric_Feldt,http://dbpedia.org/property/deathPlace,"http://dbpedia.org/resource/New_Farm,_Queensland",Correct,138,320.7043690681457,23
+http://dbpedia.org/resource/Eric_Feldt,http://dbpedia.org/property/battles,http://dbpedia.org/resource/New_Guinea_campaign,Correct,138,320.7043690681457,23
+http://dbpedia.org/resource/Eric_Feldt,http://dbpedia.org/ontology/serviceStartYear,1913,Correct,138,320.7043690681457,23
+http://dbpedia.org/resource/Eric_Feldt,http://xmlns.com/foaf/0.1/surname,Feldt,Correct,138,320.7043690681457,23
+http://dbpedia.org/resource/Milton_F._Pavlic,http://dbpedia.org/ontology/deathDate,1942-11-15,Correct,139,111.2953290939331,23
+http://dbpedia.org/resource/Milton_F._Pavlic,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Milton_F._Pavlic,Correct,139,111.2953290939331,23
+http://dbpedia.org/resource/Milton_F._Pavlic,http://dbpedia.org/property/placeofburialLabel,Place of burial,Correct,139,111.2953290939331,23
+http://dbpedia.org/resource/Milton_F._Pavlic,http://dbpedia.org/property/caption,Milton F. Pavlic as a midshipman at the United States Naval Academy in 1932,Incorrect,139,111.2953290939331,23
+http://dbpedia.org/resource/Milton_F._Pavlic,http://dbpedia.org/property/serviceyears,1932,Incorrect,139,111.2953290939331,23
+http://dbpedia.org/resource/Eric_Brittingham,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,140,59.683401107788086,23
+http://dbpedia.org/resource/Herbie_Mann,http://www.w3.org/2000/01/rdf-schema#label,Herbie Mann,Correct,141,3.4188506603240967,23
+http://dbpedia.org/resource/The_Penguins_of_Madagascar,http://dbpedia.org/ontology/distributor,http://dbpedia.org/resource/20th_Television,Correct,142,284.3954544067383,23
+http://dbpedia.org/resource/The_Penguins_of_Madagascar,http://dbpedia.org/property/showName,The Penguins of Madagascar,Correct,142,284.3954544067383,23
+http://dbpedia.org/resource/The_Penguins_of_Madagascar,http://dbpedia.org/property/starring,*,Incorrect,142,284.3954544067383,23
+http://dbpedia.org/resource/The_Penguins_of_Madagascar,http://dbpedia.org/property/network,http://dbpedia.org/resource/Nickelodeon,Correct,142,284.3954544067383,23
+http://dbpedia.org/resource/The_Penguins_of_Madagascar,http://dbpedia.org/property/composer,http://dbpedia.org/resource/Adam_Berry,Correct,142,284.3954544067383,23
+http://dbpedia.org/resource/Smooth_Glasgow,http://dbpedia.org/ontology/shareSource,http://www.rajar.co.uk/listening/quarterly_listening.php,Incorrect,143,276.0578739643097,23
+http://dbpedia.org/resource/Smooth_Glasgow,http://dbpedia.org/ontology/firstAirDate,2007-03-26,Incorrect,143,276.0578739643097,23
+http://dbpedia.org/resource/Smooth_Glasgow,http://www.w3.org/2000/01/rdf-schema#comment,"Smooth Glasgow is a Scottish independent local radio station broadcasting to Glasgow and the surrounding area, owned and operated by Global Radio and broadcasting from studios at Baillieston in the East End of Glasgow. The station replaced Saga 105.2 FM in 2007 and competes with BBC Radio 2, aiming its music at listeners aged 35 and over.",Incorrect,143,276.0578739643097,23
+http://dbpedia.org/resource/Smooth_Glasgow,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:GMG_Radio,Incorrect,143,276.0578739643097,23
+http://dbpedia.org/resource/Smooth_Glasgow,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Radio_stations_established_in_2007,Incorrect,143,276.0578739643097,23
+http://dbpedia.org/resource/Fire_Blade_(video_game),http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Game,Correct,144,25.198288679122925,23
+http://dbpedia.org/resource/The_Golden_Bullet_(1917_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1917_films,Correct,145,76.0124523639679,23
+http://dbpedia.org/resource/The_Golden_Bullet_(1917_film),http://dbpedia.org/ontology/abstract,The Golden Bullet is a 1917 American Western film featuring Harry Carey.,Correct,145,76.0124523639679,23
+http://dbpedia.org/resource/The_Golden_Bullet_(1917_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_directed_by_Fred_Kelsey,Correct,145,76.0124523639679,23
+http://dbpedia.org/resource/The_Golden_Bullet_(1917_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Universal_Pictures_films,Correct,145,76.0124523639679,23
+http://dbpedia.org/resource/The_Golden_Bullet_(1917_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1910s_short_films,Correct,145,76.0124523639679,23
+http://dbpedia.org/resource/Thomas_A._Steitz,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Milwaukee,Correct,146,29.989099740982056,23
+http://dbpedia.org/resource/That_Night,http://www.w3.org/2000/01/rdf-schema#comment,"That Night is a 1992 coming-of-age romantic drama film written and directed by Craig Bolotin, and starring C. Thomas Howell and Juliette Lewis. It is based on the novel of the same name by Alice McDermott.This film is notable for the fact that both Eliza Dushku (of Buffy the Vampire Slayer fame) and Katherine Heigl (of Grey's Anatomy fame) made their first film appearances in it, sharing a few scenes.  Dushku was eleven years old at that time, and Heigl was thirteen.",Correct,147,357.92171120643616,23
+http://dbpedia.org/resource/That_Night,http://dbpedia.org/ontology/producer,http://dbpedia.org/resource/Arnon_Milchan,Correct,147,357.92171120643616,23
+http://dbpedia.org/resource/That_Night,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_set_in_the_1960s,Correct,147,357.92171120643616,23
+http://dbpedia.org/resource/That_Night,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Long_Island_in_fiction,Correct,147,357.92171120643616,23
+http://dbpedia.org/resource/That_Night,http://xmlns.com/foaf/0.1/name,That Night,Correct,147,357.92171120643616,23
+http://dbpedia.org/resource/Freedom_Downtime,http://dbpedia.org/ontology/narrator,http://dbpedia.org/resource/Eric_Corley,Correct,148,262.8057653903961,23
+http://dbpedia.org/resource/Freedom_Downtime,http://dbpedia.org/ontology/director,http://dbpedia.org/resource/Eric_Corley,Correct,148,262.8057653903961,23
+http://dbpedia.org/resource/Freedom_Downtime,http://dbpedia.org/ontology/abstract,"Freedom Downtime is a 2001 documentary film sympathetic to the convicted computer hacker Kevin Mitnick, directed by Emmanuel Goldstein and produced by 2600 Films.The documentary centers on the fate of Mitnick, who is claimed to have been misrepresented in the feature film Takedown (2000) produced by Miramax and adapted from the book by the same name by Tsutomu Shimomura and John Markoff, which is based on disputed events. The film also documents a number of computer enthusiasts who drive across the United States searching for Miramax representatives and demonstrating their discontent with certain aspects of the bootleg script of Takedown they had acquired. One of their major points of criticism was that the script ended with Mitnick being convicted to serve a long-term prison sentence, while in reality, at the time the film's production, Mitnick had not yet even had a trial but nonetheless was incarcerated for five years without bail in a high-security facility. Freedom Downtime also touches on what happened to other hackers after being sentenced. The development of the Free Kevin movement is also covered.Several notable and iconic figures from the hacking community appear in the movie, including Phiber Optik (Mark Abene), Bernie S (Ed Cummings), Alex Kasper, and (director) Emmanuel Goldstein (Eric Corley). Freedom Downtime tries to communicate a different view of the hacker community from that usually shown by the mainstream media, with hackers being depicted as curious people who rarely intend to cause damage, driven by a desire to explore and conduct pranks. The film goes on to question the rationality of placing computer hackers who went ""over the line"" in the same environment as serious felons.It also contains interviews with people related to Mitnick and hacker culture in general. The authors of  , ex-couple Katie Hafner and John Markoff, appear in very different roles. While Hafner's empathy for Mitnick is shown to have grown, Markoff continues to defend his critical book and articles in The New York Times newspaper about the hacker. Markoff is ridiculed as the narrator, director Goldstein (a hacker himself), points out his factual errors during the interview. Reba Vartanian, Mitnick's grandmother, also appears in a number of interview segments. Furthermore, lawyers, friends, and libertarians give their view of the story. Footage and interviews from the DEF CON and Hackers on Planet Earth conventions try to dispel some hacker myths and confirm others.The film premiered at H2K, the 2000 H.O.P.E. convention.  After that the film saw a limited independent theatrical release and was shown at film festivals.  It was released on VHS and sold via the 2600 web site.In June 2004, after years in production, a DVD was released.  The DVD includes a wealth of extra material spread over two discs, including three hours of extra footage, an interview with Kevin Mitnick in January 2003 (shortly after his supervised release ended), and various DVD eggs. [1]  It also includes subtitles in 20 languages, provided by volunteers.",I Don't Know,148,262.8057653903961,23
+http://dbpedia.org/resource/Iain_Butchart,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Bulawayo,Correct,149,26.01522994041443,23
+http://dbpedia.org/resource/Fablehaven:_Rise_of_the_Evening_Star,http://dbpedia.org/ontology/publicationDate,2007-05-31,Incorrect,150,185.16957831382751,23
+http://dbpedia.org/resource/Fablehaven:_Rise_of_the_Evening_Star,http://dbpedia.org/ontology/author,http://dbpedia.org/resource/Brandon_Mull,Correct,150,185.16957831382751,23
+http://dbpedia.org/resource/Fablehaven:_Rise_of_the_Evening_Star,http://dbpedia.org/ontology/abstract,"Fablehaven: Rise of the Evening Star is a fantasy novel written by Brandon Mull. The book was released on May 31, 2007. It is the second book in the Fablehaven series. Its sequel is Fablehaven: Grip of the Shadow Plague.",Incorrect,150,185.16957831382751,23
+http://dbpedia.org/resource/Fablehaven:_Rise_of_the_Evening_Star,http://dbpedia.org/ontology/numberOfPages,448,Incorrect,150,185.16957831382751,23
+http://dbpedia.org/resource/Fablehaven:_Rise_of_the_Evening_Star,http://www.w3.org/2000/01/rdf-schema#label,Fablehaven: Rise of the Evening Star,Correct,150,185.16957831382751,23
+http://dbpedia.org/resource/William_Alexander_McMaster,http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/London,_Ontario",Correct,151,158.1834146976471,23
+http://dbpedia.org/resource/Fourth_Army_(Ottoman_Empire),http://dbpedia.org/ontology/garrison,http://dbpedia.org/resource/Baghdad,Correct,152,249.65909361839292,23
+http://dbpedia.org/resource/Fourth_Army_(Ottoman_Empire),http://dbpedia.org/ontology/notableCommander,http://dbpedia.org/resource/Djemal_Pasha,Correct,152,249.65909361839292,23
+http://dbpedia.org/resource/Fourth_Army_(Ottoman_Empire),http://dbpedia.org/ontology/notableCommander,http://dbpedia.org/resource/Zeki_Pasha,Correct,152,249.65909361839292,23
+http://dbpedia.org/resource/Fourth_Army_(Ottoman_Empire),http://dbpedia.org/ontology/notableCommander,http://dbpedia.org/resource/Cemal_Mersinli,Correct,152,249.65909361839292,23
+http://dbpedia.org/resource/Fourth_Army_(Ottoman_Empire),http://dbpedia.org/ontology/patron,http://dbpedia.org/resource/List_of_sultans_of_the_Ottoman_Empire,Correct,152,249.65909361839292,23
+http://dbpedia.org/resource/Ryan_Starr,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,153,15.003141403198242,23
+http://dbpedia.org/resource/George_Goodman_(politician),http://dbpedia.org/ontology/monarch,http://dbpedia.org/resource/Queen_Victoria,Correct,154,104.11247658729552,23
+http://dbpedia.org/resource/Isle_Royale,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Lake_Superior,Correct,155,488.8079907894135,23
+http://dbpedia.org/resource/Isle_Royale,http://dbpedia.org/property/countryAdminDivisions,"http://dbpedia.org/resource/Eagle_Harbor_Township,_Michigan",Correct,155,488.8079907894135,23
+http://dbpedia.org/resource/Isle_Royale,http://dbpedia.org/property/location,http://dbpedia.org/resource/Lake_Superior,Correct,155,488.8079907894135,23

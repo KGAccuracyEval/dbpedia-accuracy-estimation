@@ -1,0 +1,687 @@
+Subject,Predicate,Object,Annotation,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/Haddiscoe_High_Level_railway_station,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/United_Kingdom,Correct,0,1192.6829669475555,7
+http://dbpedia.org/resource/Haddiscoe_High_Level_railway_station,http://dbpedia.org/property/platforms,2,I Don't Know,0,1192.6829669475555,7
+http://dbpedia.org/resource/Haddiscoe_High_Level_railway_station,http://dbpedia.org/ontology/railwayPlatforms,2,Incorrect,0,1192.6829669475555,7
+http://dbpedia.org/resource/Haddiscoe_High_Level_railway_station,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Station,Correct,0,1192.6829669475555,7
+http://dbpedia.org/resource/Matthew_Hancock,http://dbpedia.org/ontology/primeMinister,http://dbpedia.org/resource/David_Cameron,Incorrect,1,542.299201965332,7
+http://dbpedia.org/resource/Matthew_Hancock,http://dbpedia.org/property/primeminister,http://dbpedia.org/resource/David_Cameron,Incorrect,1,542.299201965332,7
+http://dbpedia.org/resource/Steam_Powered_Giraffe,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,2,87.18901586532593,7
+http://dbpedia.org/resource/Arthur_Wilkinson,http://dbpedia.org/ontology/deathDate,1968,Correct,3,451.1536650657654,7
+http://dbpedia.org/resource/Arthur_Wilkinson,http://purl.org/dc/elements/1.1/description,British composer,Correct,3,451.1536650657654,7
+http://dbpedia.org/resource/Arthur_Wilkinson,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1968_deaths,Correct,3,451.1536650657654,7
+http://dbpedia.org/resource/Arthur_Wilkinson,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:British_composers,Correct,3,451.1536650657654,7
+http://dbpedia.org/resource/Arthur_Wilkinson,http://www.w3.org/2000/01/rdf-schema#label,Arthur Wilkinson,Correct,3,451.1536650657654,7
+http://dbpedia.org/resource/Sexual_intercourse,http://www.w3.org/2000/01/rdf-schema#label,Sexual intercourse,Correct,4,33.02954626083374,7
+http://dbpedia.org/resource/Robert_Scholes,http://www.w3.org/2000/01/rdf-schema#comment,"Robert E. Scholes is an American literary critic and theorist. He is known for his ideas on fabulation and metafiction.He graduated from Yale University. Since 1970 he has been a Professor at Brown University.With Eric S. Rabkin, he published in 1977 the book Science Fiction: History, Science, Vision, which considerably influenced science fiction studies.",Correct,5,874.4109687805176,10
+http://dbpedia.org/resource/Robert_Scholes,http://www.w3.org/2000/01/rdf-schema#label,Robert Scholes,Correct,5,874.4109687805176,10
+http://dbpedia.org/resource/Robert_Scholes,http://xmlns.com/foaf/0.1/name,Robert E. Scholes,Correct,5,874.4109687805176,10
+http://dbpedia.org/resource/Robert_Scholes,http://purl.org/dc/elements/1.1/description,American academic,Correct,5,874.4109687805176,10
+http://dbpedia.org/resource/Robert_Scholes,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Science_fiction_studies,Incorrect,5,874.4109687805176,10
+http://dbpedia.org/resource/Derby,http://dbpedia.org/ontology/motto,"""Industria, Virtus, et Fortitudo""",I Don't Know,6,469.3907420635224,10
+http://dbpedia.org/resource/Derby,http://dbpedia.org/property/longew,W,I Don't Know,6,469.3907420635224,10
+http://dbpedia.org/resource/Derby,http://dbpedia.org/property/decSun,49.2,I Don't Know,6,469.3907420635224,10
+http://dbpedia.org/resource/Derby,http://dbpedia.org/property/febHighC,7,I Don't Know,6,469.3907420635224,10
+http://dbpedia.org/resource/Derby,http://dbpedia.org/ontology/leaderName,http://dbpedia.org/resource/Derby_City_Council,I Don't Know,6,469.3907420635224,10
+http://dbpedia.org/resource/Operation_Harpoon_(1942),http://dbpedia.org/ontology/result,Italian naval victory,Incorrect,7,713.1970381736755,10
+http://dbpedia.org/resource/Operation_Harpoon_(1942),http://dbpedia.org/ontology/strength,17 destroyers,I Don't Know,7,713.1970381736755,10
+http://dbpedia.org/resource/Operation_Harpoon_(1942),http://dbpedia.org/ontology/causalties,3 destroyers damaged,Incorrect,7,713.1970381736755,10
+http://dbpedia.org/resource/Operation_Harpoon_(1942),http://www.w3.org/2000/01/rdf-schema#comment,"Operation Harpoon was one of two simultaneous Allied convoys sent to supply Malta in the Axis-dominated Mediterranean Sea in mid-June 1942, during the Second World War. One convoy, Operation Vigorous, left Alexandria. The other, Operation Harpoon, travelled in the opposite direction from Gibraltar. Both convoys met with fierce Axis opposition and only two of Harpoon′s six merchant ships completed the journey, at the cost of several Allied warships.",Correct,7,713.1970381736755,10
+http://dbpedia.org/resource/Operation_Harpoon_(1942),http://dbpedia.org/ontology/causalties,101+ killed,I Don't Know,7,713.1970381736755,10
+http://dbpedia.org/resource/Tappan_Bridge,http://dbpedia.org/ontology/crosses,http://dbpedia.org/resource/Dry_Brook,Correct,8,390.7764139175415,10
+http://dbpedia.org/resource/Boston_and_Lowell_Railroad,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Boston_and_Lowell_Railroad,Incorrect,9,931.0301580429076,10
+http://dbpedia.org/resource/Boston_and_Lowell_Railroad,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Defunct_Massachusetts_railroads,Incorrect,9,931.0301580429076,10
+http://dbpedia.org/resource/Boston_and_Lowell_Railroad,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Railway_lines_opened_in_1835,Incorrect,9,931.0301580429076,10
+http://dbpedia.org/resource/Boston_and_Lowell_Railroad,http://www.w3.org/2000/01/rdf-schema#comment,The Boston and Lowell Railroad is a historic railroad that operated in Massachusetts in the United States. It was one of the first railroads in North America and the first major one in the state. The line later operated as part of the Boston and Maine Railroad's Southern Division.,Correct,9,931.0301580429076,10
+http://dbpedia.org/resource/Boston_and_Lowell_Railroad,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Boston_and_Lowell_Railroad_1887.png?width=300,Incorrect,9,931.0301580429076,10
+http://dbpedia.org/resource/On_the_Side_of_Angels,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:LeAnn_Rimes_songs,Correct,10,469.1580970287323,10
+http://dbpedia.org/resource/On_the_Side_of_Angels,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Curb_Records_singles,Correct,10,469.1580970287323,10
+http://dbpedia.org/resource/On_the_Side_of_Angels,http://dbpedia.org/property/released,1997-10-11,Incorrect,10,469.1580970287323,10
+http://dbpedia.org/resource/On_the_Side_of_Angels,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Country_music,Correct,10,469.1580970287323,10
+http://dbpedia.org/resource/On_the_Side_of_Angels,http://dbpedia.org/property/name,On the Side of Angels,Correct,10,469.1580970287323,10
+http://dbpedia.org/resource/Kyushu_Railway_Company,http://dbpedia.org/ontology/foundingDate,1987-04-01,Correct,11,111.84875702857973,10
+http://dbpedia.org/resource/RATP_Group,http://dbpedia.org/property/parent,http://dbpedia.org/resource/Government_of_France,Incorrect,12,443.8380329608917,10
+http://dbpedia.org/resource/RATP_Group,http://dbpedia.org/property/locationCountry,France,Incorrect,12,443.8380329608917,10
+http://dbpedia.org/resource/RATP_Group,http://dbpedia.org/property/locationCity,75012,Incorrect,12,443.8380329608917,10
+http://dbpedia.org/resource/RATP_Group,http://xmlns.com/foaf/0.1/homepage,http://www.ratp.fr/en/ratp/c_5002/the-ratp-group/,I Don't Know,12,443.8380329608917,10
+http://dbpedia.org/resource/RATP_Group,http://dbpedia.org/property/homepage,http://www.ratp.fr/en/ratp/c_5002/the-ratp-group/,I Don't Know,12,443.8380329608917,10
+http://dbpedia.org/resource/Posidonius,http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Apamea,_Syria",Correct,13,366.7322881221771,10
+http://dbpedia.org/resource/Posidonius,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Rome,Incorrect,13,366.7322881221771,10
+http://dbpedia.org/resource/Posidonius,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Panaetius,Correct,13,366.7322881221771,10
+http://dbpedia.org/resource/Posidonius,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Apamea_(Syria),Correct,13,366.7322881221771,10
+http://dbpedia.org/resource/Chief_of_Navy_(Australia),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Royal_Australian_Navy,Correct,14,905.121463060379,10
+http://dbpedia.org/resource/Chief_of_Navy_(Australia),http://dbpedia.org/property/insigniasize,130,Incorrect,14,905.121463060379,10
+http://dbpedia.org/resource/Chief_of_Navy_(Australia),http://dbpedia.org/property/incumbentsince,2014-06-30,Incorrect,14,905.121463060379,10
+http://dbpedia.org/resource/Chief_of_Navy_(Australia),http://dbpedia.org/property/insignia,Chief Of Navy Australia.png,Correct,14,905.121463060379,10
+http://dbpedia.org/resource/Chief_of_Navy_(Australia),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Royal_Australian_Navy_admirals,Correct,14,905.121463060379,10
+http://dbpedia.org/resource/The_Legend_of_White_Fang,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Series,Incorrect,15,425.77918219566345,10
+http://dbpedia.org/resource/The_Legend_of_White_Fang,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Canadian_animated_television_series,Correct,15,425.77918219566345,10
+http://dbpedia.org/resource/The_Legend_of_White_Fang,http://dbpedia.org/ontology/network,http://dbpedia.org/resource/HBO,Correct,15,425.77918219566345,10
+http://dbpedia.org/resource/The_Legend_of_White_Fang,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_television_programming,Incorrect,15,425.77918219566345,10
+http://dbpedia.org/resource/The_Legend_of_White_Fang,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Canadian_children's_television_series,Correct,15,425.77918219566345,10
+http://dbpedia.org/resource/Seibu_Railway,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Seibu_Railway,Correct,16,398.81205773353577,10
+http://dbpedia.org/resource/Seibu_Railway,http://dbpedia.org/ontology/numberOfEmployees,3289,I Don't Know,16,398.81205773353577,10
+http://dbpedia.org/resource/Seibu_Railway,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/SeibuRailway_logo.svg?width=300,Incorrect,16,398.81205773353577,10
+http://dbpedia.org/resource/Seibu_Railway,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Railway_companies_of_Japan,Correct,16,398.81205773353577,10
+http://dbpedia.org/resource/Seibu_Railway,http://dbpedia.org/property/name,西武鉄道株式会社,I Don't Know,16,398.81205773353577,10
+http://dbpedia.org/resource/Jean_Dieudonné,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Kishore_Marathe,Correct,17,662.7081427574158,10
+http://dbpedia.org/resource/Jean_Dieudonné,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Alexander_Grothendieck,Correct,17,662.7081427574158,10
+http://dbpedia.org/resource/Jean_Dieudonné,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/France,Correct,17,662.7081427574158,10
+http://dbpedia.org/resource/Jean_Dieudonné,http://dbpedia.org/ontology/award,http://dbpedia.org/resource/Leroy_P._Steele_Prize,Correct,17,662.7081427574158,10
+http://dbpedia.org/resource/Jean_Dieudonné,http://dbpedia.org/ontology/doctoralAdvisor,http://dbpedia.org/resource/Paul_Montel,Incorrect,17,662.7081427574158,10
+http://dbpedia.org/resource/John_Thornton_Augustine_Washington,http://dbpedia.org/ontology/residence,http://dbpedia.org/resource/Cedar_Lawn,Correct,18,944.1978261470796,11
+http://dbpedia.org/resource/John_Thornton_Augustine_Washington,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Soldier,Correct,18,944.1978261470796,11
+http://dbpedia.org/resource/John_Thornton_Augustine_Washington,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Virginia,Incorrect,18,944.1978261470796,11
+http://dbpedia.org/resource/John_Thornton_Augustine_Washington,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Virginia,Correct,18,944.1978261470796,11
+http://dbpedia.org/resource/John_Thornton_Augustine_Washington,http://dbpedia.org/property/religion,http://dbpedia.org/resource/Episcopal_Church_(United_States),I Don't Know,18,944.1978261470796,11
+"http://dbpedia.org/resource/Grips,_Grunts_and_Groans",http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,19,166.1090898513794,11
+http://dbpedia.org/resource/Wilhelm_Höttl,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Altaussee,Incorrect,20,504.1347229480744,11
+http://dbpedia.org/resource/Wilhelm_Höttl,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Vienna,Correct,20,504.1347229480744,11
+"http://dbpedia.org/resource/Centerville,_Indiana",http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/Political_divisions_of_the_United_States,Incorrect,21,303.0786259174347,11
+"http://dbpedia.org/resource/Centerville,_Indiana",http://dbpedia.org/property/utcOffsetDst,-5,Correct,21,303.0786259174347,11
+"http://dbpedia.org/resource/Centerville,_Indiana",http://dbpedia.org/ontology/isPartOf,http://dbpedia.org/resource/Indiana,Correct,21,303.0786259174347,11
+"http://dbpedia.org/resource/Centerville,_Indiana",http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/List_of_countries,Correct,21,303.0786259174347,11
+"http://dbpedia.org/resource/Centerville,_Indiana",http://dbpedia.org/property/subdivisionName,http://dbpedia.org/resource/Indiana,Incorrect,21,303.0786259174347,11
+http://dbpedia.org/resource/Dinah_Shore,http://dbpedia.org/property/associatedActs,http://dbpedia.org/resource/Frank_Sinatra,Correct,22,239.26639699935916,11
+http://dbpedia.org/resource/Dinah_Shore,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1916_births,Correct,22,239.26639699935916,11
+http://dbpedia.org/resource/Dinah_Shore,http://dbpedia.org/property/shortDescription,http://dbpedia.org/resource/Actress,Incorrect,22,239.26639699935916,11
+http://dbpedia.org/resource/Dinah_Shore,http://dbpedia.org/ontology/birthYear,1916,Correct,22,239.26639699935916,11
+http://dbpedia.org/resource/Dinah_Shore,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:20th-century_American_actresses,Correct,22,239.26639699935916,11
+"http://dbpedia.org/resource/St._James_Church_(Monkton,_Maryland)",http://dbpedia.org/property/longDirection,W,Incorrect,23,1021.1376419067384,11
+"http://dbpedia.org/resource/St._James_Church_(Monkton,_Maryland)",http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Properties_of_religious_function_on_the_National_Register_of_Historic_Places_in_Maryland,Correct,23,1021.1376419067384,11
+"http://dbpedia.org/resource/St._James_Church_(Monkton,_Maryland)",http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Churches_in_Baltimore_County,_Maryland",Correct,23,1021.1376419067384,11
+"http://dbpedia.org/resource/St._James_Church_(Monkton,_Maryland)",http://dbpedia.org/property/architecture,Georgian,Correct,23,1021.1376419067384,11
+"http://dbpedia.org/resource/St._James_Church_(Monkton,_Maryland)",http://dbpedia.org/ontology/nrhpReferenceNumber,74000941,Incorrect,23,1021.1376419067384,11
+http://dbpedia.org/resource/Murray_S._Blum,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Louisiana_State_University_faculty,Correct,24,520.2081248760223,11
+http://dbpedia.org/resource/Murray_S._Blum,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:United_States_Army_soldiers,Correct,24,520.2081248760223,11
+http://dbpedia.org/resource/Murray_S._Blum,http://xmlns.com/foaf/0.1/name,"Blum, Murray S.",Correct,24,520.2081248760223,11
+http://dbpedia.org/resource/Murray_S._Blum,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:University_of_Georgia_faculty,Correct,24,520.2081248760223,11
+http://dbpedia.org/resource/Murray_S._Blum,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_military_personnel_of_the_Korean_War,Correct,24,520.2081248760223,11
+http://dbpedia.org/resource/Kirti_Nagar_metro_station,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Delhi_Metro_stations,Correct,25,270.9255738258362,11
+http://dbpedia.org/resource/Kirti_Nagar_metro_station,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Delhi_Metro,Correct,25,270.9255738258362,11
+http://dbpedia.org/resource/Kirti_Nagar_metro_station,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Railway_stations_in_West_Delhi_district,Correct,25,270.9255738258362,11
+http://dbpedia.org/resource/Kirti_Nagar_metro_station,http://dbpedia.org/ontology/parkingInformation,Yes,Incorrect,25,270.9255738258362,11
+http://dbpedia.org/resource/Kirti_Nagar_metro_station,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Railway_stations_opened_in_2005,Correct,25,270.9255738258362,11
+http://dbpedia.org/resource/Hermann_Schubert,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Kingdom_of_Prussia,Correct,26,154.4807150363922,12
+http://dbpedia.org/resource/Hermann_Schubert,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Province_of_Brandenburg,Correct,26,154.4807150363922,12
+http://dbpedia.org/resource/Hermann_Schubert,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Kingdom_of_Prussia,Correct,26,154.4807150363922,12
+http://dbpedia.org/resource/Edward_Garnier,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Wuppertal,I Don't Know,27,998.5210580825806,12
+http://dbpedia.org/resource/Edward_Garnier,http://dbpedia.org/property/office,http://dbpedia.org/resource/Ministry_of_Justice_(United_Kingdom),Incorrect,27,998.5210580825806,12
+http://dbpedia.org/resource/Edward_Garnier,http://www.w3.org/2000/01/rdf-schema#label,Edward Garnier,Incorrect,27,998.5210580825806,12
+http://dbpedia.org/resource/Edward_Garnier,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/West_Germany,I Don't Know,27,998.5210580825806,12
+http://dbpedia.org/resource/Edward_Garnier,http://dbpedia.org/ontology/almaMater,"http://dbpedia.org/resource/Jesus_College,_Oxford",Correct,27,998.5210580825806,12
+http://dbpedia.org/resource/Flat_Bridge,http://dbpedia.org/ontology/crosses,http://dbpedia.org/resource/Rio_Cobre,Correct,28,134.07784605026245,12
+http://dbpedia.org/resource/Santa_Maria_Coghinas,http://dbpedia.org/ontology/region,http://dbpedia.org/resource/Sardinia,Correct,29,47.51223707199097,12
+http://dbpedia.org/resource/Santa_Maria_Coghinas,http://dbpedia.org/property/region,http://dbpedia.org/resource/Sardinia,Correct,29,47.51223707199097,12
+http://dbpedia.org/resource/Spanish_West_Indies,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Santo_Domingo,Correct,30,594.9217600822449,12
+http://dbpedia.org/resource/Spanish_West_Indies,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Spanish_colonial_real,Correct,30,594.9217600822449,12
+http://dbpedia.org/resource/Hereditary_diffuse_leukoencephalopathy_with_spheroids,http://dbpedia.org/ontology/omim,221820,Correct,31,430.901664018631,12
+http://dbpedia.org/resource/Hereditary_diffuse_leukoencephalopathy_with_spheroids,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Genetic_disorders,Incorrect,31,430.901664018631,12
+http://dbpedia.org/resource/Hereditary_diffuse_leukoencephalopathy_with_spheroids,http://xmlns.com/foaf/0.1/name,Hereditary diffuse leukoencephalopathy with spheroids (HDLS),Correct,31,430.901664018631,12
+http://dbpedia.org/resource/Hereditary_diffuse_leukoencephalopathy_with_spheroids,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Hereditary_diffuse_leukoencephalopathy_with_spheroids,I Don't Know,31,430.901664018631,12
+http://dbpedia.org/resource/Hereditary_diffuse_leukoencephalopathy_with_spheroids,http://www.w3.org/2000/01/rdf-schema#label,Hereditary diffuse leukoencephalopathy with spheroids,Correct,31,430.901664018631,12
+http://dbpedia.org/resource/Pelham_Bay_Bridge,http://dbpedia.org/ontology/constructionMaterial,http://dbpedia.org/resource/Steel,I Don't Know,32,664.4939110279083,12
+http://dbpedia.org/resource/Pelham_Bay_Bridge,http://dbpedia.org/ontology/constructionMaterial,http://dbpedia.org/resource/Concrete,Correct,32,664.4939110279083,12
+http://dbpedia.org/resource/Pelham_Bay_Bridge,http://dbpedia.org/ontology/maintainedBy,http://dbpedia.org/resource/Amtrak,Incorrect,32,664.4939110279083,12
+http://dbpedia.org/resource/Moscow_24_(TV_channel),http://dbpedia.org/property/sisterNames,http://dbpedia.org/resource/Russia-24,I Don't Know,33,599.6796870231628,13
+http://dbpedia.org/resource/Moscow_24_(TV_channel),http://dbpedia.org/ontology/sisterStation,http://dbpedia.org/resource/Russia-2,I Don't Know,33,599.6796870231628,13
+http://dbpedia.org/resource/Moscow_24_(TV_channel),http://dbpedia.org/property/pictureFormat,16,I Don't Know,33,599.6796870231628,13
+http://dbpedia.org/resource/Moscow_24_(TV_channel),http://dbpedia.org/ontology/headquarter,http://dbpedia.org/resource/Russia,Correct,33,599.6796870231628,13
+http://dbpedia.org/resource/Moscow_24_(TV_channel),http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Moscow_24_(TV_channel),Incorrect,33,599.6796870231628,13
+http://dbpedia.org/resource/Grey's_Anatomy,http://dbpedia.org/property/producer,Jeff Rafner,Correct,34,746.6681280136108,13
+http://dbpedia.org/resource/Grey's_Anatomy,http://dbpedia.org/property/producer,Gabrielle G. Stanton,Correct,34,746.6681280136108,13
+http://dbpedia.org/resource/Grey's_Anatomy,http://dbpedia.org/property/showName,Grey's Anatomy,Correct,34,746.6681280136108,13
+http://dbpedia.org/resource/Grey's_Anatomy,http://dbpedia.org/property/composer,http://dbpedia.org/resource/Danny_Lux,Correct,34,746.6681280136108,13
+http://dbpedia.org/resource/Grey's_Anatomy,http://dbpedia.org/property/producer,Peter Norwalk,Correct,34,746.6681280136108,13
+http://dbpedia.org/resource/VIS_Entertainment,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/VIS_Entertainment,Incorrect,35,159.82326817512512,13
+http://dbpedia.org/resource/VIS_Entertainment,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Video_game_companies_of_the_United_Kingdom,Correct,35,159.82326817512512,13
+http://dbpedia.org/resource/VIS_Entertainment,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Defunct_video_game_companies,Correct,35,159.82326817512512,13
+http://dbpedia.org/resource/VIS_Entertainment,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Companies_of_Scotland,Correct,35,159.82326817512512,13
+http://dbpedia.org/resource/VIS_Entertainment,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Video_game_companies_established_in_1996,Correct,35,159.82326817512512,13
+http://dbpedia.org/resource/London_Biggin_Hill_Airport,http://www.w3.org/2000/01/rdf-schema#label,London Biggin Hill Airport,Correct,36,1250.8565089702606,13
+http://dbpedia.org/resource/London_Biggin_Hill_Airport,http://dbpedia.org/ontology/runwaySurface,Asphalt,Correct,36,1250.8565089702606,13
+http://dbpedia.org/resource/London_Biggin_Hill_Airport,http://dbpedia.org/property/nativename,Biggin Hill Airport,I Don't Know,36,1250.8565089702606,13
+http://dbpedia.org/resource/Sitmar_Cruises,http://dbpedia.org/ontology/regionServed,http://dbpedia.org/resource/Australasia,Incorrect,37,771.0328168869019,13
+http://dbpedia.org/resource/Sitmar_Cruises,http://dbpedia.org/property/locationCountry,http://dbpedia.org/resource/Monaco,Incorrect,37,771.0328168869019,13
+http://dbpedia.org/resource/Sitmar_Cruises,http://dbpedia.org/ontology/service,http://dbpedia.org/resource/Migrant_Ship,Correct,37,771.0328168869019,13
+http://dbpedia.org/resource/Sitmar_Cruises,http://dbpedia.org/ontology/service,http://dbpedia.org/resource/Cruise_ship,Correct,37,771.0328168869019,13
+http://dbpedia.org/resource/Sitmar_Cruises,http://dbpedia.org/ontology/locationCity,http://dbpedia.org/resource/Monte_Carlo,Incorrect,37,771.0328168869019,13
+http://dbpedia.org/resource/House_at_1487_Loma_Vista_Street,http://www.w3.org/2000/01/rdf-schema#label,House at 1487 Loma Vista Street,Correct,38,257.615180015564,13
+http://dbpedia.org/resource/House_at_1487_Loma_Vista_Street,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/House,Correct,38,257.615180015564,13
+http://dbpedia.org/resource/House_at_1487_Loma_Vista_Street,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/House_at_1487_Loma_Vista_Street.JPG?width=300,Incorrect,38,257.615180015564,13
+http://dbpedia.org/resource/House_at_1487_Loma_Vista_Street,http://dbpedia.org/ontology/yearOfConstruction,1913,Correct,38,257.615180015564,13
+http://dbpedia.org/resource/House_at_1487_Loma_Vista_Street,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Houses_on_the_National_Register_of_Historic_Places_in_California,Correct,38,257.615180015564,13
+http://dbpedia.org/resource/Noam_Chomsky,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/René_Descartes,Correct,39,11835.135462999344,13
+http://dbpedia.org/resource/Noam_Chomsky,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Adam_Smith,Correct,39,11835.135462999344,13
+http://dbpedia.org/resource/Noam_Chomsky,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Peter_Kropotkin,I Don't Know,39,11835.135462999344,13
+http://dbpedia.org/resource/Noam_Chomsky,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Ludwig_Wittgenstein,Incorrect,39,11835.135462999344,13
+http://dbpedia.org/resource/Noam_Chomsky,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/William_Chomsky,Incorrect,39,11835.135462999344,13
+http://dbpedia.org/resource/Genesis_(2009),http://dbpedia.org/property/promotion,http://dbpedia.org/resource/Total_Nonstop_Action_Wrestling,Correct,40,297.34898376464844,13
+http://dbpedia.org/resource/Genesis_(2009),http://dbpedia.org/ontology/followingEvent,http://dbpedia.org/resource/Against_All_Odds_(2009),Correct,40,297.34898376464844,13
+http://dbpedia.org/resource/Genesis_(2009),http://dbpedia.org/ontology/previousEvent,http://dbpedia.org/resource/Final_Resolution_(December_2008),I Don't Know,40,297.34898376464844,13
+http://dbpedia.org/resource/National_Benzole,http://dbpedia.org/ontology/foundingYear,1919,Correct,41,463.99368596076965,13
+http://dbpedia.org/resource/National_Benzole,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/National_Benzole,Correct,41,463.99368596076965,13
+http://dbpedia.org/resource/National_Benzole,http://dbpedia.org/ontology/abstract,"National Benzole was a petroleum brand used in the United Kingdom from 1919 to the 1960s. In 1957 the National Benzole Co.  became wholly owned by Shell-Mex and B.P. Ltd (through British Petroleum) but continued its separate trading identity. In the early 1960s National Benzole was re-branded as National and continued trading as a UK retailer of petroleum products until the early 1990s, when the brand was phased out by parent company BP.",Correct,41,463.99368596076965,13
+http://dbpedia.org/resource/National_Benzole,http://www.w3.org/2000/01/rdf-schema#comment,"National Benzole was a petroleum brand used in the United Kingdom from 1919 to the 1960s. In 1957 the National Benzole Co.  became wholly owned by Shell-Mex and B.P. Ltd (through British Petroleum) but continued its separate trading identity. In the early 1960s National Benzole was re-branded as National and continued trading as a UK retailer of petroleum products until the early 1990s, when the brand was phased out by parent company BP.",Correct,41,463.99368596076965,13
+http://dbpedia.org/resource/National_Benzole,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/National_Benzole,Correct,41,463.99368596076965,13
+http://dbpedia.org/resource/Eckbach,http://dbpedia.org/ontology/sourceCountry,http://dbpedia.org/resource/Germany,Correct,42,475.77198672294617,13
+http://dbpedia.org/resource/Eckbach,http://dbpedia.org/property/progression,http://dbpedia.org/resource/Rhine,Incorrect,42,475.77198672294617,13
+http://dbpedia.org/resource/Eckbach,http://dbpedia.org/property/basinCountries,http://dbpedia.org/resource/Germany,Correct,42,475.77198672294617,13
+http://dbpedia.org/resource/Eckbach,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/River,Correct,42,475.77198672294617,13
+http://dbpedia.org/resource/Eckbach,http://dbpedia.org/property/riverSystem,http://dbpedia.org/resource/Rhine,Correct,42,475.77198672294617,13
+http://dbpedia.org/resource/Geoffrey_Baker,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Berkshire,I Don't Know,43,639.7171251773834,13
+http://dbpedia.org/resource/Rodrigues,http://dbpedia.org/property/latns,S,Incorrect,44,1118.017600774765,13
+http://dbpedia.org/resource/Rodrigues,http://dbpedia.org/property/novLowC,21.3,I Don't Know,44,1118.017600774765,13
+http://dbpedia.org/resource/Rodrigues,http://dbpedia.org/ontology/PopulatedPlace/populationDensity,386.0,Incorrect,44,1118.017600774765,13
+http://dbpedia.org/resource/Rodrigues,http://dbpedia.org/property/demographicsType,Languages,I Don't Know,44,1118.017600774765,13
+http://dbpedia.org/resource/Rodrigues,http://dbpedia.org/property/sepPrecipitationMm,43.8,I Don't Know,44,1118.017600774765,13
+http://dbpedia.org/resource/Thomas_Lane_(MP),http://xmlns.com/foaf/0.1/givenName,Thomas,Correct,45,613.8455312252045,13
+http://dbpedia.org/resource/Thomas_Lane_(MP),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1652_deaths,Incorrect,45,613.8455312252045,13
+http://dbpedia.org/resource/Thomas_Lane_(MP),http://dbpedia.org/property/bwfore,http://dbpedia.org/resource/Arthur_Goodwin,I Don't Know,45,613.8455312252045,13
+http://dbpedia.org/resource/Thomas_Lane_(MP),http://dbpedia.org/property/name,"Lane, Thomas",Correct,45,613.8455312252045,13
+http://dbpedia.org/resource/Thomas_Lane_(MP),http://dbpedia.org/property/after,Parliament suspended until 1640,Incorrect,45,613.8455312252045,13
+http://dbpedia.org/resource/184th_Pennsylvania_Infantry,http://dbpedia.org/property/battles,http://dbpedia.org/resource/Battle_of_Hatcher's_Run,Correct,46,518.7670361995697,13
+http://dbpedia.org/resource/184th_Pennsylvania_Infantry,http://www.w3.org/2000/01/rdf-schema#comment,The 184th Pennsylvania Volunteer Infantry was an infantry regiment that served in the Union Army during the American Civil War.,Correct,46,518.7670361995697,13
+http://dbpedia.org/resource/184th_Pennsylvania_Infantry,http://dbpedia.org/ontology/battle,http://dbpedia.org/resource/Battle_of_Sutherland's_Station,Incorrect,46,518.7670361995697,13
+http://dbpedia.org/resource/184th_Pennsylvania_Infantry,http://dbpedia.org/ontology/battle,http://dbpedia.org/resource/Siege_of_Petersburg,Correct,46,518.7670361995697,13
+http://dbpedia.org/resource/184th_Pennsylvania_Infantry,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/Union_(American_Civil_War),Correct,46,518.7670361995697,13
+http://dbpedia.org/resource/Duke_Georg_Alexander_of_Mecklenburg-Strelitz,http://dbpedia.org/ontology/parent,http://dbpedia.org/resource/Grand_Duchess_Catherine_Mikhailovna_of_Russia,Correct,47,63.23622608184815,13
+http://dbpedia.org/resource/11th_Street_Bridge,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Art_Deco_architecture_in_Oklahoma,Correct,48,606.8852071762085,13
+http://dbpedia.org/resource/11th_Street_Bridge,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Bridges_over_the_Arkansas_River,Correct,48,606.8852071762085,13
+http://dbpedia.org/resource/11th_Street_Bridge,http://www.w3.org/2000/01/rdf-schema#comment,"The 11th Street Bridge was completed in December 1915 to carry vehicles across the Arkansas River at Tulsa, Oklahoma. Used from 1916 to 1972, it was also a part of U.S. Route 66. Functionally, it has been replaced by the I-244 bridges across the Arkansas. At present, the bridge is in poor structural condition and unsafe even for pedestrians.",Incorrect,48,606.8852071762085,13
+http://dbpedia.org/resource/11th_Street_Bridge,http://www.w3.org/2000/01/rdf-schema#label,11th Street Bridge,Correct,48,606.8852071762085,13
+http://dbpedia.org/resource/11th_Street_Bridge,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Buildings_and_structures_in_Tulsa,_Oklahoma",Correct,48,606.8852071762085,13
+http://dbpedia.org/resource/Belfast–Dublin_railway_line,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Republic_of_Ireland,Incorrect,49,154.66610980033877,13
+http://dbpedia.org/resource/Saskatchewan_Highway_1,http://dbpedia.org/ontology/ruralMunicipality,http://dbpedia.org/resource/Rural_Municipality_of_Morse_No._165,I Don't Know,50,1040.9307928085327,13
+http://dbpedia.org/resource/Saskatchewan_Highway_1,http://dbpedia.org/ontology/ruralMunicipality,http://dbpedia.org/resource/Rural_Municipality_of_Swift_Current_No._137,Correct,50,1040.9307928085327,13
+http://dbpedia.org/resource/Saskatchewan_Highway_1,http://dbpedia.org/ontology/ruralMunicipality,http://dbpedia.org/resource/Rural_Municipality_of_Moosomin_No._121,Correct,50,1040.9307928085327,13
+http://dbpedia.org/resource/Saskatchewan_Highway_1,http://dbpedia.org/ontology/ruralMunicipality,http://dbpedia.org/resource/Rural_Municipality_of_South_Qu'Appelle_No._157,I Don't Know,50,1040.9307928085327,13
+http://dbpedia.org/resource/Saskatchewan_Highway_1,http://dbpedia.org/ontology/ruralMunicipality,http://dbpedia.org/resource/Rural_Municipality_of_Wheatlands_No._163,Correct,50,1040.9307928085327,13
+http://dbpedia.org/resource/Laza_Ristovski,http://dbpedia.org/property/shortDescription,Serbian musician,Correct,51,656.6434690952301,13
+http://dbpedia.org/resource/Laza_Ristovski,http://dbpedia.org/property/placeOfDeath,http://dbpedia.org/resource/Belgrade,Correct,51,656.6434690952301,13
+http://dbpedia.org/resource/Laza_Ristovski,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Serbian_rock_keyboardists,Correct,51,656.6434690952301,13
+http://dbpedia.org/resource/Laza_Ristovski,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:People_from_Kraljevo,Correct,51,656.6434690952301,13
+http://dbpedia.org/resource/Laza_Ristovski,http://dbpedia.org/property/genre,http://dbpedia.org/resource/New_Age_music,Correct,51,656.6434690952301,13
+http://dbpedia.org/resource/Kirghiz_Soviet_Socialist_Republic,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Bishkek,Correct,52,277.19274497032166,13
+http://dbpedia.org/resource/Education,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Education,I Don't Know,53,81.62235689163208,13
+http://dbpedia.org/resource/Education,http://dbpedia.org/property/by,no,Incorrect,53,81.62235689163208,13
+http://dbpedia.org/resource/Education,http://dbpedia.org/property/about,yes,Incorrect,53,81.62235689163208,13
+http://dbpedia.org/resource/Education,http://dbpedia.org/property/onlinebooks,no,Incorrect,53,81.62235689163208,13
+http://dbpedia.org/resource/Education,http://dbpedia.org/property/label,Education,Correct,53,81.62235689163208,13
+http://dbpedia.org/resource/Rio_Tinto_Group,http://dbpedia.org/ontology/industry,http://dbpedia.org/resource/Metal,Correct,54,429.1469841003418,13
+http://dbpedia.org/resource/Rio_Tinto_Group,http://dbpedia.org/ontology/product,http://dbpedia.org/resource/Titanium_dioxide,Correct,54,429.1469841003418,13
+http://dbpedia.org/resource/Rio_Tinto_Group,http://dbpedia.org/property/subsid,http://dbpedia.org/resource/Rio_Tinto_Alcan,Correct,54,429.1469841003418,13
+http://dbpedia.org/resource/Rio_Tinto_Group,http://dbpedia.org/property/location,http://dbpedia.org/resource/United_Kingdom,Correct,54,429.1469841003418,13
+http://dbpedia.org/resource/Rio_Tinto_Group,http://dbpedia.org/property/location,http://dbpedia.org/resource/London,Correct,54,429.1469841003418,13
+http://dbpedia.org/resource/Drammen_Station,http://dbpedia.org/property/postspan,1,Incorrect,55,223.24667811393735,13
+http://dbpedia.org/resource/Drammen_Station,http://dbpedia.org/property/prespan,yes,Incorrect,55,223.24667811393735,13
+http://dbpedia.org/resource/Drammen_Station,http://dbpedia.org/property/pre,—,Incorrect,55,223.24667811393735,13
+http://dbpedia.org/resource/Drammen_Station,http://dbpedia.org/property/prestation,http://dbpedia.org/resource/Gulskogen_Station,Incorrect,55,223.24667811393735,13
+http://dbpedia.org/resource/Drammen_Station,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Railway_stations_on_the_Drammen_Line,Correct,55,223.24667811393735,13
+http://dbpedia.org/resource/Berlin_Oranienburger_Straße_station,http://dbpedia.org/property/line,http://dbpedia.org/resource/Berlin_Nord-Süd_Tunnel,Correct,56,390.0543401241303,13
+http://dbpedia.org/resource/Berlin_Oranienburger_Straße_station,http://dbpedia.org/property/symbolLocation,de,Correct,56,390.0543401241303,13
+http://dbpedia.org/resource/Berlin_Oranienburger_Straße_station,http://dbpedia.org/ontology/abstract,"Berlin Oranienburger Straße (in German Bahnhof Berlin Oranienburger Straße) is a railway station in the city of Berlin, Germany, located on Oranienburger Straße. It is served by the Berlin S-Bahn and local tram lines.",Correct,56,390.0543401241303,13
+http://dbpedia.org/resource/Berlin_Oranienburger_Straße_station,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Station,Correct,56,390.0543401241303,13
+http://dbpedia.org/resource/Berlin_Oranienburger_Straße_station,http://dbpedia.org/property/system,SBB,I Don't Know,56,390.0543401241303,13
+http://dbpedia.org/resource/Any_Love_(Misia_song),http://dbpedia.org/property/released,2007-07-04,Correct,57,608.8747172355652,13
+http://dbpedia.org/resource/Any_Love_(Misia_song),http://dbpedia.org/property/title,Soba ni Ite...,Incorrect,57,608.8747172355652,13
+http://dbpedia.org/resource/Any_Love_(Misia_song),http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Seventeenth,Incorrect,57,608.8747172355652,13
+http://dbpedia.org/resource/Any_Love_(Misia_song),http://dbpedia.org/property/extra,Sinkiroh,Correct,57,608.8747172355652,13
+http://dbpedia.org/resource/Any_Love_(Misia_song),http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Contemporary_R&B,I Don't Know,57,608.8747172355652,13
+http://dbpedia.org/resource/1815_Philadelphia_train_accident,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Railway_accidents_in_1815,Correct,58,379.9375429153442,13
+http://dbpedia.org/resource/1815_Philadelphia_train_accident,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:History_of_County_Durham,Correct,58,379.9375429153442,13
+http://dbpedia.org/resource/1815_Philadelphia_train_accident,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Railway_accidents_in_County_Durham,Correct,58,379.9375429153442,13
+http://dbpedia.org/resource/1815_Philadelphia_train_accident,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1815_in_England,Correct,58,379.9375429153442,13
+http://dbpedia.org/resource/1815_Philadelphia_train_accident,http://dbpedia.org/property/longitude,-1.478,I Don't Know,58,379.9375429153442,13
+http://dbpedia.org/resource/Weissenau_Abbey,http://dbpedia.org/property/commonName,Weissenau,Correct,59,120.49522089958192,13
+http://dbpedia.org/resource/Derby,http://dbpedia.org/ontology/leaderTitle,Executive,Incorrect,60,55824.88573217392,13
+http://dbpedia.org/resource/Derby,http://dbpedia.org/property/southeast,http://dbpedia.org/resource/Kegworth,Correct,60,55824.88573217392,13
+http://dbpedia.org/resource/Derby,http://dbpedia.org/property/populationBlank,2.9,I Don't Know,60,55824.88573217392,13
+http://dbpedia.org/resource/Derby,http://dbpedia.org/property/leaderName,http://dbpedia.org/resource/Amanda_Solloway,I Don't Know,60,55824.88573217392,13
+http://dbpedia.org/resource/Derby,http://dbpedia.org/property/leaderTitle,http://dbpedia.org/resource/Local_government_in_England,Incorrect,60,55824.88573217392,13
+http://dbpedia.org/resource/Eastern_Wei,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Luoyang,Correct,61,255.7117018699646,14
+http://dbpedia.org/resource/Eastern_Wei,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Ye_(ancient_China),Correct,61,255.7117018699646,14
+http://dbpedia.org/resource/Percy_the_Small_Engine,http://dbpedia.org/ontology/voice,http://dbpedia.org/resource/Keith_Wickham,Correct,62,228.50394821166992,14
+http://dbpedia.org/resource/Percy_the_Small_Engine,http://dbpedia.org/ontology/voice,http://dbpedia.org/resource/Christopher_Ragland,Correct,62,228.50394821166992,14
+http://dbpedia.org/resource/Percy_the_Small_Engine,http://dbpedia.org/ontology/voice,http://dbpedia.org/resource/Martin_Sherman_(actor),Correct,62,228.50394821166992,14
+http://dbpedia.org/resource/Percy_the_Small_Engine,http://dbpedia.org/ontology/voice,http://dbpedia.org/resource/Linda_Ballantyne,Incorrect,62,228.50394821166992,14
+http://dbpedia.org/resource/Percy_the_Small_Engine,http://dbpedia.org/ontology/voice,http://dbpedia.org/resource/Chie_Kōjiro,Correct,62,228.50394821166992,14
+http://dbpedia.org/resource/Eibenstock_Dam,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Germany,Correct,63,220.93839693069455,14
+http://dbpedia.org/resource/Eibenstock_Dam,http://dbpedia.org/ontology/river,http://dbpedia.org/resource/Zwickau_Mulde,Correct,63,220.93839693069455,14
+http://dbpedia.org/resource/Eibenstock_Dam,http://dbpedia.org/ontology/river,http://dbpedia.org/resource/Rähmerbach_Basin,Incorrect,63,220.93839693069455,14
+http://dbpedia.org/resource/Dry_well,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Sickergrube.jpg?width=300,Incorrect,64,161.93747568130493,14
+http://dbpedia.org/resource/Dry_well,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Stormwater_management,Correct,64,161.93747568130493,14
+http://dbpedia.org/resource/Dry_well,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Environmental_engineering,Correct,64,161.93747568130493,14
+http://dbpedia.org/resource/Dry_well,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/Sickergrube.jpg,Correct,64,161.93747568130493,14
+http://dbpedia.org/resource/Dry_well,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Nuclear_power_plant_components,Incorrect,64,161.93747568130493,14
+http://dbpedia.org/resource/As_Long_as_It_Takes,http://dbpedia.org/ontology/previousWork,http://dbpedia.org/resource/The_Invitation_(Meredith_Andrews_album),Correct,65,922.4052238464355,14
+http://dbpedia.org/resource/As_Long_as_It_Takes,http://dbpedia.org/property/writer,"Ingram, Jacob Sooter",Incorrect,65,922.4052238464355,14
+http://dbpedia.org/resource/As_Long_as_It_Takes,http://dbpedia.org/property/writer,"Stu Gerrard, Ingram",Incorrect,65,922.4052238464355,14
+http://dbpedia.org/resource/As_Long_as_It_Takes,http://dbpedia.org/property/artist,http://dbpedia.org/resource/Meredith_Andrews,Correct,65,922.4052238464355,14
+http://dbpedia.org/resource/As_Long_as_It_Takes,http://dbpedia.org/property/length,271.0,Incorrect,65,922.4052238464355,14
+http://dbpedia.org/resource/Giovanni_Battista_Piranesi,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Artist,Incorrect,66,204.29595375061035,14
+http://dbpedia.org/resource/Giovanni_Battista_Piranesi,http://dbpedia.org/ontology/deathYear,1778,Correct,66,204.29595375061035,14
+http://dbpedia.org/resource/Giovanni_Battista_Piranesi,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1778_deaths,Correct,66,204.29595375061035,14
+http://dbpedia.org/resource/Giovanni_Battista_Piranesi,http://dbpedia.org/ontology/field,http://dbpedia.org/resource/Etching,Correct,66,204.29595375061035,14
+http://dbpedia.org/resource/Giovanni_Battista_Piranesi,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Italian_etchers,Correct,66,204.29595375061035,14
+http://dbpedia.org/resource/Helen_Atkinson-Wood,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Cheshire,Correct,67,65.5959780216217,14
+http://dbpedia.org/resource/Russia_Wharf_Buildings,http://dbpedia.org/property/latDegrees,42,I Don't Know,68,99.14076805114746,14
+http://dbpedia.org/resource/Russia_Wharf_Buildings,http://dbpedia.org/property/longDirection,W,I Don't Know,68,99.14076805114746,14
+http://dbpedia.org/resource/Russia_Wharf_Buildings,http://dbpedia.org/property/latDirection,N,I Don't Know,68,99.14076805114746,14
+http://dbpedia.org/resource/Russia_Wharf_Buildings,http://dbpedia.org/property/locmapin,Massachusetts,I Don't Know,68,99.14076805114746,14
+http://dbpedia.org/resource/Russia_Wharf_Buildings,http://dbpedia.org/property/longDegrees,71,I Don't Know,68,99.14076805114746,14
+http://dbpedia.org/resource/454th_Bombardment_Group,http://dbpedia.org/ontology/role,Bombardment,Correct,69,410.4324550628662,14
+http://dbpedia.org/resource/454th_Bombardment_Group,http://dbpedia.org/property/awardDate,1944-07-25,Correct,69,410.4324550628662,14
+http://dbpedia.org/resource/454th_Bombardment_Group,http://xmlns.com/foaf/0.1/name,60px,Incorrect,69,410.4324550628662,14
+http://dbpedia.org/resource/454th_Bombardment_Group,http://dbpedia.org/property/awardName,Distinguished Unit Citation,Correct,69,410.4324550628662,14
+http://dbpedia.org/resource/454th_Bombardment_Group,http://dbpedia.org/property/awardNotes,"Linz, Germany",Correct,69,410.4324550628662,14
+http://dbpedia.org/resource/Glad_Christmas_Tidings,http://dbpedia.org/property/title,Los pastores a belen,Correct,70,176.0510449409485,14
+http://dbpedia.org/resource/Glad_Christmas_Tidings,http://dbpedia.org/property/title,A Holiday Hoedown for Organ,Correct,70,176.0510449409485,14
+http://dbpedia.org/resource/Glad_Christmas_Tidings,http://www.w3.org/2000/01/rdf-schema#label,Glad Christmas Tidings,Correct,70,176.0510449409485,14
+http://dbpedia.org/resource/Glad_Christmas_Tidings,http://dbpedia.org/property/extra,"Choir, Orchestra, and Bells",Incorrect,70,176.0510449409485,14
+http://dbpedia.org/resource/Glad_Christmas_Tidings,http://xmlns.com/foaf/0.1/name,Glad Christmas Tidings,Correct,70,176.0510449409485,14
+http://dbpedia.org/resource/Dmitry_Kramkov,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Juan_Carlos_Rivera,Correct,71,114.21860194206238,14
+http://dbpedia.org/resource/Dmitry_Kramkov,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/David_German,Correct,71,114.21860194206238,14
+http://dbpedia.org/resource/Tracy_Caldwell_Dyson,http://dbpedia.org/ontology/abstract,"HIDDEN ERROR: Usage of ""date_death"" is not recognizedTracy Caldwell Dyson (born Tracy Ellen Caldwell, August 14, 1969) is an American chemist and NASA astronaut. Caldwell Dyson was a Mission Specialist on Space Shuttle Endeavour flight STS-118 in August 2007. She was part of the Expedition 24 crew on the International Space Station between April 4, 2010 and September 25, 2010. She has completed three spacewalks, logging more than 22 hrs of EVA including work to replace a malfunctioning coolant pump.",Incorrect,72,2585.664799928665,14
+http://dbpedia.org/resource/Sayn-Wittgenstein-Wittgenstein,http://dbpedia.org/property/commonName,Sayn-Wittgenstein-Wittgenstein,Incorrect,73,43.41814875602722,14
+http://dbpedia.org/resource/Duchy_of_Brunswick,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/German_gold_mark,Correct,74,547.9980628490448,14
+http://dbpedia.org/resource/Duchy_of_Brunswick,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Braunschweig,Correct,74,547.9980628490448,14
+http://dbpedia.org/resource/Duchy_of_Brunswick,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/German_Papiermark,I Don't Know,74,547.9980628490448,14
+http://dbpedia.org/resource/Duchy_of_Brunswick,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Vereinsthaler,Correct,74,547.9980628490448,14
+http://dbpedia.org/resource/Sundgau,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Altkirch,Correct,75,29.74423098564148,14
+http://dbpedia.org/resource/115th_Street_–_Morgan_Park_(Metra_station),http://www.w3.org/2000/01/rdf-schema#label,115th Street – Morgan Park (Metra station),Incorrect,76,28.42948794364929,14
+http://dbpedia.org/resource/Allied_occupation_of_Libya,http://dbpedia.org/property/commonName,Libya,Incorrect,77,23.871404886245728,14
+http://dbpedia.org/resource/Canada_Place,http://dbpedia.org/property/startDate,1983-03-09,Incorrect,78,440.3479518890381,14
+http://dbpedia.org/resource/Canada_Place,http://www.w3.org/2000/01/rdf-schema#label,Canada Place,Correct,78,440.3479518890381,14
+http://dbpedia.org/resource/Canada_Place,http://dbpedia.org/property/floorCount,23,Incorrect,78,440.3479518890381,14
+http://dbpedia.org/resource/Canada_Place,http://dbpedia.org/ontology/cost,4.0E8,I Don't Know,78,440.3479518890381,14
+http://dbpedia.org/resource/University_of_Valencia,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/Spain,Correct,79,12.857625722885132,14
+http://dbpedia.org/resource/William_Davis_(Royal_Navy_officer),http://dbpedia.org/ontology/award,http://dbpedia.org/resource/Distinguished_Service_Order,I Don't Know,80,1012.6925671100616,14
+http://dbpedia.org/resource/William_Davis_(Royal_Navy_officer),http://dbpedia.org/property/years,1958,Incorrect,80,1012.6925671100616,14
+http://dbpedia.org/resource/William_Davis_(Royal_Navy_officer),http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Shimla,Correct,80,1012.6925671100616,14
+http://dbpedia.org/resource/William_Davis_(Royal_Navy_officer),http://dbpedia.org/property/commands,http://dbpedia.org/resource/Home_Fleet,Incorrect,80,1012.6925671100616,14
+http://dbpedia.org/resource/William_Davis_(Royal_Navy_officer),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Deputy_Lieutenants_of_Gloucestershire,I Don't Know,80,1012.6925671100616,14
+http://dbpedia.org/resource/Groningen_Europapark_railway_station,http://dbpedia.org/property/imageCaption,Groningen Europapark railway station in 2013,Incorrect,81,599.5835919380188,14
+http://dbpedia.org/resource/Groningen_Europapark_railway_station,http://xmlns.com/foaf/0.1/name,Groningen Europapark,Correct,81,599.5835919380188,14
+http://dbpedia.org/resource/Groningen_Europapark_railway_station,http://dbpedia.org/property/longm,35,Incorrect,81,599.5835919380188,14
+http://dbpedia.org/resource/Groningen_Europapark_railway_station,http://dbpedia.org/property/code,Gerp,Incorrect,81,599.5835919380188,14
+http://dbpedia.org/resource/Groningen_Europapark_railway_station,http://dbpedia.org/property/line,http://dbpedia.org/resource/Meppel–Groningen_railway,I Don't Know,81,599.5835919380188,14
+http://dbpedia.org/resource/Star_Soldier,http://www.w3.org/2000/01/rdf-schema#comment,"Star Soldier (スターソルジャー, Sutā Sorujā) is a series of shoot 'em up video games mainly developed by Hudson Soft. Konami has owned the rights to the series since their absorption of Hudson Soft in 2012.The first game, named Star Soldier, appeared on the MSX and NES in 1986, and the series has continued on various gaming systems.",I Don't Know,82,387.79752826690674,14
+http://dbpedia.org/resource/Star_Soldier,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Video_game_franchises,Correct,82,387.79752826690674,14
+http://dbpedia.org/resource/Star_Soldier,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Star_Soldier,Incorrect,82,387.79752826690674,14
+http://dbpedia.org/resource/Star_Soldier,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Star_Soldier,Correct,82,387.79752826690674,14
+http://dbpedia.org/resource/Star_Soldier,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Star_Soldier,Correct,82,387.79752826690674,14
+http://dbpedia.org/resource/Porsche_911_GT1,http://dbpedia.org/property/manufacturer,http://dbpedia.org/resource/Porsche,Correct,83,152.8849651813507,14
+http://dbpedia.org/resource/Porsche_911_GT1,http://dbpedia.org/ontology/manufacturer,http://dbpedia.org/resource/Porsche,Correct,83,152.8849651813507,14
+http://dbpedia.org/resource/Porsche_911_GT1,http://dbpedia.org/ontology/layout,"http://dbpedia.org/resource/Rear_mid-engine,_rear-wheel-drive_layout",I Don't Know,83,152.8849651813507,14
+http://dbpedia.org/resource/Porsche_911_GT1,http://dbpedia.org/property/constructor,http://dbpedia.org/resource/Porsche,Correct,83,152.8849651813507,14
+http://dbpedia.org/resource/Porsche_911_GT1,http://xmlns.com/foaf/0.1/name,Porsche 911 GT1 Straßenversion,Incorrect,83,152.8849651813507,14
+http://dbpedia.org/resource/Danilo_Barthel,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Power_forwards_(basketball),Correct,84,510.6540262699127,14
+http://dbpedia.org/resource/Danilo_Barthel,http://dbpedia.org/property/name,Danilo Barthel,Incorrect,84,510.6540262699127,14
+http://dbpedia.org/resource/Danilo_Barthel,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Skyliners_Frankfurt_players,Correct,84,510.6540262699127,14
+http://dbpedia.org/resource/Danilo_Barthel,http://dbpedia.org/ontology/abstract,"Danilo Barthel (born October 24, 1991) is a German basketball player. He usually plays as power forward and is a member of the Fraport Skyliners since 2011.",Correct,84,510.6540262699127,14
+http://dbpedia.org/resource/Danilo_Barthel,http://dbpedia.org/property/highlights,"*BBL All-Star 
+*BBL Most Improved Player",Correct,84,510.6540262699127,14
+http://dbpedia.org/resource/Jesus_of_Montreal,http://www.w3.org/2000/01/rdf-schema#comment,Jesus of Montreal (French: Jésus de Montréal) is a 1989 Canadian film directed by Denys Arcand.,Correct,85,237.61100888252255,14
+http://dbpedia.org/resource/Jesus_of_Montreal,http://dbpedia.org/property/director,http://dbpedia.org/resource/Denys_Arcand,Correct,85,237.61100888252255,14
+http://dbpedia.org/resource/Jesus_of_Montreal,http://dbpedia.org/ontology/musicComposer,http://dbpedia.org/resource/Yves_Laferriere,Correct,85,237.61100888252255,14
+http://dbpedia.org/resource/Jesus_of_Montreal,http://dbpedia.org/ontology/editing,http://dbpedia.org/resource/Isabelle_Dedieu,Correct,85,237.61100888252255,14
+http://dbpedia.org/resource/Jesus_of_Montreal,http://dbpedia.org/property/caption,Movie poster,Correct,85,237.61100888252255,14
+http://dbpedia.org/resource/Esso_Atlantic_class_supertankers,http://dbpedia.org/property/shipBuilder,http://dbpedia.org/resource/Ariake,I Don't Know,86,260.0275070667267,14
+http://dbpedia.org/resource/Esso_Atlantic_class_supertankers,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Esso_Pacific.jpg?width=300,Incorrect,86,260.0275070667267,14
+http://dbpedia.org/resource/Esso_Atlantic_class_supertankers,http://dbpedia.org/property/shipCapacity,after rename,Incorrect,86,260.0275070667267,14
+http://dbpedia.org/resource/Esso_Atlantic_class_supertankers,http://dbpedia.org/ontology/builder,http://dbpedia.org/resource/Hitachi_Zosen_Corporation,Correct,86,260.0275070667267,14
+http://dbpedia.org/resource/Esso_Atlantic_class_supertankers,http://dbpedia.org/property/shipHorsepower,45000,Correct,86,260.0275070667267,14
+http://dbpedia.org/resource/Viktor_Bolkhovitinov,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Aircraft_designers,Correct,87,18857.36896800995,14
+http://dbpedia.org/resource/Viktor_Bolkhovitinov,http://xmlns.com/foaf/0.1/givenName,Viktor Fedorovich,Incorrect,87,18857.36896800995,14
+http://dbpedia.org/resource/Viktor_Bolkhovitinov,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/Wiktor_Fjodorowitsch_Bolchowitinow_jung.jpg,Correct,87,18857.36896800995,14
+http://dbpedia.org/resource/Viktor_Bolkhovitinov,http://dbpedia.org/property/placeOfDeath,Moscow,Correct,87,18857.36896800995,14
+http://dbpedia.org/resource/Viktor_Bolkhovitinov,http://xmlns.com/foaf/0.1/name,Viktor Fedorovich Bolkhovitinov,Correct,87,18857.36896800995,14
+http://dbpedia.org/resource/Thomas_Lough,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Thomas_Lough,Correct,88,294.760302066803,14
+http://dbpedia.org/resource/Thomas_Lough,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:UK_MPs_1892–95,Incorrect,88,294.760302066803,14
+http://dbpedia.org/resource/Thomas_Lough,http://www.w3.org/2000/01/rdf-schema#comment,"The Rt. Hon. Thomas Lough, P.C. (1850 – 11 January 1922), was a British radical Liberal politician.He was born in Cavan, Ireland to Mathew Lough and Martha Steel, and was educated at the Royal School Cavan and at Wesleyan Connexional School, Dublin.He worked as a tea merchant in London from 1880. He was an unsuccessful Liberal candidate for Truro at the 1886 general election and in 1888 appointed Ramsay MacDonald as a private secretary.",Incorrect,88,294.760302066803,14
+http://dbpedia.org/resource/Thomas_Lough,http://dbpedia.org/property/years,1905,Incorrect,88,294.760302066803,14
+http://dbpedia.org/resource/Thomas_Lough,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:UK_MPs_1906–10,Incorrect,88,294.760302066803,14
+http://dbpedia.org/resource/Kuala_Lumpur_Sentral_railway_station,http://dbpedia.org/ontology/parkingInformation,None,Incorrect,89,158.96070098876953,14
+http://dbpedia.org/resource/Kuala_Lumpur_Sentral_railway_station,http://dbpedia.org/ontology/parkingInformation,"Available, pay",Correct,89,158.96070098876953,14
+http://dbpedia.org/resource/Felton_Covered_Bridge,http://dbpedia.org/property/authorType,Architect,Correct,90,573.0442271232605,14
+http://dbpedia.org/resource/Felton_Covered_Bridge,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Bridges_completed_in_1892,Correct,90,573.0442271232605,14
+http://dbpedia.org/resource/Felton_Covered_Bridge,http://dbpedia.org/property/latS,3,Incorrect,90,573.0442271232605,14
+http://dbpedia.org/resource/Felton_Covered_Bridge,http://dbpedia.org/ontology/abstract,"The Felton Covered Bridge is a covered bridge over the San Lorenzo River in Felton, Santa Cruz County in the U.S. state of California. Built in 1892, the bridge employs a brown truss structural system and is approximately 80 feet long. The bridge became a California Historical Landmark in 1957, was placed on the National Register of Historic Places in 1973, and had a major restoration in 1987 after being damaged in storms in the winter of 1982. It is considered to be the tallest covered bridge in the United States, and was the main entry point for Felton for 45 years.The bridge is no longer used on the roadway, but is accessible to pedestrians visiting the Felton Covered Bridge Park.",Correct,90,573.0442271232605,14
+http://dbpedia.org/resource/Felton_Covered_Bridge,http://dbpedia.org/property/footnotes,--06-19,Incorrect,90,573.0442271232605,14
+http://dbpedia.org/resource/The_Frank_Zappa_AAAFNRAAA_Birthday_Bundle_(2008),http://dbpedia.org/property/producer,"Frank Zappa, Joe Travers, Dweezil Zappa, Linda Perry",Correct,91,366.4819040298462,14
+http://dbpedia.org/resource/The_Frank_Zappa_AAAFNRAAA_Birthday_Bundle_(2008),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Compilation_albums_published_posthumously,Correct,91,366.4819040298462,14
+http://dbpedia.org/resource/The_Frank_Zappa_AAAFNRAAA_Birthday_Bundle_(2008),http://dbpedia.org/ontology/releaseDate,2008-12-21,Correct,91,366.4819040298462,14
+http://dbpedia.org/resource/The_Frank_Zappa_AAAFNRAAA_Birthday_Bundle_(2008),http://dbpedia.org/ontology/abstract,"The Frank Zappa AAAFNRAAA Birthday Bundle 2008 was released as a digital download on iTunes on December 21, 2008. It consists of five previously unreleased tracks performed by Frank Zappa, and new tracks featuring Zappa's children, producer Joe Travers and others. It is the second iTunes album by Frank Zappa, the first being The Frank Zappa AAAFNRAA Birthday Bundle (2006). (AAAFNRAA stands for ""Anything Anytime Anywhere for No Reason At All"", Zappa's motto of sorts.) The additional A in this release's title stands for ""Again"".",Correct,91,366.4819040298462,14
+http://dbpedia.org/resource/The_Frank_Zappa_AAAFNRAAA_Birthday_Bundle_(2008),http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Compilation_album,Incorrect,91,366.4819040298462,14
+http://dbpedia.org/resource/Jürgen_Moser,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/John_N._Mather,I Don't Know,92,293.48688220977783,14
+http://dbpedia.org/resource/Jürgen_Moser,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Michael_Herman_(mathematician),I Don't Know,92,293.48688220977783,14
+http://dbpedia.org/resource/Jürgen_Moser,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Carl_Gustav_Jacob_Jacobi,I Don't Know,92,293.48688220977783,14
+http://dbpedia.org/resource/V/Line_G_class,http://dbpedia.org/ontology/owner,http://dbpedia.org/resource/AWB_Limited,Incorrect,93,71.70938110351562,14
+http://dbpedia.org/resource/V/Line_G_class,http://dbpedia.org/property/currentowner,http://dbpedia.org/resource/AWB_Limited,Incorrect,93,71.70938110351562,14
+http://dbpedia.org/resource/Berlin-Pankow-Heinersdorf_station,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Bahnhof_Pankow-Heinersdorf_01279.JPG?width=300,Incorrect,94,93.21773600578308,14
+http://dbpedia.org/resource/Berlin-Pankow-Heinersdorf_station,http://dbpedia.org/property/system,SBB,Incorrect,94,93.21773600578308,14
+http://dbpedia.org/resource/Berlin-Pankow-Heinersdorf_station,http://www.georss.org/georss/point,52.5783 13.4297,Incorrect,94,93.21773600578308,14
+http://dbpedia.org/resource/Berlin-Pankow-Heinersdorf_station,http://dbpedia.org/property/type,North,Incorrect,94,93.21773600578308,14
+http://dbpedia.org/resource/Berlin-Pankow-Heinersdorf_station,http://www.w3.org/2000/01/rdf-schema#label,Berlin-Pankow-Heinersdorf station,Correct,94,93.21773600578308,14
+http://dbpedia.org/resource/St._Paul_Union_Pacific_Rail_Bridge,http://dbpedia.org/ontology/crosses,http://dbpedia.org/resource/Mississippi_River,Correct,95,41.21648097038269,14
+http://dbpedia.org/resource/Lower_Guadiana_International_bridge,http://dbpedia.org/ontology/crosses,http://dbpedia.org/resource/Chanza_River,Incorrect,96,76.1805989742279,14
+"http://dbpedia.org/resource/Maria_Letizia_Bonaparte,_Duchess_of_Aosta",http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Burials_at_the_Basilica_of_Superga,Correct,97,721.498241186142,14
+"http://dbpedia.org/resource/Maria_Letizia_Bonaparte,_Duchess_of_Aosta",http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Italian_princesses,Correct,97,721.498241186142,14
+"http://dbpedia.org/resource/Maria_Letizia_Bonaparte,_Duchess_of_Aosta",http://dbpedia.org/property/hasPhotoCollection,"http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Maria_Letizia_Bonaparte,_Duchess_of_Aosta",Correct,97,721.498241186142,14
+"http://dbpedia.org/resource/Maria_Letizia_Bonaparte,_Duchess_of_Aosta",http://xmlns.com/foaf/0.1/name,Marie Laetitia Eugénie Catherine Adélaïde Bonaparte,Correct,97,721.498241186142,14
+"http://dbpedia.org/resource/Maria_Letizia_Bonaparte,_Duchess_of_Aosta",http://dbpedia.org/property/house,http://dbpedia.org/resource/House_of_Bonaparte,Incorrect,97,721.498241186142,14
+http://dbpedia.org/resource/Gilan_Province,http://dbpedia.org/property/seatType,http://dbpedia.org/resource/Capital_city,Incorrect,98,166.97400283813477,14
+http://dbpedia.org/resource/Gilan_Province,http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/Regions_of_Iran,Incorrect,98,166.97400283813477,14
+http://dbpedia.org/resource/Gilan_Province,http://dbpedia.org/property/p,16,Incorrect,98,166.97400283813477,14
+http://dbpedia.org/resource/Gilan_Province,http://dbpedia.org/property/mapCaption,Location of Gilan within Iran,Correct,98,166.97400283813477,14
+http://dbpedia.org/resource/Gilan_Province,http://dbpedia.org/property/coordinatesRegion,IR,Incorrect,98,166.97400283813477,14
+http://dbpedia.org/resource/Hangin'_Around_(Big_Brovaz_song),http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Contemporary_R&B,I Don't Know,99,341.017853975296,14
+http://dbpedia.org/resource/Hangin'_Around_(Big_Brovaz_song),http://dbpedia.org/ontology/Work/runtime,3.4833333333333334,Incorrect,99,341.017853975296,14
+http://dbpedia.org/resource/Hangin'_Around_(Big_Brovaz_song),http://dbpedia.org/ontology/album,http://dbpedia.org/resource/Re-Entry_(Big_Brovaz_album),Correct,99,341.017853975296,14
+http://dbpedia.org/resource/Hangin'_Around_(Big_Brovaz_song),http://dbpedia.org/property/recorded,2005,I Don't Know,99,341.017853975296,14
+http://dbpedia.org/resource/Hangin'_Around_(Big_Brovaz_song),http://dbpedia.org/property/format,http://dbpedia.org/resource/Gramophone_record,I Don't Know,99,341.017853975296,14
+"http://dbpedia.org/resource/John_H._Tilelli,_Jr.",http://dbpedia.org/property/laterwork,http://dbpedia.org/resource/Operation_Dark_Winter,I Don't Know,100,218.3231899738312,14
+"http://dbpedia.org/resource/John_H._Tilelli,_Jr.",http://dbpedia.org/ontology/serviceStartYear,1963,Correct,100,218.3231899738312,14
+"http://dbpedia.org/resource/John_H._Tilelli,_Jr.",http://dbpedia.org/property/birthDate,1941-10-02,Correct,100,218.3231899738312,14
+"http://dbpedia.org/resource/John_H._Tilelli,_Jr.",http://dbpedia.org/property/ribbon,Army Overseas Service Ribbon.svg,Incorrect,100,218.3231899738312,14
+"http://dbpedia.org/resource/John_H._Tilelli,_Jr.",http://xmlns.com/foaf/0.1/isPrimaryTopicOf,"http://en.wikipedia.org/wiki/John_H._Tilelli,_Jr.",Correct,100,218.3231899738312,14
+http://dbpedia.org/resource/North_by_Northwest,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_action_thriller_films,Correct,101,317.2222900390625,14
+http://dbpedia.org/resource/North_by_Northwest,http://dbpedia.org/ontology/director,http://dbpedia.org/resource/Alfred_Hitchcock,Correct,101,317.2222900390625,14
+http://dbpedia.org/resource/North_by_Northwest,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:United_States_National_Film_Registry_films,Correct,101,317.2222900390625,14
+http://dbpedia.org/resource/North_by_Northwest,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-movie-noun-1,Incorrect,101,317.2222900390625,14
+http://dbpedia.org/resource/North_by_Northwest,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Edgar_Award_winning_works,Correct,101,317.2222900390625,14
+http://dbpedia.org/resource/Immingham_Dock_railway_station,http://dbpedia.org/ontology/district,http://dbpedia.org/resource/North_East_Lincolnshire,I Don't Know,102,200.41864824295044,14
+http://dbpedia.org/resource/Railway_Institute,http://dbpedia.org/property/city,http://dbpedia.org/resource/Warsaw,Correct,103,320.2729380130768,14
+http://dbpedia.org/resource/Railway_Institute,http://dbpedia.org/property/website,http://www.ikolej.pl/en/,Incorrect,103,320.2729380130768,14
+http://dbpedia.org/resource/Railway_Institute,http://dbpedia.org/ontology/abstract,"The Railway Institute (Polish: Instytut Kolejnictwa) is a research institute located in Warsaw, Poland.The Railway Institute (formerly Railway Scientific and Technical Centre (CNTK)) is operating under the Polish Ministry of Transport, Construction and Maritime Economy (former Polish Ministry of Infrastructure), and is notified under EU Railway Directive 2008/57/CE concerning railway interoperability.The Railway Institute, operating for 60 years in the transport sector, mainly in the rail sector, conducts scientific and research works, as well as services (including calibration of universal masters and measuring instruments) and performs certification works in the fields of railways and urban rail transport.The Railway Institute owns a test track for conducting various experiments and also possesses the necessary infrastructure for R&D studies in the field of railway transport.The Railway Institute is a Notified Body under the Interoperability of the Railway System Directive NB 1467.The Railway Institute is a member of many significant railway organisations in Europe, such as: UIC UNIFE via the national Association for Rail Transport Interoperability and Development (SIRTS) European Rail Research Advisory Council (ERRAC) European Conference of Transport Research Institutes (ECTRI) European Network of Excellence (EURNEX) European Level Crossing Forum (ELCF) NB Rail",Correct,103,320.2729380130768,14
+http://dbpedia.org/resource/Railway_Institute,http://www.w3.org/2000/01/rdf-schema#comment,"The Railway Institute (Polish: Instytut Kolejnictwa) is a research institute located in Warsaw, Poland.The Railway Institute (formerly Railway Scientific and Technical Centre (CNTK)) is operating under the Polish Ministry of Transport, Construction and Maritime Economy (former Polish Ministry of Infrastructure), and is notified under EU Railway Directive 2008/57/CE concerning railway interoperability.The Railway Institute, operating for 60 years in the transport sector, mainly in the rail sector, conducts scientific and research works, as well as services (including calibration of universal masters and measuring instruments) and performs certification works in the fields of railways and urban rail transport.The Railway Institute owns a test track for conducting various experiments and also possesses the necessary infrastructure for R&D studies in the field of railway transport.The Railway Institute is a Notified Body under the Interoperability of the Railway System Directive NB 1467.The Railway Institute is a member of many significant railway organisations in Europe, such as: UIC UNIFE via the national Association for Rail Transport Interoperability and Development (SIRTS) European Rail Research Advisory Council (ERRAC) European Conference of Transport Research Institutes (ECTRI) European Network of Excellence (EURNEX) European Level Crossing Forum (ELCF) NB Rail",Correct,103,320.2729380130768,14
+http://dbpedia.org/resource/Railway_Institute,http://dbpedia.org/property/name,Instut Kolejnictwa,Correct,103,320.2729380130768,14
+http://dbpedia.org/resource/List_of_Edgar_&_Ellen_episodes,http://dbpedia.org/property/title,Viva La Trash / The Expert / Heimertz's Family Album: Something's Fishy,I Don't Know,104,406.06408286094666,14
+http://dbpedia.org/resource/List_of_Edgar_&_Ellen_episodes,http://dbpedia.org/property/shortsummary,Edgar and Ellen create catastrophe on Halloween,I Don't Know,104,406.06408286094666,14
+http://dbpedia.org/resource/List_of_Edgar_&_Ellen_episodes,http://dbpedia.org/property/shortsummary,Edgar invents a remote that controls time. / A group of new-age people camp out on Edgar and Ellen's lawn. / Pet dreams that he is a hero.,I Don't Know,104,406.06408286094666,14
+http://dbpedia.org/resource/List_of_Edgar_&_Ellen_episodes,http://dbpedia.org/property/title,When You Wish Upon a Well / Baby Talk / Nod's Limbs' Public Address: Pet-o-Matic,I Don't Know,104,406.06408286094666,14
+http://dbpedia.org/resource/List_of_Edgar_&_Ellen_episodes,http://dbpedia.org/property/episodenumber,S4,Incorrect,104,406.06408286094666,14
+http://dbpedia.org/resource/Prince_Baudouin_of_Belgium,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Child,Incorrect,105,12834.09453177452,14
+http://dbpedia.org/resource/Prince_Baudouin_of_Belgium,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Brussels,Correct,105,12834.09453177452,14
+http://dbpedia.org/resource/Prince_Baudouin_of_Belgium,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Belgium,Correct,105,12834.09453177452,14
+http://dbpedia.org/resource/Prince_Baudouin_of_Belgium,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Belgium,Correct,105,12834.09453177452,14
+http://dbpedia.org/resource/Prince_Baudouin_of_Belgium,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Belgium,Incorrect,105,12834.09453177452,14
+http://dbpedia.org/resource/Frederica_of_Mecklenburg-Strelitz,http://dbpedia.org/ontology/parent,"http://dbpedia.org/resource/Charles_II,_Grand_Duke_of_Mecklenburg-Strelitz",I Don't Know,106,523.667051076889,14
+http://dbpedia.org/resource/Karl_Svozil,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Vienna,Correct,107,83.38144779205322,14
+http://dbpedia.org/resource/Collapsin_response_mediator_protein_family,http://www.w3.org/2000/01/rdf-schema#comment,"Collapsin response mediator protein family or CRMP family consists of five intracellular phosphoproteins (CRMP-1, CRMP-2, CRMP-3, CRMP4, CRMP5) of similar molecular size (60–66 kDa) and high (50–70%) amino acid sequence identity. CRMPs are predominantly expressed in the nervous system during development and play important roles in axon formation from neurites and in growth cone guidance and collapse through their interactions with microtubules.",Correct,108,174.40325617790222,14
+http://dbpedia.org/resource/Collapsin_response_mediator_protein_family,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Protein_families,Correct,108,174.40325617790222,14
+http://dbpedia.org/resource/Collapsin_response_mediator_protein_family,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Protein_CRMP1_PDB_1kcx.png?width=300,Incorrect,108,174.40325617790222,14
+http://dbpedia.org/resource/Collapsin_response_mediator_protein_family,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Neuroscience,Correct,108,174.40325617790222,14
+http://dbpedia.org/resource/Collapsin_response_mediator_protein_family,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/Protein_CRMP1_PDB_1kcx.png,Correct,108,174.40325617790222,14
+http://dbpedia.org/resource/Grattan_Bridge,http://dbpedia.org/property/spans,5,Incorrect,109,34.30650997161865,14
+http://dbpedia.org/resource/Grattan_Bridge,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Bridge,Correct,109,34.30650997161865,14
+http://dbpedia.org/resource/Jona_railway_station,http://dbpedia.org/ontology/owner,http://dbpedia.org/resource/Swiss_Federal_Railways,Correct,110,204.89755988121036,14
+http://dbpedia.org/resource/Jona_railway_station,http://dbpedia.org/ontology/owningOrganisation,http://dbpedia.org/resource/Swiss_Federal_Railways,Incorrect,110,204.89755988121036,14
+http://dbpedia.org/resource/By_the_Way,http://dbpedia.org/property/language,English,Correct,111,206.3688850402832,14
+http://dbpedia.org/resource/By_the_Way,http://dbpedia.org/ontology/subsequentWork,http://dbpedia.org/resource/Greatest_Hits_(Red_Hot_Chili_Peppers_album),Incorrect,111,206.3688850402832,14
+http://dbpedia.org/resource/By_the_Way,http://dbpedia.org/property/length,295.0,Incorrect,111,206.3688850402832,14
+http://dbpedia.org/resource/By_the_Way,http://dbpedia.org/property/length,270.0,Incorrect,111,206.3688850402832,14
+http://dbpedia.org/resource/By_the_Way,http://dbpedia.org/property/genre,http://dbpedia.org/resource/Alternative_rock,Correct,111,206.3688850402832,14
+http://dbpedia.org/resource/Alpina,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Germany,Correct,112,51.22331380844116,14
+http://dbpedia.org/resource/Natsuna_Watanabe,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:People_from_Saitama_Prefecture,Correct,113,164.58463716506958,15
+http://dbpedia.org/resource/Natsuna_Watanabe,http://dbpedia.org/property/gender,Female,Correct,113,164.58463716506958,15
+http://dbpedia.org/resource/Natsuna_Watanabe,http://dbpedia.org/property/agent,Toyota Office,I Don't Know,113,164.58463716506958,15
+http://dbpedia.org/resource/Natsuna_Watanabe,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/Natsuna_-_Samedi_-_Japan_Expo_2013_-_P1670081.jpg,Correct,113,164.58463716506958,15
+http://dbpedia.org/resource/Natsuna_Watanabe,http://dbpedia.org/ontology/birthDate,1989-05-23,Correct,113,164.58463716506958,15
+http://dbpedia.org/resource/Pontiac_Astre,http://dbpedia.org/ontology/bodyStyle,http://dbpedia.org/resource/Station_wagon,Correct,114,448.2041108608246,15
+http://dbpedia.org/resource/Pontiac_Astre,http://dbpedia.org/ontology/designCompany,http://dbpedia.org/resource/Bill_Mitchell_(designer),Incorrect,114,448.2041108608246,15
+http://dbpedia.org/resource/Pontiac_Astre,http://dbpedia.org/ontology/bodyStyle,http://dbpedia.org/resource/Hatchback,Correct,114,448.2041108608246,15
+http://dbpedia.org/resource/Pontiac_Astre,http://dbpedia.org/ontology/automobilePlatform,http://dbpedia.org/resource/GM_H_platform_(1971),Correct,114,448.2041108608246,15
+http://dbpedia.org/resource/Pontiac_Astre,http://dbpedia.org/ontology/bodyStyle,http://dbpedia.org/resource/Notchback,Correct,114,448.2041108608246,15
+http://dbpedia.org/resource/Barcelona–Cerbère_railway,http://dbpedia.org/property/operator,http://dbpedia.org/resource/Renfe_Operadora,Correct,115,529.8041560649872,15
+http://dbpedia.org/resource/Barcelona–Cerbère_railway,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Catalonia,Correct,115,529.8041560649872,15
+http://dbpedia.org/resource/Barcelona–Cerbère_railway,http://dbpedia.org/ontology/operatedBy,http://dbpedia.org/resource/Renfe_Operadora,Correct,115,529.8041560649872,15
+http://dbpedia.org/resource/Barcelona–Cerbère_railway,http://dbpedia.org/property/locale,http://dbpedia.org/resource/Catalonia,Incorrect,115,529.8041560649872,15
+http://dbpedia.org/resource/Shin-Keisei_Line,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Shin-Keisei_Line,Correct,116,372.8378081321716,15
+http://dbpedia.org/resource/Shin-Keisei_Line,http://dbpedia.org/property/depot,"Kunugiyama, Tsudanuma",I Don't Know,116,372.8378081321716,15
+http://dbpedia.org/resource/Shin-Keisei_Line,http://www.w3.org/2000/01/rdf-schema#label,Shin-Keisei Line,Correct,116,372.8378081321716,15
+http://dbpedia.org/resource/Shin-Keisei_Line,http://dbpedia.org/property/color,FF69B4,Incorrect,116,372.8378081321716,15
+http://dbpedia.org/resource/Shin-Keisei_Line,http://dbpedia.org/ontology/openingDate,1947-12-27,I Don't Know,116,372.8378081321716,15
+http://dbpedia.org/resource/Khashm_el-Girba_Dam,http://dbpedia.org/ontology/river,http://dbpedia.org/resource/Atbarah_River,Correct,117,71.98727989196777,15
+http://dbpedia.org/resource/Walter_Pitsch,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Germany,Correct,118,96.437824010849,15
+http://dbpedia.org/resource/Walter_Pitsch,http://dbpedia.org/ontology/militaryBranch,http://dbpedia.org/resource/Waffen-SS,Correct,118,96.437824010849,15
+http://dbpedia.org/resource/Canoe_sprint,http://www.w3.org/2000/01/rdf-schema#comment,"Canoe sprint is a sport in which athletes race canoes or kayaks on calm water.Race categories vary by the number of athletes in the boat, the length of the course, and whether the boat is a canoe or kayak. Canoe sprints are sometimes referred to as flatwater racing. Canoe sprint takes place on a straight course divided in lanes, on calm water. The distances recognised by the ICF for international races are 200 m, 500 m, and 1000 m.",Correct,119,404.1862349510193,15
+http://dbpedia.org/resource/Canoe_sprint,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Canoeing_disciplines,Correct,119,404.1862349510193,15
+http://dbpedia.org/resource/Canoe_sprint,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Boating,Correct,119,404.1862349510193,15
+http://dbpedia.org/resource/Canoe_sprint,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Canoe_sprint,Incorrect,119,404.1862349510193,15
+http://dbpedia.org/resource/Canoe_sprint,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Summer_Olympic_disciplines,Correct,119,404.1862349510193,15
+http://dbpedia.org/resource/Fiat_Strada,http://dbpedia.org/ontology/layout,"http://dbpedia.org/resource/Front-engine,_front-wheel-drive_layout",Correct,120,227.9699628353119,15
+http://dbpedia.org/resource/Fiat_Strada,http://dbpedia.org/ontology/bodyStyle,http://dbpedia.org/resource/Coupé_utility,Incorrect,120,227.9699628353119,15
+http://dbpedia.org/resource/Robert_Peel,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Lancashire,Correct,121,220.6879670619965,15
+http://dbpedia.org/resource/Robert_Peel,http://dbpedia.org/property/almaMater,"http://dbpedia.org/resource/Christ_Church,_Oxford",Correct,121,220.6879670619965,15
+http://dbpedia.org/resource/Robert_Peel,http://dbpedia.org/ontology/almaMater,"http://dbpedia.org/resource/Christ_Church,_Oxford",Correct,121,220.6879670619965,15
+http://dbpedia.org/resource/Robert_Peel,http://dbpedia.org/ontology/monarch,http://dbpedia.org/resource/William_IV_of_the_United_Kingdom,Incorrect,121,220.6879670619965,15
+http://dbpedia.org/resource/Robert_Peel,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Ramsbottom,Incorrect,121,220.6879670619965,15
+http://dbpedia.org/resource/Tesla_Motors,http://dbpedia.org/property/industry,http://dbpedia.org/resource/Energy_storage,Correct,122,144.8457851409912,15
+http://dbpedia.org/resource/Tesla_Motors,http://dbpedia.org/ontology/keyPerson,http://dbpedia.org/resource/Chief_financial_officer,Incorrect,122,144.8457851409912,15
+http://dbpedia.org/resource/Tesla_Motors,http://dbpedia.org/ontology/keyPerson,http://dbpedia.org/resource/Chairman,Incorrect,122,144.8457851409912,15
+http://dbpedia.org/resource/Tesla_Motors,http://dbpedia.org/property/products,s,Incorrect,122,144.8457851409912,15
+http://dbpedia.org/resource/Tesla_Motors,http://dbpedia.org/property/keyPeople,*,Incorrect,122,144.8457851409912,15
+http://dbpedia.org/resource/Carole_Ward_Allen,http://dbpedia.org/property/succeeded,http://dbpedia.org/resource/Robert_Raburn,Incorrect,123,560.0318222045898,15
+http://dbpedia.org/resource/Carole_Ward_Allen,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Nova_Southeastern_University_alumni,Correct,123,560.0318222045898,15
+http://dbpedia.org/resource/Carole_Ward_Allen,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people),Incorrect,123,560.0318222045898,15
+http://dbpedia.org/resource/Carole_Ward_Allen,http://xmlns.com/foaf/0.1/name,Carole Ward Allen,Correct,123,560.0318222045898,15
+http://dbpedia.org/resource/Carole_Ward_Allen,http://dbpedia.org/ontology/office,Member and President of theCalifornia Commission on the Status of Women,Correct,123,560.0318222045898,15
+http://dbpedia.org/resource/USS_Viking_(SP-3314),http://dbpedia.org/property/shipType,http://dbpedia.org/resource/Patrol_boat,Correct,124,287.6264581680298,15
+http://dbpedia.org/resource/USS_Viking_(SP-3314),http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/Motorboat_Viking.jpg,Correct,124,287.6264581680298,15
+http://dbpedia.org/resource/USS_Viking_(SP-3314),http://dbpedia.org/property/shipType,http://dbpedia.org/resource/Patrol_vessel,Correct,124,287.6264581680298,15
+http://dbpedia.org/resource/USS_Viking_(SP-3314),http://xmlns.com/foaf/0.1/name,USS Viking,Correct,124,287.6264581680298,15
+http://dbpedia.org/resource/USS_Viking_(SP-3314),http://dbpedia.org/ontology/MeanOfTransportation/length,12801.6,I Don't Know,124,287.6264581680298,15
+http://dbpedia.org/resource/USS_Macon_(ZRS-5),http://dbpedia.org/property/coordDisplay,"inline,title",Incorrect,125,105.277770280838,15
+http://dbpedia.org/resource/USS_Macon_(ZRS-5),http://dbpedia.org/property/locmapin,California,I Don't Know,125,105.277770280838,15
+http://dbpedia.org/resource/USS_Macon_(ZRS-5),http://dbpedia.org/property/governingBody,Private,I Don't Know,125,105.277770280838,15
+http://dbpedia.org/resource/USS_Macon_(ZRS-5),http://dbpedia.org/property/longDirection,W,Incorrect,125,105.277770280838,15
+http://dbpedia.org/resource/USS_Macon_(ZRS-5),http://dbpedia.org/property/latDirection,N,Incorrect,125,105.277770280838,15
+http://dbpedia.org/resource/Frank_Iero,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_male_singers,Correct,126,332.7490828037262,15
+http://dbpedia.org/resource/Frank_Iero,http://dbpedia.org/ontology/associatedBand,http://dbpedia.org/resource/Pencey_Prep,Correct,126,332.7490828037262,15
+http://dbpedia.org/resource/Frank_Iero,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Frank_Iero,Incorrect,126,332.7490828037262,15
+http://dbpedia.org/resource/Frank_Iero,http://purl.org/dc/elements/1.1/description,American musician,Correct,126,332.7490828037262,15
+http://dbpedia.org/resource/Frank_Iero,http://dbpedia.org/ontology/instrument,http://dbpedia.org/resource/Gibson_Les_Paul_Studio,Correct,126,332.7490828037262,15
+http://dbpedia.org/resource/Earle_Cabell,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Dallas,Correct,127,34.61214089393616,15
+http://dbpedia.org/resource/Earle_Cabell,http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Dallas_County,_Texas",Correct,127,34.61214089393616,15
+http://dbpedia.org/resource/USS_Gordius_(ARL-36),http://dbpedia.org/property/shipDecommissioned,1945-06-11,Correct,128,3328.6017620563507,15
+http://dbpedia.org/resource/USS_Gordius_(ARL-36),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Achelous-class_repair_ships_converted_from_LST-542-class_ships,Correct,128,3328.6017620563507,15
+http://dbpedia.org/resource/USS_Gordius_(ARL-36),http://dbpedia.org/property/shipSponsor,Mrs. Helen H. Davis,Correct,128,3328.6017620563507,15
+http://dbpedia.org/resource/USS_Gordius_(ARL-36),http://xmlns.com/foaf/0.1/name,IIS Sohrab,Incorrect,128,3328.6017620563507,15
+http://dbpedia.org/resource/USS_Gordius_(ARL-36),http://dbpedia.org/ontology/MeanOfTransportation/length,99974.4,Incorrect,128,3328.6017620563507,15
+http://dbpedia.org/resource/Renault_Vivasport,http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/Renault_Vivasport__2,Incorrect,129,199.7689447402954,15
+http://dbpedia.org/resource/Renault_Vivasport,http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/Renault_Vivasport__Vivasport__2,Incorrect,129,199.7689447402954,15
+http://dbpedia.org/resource/Renault_Vivasport,http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/Renault_Vivasport__5,Incorrect,129,199.7689447402954,15
+http://dbpedia.org/resource/Renault_Vivasport,http://dbpedia.org/ontology/designer,http://dbpedia.org/resource/Louis_Renault_(industrialist),I Don't Know,129,199.7689447402954,15
+http://dbpedia.org/resource/Renault_Vivasport,http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/Renault_Vivasport__Vivasport__1,Incorrect,129,199.7689447402954,15
+http://dbpedia.org/resource/Eric_Voegelin,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Tom_Flanagan_(political_scientist),Correct,130,301.9755711555481,15
+http://dbpedia.org/resource/Eric_Voegelin,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Plato,Correct,130,301.9755711555481,15
+http://dbpedia.org/resource/Eric_Voegelin,http://dbpedia.org/ontology/era,http://dbpedia.org/resource/20th-century_philosophy,Correct,130,301.9755711555481,15
+http://dbpedia.org/resource/Eric_Voegelin,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Ellis_Sandoz,Correct,130,301.9755711555481,15
+http://dbpedia.org/resource/Eric_Voegelin,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Othmar_Spann,Incorrect,130,301.9755711555481,15
+http://dbpedia.org/resource/New_York_State_Route_310,http://dbpedia.org/property/location,Madrid,Incorrect,131,274.08743381500244,15
+http://dbpedia.org/resource/New_York_State_Route_310,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/New_York_Route_310_map_infobox.png,Correct,131,274.08743381500244,15
+http://dbpedia.org/resource/New_York_State_Route_310,http://dbpedia.org/property/location,Norfolk,Correct,131,274.08743381500244,15
+http://dbpedia.org/resource/New_York_State_Route_310,http://dbpedia.org/property/directionB,North,Incorrect,131,274.08743381500244,15
+http://dbpedia.org/resource/New_York_State_Route_310,http://dbpedia.org/property/counties,"http://dbpedia.org/resource/St._Lawrence_County,_New_York",Correct,131,274.08743381500244,15
+http://dbpedia.org/resource/Porsche_996,http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/Porsche_996__911_GT3__1,Correct,132,298.67584323883057,15
+http://dbpedia.org/resource/Porsche_996,http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/Porsche_996__911_Carrera_4S__1,Correct,132,298.67584323883057,15
+http://dbpedia.org/resource/Porsche_996,http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/Porsche_996__911_GT3_RS__1,Correct,132,298.67584323883057,15
+http://dbpedia.org/resource/Porsche_996,http://dbpedia.org/ontology/designer,http://dbpedia.org/resource/Pinky_Lai,Correct,132,298.67584323883057,15
+http://dbpedia.org/resource/Porsche_996,http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/Porsche_996__911_Turbo__1,Correct,132,298.67584323883057,15
+http://dbpedia.org/resource/South_Vietnamese_đồng,http://www.w3.org/2000/01/rdf-schema#label,South Vietnamese đồng,Correct,133,321.1847279071808,15
+http://dbpedia.org/resource/South_Vietnamese_đồng,http://dbpedia.org/property/location,http://dbpedia.org/resource/South_Vietnam,Correct,133,321.1847279071808,15
+http://dbpedia.org/resource/South_Vietnamese_đồng,http://dbpedia.org/ontology/abstract,"The đồng (銅) was the currency of the Republic of Vietnam (South Vietnam) from 1953 to May 2, 1978. It was subdivided into 100 xu, also written su.",Correct,133,321.1847279071808,15
+"http://dbpedia.org/resource/John_Jacob_Astor,_1st_Baron_Astor_of_Hever",http://dbpedia.org/ontology/almaMater,"http://dbpedia.org/resource/New_College,_Oxford",Incorrect,134,79.38472819328308,15
+"http://dbpedia.org/resource/John_Jacob_Astor,_1st_Baron_Astor_of_Hever",http://dbpedia.org/property/almaMater,"http://dbpedia.org/resource/New_College,_Oxford",Incorrect,134,79.38472819328308,15
+http://dbpedia.org/resource/Portuguese_Empire,http://www.w3.org/2000/01/rdf-schema#label,Portuguese Empire,Correct,135,29.229023933410645,15
+http://dbpedia.org/resource/Portuguese_Empire,http://dbpedia.org/property/commonName,Portuguese Empire,Correct,135,29.229023933410645,15
+http://dbpedia.org/resource/Pearson_Yachts,http://dbpedia.org/ontology/industry,http://dbpedia.org/resource/List_of_boat_builders,Incorrect,136,255.37181305885315,15
+http://dbpedia.org/resource/Pearson_Yachts,http://dbpedia.org/property/foundation,"Bristol, Rhode Island, United States",Correct,136,255.37181305885315,15
+http://dbpedia.org/resource/Pearson_Yachts,http://dbpedia.org/property/founder,Everett Pearson,Correct,136,255.37181305885315,15
+http://dbpedia.org/resource/Pearson_Yachts,http://dbpedia.org/property/products,Sailboats,Correct,136,255.37181305885315,15
+http://dbpedia.org/resource/Pearson_Yachts,http://dbpedia.org/property/areaServed,Shipped worldwide,I Don't Know,136,255.37181305885315,15
+http://dbpedia.org/resource/Dawntreader,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/Vancouver,I Don't Know,137,62.87321400642395,15
+http://dbpedia.org/resource/BMW_5_Series_(E28),http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/BMW_5_Series_(E28)__525i__1,Correct,138,184.21734499931333,15
+http://dbpedia.org/resource/BMW_5_Series_(E28),http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/BMW_5_Series_(E28)__524d__1,Correct,138,184.21734499931333,15
+http://dbpedia.org/resource/BMW_5_Series_(E28),http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/BMW_5_Series_(E28)__525e__1,Correct,138,184.21734499931333,15
+http://dbpedia.org/resource/CCGS_Sambro,http://dbpedia.org/ontology/length,15.8496,Correct,139,290.23362708091736,15
+http://dbpedia.org/resource/CCGS_Sambro,http://dbpedia.org/ontology/builder,http://dbpedia.org/resource/Hike_Metal_Products,I Don't Know,139,290.23362708091736,15
+http://dbpedia.org/resource/CCGS_Sambro,http://dbpedia.org/property/shipBuilder,"http://dbpedia.org/resource/Wheatley,_Ontario",I Don't Know,139,290.23362708091736,15
+http://dbpedia.org/resource/CCGS_Sambro,http://dbpedia.org/ontology/operator,http://dbpedia.org/resource/Canadian_Coast_Guard,Correct,139,290.23362708091736,15
+http://dbpedia.org/resource/CCGS_Sambro,http://dbpedia.org/property/shipCommissioned,1996,I Don't Know,139,290.23362708091736,15
+http://dbpedia.org/resource/List_of_English_Heritage_blue_plaques_in_the_City_of_Westminster,http://dbpedia.org/property/year,1927,Incorrect,140,233.97627425193787,15
+http://dbpedia.org/resource/List_of_English_Heritage_blue_plaques_in_the_City_of_Westminster,http://dbpedia.org/property/inscription,-1814.0,Incorrect,140,233.97627425193787,15
+http://dbpedia.org/resource/List_of_English_Heritage_blue_plaques_in_the_City_of_Westminster,http://dbpedia.org/property/town,Belgravia SW1X 8DW,Incorrect,140,233.97627425193787,15
+http://dbpedia.org/resource/List_of_English_Heritage_blue_plaques_in_the_City_of_Westminster,http://dbpedia.org/property/inscription,"""Painter and Illustrator lived here""",Incorrect,140,233.97627425193787,15
+http://dbpedia.org/resource/List_of_English_Heritage_blue_plaques_in_the_City_of_Westminster,http://dbpedia.org/property/town,St John's Wood NW8 9UG,I Don't Know,140,233.97627425193787,15
+http://dbpedia.org/resource/HMS_Alfred_(1778),http://dbpedia.org/property/shipCountry,http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland,Correct,141,129.67195296287537,15
+http://dbpedia.org/resource/HMS_Alfred_(1778),http://dbpedia.org/ontology/country,http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland,Correct,141,129.67195296287537,15
+http://dbpedia.org/resource/Thessaloniki,http://dbpedia.org/property/areaCodeType,http://dbpedia.org/resource/Telephone_numbers_in_Greece,Incorrect,142,226.8606216907501,15
+http://dbpedia.org/resource/Thessaloniki,http://www.georss.org/georss/point,40.65 22.9,Incorrect,142,226.8606216907501,15
+http://dbpedia.org/resource/Thessaloniki,http://dbpedia.org/property/decSun,102.6,I Don't Know,142,226.8606216907501,15
+http://dbpedia.org/resource/Thessaloniki,http://dbpedia.org/property/febPrecipitationDays,11.3,Incorrect,142,226.8606216907501,15
+http://dbpedia.org/resource/Thessaloniki,http://dbpedia.org/property/website,http://www.thessaloniki.gr/,Incorrect,142,226.8606216907501,15
+http://dbpedia.org/resource/Wyoming_Highway_414,http://dbpedia.org/property/notes,Exit 39,Incorrect,143,275.5259370803833,15
+http://dbpedia.org/resource/Wyoming_Highway_414,http://dbpedia.org/property/notes,Southern terminus of WYO 414,Incorrect,143,275.5259370803833,15
+http://dbpedia.org/resource/Wyoming_Highway_414,http://dbpedia.org/ontology/county,"http://dbpedia.org/resource/Uinta_County,_Wyoming",I Don't Know,143,275.5259370803833,15
+http://dbpedia.org/resource/Wyoming_Highway_414,http://dbpedia.org/ontology/county,"http://dbpedia.org/resource/Sweetwater_County,_Wyoming",I Don't Know,143,275.5259370803833,15
+http://dbpedia.org/resource/Wyoming_Highway_414,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Wyoming_Highway_414,Incorrect,143,275.5259370803833,15
+http://dbpedia.org/resource/BMW_7_Series_(E65),http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/BMW_7_Series_(E65)__3,Incorrect,144,19.371431350708008,15
+http://dbpedia.org/resource/BMW_7_Series_(E65),http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/BMW_7_Series_(E65)__2,Incorrect,144,19.371431350708008,15
+http://dbpedia.org/resource/BMW_7_Series_(E65),http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/BMW_7_Series_(E65)__4,Incorrect,144,19.371431350708008,15
+http://dbpedia.org/resource/BMW_7_Series_(E65),http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/BMW_7_Series_(E65)__9,Incorrect,144,19.371431350708008,15
+http://dbpedia.org/resource/BMW_7_Series_(E65),http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/BMW_7_Series_(E65)__5,Incorrect,144,19.371431350708008,15
+http://dbpedia.org/resource/Norman_Borlaug,http://dbpedia.org/ontology/birthYear,1914,Correct,145,57.8700807094574,15
+http://dbpedia.org/resource/Norman_Borlaug,http://xmlns.com/foaf/0.1/surname,Borlaug,Correct,145,57.8700807094574,15
+http://dbpedia.org/resource/Norman_Borlaug,http://xmlns.com/foaf/0.1/givenName,Norman,Incorrect,145,57.8700807094574,15
+http://dbpedia.org/resource/Norman_Borlaug,http://www.w3.org/2000/01/rdf-schema#label,Norman Borlaug,Correct,145,57.8700807094574,15
+http://dbpedia.org/resource/Norman_Borlaug,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Near_East,Incorrect,145,57.8700807094574,15
+http://dbpedia.org/resource/1868_Thersites,http://dbpedia.org/property/name,1868,Incorrect,146,273.33189392089844,15
+http://dbpedia.org/resource/1868_Thersites,http://dbpedia.org/ontology/discoverer,http://dbpedia.org/resource/Cornelis_Johannes_van_Houten,I Don't Know,146,273.33189392089844,15
+http://dbpedia.org/resource/1868_Thersites,http://dbpedia.org/ontology/discoverer,http://dbpedia.org/resource/Ingrid_van_Houten-Groeneveld,I Don't Know,146,273.33189392089844,15
+http://dbpedia.org/resource/1868_Thersites,http://dbpedia.org/property/discovered,1960-09-24,Correct,146,273.33189392089844,15
+http://dbpedia.org/resource/1868_Thersites,http://dbpedia.org/ontology/discoverer,http://dbpedia.org/resource/Tom_Gehrels,I Don't Know,146,273.33189392089844,15
+http://dbpedia.org/resource/HSC_Speedrunner_IV,http://dbpedia.org/ontology/powerType,http://dbpedia.org/resource/Ruston_(engine_builder),Correct,147,59.38221192359924,15
+http://dbpedia.org/resource/Farouk_al-Sharaa,http://dbpedia.org/ontology/abstract,Farouk al-Sharaa (Arabic: فاروق الشرع‎; born 10 December 1938) is a Syrian politician and diplomat. He is one of the most prominent officials in the Syrian government and served as foreign minister of Syria from 1984 until 2006 when he became Vice President of Syria.,Correct,148,365.2392702102661,15
+http://dbpedia.org/resource/Farouk_al-Sharaa,http://dbpedia.org/ontology/party,http://dbpedia.org/resource/Arab_Socialist_Ba'ath_Party_–_Syria_Region,Correct,148,365.2392702102661,15
+http://dbpedia.org/resource/Farouk_al-Sharaa,http://xmlns.com/foaf/0.1/name,"Al Sharaa, Farouk",Correct,148,365.2392702102661,15
+http://dbpedia.org/resource/Farouk_al-Sharaa,http://xmlns.com/foaf/0.1/name,Farouk Al Sharaa,Correct,148,365.2392702102661,15
+http://dbpedia.org/resource/Farouk_al-Sharaa,http://xmlns.com/foaf/0.1/name,Farouk al-Sharaa,Correct,148,365.2392702102661,15
+http://dbpedia.org/resource/Rudolph_John_Anderson,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Haina,Incorrect,149,276.1241798400879,15
+http://dbpedia.org/resource/Rudolph_John_Anderson,http://dbpedia.org/property/almaMater,http://dbpedia.org/resource/Tulane_University,Correct,149,276.1241798400879,15
+http://dbpedia.org/resource/Rudolph_John_Anderson,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/Tulane_University,Correct,149,276.1241798400879,15
+http://dbpedia.org/resource/1995_BMW_Open_–_Doubles,http://dbpedia.org/property/rd1Score,2,I Don't Know,150,47.6466760635376,15
+http://dbpedia.org/resource/1995_BMW_Open_–_Doubles,http://dbpedia.org/property/rd3Team,B Becker  U Riglewski,I Don't Know,150,47.6466760635376,15
+http://dbpedia.org/resource/1995_BMW_Open_–_Doubles,http://dbpedia.org/property/rd1Seed,2,I Don't Know,150,47.6466760635376,15
+http://dbpedia.org/resource/1995_BMW_Open_–_Doubles,http://dbpedia.org/property/rd2Score,'''6,I Don't Know,150,47.6466760635376,15
+http://dbpedia.org/resource/1995_BMW_Open_–_Doubles,http://dbpedia.org/property/rd1Team,C Suk  D Vacek,I Don't Know,150,47.6466760635376,15
+http://dbpedia.org/resource/Audi_Q7,http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/Audi_Q7__7,Incorrect,151,39.12059783935547,15
+http://dbpedia.org/resource/Audi_Q7,http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/Audi_Q7__8,Incorrect,151,39.12059783935547,15
+http://dbpedia.org/resource/Audi_Q7,http://dbpedia.org/ontology/assembly,http://dbpedia.org/resource/Slovakia,Correct,151,39.12059783935547,15
+http://dbpedia.org/resource/Audi_Q7,http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/Audi_Q7__6,Incorrect,151,39.12059783935547,15
+http://dbpedia.org/resource/Audi_Q7,http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/Audi_Q7__3,Incorrect,151,39.12059783935547,15
+http://dbpedia.org/resource/BMW_5_Series_(E28),http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/BMW_5_Series_(E28)__M5__1,Correct,152,126.02998280525208,15
+http://dbpedia.org/resource/BMW_5_Series_(E28),http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/BMW_5_Series_(E28)__528e__1,Correct,152,126.02998280525208,15
+http://dbpedia.org/resource/BMW_5_Series_(E28),http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/BMW_5_Series_(E28)__9,Incorrect,152,126.02998280525208,15
+http://dbpedia.org/resource/BMW_5_Series_(E28),http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/BMW_5_Series_(E28)__518i__1,Correct,152,126.02998280525208,15
+http://dbpedia.org/resource/BMW_5_Series_(E28),http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/BMW_5_Series_(E28)__533i__1,Correct,152,126.02998280525208,15
+http://dbpedia.org/resource/Fiat_Coupé,http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/Fiat_Coupé__1.8_16V__1,Correct,153,255.73383808135983,15
+http://dbpedia.org/resource/Fiat_Coupé,http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/Fiat_Coupé__2.0_20V_Turbo__1,Correct,153,255.73383808135983,15
+http://dbpedia.org/resource/Fiat_Coupé,http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/Fiat_Coupé__2.0_20V__1,Correct,153,255.73383808135983,15
+http://dbpedia.org/resource/Fiat_Coupé,http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/Fiat_Coupé__2.0_20V_V.I.S.__1,Incorrect,153,255.73383808135983,15
+http://dbpedia.org/resource/Fiat_Coupé,http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/Fiat_Coupé__2.0_16V__1,Correct,153,255.73383808135983,15
+http://dbpedia.org/resource/USS_L._A._Dempsey_(SP-1231),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:World_War_I_patrol_vessels_of_the_United_States,Correct,154,6451.773892879486,15
+http://dbpedia.org/resource/USS_L._A._Dempsey_(SP-1231),http://dbpedia.org/property/shipTonnage,41,Correct,154,6451.773892879486,15
+http://dbpedia.org/resource/USS_L._A._Dempsey_(SP-1231),http://xmlns.com/foaf/0.1/name,USS L. A. Dempsey,Correct,154,6451.773892879486,15
+http://dbpedia.org/resource/USS_L._A._Dempsey_(SP-1231),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Tugs_of_the_United_States_Navy,Correct,154,6451.773892879486,15
+http://dbpedia.org/resource/USS_L._A._Dempsey_(SP-1231),http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/USS_L._A._Dempsey_(SP-1231),Correct,154,6451.773892879486,15
+http://dbpedia.org/resource/Pennsylvania_Route_502,http://dbpedia.org/ontology/county,"http://dbpedia.org/resource/Luzerne_County,_Pennsylvania",Incorrect,155,234.4092080593109,15
+http://dbpedia.org/resource/Pennsylvania_Route_502,http://dbpedia.org/property/counties,"http://dbpedia.org/resource/Luzerne_County,_Pennsylvania",Incorrect,155,234.4092080593109,15
+http://dbpedia.org/resource/Bristol_401,http://dbpedia.org/ontology/layout,"http://dbpedia.org/resource/Front-engine,_rear-wheel-drive_layout",Correct,156,88.00352001190186,15
+http://dbpedia.org/resource/Fiat_130,http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/Fiat_130__2,Incorrect,157,5.789884090423584,15
+http://dbpedia.org/resource/Fiat_130,http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/Fiat_130__1,Incorrect,157,5.789884090423584,15
+http://dbpedia.org/resource/Grove_Street_(PATH_station),http://dbpedia.org/ontology/owningOrganisation,http://dbpedia.org/resource/Port_Authority_of_New_York_and_New_Jersey,Correct,158,171.18523502349854,15
+http://dbpedia.org/resource/Grove_Street_(PATH_station),http://dbpedia.org/ontology/parkingInformation,Parking lots andgaragesadjacent to station,Incorrect,158,171.18523502349854,15
+http://dbpedia.org/resource/Grove_Street_(PATH_station),http://dbpedia.org/ontology/owner,http://dbpedia.org/resource/Port_Authority_of_New_York_and_New_Jersey,Correct,158,171.18523502349854,15
+http://dbpedia.org/resource/Hertford_(1920),http://dbpedia.org/ontology/abstract,Hertford  (formerly Rheinland and Friesland) was a freighter which was built in Germany in 1917 and served with both the Hamburg-Amerika Linie and Federal Steam Navigation Co Ltd before being lost after torpedoing by the German submarine U-571 off the coast of Massachusetts in 1942.  She was also extensively damaged after striking a German mine off the Australian coast in 1940.,Correct,159,310.11707186698914,15
+http://dbpedia.org/resource/Hertford_(1920),http://dbpedia.org/property/shipCountry,http://dbpedia.org/resource/United_Kingdom,Correct,159,310.11707186698914,15
+http://dbpedia.org/resource/Hertford_(1920),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Maritime_incidents_in_March_1942,Correct,159,310.11707186698914,15
+http://dbpedia.org/resource/Hertford_(1920),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Freighters,Correct,159,310.11707186698914,15
+http://dbpedia.org/resource/Hertford_(1920),http://dbpedia.org/property/shipAcquired,1922,Incorrect,159,310.11707186698914,15
+http://dbpedia.org/resource/Standedge_Tunnels,http://dbpedia.org/ontology/waterwayThroughTunnel,http://dbpedia.org/resource/Huddersfield_Narrow_Canal,Correct,160,162.79134702682495,15
+http://dbpedia.org/resource/Standedge_Tunnels,http://dbpedia.org/ontology/picture,"http://dbpedia.org/resource/Marsden,_West_Yorkshire",Incorrect,160,162.79134702682495,15
+http://dbpedia.org/resource/Standedge_Tunnels,http://www.w3.org/2000/01/rdf-schema#label,Standedge Tunnels,Correct,160,162.79134702682495,15
+http://dbpedia.org/resource/Niaprazine,http://dbpedia.org/property/atcPrefix,N05,Incorrect,161,127.8610508441925,15
+http://dbpedia.org/resource/SS_Stakesby_(1930),http://dbpedia.org/ontology/MeanOfTransportation/length,111252.0,Incorrect,162,206.08456683158877,15
+http://dbpedia.org/resource/SS_Stakesby_(1930),http://dbpedia.org/property/shipOwner,Rowland & Marwood Steamship Co Ltd,Correct,162,206.08456683158877,15
+http://dbpedia.org/resource/SS_Stakesby_(1930),http://dbpedia.org/ontology/abstract,"Stakesby was a 4,026 GRT cargo ship that was built in 1930 by William Pickersgill & Sons Ltd, Sunderland, Co Durham, United Kingdom. She was torpedoed by U-124 in 1940 and later sank. Raised in 1943, she was repaired, passed to the Ministry of War Transport (MoWT) and renamed Empire Derwent. She was sold into merchant service in 1946 and renamed Swan Point, serving until she was wrecked in 1949.",Incorrect,162,206.08456683158877,15
+http://dbpedia.org/resource/SS_Stakesby_(1930),http://dbpedia.org/property/shipName,Swan Point,Incorrect,162,206.08456683158877,15
+http://dbpedia.org/resource/SS_Stakesby_(1930),http://www.w3.org/2003/01/geo/wgs84_pos#lat,58.8667,Incorrect,162,206.08456683158877,15
+http://dbpedia.org/resource/MG_XPower_SV,http://dbpedia.org/ontology/layout,"http://dbpedia.org/resource/Front-engine,_rear-wheel-drive_layout",Correct,163,91.81721496582033,15
+http://dbpedia.org/resource/Oldsmobile_Cutlass,http://dbpedia.org/property/layout,"http://dbpedia.org/resource/Front-engine,_rear-wheel-drive_layout",I Don't Know,164,144.34621596336365,15
+http://dbpedia.org/resource/Oldsmobile_Cutlass,http://dbpedia.org/property/assembly,"http://dbpedia.org/resource/South_Gate,_California",I Don't Know,164,144.34621596336365,15
+http://dbpedia.org/resource/Oldsmobile_Cutlass,http://dbpedia.org/property/related,http://dbpedia.org/resource/Buick_Century,I Don't Know,164,144.34621596336365,15
+http://dbpedia.org/resource/Oldsmobile_Cutlass,http://dbpedia.org/property/related,http://dbpedia.org/resource/Pontiac_Grand_Am,I Don't Know,164,144.34621596336365,15
+http://dbpedia.org/resource/Northern_Ireland_Assembly,http://dbpedia.org/ontology/politicalPartyInLegislature,http://dbpedia.org/resource/UK_Independence_Party,I Don't Know,165,477.8122591972351,19
+http://dbpedia.org/resource/Northern_Ireland_Assembly,http://dbpedia.org/ontology/politicalPartyInLegislature,http://dbpedia.org/resource/Sinn_Féin,I Don't Know,165,477.8122591972351,19
+http://dbpedia.org/resource/Northern_Ireland_Assembly,http://dbpedia.org/ontology/politicalPartyInLegislature,http://dbpedia.org/resource/NI21,I Don't Know,165,477.8122591972351,19
+http://dbpedia.org/resource/Northern_Ireland_Assembly,http://dbpedia.org/ontology/politicalPartyInLegislature,http://dbpedia.org/resource/Green_Party_in_Northern_Ireland,I Don't Know,165,477.8122591972351,19
+http://dbpedia.org/resource/Northern_Ireland_Assembly,http://dbpedia.org/ontology/politicalPartyOfLeader,http://dbpedia.org/resource/Sinn_Féin,I Don't Know,165,477.8122591972351,19
+http://dbpedia.org/resource/Bristol_404_and_405,http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/Bristol_404_and_405__1,Incorrect,166,150.39546298980713,19
+http://dbpedia.org/resource/Bristol_404_and_405,http://xmlns.com/foaf/0.1/name,Bristol 405,Correct,166,150.39546298980713,19
+http://dbpedia.org/resource/Bristol_404_and_405,http://dbpedia.org/ontology/bodyStyle,http://dbpedia.org/resource/Convertible,Correct,166,150.39546298980713,19
+http://dbpedia.org/resource/Bristol_404_and_405,http://dbpedia.org/ontology/bodyStyle,http://dbpedia.org/resource/Sedan_(automobile),Correct,166,150.39546298980713,19
+http://dbpedia.org/resource/Bristol_404_and_405,http://dbpedia.org/ontology/bodyStyle,http://dbpedia.org/resource/Coupé,Correct,166,150.39546298980713,19
+http://dbpedia.org/resource/Theodore_Svetoslav_of_Bulgaria,http://dbpedia.org/ontology/parent,http://dbpedia.org/resource/George_I_of_Bulgaria,Incorrect,167,207.49039316177368,19
+http://dbpedia.org/resource/FSO_Syrena,http://dbpedia.org/ontology/layout,"http://dbpedia.org/resource/Front-engine,_front-wheel-drive_layout",Correct,168,149.53335189819336,19
+http://dbpedia.org/resource/FSO_Syrena,http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/FSO_Syrena__1,Incorrect,168,149.53335189819336,19
+http://dbpedia.org/resource/FSO_Syrena,http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/FSO_Syrena__3,Incorrect,168,149.53335189819336,19
+http://dbpedia.org/resource/FSO_Syrena,http://xmlns.com/foaf/0.1/name,Syrena,Correct,168,149.53335189819336,19
+http://dbpedia.org/resource/FSO_Syrena,http://dbpedia.org/ontology/bodyStyle,http://dbpedia.org/resource/Panel_van,Incorrect,168,149.53335189819336,19
+http://dbpedia.org/resource/Montauk_Branch,http://www.w3.org/2000/01/rdf-schema#label,Montauk Branch,Correct,169,16.604042053222656,19
+http://dbpedia.org/resource/BMW_3_Series_(E90),http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/BMW_3_Series_(E90)__330i__2,Incorrect,170,175.55311512947085,19
+http://dbpedia.org/resource/BMW_3_Series_(E90),http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/BMW_3_Series_(E90)__320i__2,Incorrect,170,175.55311512947085,19
+http://dbpedia.org/resource/BMW_3_Series_(E90),http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/BMW_3_Series_(E90)__4,Incorrect,170,175.55311512947085,19
+http://dbpedia.org/resource/BMW_3_Series_(E90),http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/BMW_3_Series_(E90)__335i__1,Correct,170,175.55311512947085,19
+http://dbpedia.org/resource/BMW_3_Series_(E90),http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/BMW_3_Series_(E90)__330i__1,Correct,170,175.55311512947085,19
+http://dbpedia.org/resource/Lancia_Aurelia,http://dbpedia.org/ontology/designer,http://dbpedia.org/resource/Pininfarina,Correct,171,195.45228505134585,19
+http://dbpedia.org/resource/Lancia_Aurelia,http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/Lancia_Aurelia__2,Incorrect,171,195.45228505134585,19
+http://dbpedia.org/resource/Lancia_Aurelia,http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/Lancia_Aurelia__3,Incorrect,171,195.45228505134585,19
+http://dbpedia.org/resource/Lancia_Aurelia,http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/Lancia_Aurelia__1,Incorrect,171,195.45228505134585,19
+http://dbpedia.org/resource/Lancia_Aurelia,http://dbpedia.org/ontology/designer,http://dbpedia.org/resource/Felice_Mario_Boano,Incorrect,171,195.45228505134585,19
+http://dbpedia.org/resource/Khmer_Empire,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Angkor,Correct,172,25.672362089157104,19
+http://dbpedia.org/resource/Local_Government_Act_1972,http://www.w3.org/2000/01/rdf-schema#label,Local Government Act 1972,Correct,173,6.250718116760254,19
+http://dbpedia.org/resource/Nand_Kumar_Patel,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Nandeli,I Don't Know,174,11858.464893102646,19
+http://dbpedia.org/resource/Nand_Kumar_Patel,http://dbpedia.org/ontology/residence,http://dbpedia.org/resource/Nandeli,I Don't Know,174,11858.464893102646,19
+http://dbpedia.org/resource/Nand_Kumar_Patel,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Sukma,I Don't Know,174,11858.464893102646,19
+http://dbpedia.org/resource/Nand_Kumar_Patel,http://dbpedia.org/ontology/residence,http://dbpedia.org/resource/Raigarh_district,I Don't Know,174,11858.464893102646,19
+http://dbpedia.org/resource/Nand_Kumar_Patel,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Chhattisgarh,I Don't Know,174,11858.464893102646,19
+http://dbpedia.org/resource/Renault_Nepta,http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/Renault_Nepta__1,Incorrect,175,5.310949087142944,19
+http://dbpedia.org/resource/Isuzu_Bellett,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Station_wagons,Incorrect,176,158.0166416168213,19
+http://dbpedia.org/resource/Isuzu_Bellett,http://dbpedia.org/ontology/length,4.032,Incorrect,176,158.0166416168213,19
+http://dbpedia.org/resource/Isuzu_Bellett,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Isuzu_Bellett_red_front_end.JPG?width=300,Incorrect,176,158.0166416168213,19
+http://dbpedia.org/resource/Isuzu_Bellett,http://www.w3.org/2000/01/rdf-schema#label,Isuzu Bellett,Correct,176,158.0166416168213,19
+http://dbpedia.org/resource/Isuzu_Bellett,http://dbpedia.org/property/engine,1.5,Incorrect,176,158.0166416168213,19
+http://dbpedia.org/resource/2/12th_Battalion_(Australia),http://dbpedia.org/ontology/commandStructure,http://dbpedia.org/resource/18th_Brigade_(Australia),Incorrect,177,190.18578100204468,19
+http://dbpedia.org/resource/2/12th_Battalion_(Australia),http://dbpedia.org/ontology/commandStructure,http://dbpedia.org/resource/7th_Division_(Australia),I Don't Know,177,190.18578100204468,19
+http://dbpedia.org/resource/Ford_Mondeo_(fourth_generation),http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/Ford_Mondeo_(fourth_generation)__11,Incorrect,178,129.51628398895264,19
+http://dbpedia.org/resource/Ford_Mondeo_(fourth_generation),http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/Ford_Mondeo_(fourth_generation)__5,Incorrect,178,129.51628398895264,19
+http://dbpedia.org/resource/Ford_Mondeo_(fourth_generation),http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/Ford_Mondeo_(fourth_generation)__10,Incorrect,178,129.51628398895264,19
+http://dbpedia.org/resource/Ford_Mondeo_(fourth_generation),http://dbpedia.org/ontology/engine,http://dbpedia.org/resource/Ford_Mondeo_(fourth_generation)__2,Incorrect,178,129.51628398895264,19
+http://dbpedia.org/resource/Ford_Mondeo_(fourth_generation),http://dbpedia.org/ontology/bodyStyle,http://dbpedia.org/resource/Hatchback,Correct,178,129.51628398895264,19
+http://dbpedia.org/resource/Peter_Bone,http://xmlns.com/foaf/0.1/name,"Bone, Peter",Correct,179,63.824793100357056,19
+http://dbpedia.org/resource/Peter_Bone,http://dbpedia.org/property/occupation,Politician,Correct,179,63.824793100357056,19
+http://dbpedia.org/resource/Peter_Bone,http://www.w3.org/2000/01/rdf-schema#label,Peter Bone,Correct,179,63.824793100357056,19
+http://dbpedia.org/resource/Peter_Bone,http://dbpedia.org/property/name,"Bone, Peter",Correct,179,63.824793100357056,19
+http://dbpedia.org/resource/Peter_Bone,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Peter_Bone,Incorrect,179,63.824793100357056,19
+http://dbpedia.org/resource/Klaus_Barthel,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Munich,Correct,180,116.63092303276062,19
+http://dbpedia.org/resource/Klaus_Barthel,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/West_Germany,Incorrect,180,116.63092303276062,19
+http://dbpedia.org/resource/German_Type_UB_II_submarine,http://dbpedia.org/ontology/powerType,http://dbpedia.org/resource/Daimler-Motoren-Gesellschaft,I Don't Know,181,204.55724692344663,19
+http://dbpedia.org/resource/German_Type_UB_II_submarine,http://dbpedia.org/ontology/powerType,http://dbpedia.org/resource/Körting_Hannover,Correct,181,204.55724692344663,19
+http://dbpedia.org/resource/German_Type_UB_II_submarine,http://dbpedia.org/ontology/powerType,http://dbpedia.org/resource/Karl_Benz,Correct,181,204.55724692344663,19
+http://dbpedia.org/resource/William_O'Donovan_(politician),http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Tonbridge,Correct,182,236.76722407341003,19
+http://dbpedia.org/resource/William_O'Donovan_(politician),http://dbpedia.org/property/name,"Odonovan, William",Incorrect,182,236.76722407341003,19
+http://dbpedia.org/resource/William_O'Donovan_(politician),http://dbpedia.org/property/dateOfBirth,1886,Incorrect,182,236.76722407341003,19
+http://dbpedia.org/resource/William_O'Donovan_(politician),http://dbpedia.org/property/placeOfBirth,Tonbridge,Correct,182,236.76722407341003,19
+http://dbpedia.org/resource/William_O'Donovan_(politician),http://dbpedia.org/ontology/deathDate,1955-01-13,Correct,182,236.76722407341003,19

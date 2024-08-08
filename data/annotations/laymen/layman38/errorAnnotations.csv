@@ -1,0 +1,60 @@
+Subject,Predicate,Object,Error,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/Murata_Manufacturing,http://dbpedia.org/ontology/revenue,8.467E11,Object,0,18.263744592666622,10
+http://dbpedia.org/resource/Murata_Manufacturing,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Companies_listed_on_the_Osaka_Securities_Exchange,Object,0,18.263744592666622,10
+http://dbpedia.org/resource/Dublin_North_(Dáil_Éireann_constituency),http://dbpedia.org/property/name,http://dbpedia.org/resource/Denis_Cullen,Predicate,1,6.903291463851929,10
+http://dbpedia.org/resource/Dublin_North_(Dáil_Éireann_constituency),http://dbpedia.org/property/name,http://dbpedia.org/resource/G._V._Wright,Predicate,1,6.903291463851929,10
+http://dbpedia.org/resource/Dublin_North_(Dáil_Éireann_constituency),http://dbpedia.org/property/name,http://dbpedia.org/resource/Kathleen_Clarke,Predicate,1,6.903291463851929,10
+http://dbpedia.org/resource/Dublin_North_(Dáil_Éireann_constituency),http://dbpedia.org/property/name,http://dbpedia.org/resource/Alan_Farrell,Predicate,1,6.903291463851929,10
+http://dbpedia.org/resource/Dublin_North_(Dáil_Éireann_constituency),http://dbpedia.org/property/name,http://dbpedia.org/resource/William_Hewat,Predicate,1,6.903291463851929,10
+http://dbpedia.org/resource/Tokheim,http://www.w3.org/2000/01/rdf-schema#comment,"Tokheim Group S.A.S. is a French-based manufacturer of fuel dispensers. It claims to be one of the world's leading manufacturers and servicers of fuel dispensing equipment. The group has operations in many countries and offers customers a complete range of fuel dispensers and pumps, retail automation systems, payment terminals, media devices, replacement parts and upgrade kits, and support services including service station construction and maintenance.",Object,4,28.571078300476078,10
+http://dbpedia.org/resource/Tokheim,http://dbpedia.org/ontology/owner,http://dbpedia.org/resource/Motion_Equity_Partners,Object,4,28.571078300476078,10
+http://dbpedia.org/resource/Tokheim,http://dbpedia.org/property/homepage,http://www.tokheim.com/index.php?lgnews=1&lg=,Object,4,28.571078300476078,10
+http://dbpedia.org/resource/Tokheim,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Companies_of_France,Object,4,28.571078300476078,10
+http://dbpedia.org/resource/Björn_Westerlund,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/Helsinki_University_of_Technology,Object,5,12.584677457809448,10
+http://dbpedia.org/resource/Pentair,http://dbpedia.org/property/hqLocation,"Worsley, Greater Manchester, UK",Object,13,4.206207036972046,10
+http://dbpedia.org/resource/Pentair,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Companies_based_in_Minnesota,Object,13,4.206207036972046,10
+http://dbpedia.org/resource/Pentair,http://dbpedia.org/property/numEmployees,30000,Object,13,4.206207036972046,10
+http://dbpedia.org/resource/Southwest_Airlines,http://dbpedia.org/ontology/operatingIncome,2.23E9,Object,18,4.603436470031738,10
+http://dbpedia.org/resource/Pizza_73,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Pizza_73,Predicate,21,5.659674167633057,10
+http://dbpedia.org/resource/Plaid_Cymru,http://dbpedia.org/property/title,Links to related articles,Object,23,3.574357748031616,10
+http://dbpedia.org/resource/GoldenSource,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/GoldenSource,Predicate,25,6.395973205566406,10
+http://dbpedia.org/resource/Turn_10_Studios,http://xmlns.com/foaf/0.1/homepage,http://www.forzamotorsport.net/en-us/turn10,Object,27,9.061946392059326,10
+http://dbpedia.org/resource/Turn_10_Studios,http://dbpedia.org/property/keyPeople,Phil Frazier,Object,27,9.061946392059326,10
+http://dbpedia.org/resource/Lisaac,http://dbpedia.org/property/influencedBy,http://dbpedia.org/resource/Smalltalk,Predicate,28,9.088645458221436,10
+http://dbpedia.org/resource/Lisaac,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Smalltalk,Predicate,28,9.088645458221436,10
+http://dbpedia.org/resource/Torrent_Cables,http://xmlns.com/foaf/0.1/homepage,http://www.torrentcables.com/,Object,34,2.213672637939453,10
+http://dbpedia.org/resource/Solar_Turbines,http://xmlns.com/foaf/0.1/homepage,http://mysolar.cat.com,Object,35,2.121849298477173,10
+http://dbpedia.org/resource/Deborah_Meaden,http://dbpedia.org/ontology/residence,http://dbpedia.org/resource/Primrose_Hill,Object,38,3.644216060638428,10
+http://dbpedia.org/resource/RATP_Group,http://xmlns.com/foaf/0.1/homepage,http://www.ratp.fr/en/ratp/c_5002/the-ratp-group/,Object,41,2.8107354640960693,10
+http://dbpedia.org/resource/RATP_Group,http://dbpedia.org/property/homepage,http://www.ratp.fr/en/ratp/c_5002/the-ratp-group/,Object,41,2.8107354640960693,10
+http://dbpedia.org/resource/Twitter,http://dbpedia.org/property/revenue,1.4E9,Object,42,3.4563374519348145,10
+http://dbpedia.org/resource/Twitter,http://dbpedia.org/property/q,no,Predicate,42,3.4563374519348145,10
+http://dbpedia.org/resource/PRTM,http://dbpedia.org/property/homepage,http://www.prtm.com/,Object,45,2.372105836868286,10
+http://dbpedia.org/resource/Yekaterinburg,http://dbpedia.org/property/sepSnowDays,1,Object,48,4.554402589797974,10
+http://dbpedia.org/resource/Sitmar_Cruises,http://dbpedia.org/ontology/service,http://dbpedia.org/resource/Migrant_Ship,Object,51,2.1218960285186768,10
+http://dbpedia.org/resource/Wells_Fargo,http://dbpedia.org/property/netIncome,2.3E10,Object,57,2.3384687900543213,10
+http://dbpedia.org/resource/Eolica_Casimcea_Wind_Farm,http://dbpedia.org/property/psElectricalCapacity,244.0,Object,62,3.5539774894714355,10
+http://dbpedia.org/resource/Eolica_Casimcea_Wind_Farm,http://www.w3.org/2000/01/rdf-schema#comment,"The Eolica Casimcea Wind Farm is a proposed wind power project in Casimcea, Tulcea County, Romania. It will consist of six individual wind farms connected together. It will have 122 individual wind turbines with a nominal output of around 2 MW which will deliver up to 244 MW of power, enough to power over 150,000 homes, with a capital investment required of approximately US$300 million.",Object,62,3.5539774894714355,10
+http://dbpedia.org/resource/Renault,http://dbpedia.org/ontology/owningCompany,http://dbpedia.org/resource/Nissan,Object,71,2.277919054031372,10
+http://dbpedia.org/resource/Agile_software_development,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Group,Object,74,4.942011117935181,10
+http://dbpedia.org/resource/Thunderbird_Films,http://xmlns.com/foaf/0.1/homepage,http://www.thunderbird.tv/,Object,76,3.610194206237793,10
+http://dbpedia.org/resource/Nahim_Abraham,http://dbpedia.org/ontology/relation,http://dbpedia.org/resource/Salem_Abraham,Subject;Object,88,9.498368263244627,10
+http://dbpedia.org/resource/Direct_Line,http://dbpedia.org/ontology/locationCity,http://dbpedia.org/resource/Leeds,Object,90,2.154608726501465,10
+http://dbpedia.org/resource/Kofi_Annan,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/MIT_Sloan_School_of_Management,Object,99,2.314249038696289,10
+http://dbpedia.org/resource/NetSuite,http://dbpedia.org/ontology/numberOfEmployees,2550,Object,100,3.3623576164245605,10
+http://dbpedia.org/resource/Olainfarm,http://dbpedia.org/ontology/foundingDate,1991-06-10,Object,103,2.3391106128692627,10
+http://dbpedia.org/resource/Paessler,http://dbpedia.org/property/homepage,http://www.paessler.com/,Object,104,1.6130881309509275,10
+http://dbpedia.org/resource/K1_Speed,http://dbpedia.org/ontology/regionServed,http://dbpedia.org/resource/Southern_California,Object,105,3.492978096008301,10
+http://dbpedia.org/resource/Spectrasonics,http://xmlns.com/foaf/0.1/homepage,http://www.spectrasonics.net/,Object,115,2.7859530448913574,10
+http://dbpedia.org/resource/Spectrasonics,http://dbpedia.org/property/homepage,http://www.spectrasonics.net/,Object,115,2.7859530448913574,10
+http://dbpedia.org/resource/Ferrari,http://dbpedia.org/ontology/foundingYear,1947,Object,116,2.354161739349365,10
+http://dbpedia.org/resource/COPASI,http://dbpedia.org/property/latestReleaseVersion,4.15,Object,123,2.1120967864990234,10
+http://dbpedia.org/resource/TextDrive,http://xmlns.com/foaf/0.1/homepage,http://www.textdrive.com/,Object,134,2.7594549655914307,10
+http://dbpedia.org/resource/WTWW,http://dbpedia.org/ontology/broadcastNetwork,http://dbpedia.org/resource/Scriptures_For_America,Object,137,12.170819520950316,10
+http://dbpedia.org/resource/Saiyuki_(manga),http://dbpedia.org/property/last,2011-11-25,Object,142,5.549959897994995,10
+http://dbpedia.org/resource/Saiyuki_(manga),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Programs_acquired_by_GMA_Network,Object,142,5.549959897994995,10
+http://dbpedia.org/resource/Rentrak,http://xmlns.com/foaf/0.1/homepage,http://www.rentrak.com/,Object,146,2.1901519298553467,10
+http://dbpedia.org/resource/West_of_Scotland_F.C.,http://xmlns.com/foaf/0.1/homepage,http://www.westofscotlandfc.co.uk/,Object,155,3.266429662704468,10
+http://dbpedia.org/resource/Meggitt,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Dorset,Object,158,2.3580844402313232,10
+http://dbpedia.org/resource/Revco,http://xmlns.com/foaf/0.1/depiction,http://en.wikipedia.org/wiki/Special:FilePath/Revco4.jpg,Object,159,3.026235342025757,10
+http://dbpedia.org/resource/Kenji_Fujimori,http://xmlns.com/foaf/0.1/homepage,http://www.kenjifujimori.com.pe/,Object,161,2.228023052215576,10

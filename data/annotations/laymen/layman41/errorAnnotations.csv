@@ -1,0 +1,70 @@
+Subject,Predicate,Object,Error,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/Ankur_Warikoo,http://dbpedia.org/ontology/personFunction,http://dbpedia.org/resource/Ankur_Warikoo__2,Predicate,1,18.17606019973755,6
+http://dbpedia.org/resource/Drammen_Station,http://dbpedia.org/property/prespan,yes,Object,4,16.673935890197754,6
+http://dbpedia.org/resource/Drammen_Station,http://dbpedia.org/property/pre,—,Object,4,16.673935890197754,6
+http://dbpedia.org/resource/OrangeScape,http://dbpedia.org/ontology/product,http://dbpedia.org/resource/Kissflow,Object,5,3.004385232925415,6
+http://dbpedia.org/resource/Exor_(company),http://dbpedia.org/ontology/keyPerson,http://dbpedia.org/resource/Chief_executive_officer,Object,7,50.61272573471069,6
+http://dbpedia.org/resource/Exor_(company),http://dbpedia.org/ontology/industry,http://dbpedia.org/resource/Investment_company,Object,7,50.61272573471069,6
+http://dbpedia.org/resource/WFLZ-FM,http://dbpedia.org/property/format,http://dbpedia.org/resource/CHR/Pop,Object,9,3.53961181640625,6
+http://dbpedia.org/resource/Eyewitness_(TV_series),http://dbpedia.org/property/company,http://dbpedia.org/resource/Time-Life_Television,Object,10,4.056718111038208,7
+http://dbpedia.org/resource/Eyewitness_(TV_series),http://dbpedia.org/ontology/company,http://dbpedia.org/resource/Time-Life_Television,Object,10,4.056718111038208,7
+http://dbpedia.org/resource/WXEI-LP,http://dbpedia.org/ontology/webcast,http://wxei.8m.com/,Object,13,7.322452068328857,7
+http://dbpedia.org/resource/WXEI-LP,http://dbpedia.org/property/format,http://dbpedia.org/resource/Religious_broadcasting,Object,13,7.322452068328857,7
+http://dbpedia.org/resource/Spectrasonics,http://xmlns.com/foaf/0.1/homepage,http://www.spectrasonics.net/,Object,14,4.799566030502319,7
+http://dbpedia.org/resource/Spectrasonics,http://dbpedia.org/property/homepage,http://www.spectrasonics.net/,Object,14,4.799566030502319,7
+http://dbpedia.org/resource/Battle_of_the_Network_Stars,http://dbpedia.org/property/company,http://dbpedia.org/resource/IMG_(business),Object,16,2.302520036697388,7
+http://dbpedia.org/resource/Lovin_and_Withers_Cottages,http://dbpedia.org/property/locmapin,Arizona,Predicate,18,3.158738136291504,7
+http://dbpedia.org/resource/Boston_and_Lowell_Railroad,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Boston_and_Lowell_Railroad,Predicate,19,2.541214227676392,7
+http://dbpedia.org/resource/Stânca-Costești_Dam,http://www.w3.org/2003/01/geo/wgs84_pos#long,27.2586,Object,21,7.459672927856445,7
+http://dbpedia.org/resource/Memorial_to_Women_of_the_Confederacy,http://dbpedia.org/property/body,http://dbpedia.org/resource/United_Daughters_of_the_Confederacy,Predicate,23,2.1617190837860107,7
+http://dbpedia.org/resource/Derby,http://dbpedia.org/ontology/leaderTitle,Executive,Subject,26,183.02492809295651,7
+http://dbpedia.org/resource/Derby,http://dbpedia.org/property/southeast,http://dbpedia.org/resource/Kegworth,Predicate,26,183.02492809295651,7
+http://dbpedia.org/resource/Derby,http://dbpedia.org/property/populationBlank,2.9,Object,26,183.02492809295651,7
+http://dbpedia.org/resource/Derby,http://dbpedia.org/property/leaderName,http://dbpedia.org/resource/Amanda_Solloway,Subject,26,183.02492809295651,7
+http://dbpedia.org/resource/Hungry_Horse_Dam,http://dbpedia.org/ontology/lake,http://dbpedia.org/resource/Hungry_Horse_Dam__1,Object,28,2.7338221073150635,7
+http://dbpedia.org/resource/Plaid_Cymru,http://dbpedia.org/property/title,Links to related articles,Object,33,7.7900230884552,7
+http://dbpedia.org/resource/Kirti_Nagar_metro_station,http://dbpedia.org/ontology/parkingInformation,Yes,Predicate;Object,35,34.898263931274414,7
+"http://dbpedia.org/resource/St_Mary's_Church,_Garthorpe",http://xmlns.com/foaf/0.1/page,http://www.visitchurches.org.uk/Ourchurches/Completelistofchurches/St-Marys-Church-Garthorpe-Leicestershire/,Predicate;Object,36,7.043673038482666,7
+http://dbpedia.org/resource/Michael_Howard,http://dbpedia.org/ontology/predecessor,http://dbpedia.org/resource/Michael_Portillo,Object,37,3.3943159580230717,7
+http://dbpedia.org/resource/Berlin_Oranienburger_Straße_station,http://dbpedia.org/property/symbolLocation,de,Object,40,9.562385082244871,20
+http://dbpedia.org/resource/Kuala_Lumpur_Sentral_railway_station,http://dbpedia.org/ontology/parkingInformation,None,Object,41,2.745112180709839,20
+http://dbpedia.org/resource/Svenska_Högarna,http://dbpedia.org/property/characteristic,15.0,Object,43,2.6210310459136963,20
+http://dbpedia.org/resource/Riola,http://dbpedia.org/property/areaCodeType,http://dbpedia.org/resource/Telephone_numbers_in_Spain,Object,44,8.08862590789795,20
+http://dbpedia.org/resource/Percy_the_Small_Engine,http://dbpedia.org/ontology/voice,http://dbpedia.org/resource/Linda_Ballantyne,Object,46,2.2768259048461914,20
+http://dbpedia.org/resource/Olainfarm,http://dbpedia.org/ontology/foundingDate,1991-06-10,Object,47,2.4584248065948486,20
+http://dbpedia.org/resource/Pelham_Bay_Bridge,http://dbpedia.org/ontology/constructionMaterial,http://dbpedia.org/resource/Concrete,Object,48,21.076531171798703,20
+http://dbpedia.org/resource/Pelham_Bay_Bridge,http://dbpedia.org/ontology/maintainedBy,http://dbpedia.org/resource/Amtrak,Object,48,21.076531171798703,20
+http://dbpedia.org/resource/Pedder_Street,http://www.w3.org/2003/01/geo/wgs84_pos#long,114.158,Object,52,3.461374998092652,20
+http://dbpedia.org/resource/Pedder_Street,http://dbpedia.org/property/width,25,Object,52,3.461374998092652,20
+http://dbpedia.org/resource/Adam_Matthew_Digital,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Year_of_establishment_missing,Object,56,17.435441970825195,22
+http://dbpedia.org/resource/Adam_Matthew_Digital,http://xmlns.com/foaf/0.1/homepage,http://www.amdigital.co.uk/,Object,56,17.435441970825195,22
+http://dbpedia.org/resource/Sigma_Pi,http://dbpedia.org/property/nota,Former NFL Water/towel Boy,Object,59,2.340688705444336,24
+http://dbpedia.org/resource/Eibenstock_Dam,http://dbpedia.org/ontology/river,http://dbpedia.org/resource/Rähmerbach_Basin,Object,61,2.176323175430298,24
+http://dbpedia.org/resource/Lower_Guadiana_International_bridge,http://dbpedia.org/ontology/crosses,http://dbpedia.org/resource/Chanza_River,Object,62,2.2111549377441406,24
+"http://dbpedia.org/resource/Centerville,_Indiana",http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/Political_divisions_of_the_United_States,Object,66,3.075222969055176,24
+http://dbpedia.org/resource/RATP_Group,http://xmlns.com/foaf/0.1/homepage,http://www.ratp.fr/en/ratp/c_5002/the-ratp-group/,Object,67,4.441968202590942,24
+http://dbpedia.org/resource/RATP_Group,http://dbpedia.org/property/homepage,http://www.ratp.fr/en/ratp/c_5002/the-ratp-group/,Object,67,4.441968202590942,24
+http://dbpedia.org/resource/Beyond_Good_&_Evil_(video_game),http://dbpedia.org/property/title,Fun and Mini-Games,Object,69,3.093477725982666,24
+http://dbpedia.org/resource/Beyond_Good_&_Evil_(video_game),http://dbpedia.org/property/title,Heart of darkness,Object,69,3.093477725982666,24
+http://dbpedia.org/resource/Umicore,http://xmlns.com/foaf/0.1/name,Umicore N.V.,Object,75,5.772409200668335,24
+"http://dbpedia.org/resource/Philip_Snowden,_1st_Viscount_Snowden",http://dbpedia.org/property/before,http://dbpedia.org/resource/Winston_Churchill,Predicate,76,12.412438869476318,24
+http://dbpedia.org/resource/1815_Philadelphia_train_accident,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:History_of_County_Durham,Object,81,2.321004867553711,24
+http://dbpedia.org/resource/Torrent_Cables,http://xmlns.com/foaf/0.1/homepage,http://www.torrentcables.com/,Object,98,904.8384671211244,36
+http://dbpedia.org/resource/Enemy_(American_band),http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Predicate,105,4.720536947250366,36
+http://dbpedia.org/resource/Whitecraigs_railway_station,http://dbpedia.org/property/original,http://dbpedia.org/resource/Lanarkshire_and_Ayrshire_Railway,Predicate,119,2.02604603767395,37
+http://dbpedia.org/resource/Cubesat_Space_Protocol,http://dbpedia.org/property/author,http://dbpedia.org/resource/AAUSAT3,Object,121,6.7624671459198,38
+http://dbpedia.org/resource/V6_(band),http://dbpedia.org/property/label,http://dbpedia.org/resource/Avex_Trax,Object,124,2.4032740592956543,38
+http://dbpedia.org/resource/Revco,http://xmlns.com/foaf/0.1/depiction,http://en.wikipedia.org/wiki/Special:FilePath/Revco4.jpg,Object,129,1.748426914215088,38
+http://dbpedia.org/resource/Vasa_IFK,http://dbpedia.org/property/name,Artur Lemanowicz,Object,133,2.591287136077881,38
+http://dbpedia.org/resource/Edmund_Boulter,http://dbpedia.org/property/years,1698,Predicate,136,11.608548164367676,38
+http://dbpedia.org/resource/Derby,http://dbpedia.org/ontology/leaderName,http://dbpedia.org/resource/Derby_City_Council,Object,139,2.057803153991699,38
+http://dbpedia.org/resource/Leo_Kieffer,http://dbpedia.org/property/name,"Kieffer, Leo",Object,149,1.7869277000427246,38
+http://dbpedia.org/resource/VFLI,http://dbpedia.org/property/parent,http://dbpedia.org/resource/SNCF_Geodis,Object,161,3.4627060890197754,38
+http://dbpedia.org/resource/VFLI,http://dbpedia.org/ontology/parentCompany,http://dbpedia.org/resource/SNCF_Geodis,Object,161,3.4627060890197754,38
+http://dbpedia.org/resource/Alexandre_Tombini,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/Doctor_of_Philosophy,Object,163,1.8830039501190183,38
+http://dbpedia.org/resource/Resolution_plc,http://dbpedia.org/property/keyPeople,http://dbpedia.org/resource/Chairman,Predicate,172,1.6919512748718262,38
+http://dbpedia.org/resource/SoftBank,http://dbpedia.org/property/homepage,http://www.softbank.co.jp/en/,Object,173,3.4240200519561768,38
+http://dbpedia.org/resource/Ann_Widdecombe,http://xmlns.com/foaf/0.1/name,"Widdecombe, Ann Noreen",Object,174,2.10495400428772,38
+http://dbpedia.org/resource/Riviera_Partners,http://dbpedia.org/property/homepage,http://rivierapartners.com/,Object,176,2.9896578788757324,38
+http://dbpedia.org/resource/Riviera_Partners,http://xmlns.com/foaf/0.1/homepage,http://rivierapartners.com/,Object,176,2.9896578788757324,38
+http://dbpedia.org/resource/Okinawa_Monorail,http://dbpedia.org/ontology/foundationPlace,http://dbpedia.org/resource/2003_in_rail_transport,Object,177,15.082289218902588,38

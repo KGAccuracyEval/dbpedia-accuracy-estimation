@@ -1,0 +1,109 @@
+Subject,Predicate,Object,Error,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/Zantedeschia_elliottiana,http://dbpedia.org/ontology/family,http://dbpedia.org/resource/Aroideae,Object,0,39.9726300239563,20
+http://dbpedia.org/resource/Choricarpia,http://dbpedia.org/ontology/order,http://dbpedia.org/resource/Rosids,Object,4,12.579909086227415,20
+http://dbpedia.org/resource/Choricarpia,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Myrtales_of_Australia,Predicate,4,12.579909086227415,20
+http://dbpedia.org/resource/Broken_Crayon_Games,http://dbpedia.org/ontology/industry,http://dbpedia.org/resource/Software,Object,8,37.862586975097656,26
+http://dbpedia.org/resource/Bob_Corritore,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Songwriters_from_Illinois,Subject,10,8.699780225753784,26
+http://dbpedia.org/resource/Fernando_Pessoa,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Giannina_Braschi,Subject;Predicate,13,12.925894021987917,26
+http://dbpedia.org/resource/Operation_Snatch,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Elstree_Studios_films,Subject,16,12.600992918014526,31
+http://dbpedia.org/resource/Thomas_Kuhn,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Bertrand_Russell,Subject,18,64.77576088905334,31
+http://dbpedia.org/resource/Sextans_B,http://dbpedia.org/property/sizeV,5,Predicate,20,6.425851106643677,31
+http://dbpedia.org/resource/Casey_Desmond,http://dbpedia.org/ontology/background,solo_singer,Object,22,195.4914529323578,31
+http://dbpedia.org/resource/Casey_Desmond,http://xmlns.com/foaf/0.1/name,Casey Desmond,Object,22,195.4914529323578,31
+http://dbpedia.org/resource/Casey_Desmond,http://dbpedia.org/property/genre,http://dbpedia.org/resource/Indie_electro_pop_rock,Object,22,195.4914529323578,31
+http://dbpedia.org/resource/Heart's_Desire_(film),http://dbpedia.org/property/country,United Kingdom,Subject,23,7.003437042236328,31
+http://dbpedia.org/resource/Heart's_Desire_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:British_musical_films,Subject,23,7.003437042236328,31
+http://dbpedia.org/resource/Heart's_Desire_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1930s_musical_films,Subject,23,7.003437042236328,31
+http://dbpedia.org/resource/Heart's_Desire_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_directed_by_Paul_L._Stein,Subject,23,7.003437042236328,31
+http://dbpedia.org/resource/Damalops,http://dbpedia.org/ontology/class,http://dbpedia.org/resource/Mammal,Object,24,3.759919881820679,31
+http://dbpedia.org/resource/St._Catharines,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/Canada,Predicate,25,2.184474229812622,31
+http://dbpedia.org/resource/Iban_people,http://dbpedia.org/property/languages,http://dbpedia.org/resource/Malay_language,Object,27,4.131613969802856,31
+http://dbpedia.org/resource/The_Conversion_of_Mary_Magdalene,http://dbpedia.org/property/city,http://dbpedia.org/resource/United_Kingdom,Predicate,29,6.126102924346924,31
+http://dbpedia.org/resource/The_Conversion_of_Mary_Magdalene,http://dbpedia.org/property/museum,"http://dbpedia.org/resource/The_National_Gallery%3C!--_,_Trafalgar_Square,_--%3E",Object,29,6.126102924346924,31
+http://dbpedia.org/resource/Diana_Gurtskaya,http://dbpedia.org/property/birthDate,1978-07-02,Object,31,10.367739915847778,31
+http://dbpedia.org/resource/Diana_Gurtskaya,http://dbpedia.org/property/before,with Visionary Dream,Predicate,31,10.367739915847778,31
+http://dbpedia.org/resource/Diana_Gurtskaya,http://dbpedia.org/ontology/birthDate,1978-07-02,Object,31,10.367739915847778,31
+http://dbpedia.org/resource/Diana_Gurtskaya,http://dbpedia.org/property/dateOfBirth,1978-07-02,Object,31,10.367739915847778,31
+http://dbpedia.org/resource/BeOS,http://dbpedia.org/ontology/license,http://dbpedia.org/resource/Proprietary_software,Predicate,33,2.1181533336639404,31
+http://dbpedia.org/resource/The_Mob_(film),http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-movie-noun-1,Object,34,15.739601850509644,31
+http://dbpedia.org/resource/The_Mob_(film),http://dbpedia.org/property/runtime,5220.0,Object,34,15.739601850509644,31
+http://dbpedia.org/resource/The_Mob_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Object,34,15.739601850509644,31
+http://dbpedia.org/resource/SexyMandarin,http://dbpedia.org/property/founder,http://dbpedia.org/resource/Michael_Gleissner,Object,35,4.753570795059204,31
+http://dbpedia.org/resource/SexyMandarin,http://dbpedia.org/ontology/foundedBy,http://dbpedia.org/resource/Michael_Gleissner,Object,35,4.753570795059204,31
+http://dbpedia.org/resource/Jamaica_Inn_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_set_in_hotels,Object,36,4.542875289916992,31
+http://dbpedia.org/resource/On_the_Black_Hill_(film),http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Predicate,37,3.330919027328491,31
+http://dbpedia.org/resource/Dušan_Petričić,http://dbpedia.org/ontology/training,http://dbpedia.org/resource/University_of_Arts_in_Belgrade,Predicate,40,2.02821683883667,31
+http://dbpedia.org/resource/Hastulopsis_campbelli,http://dbpedia.org/ontology/family,http://dbpedia.org/resource/Conoidea,Predicate,43,7.522873878479004,31
+http://dbpedia.org/resource/Hastulopsis_campbelli,http://dbpedia.org/ontology/synonym,"Terebra campbelli (Burch, 1965)",Object,43,7.522873878479004,31
+http://dbpedia.org/resource/All_God's_Children_(2012_film),http://dbpedia.org/ontology/Work/runtime,90.0,Object,45,6.635502099990845,31
+http://dbpedia.org/resource/Kallar_(caste),http://dbpedia.org/property/languages,http://dbpedia.org/resource/Tamil_language,Predicate;Object,46,6.333142042160034,31
+"http://dbpedia.org/resource/St_George's_Church,_Poynton",http://xmlns.com/foaf/0.1/page,http://www.poyntonpc.net/,Predicate;Object,47,3.5645651817321777,31
+http://dbpedia.org/resource/Primeval,http://dbpedia.org/ontology/company,http://dbpedia.org/resource/M6_(TV_channel),Object,48,4.694631814956665,31
+http://dbpedia.org/resource/Apodida,http://dbpedia.org/ontology/class,http://dbpedia.org/resource/Apodacea,Object,50,10.54338026046753,31
+http://dbpedia.org/resource/Apodida,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Holothuroidea,Predicate,50,10.54338026046753,31
+http://dbpedia.org/resource/Apodida,http://dbpedia.org/property/ordo,Apodida,Predicate,50,10.54338026046753,31
+http://dbpedia.org/resource/Unbelievable_Adventures_of_Italians_in_Russia,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Italian_films,Object,51,3.501194715499878,31
+http://dbpedia.org/resource/Cratoptera,http://dbpedia.org/property/subdivisionRanks,http://dbpedia.org/resource/Species,Predicate,55,17.93366026878357,31
+http://dbpedia.org/resource/Cratoptera,http://dbpedia.org/property/imageWidth,300,Predicate;Object,55,17.93366026878357,31
+http://dbpedia.org/resource/Cratoptera,http://dbpedia.org/ontology/order,http://dbpedia.org/resource/Lepidoptera,Predicate,55,17.93366026878357,31
+http://dbpedia.org/resource/The_Third_Degree,http://dbpedia.org/ontology/director,http://dbpedia.org/resource/Michael_Curtiz,Object,57,5.364577054977417,31
+http://dbpedia.org/resource/The_Third_Degree,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Black-and-white_films,Object,57,5.364577054977417,31
+http://dbpedia.org/resource/Prince_of_Persia:_The_Sands_of_Time,http://dbpedia.org/property/eurogGba,7,Predicate;Object,59,11.81435775756836,31
+http://dbpedia.org/resource/Prince_of_Persia:_The_Sands_of_Time,http://dbpedia.org/property/grPs,91.0,Predicate;Object,59,11.81435775756836,31
+http://dbpedia.org/resource/Prince_of_Persia:_The_Sands_of_Time,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Video_games_set_in_Iran,Object,59,11.81435775756836,31
+http://dbpedia.org/resource/Caesar_and_Cleopatra_(film),http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Predicate,60,4.894624948501587,31
+http://dbpedia.org/resource/Tegan_and_Sara,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:All-female_bands,Object,68,12.319715738296509,31
+http://dbpedia.org/resource/Tegan_and_Sara,http://dbpedia.org/property/imageSize,300,Predicate,68,12.319715738296509,31
+http://dbpedia.org/resource/Tegan_and_Sara,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Sibling_musical_duos,Object,68,12.319715738296509,31
+http://dbpedia.org/resource/List_of_Crayon_Shin-chan_episodes_(2012–present),http://dbpedia.org/property/romajititleb,Tezukuri Gyōza da zo,Predicate,69,6.641457796096802,31
+http://dbpedia.org/resource/List_of_Crayon_Shin-chan_episodes_(2012–present),http://dbpedia.org/property/episodenumber,759,Object,69,6.641457796096802,31
+http://dbpedia.org/resource/Chico_Hamilton_Trio,http://dbpedia.org/property/recorded,--12-06,Subject;Predicate,71,12.665797233581545,31
+http://dbpedia.org/resource/Ljungby,http://dbpedia.org/property/augRecordLowC,-0.7,Predicate;Object,74,9.313962936401367,31
+http://dbpedia.org/resource/Ljungby,http://dbpedia.org/property/source,SMHI Monthly Data 2002-2014,Predicate,74,9.313962936401367,31
+http://dbpedia.org/resource/Ljungby,http://dbpedia.org/property/junRecordLowC,-2.9,Predicate;Object,74,9.313962936401367,31
+http://dbpedia.org/resource/Ljungby,http://dbpedia.org/property/precipitationColour,green,Predicate,74,9.313962936401367,31
+http://dbpedia.org/resource/Survival_of_the_Fittest_(song),http://dbpedia.org/property/recorded,1994,Object,75,8.461204290390015,31
+http://dbpedia.org/resource/Drøbak,http://dbpedia.org/ontology/leaderName,http://dbpedia.org/resource/Joseph_Stalin,Subject,77,3.54757022857666,31
+http://dbpedia.org/resource/Gardēzī_Sadaat,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Family,Predicate,78,6.201735258102417,31
+http://dbpedia.org/resource/Gardēzī_Sadaat,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Gardēzī_Sadaat,Predicate,78,6.201735258102417,31
+http://dbpedia.org/resource/Dinteloord,http://dbpedia.org/property/subdivisionName,http://dbpedia.org/resource/North_Brabant,Predicate,84,2.4020590782165527,31
+http://dbpedia.org/resource/Homonotichthys,http://dbpedia.org/property/subphylum,http://dbpedia.org/resource/Vertebrate,Object,85,6.652626037597656,32
+http://dbpedia.org/resource/Homonotichthys,http://dbpedia.org/property/superclassis,http://dbpedia.org/resource/Osteichthyes,Object,85,6.652626037597656,32
+http://dbpedia.org/resource/Sanjak_of_Ohrid,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Bitola,Object,88,2.613377094268799,32
+http://dbpedia.org/resource/List_of_Jo_Stafford_compilation_albums_(1955–99),http://dbpedia.org/property/genre,http://dbpedia.org/resource/Big_band,Predicate,89,4.289689064025879,32
+http://dbpedia.org/resource/List_of_Jo_Stafford_compilation_albums_(1955–99),http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Big_band,Predicate,89,4.289689064025879,32
+http://dbpedia.org/resource/Zizyphia_zizyphella,http://www.w3.org/2000/01/rdf-schema#comment,Zizyphia zizyphella is a moth in the Gelechiidae family. It was described by Amsel in 1935. It is found in Palestine.,Object,91,7.913609981536865,32
+http://dbpedia.org/resource/Estey_Organ,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/Welte-Mignon,Predicate,94,2.319345712661743,32
+http://dbpedia.org/resource/Langenthal,http://dbpedia.org/ontology/neighboringMunicipality,http://dbpedia.org/resource/Bleienbach,Object,98,4.080104827880859,32
+http://dbpedia.org/resource/Moolah_Beach,http://www.w3.org/2000/01/rdf-schema#comment,"Moolah Beach is a reality show in the vein of Survivor but with teenagers competing in competitions in order to not be exiled from the beach and ultimately win $25,000. It aired on Fox (as part of its Fox Kids lineup) as a 30-minute show and Fox Family (later shown on ABC Family) as an extended 60-minute show in the late summer/early fall of 2001 for 6 episodes (the entire series was then rerun).",Object,99,7.131287097930908,32
+http://dbpedia.org/resource/Moolah_Beach,http://dbpedia.org/ontology/completionDate,2001-12-01,Object,99,7.131287097930908,32
+http://dbpedia.org/resource/Horam,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-location-noun-1,Predicate;Object,100,5.852644681930542,32
+http://dbpedia.org/resource/Horam,http://dbpedia.org/property/staticImage,240,Predicate;Object,100,5.852644681930542,32
+http://dbpedia.org/resource/Red_Rock_West,http://dbpedia.org/property/writer,John Dahl,Predicate;Object,103,15.033392906188965,33
+http://dbpedia.org/resource/Red_Rock_West,http://dbpedia.org/property/producer,http://dbpedia.org/resource/Sigurjón_Sighvatsson,Object,103,15.033392906188965,33
+http://dbpedia.org/resource/Stigmella_inopinata,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Stigmella_inopinata,Predicate,104,6.310628175735474,33
+http://dbpedia.org/resource/Longobardia,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Bari,Object,110,3.075268030166626,33
+http://dbpedia.org/resource/Ivesia_pickeringii,http://dbpedia.org/ontology/binomialAuthority,http://dbpedia.org/resource/John_Torrey,Object,114,5.197129011154175,34
+http://dbpedia.org/resource/Wen_Jiabao,http://dbpedia.org/property/years,1986,Predicate,122,10.776838779449465,34
+http://dbpedia.org/resource/Wen_Jiabao,http://dbpedia.org/property/1namedata,http://dbpedia.org/resource/Hu_Yaobang,Predicate,122,10.776838779449465,34
+http://dbpedia.org/resource/Wen_Jiabao,http://dbpedia.org/property/termEnd,2003-03-16,Predicate;Object,122,10.776838779449465,34
+http://dbpedia.org/resource/Zhejiangosaurus,http://dbpedia.org/ontology/abstract,"Zhejiangosaurus (meaning ""Zhejiang lizard"") is an extinct genus of nodosaurid dinosaur from the Upper Cretaceous (Cenomanian stage) of Zhejiang, eastern China. It was first named by a group of Chinese and Japanese authors Junchang Lü, Xingsheng Jin, Yiming Sheng and Yihong Li in 2007 and the type species is Zhejiangosaurus lishuiensis (""from Lishui"", Chinese administrative unit on which the fossil was found). It has no diagnostic features, and thus is a nomen dubium.",Object,124,5.33573317527771,34
+http://dbpedia.org/resource/Zhejiangosaurus,http://www.w3.org/2000/01/rdf-schema#comment,"Zhejiangosaurus (meaning ""Zhejiang lizard"") is an extinct genus of nodosaurid dinosaur from the Upper Cretaceous (Cenomanian stage) of Zhejiang, eastern China. It was first named by a group of Chinese and Japanese authors Junchang Lü, Xingsheng Jin, Yiming Sheng and Yihong Li in 2007 and the type species is Zhejiangosaurus lishuiensis (""from Lishui"", Chinese administrative unit on which the fossil was found). It has no diagnostic features, and thus is a nomen dubium.",Object,124,5.33573317527771,34
+http://dbpedia.org/resource/Zhejiangosaurus,http://dbpedia.org/property/parentAuthority,"Lü et al., 2007",Predicate,124,5.33573317527771,34
+http://dbpedia.org/resource/Ramifications_(Ligeti),http://dbpedia.org/ontology/abstract,Ramifications is a composition for strings by Romanian-born composer György Ligeti. It was finished in 1968 and premiered in 1969.,Object,128,12.186359643936155,34
+http://dbpedia.org/resource/Ramifications_(Ligeti),http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Ramifications_(Ligeti),Predicate;Object,128,12.186359643936155,34
+http://dbpedia.org/resource/Ramifications_(Ligeti),http://www.w3.org/2000/01/rdf-schema#comment,Ramifications is a composition for strings by Romanian-born composer György Ligeti. It was finished in 1968 and premiered in 1969.,Object,128,12.186359643936155,34
+http://dbpedia.org/resource/Michigan_State_University_College_of_Osteopathic_Medicine,http://dbpedia.org/ontology/facultySize,2000,Predicate;Object,129,3.821046113967896,34
+http://dbpedia.org/resource/Akira_Tohei,http://xmlns.com/foaf/0.1/surname,Tohei,Object,130,2.85976791381836,34
+http://dbpedia.org/resource/Sabor_(Tarzan),http://dbpedia.org/ontology/species,http://dbpedia.org/resource/Tiger,Object,131,5.269049882888794,34
+http://dbpedia.org/resource/Sabor_(Tarzan),http://dbpedia.org/ontology/species,http://dbpedia.org/resource/Lion,Object,131,5.269049882888794,34
+http://dbpedia.org/resource/The_Amazing_Mr._X,http://dbpedia.org/property/caption,Theatrical release poster,Predicate,134,4.680415153503418,34
+http://dbpedia.org/resource/Cercospora_apii,http://dbpedia.org/property/ordo,http://dbpedia.org/resource/Capnodiales,Predicate,137,2.3087737560272217,34
+http://dbpedia.org/resource/The_Kite_Runner_(film),http://dbpedia.org/property/country,United States,Object,144,4.112794876098633,34
+http://dbpedia.org/resource/The_Kite_Runner_(film),http://dbpedia.org/property/language,English,Object,144,4.112794876098633,34
+http://dbpedia.org/resource/James_Blunt,http://dbpedia.org/property/instrument,http://dbpedia.org/resource/Organ_(music),Object,145,3.861675977706909,34
+http://dbpedia.org/resource/Congenital_insensitivity_to_pain,http://dbpedia.org/ontology/abstract,"Congenital insensitivity to pain (CIP), also known as congenital analgesia, is one or more rare conditions in which a person cannot feel (and has never felt) physical pain. The conditions described here are separate from the HSAN group of disorders, which have more specific signs and etiology. Despite sounding beneficial, it is actually an extremely dangerous condition.",Object,147,2.9585111141204834,34
+http://dbpedia.org/resource/Sherry_She_Needs_Me,http://dbpedia.org/property/released,2013-08-27,Object,159,5.512545108795166,34
+http://dbpedia.org/resource/Sherry_She_Needs_Me,http://dbpedia.org/property/recorded,1998,Object,159,5.512545108795166,34
+http://dbpedia.org/resource/Leisure_(album),http://dbpedia.org/property/rev,Q,Predicate;Object,160,4.822917699813843,34
+http://dbpedia.org/resource/Fix_Me,http://dbpedia.org/ontology/recordLabel,http://dbpedia.org/resource/604_Records,Predicate,165,2.633424758911133,34

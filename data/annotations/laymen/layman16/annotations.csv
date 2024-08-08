@@ -1,0 +1,731 @@
+Subject,Predicate,Object,Annotation,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/The_Teenagers,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,0,17.30961322784424,39
+http://dbpedia.org/resource/I_Lived_with_You,http://dbpedia.org/ontology/producer,http://dbpedia.org/resource/Julius_Hagen,Correct,1,464.21133685112,39
+http://dbpedia.org/resource/I_Lived_with_You,http://www.w3.org/2000/01/rdf-schema#comment,"I Lived with You is a 1933 British romantic comedy film directed by Maurice Elvey and starring Ivor Novello, Ursula Jeans and Ida Lupino. It is based on the West End hit play I Lived With You by Novello.",Correct,1,464.21133685112,39
+http://dbpedia.org/resource/I_Lived_with_You,http://dbpedia.org/ontology/language,http://dbpedia.org/resource/English_language,Correct,1,464.21133685112,39
+http://dbpedia.org/resource/I_Lived_with_You,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/(1933).jpg?width=300,I Don't Know,1,464.21133685112,39
+http://dbpedia.org/resource/I_Lived_with_You,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/I_Lived_with_You,Correct,1,464.21133685112,39
+http://dbpedia.org/resource/The_Road_to_Love,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,2,46.45499563217163,39
+http://dbpedia.org/resource/The_Road_to_Love,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_films,Correct,2,46.45499563217163,39
+http://dbpedia.org/resource/Antz,http://dbpedia.org/property/title,Z's Alive,Incorrect,3,359.1567716598511,39
+http://dbpedia.org/resource/Antz,http://dbpedia.org/ontology/producer,http://dbpedia.org/resource/Aron_Warner,Correct,3,359.1567716598511,39
+http://dbpedia.org/resource/Antz,http://dbpedia.org/property/title,Princess Bala,Incorrect,3,359.1567716598511,39
+http://dbpedia.org/resource/Antz,http://dbpedia.org/ontology/director,http://dbpedia.org/resource/Eric_Darnell,Correct,3,359.1567716598511,39
+http://dbpedia.org/resource/Antz,http://dbpedia.org/property/name,Antz,Correct,3,359.1567716598511,39
+http://dbpedia.org/resource/Planet_Earth_(TV_series),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Nature_educational_television_series,Correct,4,47.304030895233154,39
+http://dbpedia.org/resource/Planet_Earth_(TV_series),http://dbpedia.org/ontology/related,http://dbpedia.org/resource/Frozen_Planet,Correct,4,47.304030895233154,39
+http://dbpedia.org/resource/Planet_Earth_(TV_series),http://dbpedia.org/property/id,b006mywy,Correct,4,47.304030895233154,39
+http://dbpedia.org/resource/Planet_Earth_(TV_series),http://xmlns.com/foaf/0.1/homepage,http://www.bbc.co.uk/programmes/b006mywy,Incorrect,4,47.304030895233154,39
+http://dbpedia.org/resource/Planet_Earth_(TV_series),http://dbpedia.org/property/followedBy,Frozen Planet,Correct,4,47.304030895233154,39
+http://dbpedia.org/resource/Lene_Lai,http://dbpedia.org/property/dateOfBirth,1989-06-06,Correct,5,75.64613437652588,39
+http://dbpedia.org/resource/Lene_Lai,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Actress,Correct,5,75.64613437652588,39
+http://dbpedia.org/resource/Lene_Lai,http://dbpedia.org/property/c,賴琳恩,Correct,5,75.64613437652588,39
+http://dbpedia.org/resource/Lene_Lai,http://dbpedia.org/ontology/activeYearsStartYear,2006,Correct,5,75.64613437652588,39
+http://dbpedia.org/resource/Lene_Lai,http://dbpedia.org/property/awards,"Miss Asia Pageant 2008, 2nd Runner up",Correct,5,75.64613437652588,39
+http://dbpedia.org/resource/Blackadder:_Back_&_Forth,http://dbpedia.org/ontology/abstract,"Blackadder: Back & Forth is a 1999 sci-fi comedy film based on the BBC mock-historical sit-com Blackadder that marks the end of the Blackadder saga. It was commissioned especially for showing in the specially built ""SkyScape"" cinema, erected southeast of the Millennium Dome on the Greenwich peninsula in South London. The film follows Lord Edmund Blackadder and his idiotic servant, Baldrick, on a time travel adventure that brings the characters into contact with several figures significant to British history.In a 1999 interview, Richard Curtis described it as ""an irreverent trek through British history – a time travel adventure story consisting entirely of people who are either rude or stupid."" Rowan Atkinson and Tony Robinson reprised their roles as the series' core characters Blackadder and Baldrick, respectively. In an interview, Atkinson stated that making a Blackadder film had always been an ambition. Joining Atkinson and Robinson are other main cast members from the last three series, Stephen Fry, Hugh Laurie, Tim McInnerny and Miranda Richardson.",Correct,6,2.843118906021118,39
+http://dbpedia.org/resource/Flash_of_Genius_(film),http://dbpedia.org/ontology/producer,http://dbpedia.org/resource/Gary_Barber,Correct,7,4.016739130020142,39
+http://dbpedia.org/resource/Flash_of_Genius_(film),http://dbpedia.org/property/director,http://dbpedia.org/resource/Marc_Abraham,Correct,7,4.016739130020142,39
+http://dbpedia.org/resource/Flash_of_Genius_(film),http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Greg_Kinnear,Correct,7,4.016739130020142,39
+http://dbpedia.org/resource/Flash_of_Genius_(film),http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Flash_of_Genius_(film),Correct,7,4.016739130020142,39
+http://dbpedia.org/resource/Flash_of_Genius_(film),http://dbpedia.org/ontology/producer,http://dbpedia.org/resource/Roger_Birnbaum,Correct,7,4.016739130020142,39
+http://dbpedia.org/resource/It's_All_About_the_Stragglers,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2000_debut_albums,Correct,8,3.751175165176392,39
+http://dbpedia.org/resource/It's_All_About_the_Stragglers,http://dbpedia.org/ontology/runtime,3736.0,Correct,8,3.751175165176392,39
+http://dbpedia.org/resource/It's_All_About_the_Stragglers,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/It's_All_About_the_Stragglers,Correct,8,3.751175165176392,39
+http://dbpedia.org/resource/It's_All_About_the_Stragglers,http://www.w3.org/2000/01/rdf-schema#label,It's All About the Stragglers,Correct,8,3.751175165176392,39
+http://dbpedia.org/resource/It's_All_About_the_Stragglers,http://xmlns.com/foaf/0.1/name,It's All About the Stragglers,Correct,8,3.751175165176392,39
+http://dbpedia.org/resource/Popstars_2015,http://dbpedia.org/property/starring,http://dbpedia.org/resource/Stefanie_Heinzmann,Correct,9,3.897116184234619,39
+http://dbpedia.org/resource/Popstars_2015,http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Miss_Platnum,Correct,9,3.897116184234619,39
+http://dbpedia.org/resource/Popstars_2015,http://dbpedia.org/property/website,http://www.rtl2.de/sendung/popstars-2015,Correct,9,3.897116184234619,39
+http://dbpedia.org/resource/Popstars_2015,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Popstars_(Germany),Correct,9,3.897116184234619,39
+http://dbpedia.org/resource/Popstars_2015,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Season,Correct,9,3.897116184234619,39
+http://dbpedia.org/resource/Signs_(band),http://dbpedia.org/property/yearsActive,1999,Correct,10,4.80036735534668,39
+http://dbpedia.org/resource/Signs_(band),http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-musician-noun-1,Correct,10,4.80036735534668,39
+http://dbpedia.org/resource/Signs_(band),http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Signs_(band),Correct,10,4.80036735534668,39
+http://dbpedia.org/resource/Signs_(band),http://dbpedia.org/property/label,unsigned,Correct,10,4.80036735534668,39
+http://dbpedia.org/resource/Signs_(band),http://dbpedia.org/property/pastMembers,Rashell Gordon,Correct,10,4.80036735534668,39
+http://dbpedia.org/resource/Players_Association,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,11,1.773231029510498,39
+http://dbpedia.org/resource/Charlie_Chan's_Chance,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,12,8.289175510406494,39
+http://dbpedia.org/resource/Charlie_Chan's_Chance,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_based_on_American_novels,Correct,12,8.289175510406494,39
+http://dbpedia.org/resource/Charlie_Chan's_Chance,http://dbpedia.org/property/studio,http://dbpedia.org/resource/Fox_Film,Correct,12,8.289175510406494,39
+http://dbpedia.org/resource/Charlie_Chan's_Chance,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:20th_Century_Fox_films,Correct,12,8.289175510406494,39
+http://dbpedia.org/resource/Charlie_Chan's_Chance,http://dbpedia.org/property/starring,http://dbpedia.org/resource/Warner_Oland,Correct,12,8.289175510406494,39
+http://dbpedia.org/resource/Frisz_&_Sympatisz,http://dbpedia.org/ontology/artist,http://dbpedia.org/resource/Herman_Brood,Correct,13,1.3248567581176758,39
+http://dbpedia.org/resource/Djelfa_Province,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/Algeria_17_Wilaya_locator_map-2009.svg,Correct,14,3.914953470230103,39
+http://dbpedia.org/resource/Djelfa_Province,http://dbpedia.org/property/blank1InfoSec,36,Correct,14,3.914953470230103,39
+http://dbpedia.org/resource/Djelfa_Province,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Province,Correct,14,3.914953470230103,39
+http://dbpedia.org/resource/Djelfa_Province,http://dbpedia.org/property/longd,3,Correct,14,3.914953470230103,39
+http://dbpedia.org/resource/Djelfa_Province,http://dbpedia.org/property/imageMap,Algeria 17 Wilaya locator map-2009.svg,Correct,14,3.914953470230103,39
+http://dbpedia.org/resource/Guillaume_Grand,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Folk_music,Correct,15,1.2032482624053955,39
+http://dbpedia.org/resource/The_Dognapper,http://dbpedia.org/ontology/animator,http://dbpedia.org/resource/Dick_Lundy_(animator),Correct,16,2.2035744190216064,39
+http://dbpedia.org/resource/The_Dognapper,http://dbpedia.org/ontology/animator,http://dbpedia.org/resource/Clyde_Geronimi,Correct,16,2.2035744190216064,39
+http://dbpedia.org/resource/The_Dognapper,http://dbpedia.org/ontology/animator,http://dbpedia.org/resource/Hardie_Gramatky,Correct,16,2.2035744190216064,39
+http://dbpedia.org/resource/The_Blackout_All-Stars,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,17,1.058359146118164,39
+http://dbpedia.org/resource/Timothy_Dalton,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:People_from_Belper,Correct,18,3.5087411403656006,39
+http://dbpedia.org/resource/Timothy_Dalton,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-actor-noun-1,Correct,18,3.5087411403656006,39
+http://dbpedia.org/resource/Timothy_Dalton,http://dbpedia.org/property/partner,http://dbpedia.org/resource/Vanessa_Redgrave,Correct,18,3.5087411403656006,39
+http://dbpedia.org/resource/Timothy_Dalton,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:British_male_television_actors,Correct,18,3.5087411403656006,39
+http://dbpedia.org/resource/Timothy_Dalton,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:20th-century_British_male_actors,Correct,18,3.5087411403656006,39
+http://dbpedia.org/resource/Doctor_Who,http://dbpedia.org/property/onDemand,"BBC iPlayer, Virgin Media, S4/Clic",Correct,19,4.616433382034302,39
+http://dbpedia.org/resource/Doctor_Who,http://dbpedia.org/ontology/related,http://dbpedia.org/resource/Doctor_Who_Extra,Correct,19,4.616433382034302,39
+http://dbpedia.org/resource/Doctor_Who,http://dbpedia.org/ontology/format,http://dbpedia.org/resource/5.1_surround_sound,Correct,19,4.616433382034302,39
+http://dbpedia.org/resource/Doctor_Who,http://dbpedia.org/property/network,http://dbpedia.org/resource/BBC_One,Correct,19,4.616433382034302,39
+http://dbpedia.org/resource/Doctor_Who,http://dbpedia.org/property/related,http://dbpedia.org/resource/K-9_(TV_series),Correct,19,4.616433382034302,39
+http://dbpedia.org/resource/The_Animal_World_(film),http://dbpedia.org/property/distributor,http://dbpedia.org/resource/Warner_Bros.,Correct,20,4.121842384338379,39
+http://dbpedia.org/resource/The_Animal_World_(film),http://dbpedia.org/property/producer,Irwin Allen,Correct,20,4.121842384338379,39
+http://dbpedia.org/resource/The_Animal_World_(film),http://dbpedia.org/property/writer,Irwin Allen,Correct,20,4.121842384338379,39
+http://dbpedia.org/resource/The_Animal_World_(film),http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Correct,20,4.121842384338379,39
+http://dbpedia.org/resource/The_Animal_World_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_produced_by_Irwin_Allen,Correct,20,4.121842384338379,39
+http://dbpedia.org/resource/Nia_Long,http://www.w3.org/2000/01/rdf-schema#label,Nia Long,Correct,21,4.696931838989258,39
+http://dbpedia.org/resource/Nia_Long,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/United_States,Correct,21,4.696931838989258,39
+http://dbpedia.org/resource/Nia_Long,http://dbpedia.org/property/birthPlace,"http://dbpedia.org/resource/Brooklyn,_New_York",Correct,21,4.696931838989258,39
+http://dbpedia.org/resource/Nia_Long,http://dbpedia.org/property/placeOfBirth,http://dbpedia.org/resource/Brooklyn,Correct,21,4.696931838989258,39
+http://dbpedia.org/resource/Nia_Long,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Brooklyn,Correct,21,4.696931838989258,39
+http://dbpedia.org/resource/Cidade_Negra,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1986_establishments_in_Brazil,Correct,22,3.804825782775879,39
+http://dbpedia.org/resource/Cidade_Negra,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Band,Correct,22,3.804825782775879,39
+http://dbpedia.org/resource/Cidade_Negra,http://dbpedia.org/property/pastMembers,http://dbpedia.org/resource/Alexandre_Massau,Correct,22,3.804825782775879,39
+http://dbpedia.org/resource/Cidade_Negra,http://dbpedia.org/property/website,http://www.cidadenegra.com.br,Correct,22,3.804825782775879,39
+http://dbpedia.org/resource/Cidade_Negra,http://dbpedia.org/property/origin,http://dbpedia.org/resource/Brazil,Correct,22,3.804825782775879,39
+http://dbpedia.org/resource/Mário_de_Sá-Carneiro,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Fernando_Pessoa,Correct,23,7.267029047012329,39
+http://dbpedia.org/resource/Mário_de_Sá-Carneiro,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Oscar_Wilde,Correct,23,7.267029047012329,39
+http://dbpedia.org/resource/Mário_de_Sá-Carneiro,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/António_Nobre,Correct,23,7.267029047012329,39
+http://dbpedia.org/resource/Mário_de_Sá-Carneiro,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Fyodor_Dostoyevsky,Correct,23,7.267029047012329,39
+http://dbpedia.org/resource/Mário_de_Sá-Carneiro,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Edgar_Allan_Poe,Correct,23,7.267029047012329,39
+http://dbpedia.org/resource/Ella_Fitzgerald's_Christmas,http://dbpedia.org/property/recorded,--07-17,Correct,24,4.0149455070495605,39
+http://dbpedia.org/resource/Ella_Fitzgerald's_Christmas,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Album,Correct,24,4.0149455070495605,39
+http://dbpedia.org/resource/Ella_Fitzgerald's_Christmas,http://dbpedia.org/property/label,http://dbpedia.org/resource/Capitol_Records,Correct,24,4.0149455070495605,39
+http://dbpedia.org/resource/Ella_Fitzgerald's_Christmas,http://dbpedia.org/property/producer,"http://dbpedia.org/resource/Dave_Dexter,_Jr.",Correct,24,4.0149455070495605,39
+http://dbpedia.org/resource/Ella_Fitzgerald's_Christmas,http://dbpedia.org/ontology/recordLabel,http://dbpedia.org/resource/Capitol_Records,Correct,24,4.0149455070495605,39
+http://dbpedia.org/resource/Clearlight_(American_band),http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,25,1.341090440750122,39
+http://dbpedia.org/resource/Faith_Global,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/England,Correct,26,1.0588505268096924,39
+http://dbpedia.org/resource/Claudia_Jordan,http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Providence,_Rhode_Island",Correct,27,1.013709306716919,39
+http://dbpedia.org/resource/WSJR,http://dbpedia.org/ontology/broadcastStationClass,A,Correct,28,3.4930784702301025,39
+http://dbpedia.org/resource/WSJR,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Radio_stations_established_in_1988,Correct,28,3.4930784702301025,39
+http://dbpedia.org/resource/WSJR,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Country_radio_stations_in_the_United_States,Correct,28,3.4930784702301025,39
+http://dbpedia.org/resource/WSJR,http://dbpedia.org/property/owner,http://dbpedia.org/resource/Cumulus_Media,Correct,28,3.4930784702301025,39
+http://dbpedia.org/resource/WSJR,http://dbpedia.org/ontology/licensee,"Radio License Holding CBC, LLC",Correct,28,3.4930784702301025,39
+http://dbpedia.org/resource/Presley_Hart,http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Anaheim,_California",Correct,29,1.2069768905639648,39
+http://dbpedia.org/resource/Talia_Bennett,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Living_people,Correct,30,3.784550666809082,39
+http://dbpedia.org/resource/Talia_Bennett,http://dbpedia.org/ontology/birthName,Talia Bennett,Correct,30,3.784550666809082,39
+http://dbpedia.org/resource/Talia_Bennett,http://www.w3.org/2000/01/rdf-schema#label,Talia Bennett,Correct,30,3.784550666809082,39
+http://dbpedia.org/resource/Talia_Bennett,http://xmlns.com/foaf/0.1/homepage,http://missuniversenz.co.nz,Correct,30,3.784550666809082,39
+http://dbpedia.org/resource/Talia_Bennett,http://dbpedia.org/ontology/Person/height,173.0,Correct,30,3.784550666809082,39
+http://dbpedia.org/resource/Ann_Aguirre,http://dbpedia.org/property/birthplace,United States,Correct,31,1.1765241622924805,39
+http://dbpedia.org/resource/Feline_Frame-Up,http://dbpedia.org/property/series,Looney Tunes  and,Correct,32,3.1545042991638184,39
+http://dbpedia.org/resource/Feline_Frame-Up,http://dbpedia.org/property/musician,http://dbpedia.org/resource/Carl_Stalling,Correct,32,3.1545042991638184,39
+http://dbpedia.org/resource/Feline_Frame-Up,http://dbpedia.org/property/releaseDate,1954-02-13,Correct,32,3.1545042991638184,39
+http://dbpedia.org/resource/Feline_Frame-Up,http://dbpedia.org/property/distributor,http://dbpedia.org/resource/Warner_Bros._Pictures,Correct,32,3.1545042991638184,39
+http://dbpedia.org/resource/Feline_Frame-Up,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1950s_American_animated_films,Correct,32,3.1545042991638184,39
+http://dbpedia.org/resource/Miracle_(Cascada_song),http://dbpedia.org/ontology/writer,http://dbpedia.org/resource/DJ_Manian,Correct,33,7.864068508148193,39
+http://dbpedia.org/resource/Miracle_(Cascada_song),http://dbpedia.org/property/accessdate,2011-08-28,Correct,33,7.864068508148193,39
+http://dbpedia.org/resource/Miracle_(Cascada_song),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Cascada_songs,Correct,33,7.864068508148193,39
+http://dbpedia.org/resource/Miracle_(Cascada_song),http://dbpedia.org/property/certification,Gold,Correct,33,7.864068508148193,39
+http://dbpedia.org/resource/Miracle_(Cascada_song),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2004_songs,Correct,33,7.864068508148193,39
+http://dbpedia.org/resource/1040_(film),http://www.w3.org/2000/01/rdf-schema#label,1040 (film),Correct,34,2.4464573860168457,39
+http://dbpedia.org/resource/1040_(film),http://dbpedia.org/ontology/director,http://dbpedia.org/resource/Evan_Jackson_Leong,Correct,34,2.4464573860168457,39
+http://dbpedia.org/resource/Family_Honeymoon,http://dbpedia.org/property/country,United States,Correct,35,1.933138370513916,39
+http://dbpedia.org/resource/Family_Honeymoon,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,35,1.933138370513916,39
+http://dbpedia.org/resource/Thomas_Pendelton,http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Anaheim,_California",Correct,36,1.3029537200927734,39
+http://dbpedia.org/resource/Compelled,http://dbpedia.org/property/starring,http://dbpedia.org/resource/Ronald_Howard_(British_actor),Correct,37,4.753436088562012,39
+http://dbpedia.org/resource/Compelled,http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Ronald_Howard_(British_actor),Correct,37,4.753436088562012,39
+http://dbpedia.org/resource/Compelled,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1960s_crime_films,Correct,37,4.753436088562012,39
+http://dbpedia.org/resource/Compelled,http://dbpedia.org/property/writer,Mark Grantham,Correct,37,4.753436088562012,39
+http://dbpedia.org/resource/Compelled,http://dbpedia.org/ontology/Work/runtime,56.0,Correct,37,4.753436088562012,39
+http://dbpedia.org/resource/The_Music_Box,http://dbpedia.org/ontology/producer,http://dbpedia.org/resource/Hal_Roach,Correct,38,6.739776134490967,39
+http://dbpedia.org/resource/The_Music_Box,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,38,6.739776134490967,39
+http://dbpedia.org/resource/The_Music_Box,http://dbpedia.org/property/producer,http://dbpedia.org/resource/Hal_Roach,Correct,38,6.739776134490967,39
+http://dbpedia.org/resource/The_Music_Box,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-movie-noun-1,Correct,38,6.739776134490967,39
+http://dbpedia.org/resource/The_Music_Box,http://dbpedia.org/property/country,United States,Correct,38,6.739776134490967,39
+http://dbpedia.org/resource/Delaney_&_Bonnie,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,39,7.315040826797485,39
+http://dbpedia.org/resource/Zeenat_Aman,http://dbpedia.org/property/name,Zeenat Aman,Correct,40,8.281991004943848,39
+http://dbpedia.org/resource/Zeenat_Aman,http://dbpedia.org/property/name,"Aman, Zeenat",Correct,40,8.281991004943848,39
+http://dbpedia.org/resource/Zeenat_Aman,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/India,Correct,40,8.281991004943848,39
+http://dbpedia.org/resource/David_Robbins_(artist),http://dbpedia.org/ontology/birthYear,1957,Correct,41,5.836048364639282,39
+http://dbpedia.org/resource/David_Robbins_(artist),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1957_births,Correct,41,5.836048364639282,39
+http://dbpedia.org/resource/David_Robbins_(artist),http://dbpedia.org/ontology/abstract,"David Robbins (born 1957 in Whitefish Bay, Wisconsin) is an artist and writer who was one of the first to investigate the art world's entrance into the culture industry.For three decades, in artworks and writing David Robbins has promoted a frank, unapologetic recognition of the contemporary overlap between the art and entertainment contexts. His work Talent, eighteen ""entertainer's headshots"" of contemporary artists including Cindy Sherman, Jeff Koons, Jenny Holzer, Allan McCollum and others, is widely credited with announcing the age of the celebrity artist, and The Ice Cream Social (1993-2008), a multi-platform project comprising a TV pilot for the Sundance Channel, a novella, installations, ceramics, and performance, has been cited by curator Hans Ulrich Obrist as pioneering the ""expanded exhibition."" In its totality The Ice Cream Social represents an emphatically American version of some of the exhibition strategies employed by artists associated with relational aesthetics.Progressively evolving away from the prevailing model of the professional contemporary artist, in his books High Entertainment (2009) and Concrete Comedy: An Alternative History of Twentieth-Century Comedy (2011) he identified and advanced other categories of imaginative endeavor. In 2000 he withdrew from active participation in the art world in order to discover how his imagination performed when not formatted to produce art, and began using the term ""independent imagination"" in place of ""artist.""  Subsequently relocating to Milwaukee he aligned his work with contexts and formats historically forsaken by the avant garde, positing the suburb as a frontier for art production and creating TV commercials for galleries. His work was featured in the 2014 Whitney Biennial.",Correct,41,5.836048364639282,39
+http://dbpedia.org/resource/David_Robbins_(artist),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Living_people,Correct,41,5.836048364639282,39
+http://dbpedia.org/resource/David_Robbins_(artist),http://dbpedia.org/ontology/birthDate,1957,Correct,41,5.836048364639282,39
+http://dbpedia.org/resource/Nino_Porzio,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/Italy,Correct,42,2.695389747619629,39
+http://dbpedia.org/resource/A_Buffalope's_Tale,http://dbpedia.org/ontology/author,http://dbpedia.org/resource/Philip_Caveney,Correct,43,5.9171061515808105,39
+http://dbpedia.org/resource/A_Buffalope's_Tale,http://www.w3.org/2000/01/rdf-schema#comment,A Buffalope's Tale is a 2010 fantasy novel by Philip Caveney. It is a prequel to the Sebastian Darke series.,Correct,43,5.9171061515808105,39
+http://dbpedia.org/resource/A_Buffalope's_Tale,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/A_Buffalope's_Tale,Correct,43,5.9171061515808105,39
+http://dbpedia.org/resource/A_Buffalope's_Tale,http://dbpedia.org/property/publisher,http://dbpedia.org/resource/Guild_Publishing,Correct,43,5.9171061515808105,39
+http://dbpedia.org/resource/A_Buffalope's_Tale,http://dbpedia.org/property/mediaType,Print,Correct,43,5.9171061515808105,39
+http://dbpedia.org/resource/George_Bassman,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,44,2.091799020767212,39
+http://dbpedia.org/resource/Ray_Brassier,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Nick_Land,Correct,45,26.08789563179016,39
+http://dbpedia.org/resource/Ray_Brassier,http://dbpedia.org/ontology/mainInterest,http://dbpedia.org/resource/Materialism,Correct,45,26.08789563179016,39
+http://dbpedia.org/resource/Ray_Brassier,http://dbpedia.org/ontology/mainInterest,http://dbpedia.org/resource/Nihilism,Correct,45,26.08789563179016,39
+http://dbpedia.org/resource/Ray_Brassier,http://dbpedia.org/property/influences,http://dbpedia.org/resource/Gilles_Deleuze,Correct,45,26.08789563179016,39
+http://dbpedia.org/resource/Ray_Brassier,http://dbpedia.org/ontology/mainInterest,http://dbpedia.org/resource/Naturalism_(philosophy),Correct,45,26.08789563179016,39
+http://dbpedia.org/resource/List_of_counties_in_Texas,http://dbpedia.org/property/name,Burnet,Correct,46,7.717893838882446,39
+http://dbpedia.org/resource/List_of_counties_in_Texas,http://dbpedia.org/property/seat,Gonzales,Correct,46,7.717893838882446,39
+http://dbpedia.org/resource/List_of_counties_in_Texas,http://dbpedia.org/property/num,443,Correct,46,7.717893838882446,39
+http://dbpedia.org/resource/List_of_counties_in_Texas,http://dbpedia.org/property/population,209714,Correct,46,7.717893838882446,39
+http://dbpedia.org/resource/List_of_counties_in_Texas,http://dbpedia.org/property/data,"John Bunyan Denton , a preacher, lawyer, and soldier killed during a raid on a Native American camp",Correct,46,7.717893838882446,39
+http://dbpedia.org/resource/High_Life_2013,http://dbpedia.org/property/genre,http://dbpedia.org/resource/Hip_hop_music,Correct,47,7.486602544784546,39
+http://dbpedia.org/resource/High_Life_2013,http://dbpedia.org/property/recorded,2000,Correct,47,7.486602544784546,39
+http://dbpedia.org/resource/High_Life_2013,http://dbpedia.org/property/length,266.0,Correct,47,7.486602544784546,39
+http://dbpedia.org/resource/High_Life_2013,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/High_Life_2013,Correct,47,7.486602544784546,39
+http://dbpedia.org/resource/High_Life_2013,http://dbpedia.org/property/lastAlbum,A Vicious Cycle,Correct,47,7.486602544784546,39
+http://dbpedia.org/resource/Braceface,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2000s_Canadian_television_series,Correct,48,67.81954312324524,39
+http://dbpedia.org/resource/Braceface,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Disney_Channel_shows,Correct,48,67.81954312324524,39
+http://dbpedia.org/resource/Braceface,http://dbpedia.org/ontology/company,http://dbpedia.org/resource/Nelvana,Correct,48,67.81954312324524,39
+http://dbpedia.org/resource/Braceface,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Canadian_children's_television_series,Correct,48,67.81954312324524,39
+http://dbpedia.org/resource/Braceface,http://dbpedia.org/property/numSeasons,3,Correct,48,67.81954312324524,39
+http://dbpedia.org/resource/Roger_Blandford,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Lars_Hernquist,Correct,49,2.4467928409576416,39
+http://dbpedia.org/resource/Overture_to_The_Merry_Wives_of_Windsor,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1950s_musical_films,Correct,50,6.915484189987183,39
+http://dbpedia.org/resource/Overture_to_The_Merry_Wives_of_Windsor,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_musical_films,Correct,50,6.915484189987183,39
+http://dbpedia.org/resource/Overture_to_The_Merry_Wives_of_Windsor,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Metro-Goldwyn-Mayer_short_films,Correct,50,6.915484189987183,39
+http://dbpedia.org/resource/Overture_to_The_Merry_Wives_of_Windsor,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_based_on_The_Merry_Wives_of_Windsor,Correct,50,6.915484189987183,39
+http://dbpedia.org/resource/Overture_to_The_Merry_Wives_of_Windsor,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Live_Action_Short_Film_Academy_Award_winners,Correct,50,6.915484189987183,39
+http://dbpedia.org/resource/John_William_Boone,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,51,1.5437736511230469,39
+http://dbpedia.org/resource/WLTD-LP,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Station,Correct,52,1.5279221534729004,39
+http://dbpedia.org/resource/Nina_Breeder,http://xmlns.com/foaf/0.1/name,"Breeder, Nina",Correct,53,4.074999570846558,39
+http://dbpedia.org/resource/Nina_Breeder,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Artist,Correct,53,4.074999570846558,39
+http://dbpedia.org/resource/Nina_Breeder,http://dbpedia.org/ontology/birthYear,1979,Correct,53,4.074999570846558,39
+http://dbpedia.org/resource/Nina_Breeder,http://dbpedia.org/property/occupation,http://dbpedia.org/resource/Artist,Correct,53,4.074999570846558,39
+http://dbpedia.org/resource/Nina_Breeder,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Italy,Correct,53,4.074999570846558,39
+http://dbpedia.org/resource/Aselin_Debison,http://xmlns.com/foaf/0.1/name,Aselin Debison,Correct,54,3.280297040939331,39
+http://dbpedia.org/resource/Aselin_Debison,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/Canada,Correct,54,3.280297040939331,39
+http://dbpedia.org/resource/Aselin_Debison,http://xmlns.com/foaf/0.1/name,"Debison, Aselin",Correct,54,3.280297040939331,39
+http://dbpedia.org/resource/Paul_Dresser,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Paul_Dresser__1,Correct,55,6.556588888168335,39
+http://dbpedia.org/resource/Paul_Dresser,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Songwriters_from_Indiana,Correct,55,6.556588888168335,39
+http://dbpedia.org/resource/Paul_Dresser,http://dbpedia.org/ontology/thumbnail,"http://commons.wikimedia.org/wiki/Special:FilePath/Paul_Dresser,_1897.jpg?width=300",Correct,55,6.556588888168335,39
+http://dbpedia.org/resource/Paul_Dresser,http://dbpedia.org/property/restingPlace,http://dbpedia.org/resource/Chicago,Correct,55,6.556588888168335,39
+http://dbpedia.org/resource/Paul_Dresser,http://xmlns.com/foaf/0.1/depiction,"http://commons.wikimedia.org/wiki/Special:FilePath/Paul_Dresser,_1897.jpg",Correct,55,6.556588888168335,39
+http://dbpedia.org/resource/Reckless_Kelly_(band),http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,56,2.556570291519165,39
+http://dbpedia.org/resource/Galaxis,http://dbpedia.org/property/starring,*,Correct,57,3.796924829483032,39
+http://dbpedia.org/resource/Galaxis,http://dbpedia.org/property/country,United States,Correct,57,3.796924829483032,39
+http://dbpedia.org/resource/Galaxis,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,57,3.796924829483032,39
+http://dbpedia.org/resource/Galaxis,http://dbpedia.org/ontology/abstract,"Galaxis is a 1995 action science fiction film directed by William Mesa and written by Nick Davis. It stars Brigitte Nielsen, Richard Moll, and Craig Fairbrass.The film received a negative review from the Houston Chronicle, which wrote it may actually be worse than direct-to-video productions.",Correct,57,3.796924829483032,39
+http://dbpedia.org/resource/Love_on_Wheels,http://dbpedia.org/property/language,English,Correct,58,5.073954582214356,39
+http://dbpedia.org/resource/Love_on_Wheels,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:British_films,Correct,58,5.073954582214356,39
+http://dbpedia.org/resource/Love_on_Wheels,http://dbpedia.org/property/country,United Kingdom,Correct,58,5.073954582214356,39
+http://dbpedia.org/resource/Love_on_Wheels,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Correct,58,5.073954582214356,39
+http://dbpedia.org/resource/Love_on_Wheels,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_films,Correct,58,5.073954582214356,39
+http://dbpedia.org/resource/Dreamlords,http://dbpedia.org/ontology/gameEngine,http://dbpedia.org/resource/Torque_(game_engine),Correct,59,1.5225515365600586,39
+"http://dbpedia.org/resource/Déjà_Vu_(Crosby,_Stills,_Nash_&_Young_album)",http://dbpedia.org/property/title,http://dbpedia.org/resource/Kent_Music_Report,Correct,60,6.109172105789185,39
+"http://dbpedia.org/resource/Déjà_Vu_(Crosby,_Stills,_Nash_&_Young_album)",http://dbpedia.org/ontology/Work/runtime,36.4,Correct,60,6.109172105789185,39
+"http://dbpedia.org/resource/Déjà_Vu_(Crosby,_Stills,_Nash_&_Young_album)",http://xmlns.com/foaf/0.1/isPrimaryTopicOf,"http://en.wikipedia.org/wiki/Déjà_Vu_(Crosby,_Stills,_Nash_&_Young_album)",Correct,60,6.109172105789185,39
+"http://dbpedia.org/resource/Déjà_Vu_(Crosby,_Stills,_Nash_&_Young_album)",http://dbpedia.org/property/released,1970-03-11,Correct,60,6.109172105789185,39
+"http://dbpedia.org/resource/Déjà_Vu_(Crosby,_Stills,_Nash_&_Young_album)",http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Albums_produced_by_Graham_Nash,Correct,60,6.109172105789185,39
+http://dbpedia.org/resource/Hey_Girl_(group),http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Singing,Correct,61,4.716593980789185,39
+http://dbpedia.org/resource/Hey_Girl_(group),http://dbpedia.org/ontology/pastMember,http://dbpedia.org/resource/Xiao_Xun,Correct,61,4.716593980789185,39
+http://dbpedia.org/resource/Hey_Girl_(group),http://dbpedia.org/ontology/pastMember,http://dbpedia.org/resource/Xiao_Man,Correct,61,4.716593980789185,39
+http://dbpedia.org/resource/Hey_Girl_(group),http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Actor,Correct,61,4.716593980789185,39
+http://dbpedia.org/resource/Hey_Girl_(group),http://dbpedia.org/ontology/pastMember,http://dbpedia.org/resource/Gui_Gui,Correct,61,4.716593980789185,39
+http://dbpedia.org/resource/Test_Tube_Babies_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Black-and-white_films,Correct,62,3.3685693740844727,39
+http://dbpedia.org/resource/Test_Tube_Babies_(film),http://dbpedia.org/ontology/abstract,"Test Tube Babies is a 1948 exploitation film known by several titles.  Directed by W. Merle Connell and produced by George Weiss, it is a narrative about artificial insemination with scenes of nudity and sexual promiscuity included. One scene shows the male lead character's sperm viewed through a microscope.The film is also known as Blessed Are They (American reissue title), Sins of Love (American reissue title) and The Pill (America reissue title, recut version).",Correct,62,3.3685693740844727,39
+http://dbpedia.org/resource/Test_Tube_Babies_(film),http://dbpedia.org/ontology/country,http://dbpedia.org/resource/United_States,Correct,62,3.3685693740844727,39
+http://dbpedia.org/resource/Symphony_No._5_(Martinů),http://dbpedia.org/property/reference,"Evans, Peter. 1960. ""Martinu the Symphonist"". Tempo, new series, nos. 55–56 : 19–26, 31–33.",Correct,63,4.206444978713989,39
+http://dbpedia.org/resource/Symphony_No._5_(Martinů),http://dbpedia.org/property/reference,"Crump, Michael. 2010. Martinů and the Symphony. Symphonic Studies, no. 3. London: Toccata Press. ISBN 9780907689652.",Correct,63,4.206444978713989,39
+http://dbpedia.org/resource/Symphony_No._5_(Martinů),http://dbpedia.org/property/reference,"Powell, Larson. 2007. ""Sound as Form: Martinů's Symphonies"". Music and Society in Eastern Europe, no. 2 : 77–115.",Correct,63,4.206444978713989,39
+http://dbpedia.org/resource/Symphony_No._5_(Martinů),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Symphonies_by_Bohuslav_Martinů,Correct,63,4.206444978713989,39
+http://dbpedia.org/resource/Symphony_No._5_(Martinů),http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Symphony_No._5_(Martinů),Correct,63,4.206444978713989,39
+http://dbpedia.org/resource/Dalhalla,http://www.georss.org/georss/point,60.9485 15.1043,Correct,64,5.691936492919922,39
+http://dbpedia.org/resource/Dalhalla,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Dalhalla,Correct,64,5.691936492919922,39
+http://dbpedia.org/resource/Dalhalla,http://www.w3.org/2003/01/geo/wgs84_pos#long,15.1043,Correct,64,5.691936492919922,39
+http://dbpedia.org/resource/Dalhalla,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Buildings_and_structures_in_Dalarna_County,Correct,64,5.691936492919922,39
+http://dbpedia.org/resource/Dalhalla,http://www.w3.org/2000/01/rdf-schema#comment,"Dalhalla is an amphitheatre located in a former limestone quarry, and is used as a summer music venue. It is located 7 km north of Lake Siljan and the town of Rättvik in Dalecarlia in central Sweden. The quarry is 60 metres deep, 400 metres long and 175 metres wide. The open air theater was opened in 1995 and currently has 4000 seats.",Correct,64,5.691936492919922,39
+http://dbpedia.org/resource/Vazha-Pshavela,http://dbpedia.org/ontology/notableWork,http://dbpedia.org/resource/Host_and_Guest,Correct,65,2.8366026878356934,39
+http://dbpedia.org/resource/Vazha-Pshavela,http://dbpedia.org/ontology/notableWork,http://dbpedia.org/resource/Snake_eater,Correct,65,2.8366026878356934,39
+http://dbpedia.org/resource/Vazha-Pshavela,http://dbpedia.org/ontology/notableWork,http://dbpedia.org/resource/Aluda_Ketelauri,Correct,65,2.8366026878356934,39
+http://dbpedia.org/resource/The_Drowsy_Chaperone,http://dbpedia.org/property/music,http://dbpedia.org/resource/Lisa_Lambert,Correct,66,5.648690462112427,39
+http://dbpedia.org/resource/The_Drowsy_Chaperone,http://dbpedia.org/ontology/abstract,"The Drowsy Chaperone is a musical with book by Bob Martin and Don McKellar and music and lyrics by Lisa Lambert and Greg Morrison. It is a parody of American musical comedy of the 1920s. The story concerns a middle-aged, asocial musical theatre fan; as he plays the record of his favorite musical, the (fictional) 1928 hit The Drowsy Chaperone, the show comes to life onstage as he wryly comments on the music, story, and actors. The Drowsy Chaperone  debuted in 1998 at The Rivoli in Toronto and opened on Broadway on 1 May 2006. The show was nominated for multiple Broadway (2006) and London (2008) theatre awards, winning five Tony Awards and seven Drama Desk Awards. The show has had major productions in Toronto, Los Angeles, New York, London, and Japan, as well as two North American tours.",Correct,66,5.648690462112427,39
+http://dbpedia.org/resource/The_Drowsy_Chaperone,http://dbpedia.org/property/book,Don McKellar,Correct,66,5.648690462112427,39
+http://dbpedia.org/resource/The_Drowsy_Chaperone,http://dbpedia.org/property/awards,Drama Desk Outstanding Musical,Correct,66,5.648690462112427,39
+http://dbpedia.org/resource/The_Drowsy_Chaperone,http://dbpedia.org/property/productions,2001,Correct,66,5.648690462112427,39
+http://dbpedia.org/resource/Barry_Van_Dyke,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Georgia_(U.S._state),Correct,67,5.504451274871826,39
+http://dbpedia.org/resource/Barry_Van_Dyke,http://dbpedia.org/ontology/child,http://dbpedia.org/resource/Shane_Van_Dyke,Correct,67,5.504451274871826,39
+http://dbpedia.org/resource/Barry_Van_Dyke,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/United_States,Correct,67,5.504451274871826,39
+http://dbpedia.org/resource/Barry_Van_Dyke,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_people_of_Dutch_descent,Correct,67,5.504451274871826,39
+http://dbpedia.org/resource/Barry_Van_Dyke,http://dbpedia.org/property/placeOfBirth,http://dbpedia.org/resource/United_States,Correct,67,5.504451274871826,39
+http://dbpedia.org/resource/Pam_Rose,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,68,1.27520489692688,39
+http://dbpedia.org/resource/Racey_Helps,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Bristol,Correct,69,2.9463062286376958,39
+http://dbpedia.org/resource/Racey_Helps,http://dbpedia.org/property/name,"Helps, Racey",Correct,69,2.9463062286376958,39
+http://dbpedia.org/resource/Racey_Helps,http://dbpedia.org/property/name,Racey Helps,Correct,69,2.9463062286376958,39
+http://dbpedia.org/resource/Mario_Calire,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,70,1.7563669681549072,39
+http://dbpedia.org/resource/WGGS-TV,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/North_Carolina,Correct,71,4.969138860702515,39
+http://dbpedia.org/resource/WGGS-TV,http://dbpedia.org/property/location,"http://dbpedia.org/resource/Spartanburg,_South_Carolina",Correct,71,4.969138860702515,39
+http://dbpedia.org/resource/WGGS-TV,http://dbpedia.org/ontology/location,"http://dbpedia.org/resource/Greenville,_South_Carolina",Correct,71,4.969138860702515,39
+http://dbpedia.org/resource/WGGS-TV,http://dbpedia.org/property/homepage,http://www.wggs16.com/,Correct,71,4.969138860702515,39
+http://dbpedia.org/resource/WGGS-TV,http://dbpedia.org/ontology/location,"http://dbpedia.org/resource/Spartanburg,_South_Carolina",Correct,71,4.969138860702515,39
+http://dbpedia.org/resource/Ex_Machina_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Universal_Pictures_films,Correct,72,4.884649753570557,39
+http://dbpedia.org/resource/Ex_Machina_(film),http://dbpedia.org/property/distributor,http://dbpedia.org/resource/Universal_Studios,Correct,72,4.884649753570557,39
+http://dbpedia.org/resource/Ex_Machina_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_shot_in_London,Correct,72,4.884649753570557,39
+http://dbpedia.org/resource/Ex_Machina_(film),http://www.w3.org/2000/01/rdf-schema#label,Ex Machina (film),Correct,72,4.884649753570557,39
+http://dbpedia.org/resource/Ex_Machina_(film),http://dbpedia.org/ontology/distributor,http://dbpedia.org/resource/Universal_Studios,Correct,72,4.884649753570557,39
+http://dbpedia.org/resource/Octalux,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,73,1.5010223388671875,39
+http://dbpedia.org/resource/Julia_Marcell,http://xmlns.com/foaf/0.1/name,Julia Marcell,Correct,74,1.6653063297271729,39
+http://dbpedia.org/resource/Julia_Marcell,http://xmlns.com/foaf/0.1/name,"Marcell, Julia",Correct,74,1.6653063297271729,39
+http://dbpedia.org/resource/Tania_(artist),http://dbpedia.org/ontology/movement,http://dbpedia.org/resource/Pop_art,Correct,75,3.641241788864136,39
+http://dbpedia.org/resource/Tania_(artist),http://dbpedia.org/ontology/movement,http://dbpedia.org/resource/Geometric_abstraction,Correct,75,3.641241788864136,39
+http://dbpedia.org/resource/Tania_(artist),http://dbpedia.org/ontology/movement,http://dbpedia.org/resource/Public_art,Correct,75,3.641241788864136,39
+http://dbpedia.org/resource/Tania_(artist),http://dbpedia.org/ontology/movement,http://dbpedia.org/resource/Hard-edge_painting,Correct,75,3.641241788864136,39
+"http://dbpedia.org/resource/Ezzatabad,_Khoy",http://dbpedia.org/property/subdivisionName,http://dbpedia.org/resource/Central_District_(Khoy_County),Correct,76,8.197026014328003,39
+"http://dbpedia.org/resource/Ezzatabad,_Khoy",http://dbpedia.org/ontology/isPartOf,http://dbpedia.org/resource/Khoy_County,Correct,76,8.197026014328003,39
+"http://dbpedia.org/resource/Ezzatabad,_Khoy",http://dbpedia.org/ontology/isPartOf,http://dbpedia.org/resource/Dizaj_Rural_District,Correct,76,8.197026014328003,39
+"http://dbpedia.org/resource/Ezzatabad,_Khoy",http://dbpedia.org/ontology/isPartOf,http://dbpedia.org/resource/Central_District_(Khoy_County),Correct,76,8.197026014328003,39
+"http://dbpedia.org/resource/Ezzatabad,_Khoy",http://dbpedia.org/property/subdivisionName,http://dbpedia.org/resource/Khoy_County,Correct,76,8.197026014328003,39
+http://dbpedia.org/resource/CCTV_New_Year's_Gala,http://dbpedia.org/ontology/director,http://dbpedia.org/resource/Lang_Kun,Correct,77,5.820020437240601,39
+http://dbpedia.org/resource/CCTV_New_Year's_Gala,http://dbpedia.org/property/language,http://dbpedia.org/resource/Standard_Chinese,Correct,77,5.820020437240601,39
+http://dbpedia.org/resource/CCTV_New_Year's_Gala,http://dbpedia.org/ontology/presenter,http://dbpedia.org/resource/Ni_Ping,Correct,77,5.820020437240601,39
+http://dbpedia.org/resource/CCTV_New_Year's_Gala,http://dbpedia.org/ontology/channel,http://dbpedia.org/resource/CCTV-4,Correct,77,5.820020437240601,39
+http://dbpedia.org/resource/CCTV_New_Year's_Gala,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:New_Year's_television_specials,Correct,77,5.820020437240601,39
+http://dbpedia.org/resource/Girlfriend_(B2K_song),http://dbpedia.org/ontology/previousWork,"http://dbpedia.org/resource/Bump,_Bump,_Bump",Correct,78,4.7542219161987305,39
+http://dbpedia.org/resource/Girlfriend_(B2K_song),http://www.w3.org/2000/01/rdf-schema#label,Girlfriend (B2K song),Correct,78,4.7542219161987305,39
+http://dbpedia.org/resource/Girlfriend_(B2K_song),http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Hip_hop_music,Correct,78,4.7542219161987305,39
+http://dbpedia.org/resource/Girlfriend_(B2K_song),http://dbpedia.org/ontology/recordLabel,http://dbpedia.org/resource/Epic_Records,Correct,78,4.7542219161987305,39
+http://dbpedia.org/resource/Girlfriend_(B2K_song),http://dbpedia.org/property/thisSingle,"""Girlfriend""",Correct,78,4.7542219161987305,39
+http://dbpedia.org/resource/List_of_Yo-Kai_Watch_episodes,http://dbpedia.org/property/kanjititlea,新人のざしきわらし 恋愛編,Correct,79,5.130973815917969,39
+http://dbpedia.org/resource/List_of_Yo-Kai_Watch_episodes,http://dbpedia.org/property/episodenumber,23,Correct,79,5.130973815917969,39
+http://dbpedia.org/resource/List_of_Yo-Kai_Watch_episodes,http://dbpedia.org/property/romajititleb,Yōkai Gamanmosu,Correct,79,5.130973815917969,39
+http://dbpedia.org/resource/List_of_Yo-Kai_Watch_episodes,http://dbpedia.org/property/episodenumber,78,Correct,79,5.130973815917969,39
+http://dbpedia.org/resource/List_of_Yo-Kai_Watch_episodes,http://dbpedia.org/property/englishtitleb,Komasan Taxi: Jinmenken,Correct,79,5.130973815917969,39
+http://dbpedia.org/resource/Dusk_(Andrew_Hill_album),http://dbpedia.org/ontology/artist,http://dbpedia.org/resource/Andrew_Hill,Correct,80,1.755763053894043,39
+http://dbpedia.org/resource/Rhoda_Levine,http://dbpedia.org/property/shortDescription,American director and choreographer,Correct,81,5.381465435028076,39
+http://dbpedia.org/resource/Rhoda_Levine,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Choreographer,Correct,81,5.381465435028076,39
+http://dbpedia.org/resource/Rhoda_Levine,http://xmlns.com/foaf/0.1/givenName,Rhoda,Correct,81,5.381465435028076,39
+http://dbpedia.org/resource/Rhoda_Levine,http://xmlns.com/foaf/0.1/name,Rhoda Levine,Correct,81,5.381465435028076,39
+http://dbpedia.org/resource/Rhoda_Levine,http://www.w3.org/2000/01/rdf-schema#comment,"Rhoda Levine is an opera-director, choreographer, and a faculty member at several schools of music. Levine was born in New York, NY. She wrote the libretto for Opus Zoo by Luciano Berio and has also written children's books. She is the artistic director of Play It By Ear, an improvisational opera group. She is the recipient of the National Institute for Music Theater Award. She got her BA at Bard College.In the summer, she teaches at the John Duffy Composers Institute, in Norfolk, VA.",Correct,81,5.381465435028076,39
+http://dbpedia.org/resource/Charlene_(song),http://dbpedia.org/property/label,http://dbpedia.org/resource/So_So_Def_Recordings,Correct,82,5.436055660247803,39
+http://dbpedia.org/resource/Charlene_(song),http://dbpedia.org/ontology/album,http://dbpedia.org/resource/Comin'_from_Where_I'm_From,Correct,82,5.436055660247803,39
+http://dbpedia.org/resource/Charlene_(song),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Song_recordings_produced_by_Mark_Batson,Correct,82,5.436055660247803,39
+http://dbpedia.org/resource/Charlene_(song),http://dbpedia.org/property/length,246.0,Correct,82,5.436055660247803,39
+http://dbpedia.org/resource/Charlene_(song),http://dbpedia.org/property/genre,http://dbpedia.org/resource/Soul_music,Correct,82,5.436055660247803,39
+http://dbpedia.org/resource/Acid_Row,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Acid_Row,Correct,83,4.378798484802246,39
+http://dbpedia.org/resource/Acid_Row,http://dbpedia.org/ontology/numberOfPages,352,Correct,83,4.378798484802246,39
+http://dbpedia.org/resource/Acid_Row,http://dbpedia.org/property/name,Acid Row,Correct,83,4.378798484802246,39
+http://dbpedia.org/resource/Acid_Row,http://www.w3.org/2000/01/rdf-schema#label,Acid Row,Correct,83,4.378798484802246,39
+http://dbpedia.org/resource/Acid_Row,http://dbpedia.org/ontology/subsequentWork,http://dbpedia.org/resource/Fox_Evil,Correct,83,4.378798484802246,39
+http://dbpedia.org/resource/A_Greater_Song,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/A_Greater_Song,Correct,84,4.25721549987793,39
+http://dbpedia.org/resource/A_Greater_Song,http://xmlns.com/foaf/0.1/name,A Greater Song,Correct,84,4.25721549987793,39
+http://dbpedia.org/resource/A_Greater_Song,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/A_Greater_Song,Correct,84,4.25721549987793,39
+http://dbpedia.org/resource/A_Greater_Song,http://dbpedia.org/property/released,2006,Correct,84,4.25721549987793,39
+http://dbpedia.org/resource/A_Greater_Song,http://www.w3.org/2000/01/rdf-schema#comment,"A Greater Song is Paul Baloche's sixth studio album, released in 2006.",Correct,84,4.25721549987793,39
+http://dbpedia.org/resource/Chorus_(2015_film),http://www.w3.org/2000/01/rdf-schema#label,Chorus (2015 film),Correct,85,3.9300222396850586,39
+http://dbpedia.org/resource/Chorus_(2015_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2015_films,Correct,85,3.9300222396850586,39
+http://dbpedia.org/resource/Chorus_(2015_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Canadian_drama_films,Correct,85,3.9300222396850586,39
+http://dbpedia.org/resource/Chorus_(2015_film),http://dbpedia.org/property/director,http://dbpedia.org/resource/François_Delisle,Correct,85,3.9300222396850586,39
+http://dbpedia.org/resource/Chorus_(2015_film),http://dbpedia.org/ontology/director,http://dbpedia.org/resource/François_Delisle,Correct,85,3.9300222396850586,39
+http://dbpedia.org/resource/James_Husband,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,86,2.1708807945251465,39
+http://dbpedia.org/resource/Oszkár_Molnár,http://dbpedia.org/ontology/otherParty,http://dbpedia.org/resource/Alliance_of_Free_Democrats,Correct,87,2.0561656951904297,39
+http://dbpedia.org/resource/Oszkár_Molnár,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Hungarian_People's_Republic,Correct,87,2.0561656951904297,39
+http://dbpedia.org/resource/WCYO,http://dbpedia.org/ontology/facilityId,34247,Correct,88,4.894443035125732,39
+http://dbpedia.org/resource/WCYO,http://dbpedia.org/ontology/broadcastStationClass,C3,Correct,88,4.894443035125732,39
+http://dbpedia.org/resource/WCYO,http://www.w3.org/2000/01/rdf-schema#label,WCYO,Correct,88,4.894443035125732,39
+http://dbpedia.org/resource/WCYO,http://dbpedia.org/ontology/alias,The Country Classics & The Best Songs From Today! 100.7 The Coyote,Correct,88,4.894443035125732,39
+http://dbpedia.org/resource/WCYO,http://dbpedia.org/property/area,Richmond and Central Kentucky including Lexington,Correct,88,4.894443035125732,39
+http://dbpedia.org/resource/NewSong,http://dbpedia.org/property/label,http://dbpedia.org/resource/Integrity_Records_(Christian),Correct,89,4.998418807983398,39
+http://dbpedia.org/resource/NewSong,http://dbpedia.org/ontology/hometown,"http://dbpedia.org/resource/Valdosta,_Georgia",Correct,89,4.998418807983398,39
+http://dbpedia.org/resource/NewSong,http://dbpedia.org/property/name,NewSong,Correct,89,4.998418807983398,39
+http://dbpedia.org/resource/NewSong,http://dbpedia.org/property/imageSize,200,Correct,89,4.998418807983398,39
+http://dbpedia.org/resource/NewSong,http://dbpedia.org/property/pastMembers,Leonard Ahlstrom,Correct,89,4.998418807983398,39
+http://dbpedia.org/resource/Duck_Soup_(1933_film),http://dbpedia.org/ontology/director,http://dbpedia.org/resource/Leo_McCarey,Correct,90,6.2968714237213135,39
+http://dbpedia.org/resource/Duck_Soup_(1933_film),http://dbpedia.org/property/name,Duck Soup,Correct,90,6.2968714237213135,39
+http://dbpedia.org/resource/Duck_Soup_(1933_film),http://dbpedia.org/property/starring,http://dbpedia.org/resource/Margaret_Dumont,Correct,90,6.2968714237213135,39
+http://dbpedia.org/resource/Duck_Soup_(1933_film),http://dbpedia.org/property/starring,http://dbpedia.org/resource/Louis_Calhern,Correct,90,6.2968714237213135,39
+http://dbpedia.org/resource/Duck_Soup_(1933_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,90,6.2968714237213135,39
+http://dbpedia.org/resource/Barbara_Loden,http://www.w3.org/2000/01/rdf-schema#comment,"Barbara Loden (July 8, 1932 – September 5, 1980) was a Broadway Tony award-winning American stage and film actress, model, and stage/film director. She was the first woman to write, direct and star in her own feature film, Wanda, which won the International Critics Award at the 1970 Venice Film Festival.",Correct,91,4.174614191055298,39
+http://dbpedia.org/resource/Barbara_Loden,http://xmlns.com/foaf/0.1/givenName,Barbara,Correct,91,4.174614191055298,39
+http://dbpedia.org/resource/Barbara_Loden,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_film_actresses,Correct,91,4.174614191055298,39
+http://dbpedia.org/resource/Barbara_Loden,http://dbpedia.org/property/placeOfDeath,"New York City, New York, U.S.",Correct,91,4.174614191055298,39
+http://dbpedia.org/resource/Barbara_Loden,http://xmlns.com/foaf/0.1/surname,Loden,Correct,91,4.174614191055298,39
+http://dbpedia.org/resource/The_Offence,http://dbpedia.org/property/country,http://dbpedia.org/resource/United_Kingdom,Correct,92,2.1830875873565674,39
+http://dbpedia.org/resource/The_Prince_(song),http://dbpedia.org/ontology/runtime,150.0,Correct,93,4.638452291488648,39
+http://dbpedia.org/resource/The_Prince_(song),http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/2_Tone_(music_genre),Correct,93,4.638452291488648,39
+http://dbpedia.org/resource/The_Prince_(song),http://dbpedia.org/property/released,1979-08-10,Correct,93,4.638452291488648,39
+http://dbpedia.org/resource/The_Prince_(song),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2_Tone_Records_singles,Correct,93,4.638452291488648,39
+http://dbpedia.org/resource/The_Prince_(song),http://dbpedia.org/property/border,yes,Correct,93,4.638452291488648,39
+http://dbpedia.org/resource/Billy_Wingrove,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/London,Correct,94,1.2487409114837646,39
+http://dbpedia.org/resource/Lilian_Velez,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Philippines,Correct,95,4.896121025085449,39
+http://dbpedia.org/resource/Lilian_Velez,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Cebu_City,Correct,95,4.896121025085449,39
+http://dbpedia.org/resource/Lilian_Velez,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Quezon_City,Correct,95,4.896121025085449,39
+http://dbpedia.org/resource/Lilian_Velez,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Metro_Manila,Correct,95,4.896121025085449,39
+http://dbpedia.org/resource/The_Shootin'_Kid,http://dbpedia.org/property/country,United States,Correct,96,4.60024881362915,39
+http://dbpedia.org/resource/The_Shootin'_Kid,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Correct,96,4.60024881362915,39
+http://dbpedia.org/resource/The_Shootin'_Kid,http://dbpedia.org/property/name,The Shootin' Kid,Correct,96,4.60024881362915,39
+http://dbpedia.org/resource/The_Shootin'_Kid,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,96,4.60024881362915,39
+http://dbpedia.org/resource/The_Shootin'_Kid,http://xmlns.com/foaf/0.1/name,The Shootin' Kid,Correct,96,4.60024881362915,39
+http://dbpedia.org/resource/Love_(2005_film),http://dbpedia.org/ontology/releaseDate,2005-04-21,Correct,97,4.783781290054321,39
+http://dbpedia.org/resource/Love_(2005_film),http://dbpedia.org/property/country,http://dbpedia.org/resource/Serbia_and_Montenegro,Correct,97,4.783781290054321,39
+http://dbpedia.org/resource/Love_(2005_film),http://dbpedia.org/ontology/country,http://dbpedia.org/resource/Serbia_and_Montenegro,Correct,97,4.783781290054321,39
+http://dbpedia.org/resource/Love_(2005_film),http://dbpedia.org/ontology/budget,350000.0,Correct,97,4.783781290054321,39
+http://dbpedia.org/resource/Little_Girls_(band),http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/Canada,Correct,98,1.44195818901062,39
+http://dbpedia.org/resource/The_Great_Gildersleeve_(film),http://dbpedia.org/property/director,http://dbpedia.org/resource/Gordon_Douglas_(director),Correct,99,4.480923652648926,39
+http://dbpedia.org/resource/The_Great_Gildersleeve_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:RKO_Pictures_films,Correct,99,4.480923652648926,39
+http://dbpedia.org/resource/The_Great_Gildersleeve_(film),http://dbpedia.org/property/runtime,3720.0,Correct,99,4.480923652648926,39
+http://dbpedia.org/resource/The_Great_Gildersleeve_(film),http://dbpedia.org/property/name,The Great Gildersleeve,Correct,99,4.480923652648926,39
+http://dbpedia.org/resource/The_Great_Gildersleeve_(film),http://dbpedia.org/property/director,http://dbpedia.org/resource/William_Dorfman,Correct,99,4.480923652648926,39
+http://dbpedia.org/resource/Damn_Seagulls,http://dbpedia.org/property/currentMembers,Jami Auvinen,Correct,100,3.957751035690308,39
+http://dbpedia.org/resource/Damn_Seagulls,http://dbpedia.org/property/genre,http://dbpedia.org/resource/Rock_music,Correct,100,3.957751035690308,39
+http://dbpedia.org/resource/Damn_Seagulls,http://dbpedia.org/property/origin,"Helsinki, Finland",Correct,100,3.957751035690308,39
+http://dbpedia.org/resource/Damn_Seagulls,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/Helsinki,Correct,100,3.957751035690308,39
+http://dbpedia.org/resource/Damn_Seagulls,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Group,Correct,100,3.957751035690308,39
+http://dbpedia.org/resource/Fabula_Nova_Crystallis_Final_Fantasy,http://dbpedia.org/property/platforms,http://dbpedia.org/resource/PlayStation_4,Correct,101,1.7938475608825684,39
+http://dbpedia.org/resource/Fabula_Nova_Crystallis_Final_Fantasy,http://dbpedia.org/property/platforms,http://dbpedia.org/resource/PlayStation_3,Correct,101,1.7938475608825684,39
+http://dbpedia.org/resource/Dead_Game,http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Hoot_Gibson,Correct,102,3.895904302597046,39
+http://dbpedia.org/resource/Dead_Game,http://xmlns.com/foaf/0.1/name,Dead Game,Correct,102,3.895904302597046,39
+http://dbpedia.org/resource/Dead_Game,http://dbpedia.org/property/caption,Film poster,Correct,102,3.895904302597046,39
+http://dbpedia.org/resource/Dead_Game,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,102,3.895904302597046,39
+http://dbpedia.org/resource/Dead_Game,http://dbpedia.org/property/name,Dead Game,Correct,102,3.895904302597046,39
+http://dbpedia.org/resource/Phymorhynchus_moskalevi,http://xmlns.com/foaf/0.1/name,Phymorhynchus moskalevi,Correct,103,6.830643177032471,39
+http://dbpedia.org/resource/Phymorhynchus_moskalevi,http://dbpedia.org/property/binomial,Phymorhynchus moskalevi,Correct,103,6.830643177032471,39
+http://dbpedia.org/resource/Phymorhynchus_moskalevi,http://dbpedia.org/property/unrankedSuperfamilia,clade Hypsogastropoda,Correct,103,6.830643177032471,39
+http://dbpedia.org/resource/Phymorhynchus_moskalevi,http://dbpedia.org/property/unrankedSuperfamilia,clade Neogastropoda,Correct,103,6.830643177032471,39
+http://dbpedia.org/resource/Phymorhynchus_moskalevi,http://dbpedia.org/property/name,Phymorhynchus moskalevi,Correct,103,6.830643177032471,39
+http://dbpedia.org/resource/Dawn_Wells,http://www.w3.org/2000/01/rdf-schema#label,Dawn Wells,Correct,104,1.4175994396209717,39
+http://dbpedia.org/resource/Carly_Rose_Sonenclar,http://www.w3.org/2000/01/rdf-schema#comment,"Carly Rose Sonenclar (born April 20, 1999) is an American singer and teen actress. In December 2012, she became the runner-up on the second season of the American version of the The X Factor.On May 29, 2014, Sonenclar was labeled as one of the most 'influential' X Factor USA contestants of all-time by FoxWeekly, for her audition performance of 'Feeling Good'.",Correct,105,1.302464485168457,39
+http://dbpedia.org/resource/H._Robert_Horvitz,http://dbpedia.org/property/prizes,http://dbpedia.org/resource/Nobel_Prize_in_Physiology_or_Medicine,Correct,106,4.771186828613281,39
+http://dbpedia.org/resource/H._Robert_Horvitz,http://dbpedia.org/property/prizes,*,Correct,106,4.771186828613281,39
+http://dbpedia.org/resource/H._Robert_Horvitz,http://dbpedia.org/property/prizes,http://dbpedia.org/resource/NAS_Award_in_Molecular_Biology,Correct,106,4.771186828613281,39
+http://dbpedia.org/resource/H._Robert_Horvitz,http://www.w3.org/2000/01/rdf-schema#label,H. Robert Horvitz,Correct,106,4.771186828613281,39
+http://dbpedia.org/resource/H._Robert_Horvitz,http://dbpedia.org/property/prizes,http://dbpedia.org/resource/Royal_Society,Correct,106,4.771186828613281,39
+http://dbpedia.org/resource/Le_Tigre,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Dance-punk_musical_groups,Correct,107,4.10681939125061,39
+http://dbpedia.org/resource/Le_Tigre,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Le_Tigre,Correct,107,4.10681939125061,39
+http://dbpedia.org/resource/Le_Tigre,http://dbpedia.org/ontology/background,group_or_band,Correct,107,4.10681939125061,39
+http://dbpedia.org/resource/Le_Tigre,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Dance-punk,Correct,107,4.10681939125061,39
+http://dbpedia.org/resource/Le_Tigre,http://dbpedia.org/ontology/associatedBand,http://dbpedia.org/resource/Julie_Ruin,Correct,107,4.10681939125061,39
+http://dbpedia.org/resource/Lída_Baarová,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:20th-century_Czech_actresses,Correct,108,3.6275224685668954,39
+http://dbpedia.org/resource/Lída_Baarová,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Prague,Correct,108,3.6275224685668954,39
+http://dbpedia.org/resource/Lída_Baarová,http://dbpedia.org/property/birthDate,1914-09-07,Correct,108,3.6275224685668954,39
+http://dbpedia.org/resource/Lída_Baarová,http://dbpedia.org/ontology/birthYear,1914,Correct,108,3.6275224685668954,39
+http://dbpedia.org/resource/Lída_Baarová,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Austria-Hungary,Correct,108,3.6275224685668954,39
+http://dbpedia.org/resource/Double_Dragon,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Atari_2600_games,Correct,109,6.219777822494507,39
+http://dbpedia.org/resource/Double_Dragon,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1987_video_games,Correct,109,6.219777822494507,39
+http://dbpedia.org/resource/Double_Dragon,http://www.w3.org/2000/01/rdf-schema#label,Double Dragon,Correct,109,6.219777822494507,39
+http://dbpedia.org/resource/Double_Dragon,http://dbpedia.org/ontology/cpu,http://dbpedia.org/resource/Hertz,Correct,109,6.219777822494507,39
+http://dbpedia.org/resource/Double_Dragon,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Technōs_Japan_beat_'em_ups,Correct,109,6.219777822494507,39
+http://dbpedia.org/resource/DYS_(band),http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,110,1.217240810394287,39
+http://dbpedia.org/resource/Conquest_of_the_Planet_of_the_Apes,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_films,Correct,111,3.0528101921081543,39
+http://dbpedia.org/resource/Conquest_of_the_Planet_of_the_Apes,http://dbpedia.org/ontology/director,http://dbpedia.org/resource/J._Lee_Thompson,Correct,111,3.0528101921081543,39
+http://dbpedia.org/resource/Conquest_of_the_Planet_of_the_Apes,http://dbpedia.org/property/name,Conquest of the Planet of the Apes,Correct,111,3.0528101921081543,39
+http://dbpedia.org/resource/Conquest_of_the_Planet_of_the_Apes,http://dbpedia.org/property/language,English,Correct,111,3.0528101921081543,39
+http://dbpedia.org/resource/Soul_Khan,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,112,1.137742042541504,39
+http://dbpedia.org/resource/KMVP_(AM),http://dbpedia.org/ontology/sisterStation,http://dbpedia.org/resource/KMVP-FM,Correct,113,4.897686243057251,39
+http://dbpedia.org/resource/KMVP_(AM),http://dbpedia.org/property/class,B,Correct,113,4.897686243057251,39
+http://dbpedia.org/resource/KMVP_(AM),http://dbpedia.org/ontology/webcast,http://p.freestreams.com/?pid=42,Correct,113,4.897686243057251,39
+http://dbpedia.org/resource/KMVP_(AM),http://dbpedia.org/ontology/broadcastStationClass,B,Correct,113,4.897686243057251,39
+http://dbpedia.org/resource/KMVP_(AM),http://dbpedia.org/ontology/broadcastArea,"http://dbpedia.org/resource/Phoenix,_Arizona",Correct,113,4.897686243057251,39
+http://dbpedia.org/resource/List_of_Boston_Public_episodes,http://dbpedia.org/property/shortsummary,"An enraged student slaps Marla's face in front of the class, and Marla slaps her back; Hanson discovers Allison behaves like a bully at school; Carmen asks Harper to remove Jake from her class.",Correct,114,5.710163116455078,39
+http://dbpedia.org/resource/List_of_Boston_Public_episodes,http://dbpedia.org/property/shortsummary,"A student's illness rattles Senate, who is haunted by feelings of futility; a teen's eating disorder upsets Lauren, who is also unnerved by a website advocating anorexia.",Correct,114,5.710163116455078,39
+http://dbpedia.org/resource/List_of_Boston_Public_episodes,http://dbpedia.org/property/shortsummary,"After a cheerleader is attacked, blame falls on another student's mother ; Carmen goes head to head with a ""bad boy"" student ; Hansen copes with a student who says he is the son of God.",Correct,114,5.710163116455078,39
+http://dbpedia.org/resource/List_of_Boston_Public_episodes,http://dbpedia.org/property/shortsummary,"When a student writes a letter to Whitney Houston asking her to attend the prom with him, faculty and students are amazed that she accepts. Houston's attendance at the prom causes Aisha, who is set to perform, to get stage fright. Meanwhile, Harper presents a radical way to prevent the firing of teachers for budget reasons and Danny asks Claire's father's permission to marry her.",Correct,114,5.710163116455078,39
+http://dbpedia.org/resource/List_of_Boston_Public_episodes,http://dbpedia.org/property/directedby,http://dbpedia.org/resource/Alex_Graves,Correct,114,5.710163116455078,39
+http://dbpedia.org/resource/Bruce_Herman,http://xmlns.com/foaf/0.1/name,Bruce Herman,Correct,115,4.004329204559326,39
+http://dbpedia.org/resource/Bruce_Herman,http://dbpedia.org/ontology/abstract,"Bruce Herman (born 1953) is an artist who holds the Lothlórien Distinguished Chair in the art department of Gordon College. He achieved both a Bachelor of Fine Arts, and a Master of Fine Arts from the School for the Arts at Boston University, where he studied under Philip Guston, James Weeks, David Aronson, Reed Kay, and Arthur Polonsky.  He joined the faculty at Gordon College in 1984 and was awarded various chairs and positions until he was awarded the aforementioned position. His work has been exhibited around the world, and has paintings housed in the Vatican Museum of Modern Religious Art, the Cincinnati Museum of Fine Arts, and the DeCordova Museum. Between 1983 and 2011 he has been a part of more than 50 exhibitions, and has been invited to do nearly 50 lecture series. He is working on a series of paintings for an artistic, literary, and theological tour in response to T.S. Eliot's  set of four poems known as the Four Quartets.",Correct,115,4.004329204559326,39
+http://dbpedia.org/resource/Bruce_Herman,http://xmlns.com/foaf/0.1/name,"Herman, Bruce",Correct,115,4.004329204559326,39
+http://dbpedia.org/resource/Auntie_Mame_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_based_on_plays,Correct,116,6.871082544326782,39
+http://dbpedia.org/resource/Auntie_Mame_(film),http://dbpedia.org/property/runtime,8580.0,Correct,116,6.871082544326782,39
+http://dbpedia.org/resource/Auntie_Mame_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_based_on_American_novels,Correct,116,6.871082544326782,39
+http://dbpedia.org/resource/Auntie_Mame_(film),http://dbpedia.org/property/starring,http://dbpedia.org/resource/Forrest_Tucker,Correct,116,6.871082544326782,39
+http://dbpedia.org/resource/Auntie_Mame_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1958_films,Correct,116,6.871082544326782,39
+http://dbpedia.org/resource/Neethaane_En_Ponvasantham,http://dbpedia.org/property/studio,http://dbpedia.org/resource/Photon_Kathaas,Correct,117,4.3054609298706055,39
+http://dbpedia.org/resource/Neethaane_En_Ponvasantham,http://dbpedia.org/ontology/cinematography,http://dbpedia.org/resource/M._S._Prabhu,Correct,117,4.3054609298706055,39
+http://dbpedia.org/resource/Neethaane_En_Ponvasantham,http://dbpedia.org/property/producer,Venkat Somasundaram,Correct,117,4.3054609298706055,39
+http://dbpedia.org/resource/Neethaane_En_Ponvasantham,http://dbpedia.org/property/music,http://dbpedia.org/resource/Ilaiyaraaja,Correct,117,4.3054609298706055,39
+http://dbpedia.org/resource/Neethaane_En_Ponvasantham,http://dbpedia.org/property/story,Reshma Ghatala,Correct,117,4.3054609298706055,39
+http://dbpedia.org/resource/The_Clarks,http://dbpedia.org/ontology/recordLabel,http://dbpedia.org/resource/MCA_Records,Correct,118,5.452953815460205,39
+http://dbpedia.org/resource/The_Clarks,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Musical_groups_from_Pittsburgh,_Pennsylvania",Correct,118,5.452953815460205,39
+http://dbpedia.org/resource/The_Clarks,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Band,Correct,118,5.452953815460205,39
+http://dbpedia.org/resource/The_Clarks,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Alternative_rock,Correct,118,5.452953815460205,39
+http://dbpedia.org/resource/The_Clarks,http://dbpedia.org/property/label,MCA,Correct,118,5.452953815460205,39
+http://dbpedia.org/resource/Go_West_(1940_film),http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Marx,Correct,119,5.803537845611572,39
+http://dbpedia.org/resource/Go_West_(1940_film),http://dbpedia.org/ontology/writer,http://dbpedia.org/resource/Irving_Brecher,Correct,119,5.803537845611572,39
+http://dbpedia.org/resource/Go_West_(1940_film),http://xmlns.com/foaf/0.1/depiction,http://en.wikipedia.org/wiki/Special:FilePath/Go_West.jpg,Correct,119,5.803537845611572,39
+http://dbpedia.org/resource/Go_West_(1940_film),http://dbpedia.org/ontology/abstract,"Go West (a.k.a. The Marx Brothers Go West) is the 10th Marx Brothers comedy film, in which brothers Groucho, Chico, and Harpo head to the American West and attempt to unite a couple by ensuring that an evil railroad baron is thwarted.  It was directed by Edward Buzzell and written by Irving Brecher, who receives the original screenplay credit.",Correct,119,5.803537845611572,39
+http://dbpedia.org/resource/Go_West_(1940_film),http://www.w3.org/2000/01/rdf-schema#comment,"Go West (a.k.a. The Marx Brothers Go West) is the 10th Marx Brothers comedy film, in which brothers Groucho, Chico, and Harpo head to the American West and attempt to unite a couple by ensuring that an evil railroad baron is thwarted.  It was directed by Edward Buzzell and written by Irving Brecher, who receives the original screenplay credit.",Correct,119,5.803537845611572,39
+http://dbpedia.org/resource/Tank_Girl_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Water_scarcity_in_fiction,Correct,120,5.357976198196411,39
+http://dbpedia.org/resource/Tank_Girl_(film),http://dbpedia.org/property/alt,Theatrical release poster,Correct,120,5.357976198196411,39
+http://dbpedia.org/resource/Tank_Girl_(film),http://dbpedia.org/property/extra,http://dbpedia.org/resource/Stomp_(theatrical_show),Correct,120,5.357976198196411,39
+http://dbpedia.org/resource/Tank_Girl_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1990s_action_films,Correct,120,5.357976198196411,39
+http://dbpedia.org/resource/Tank_Girl_(film),http://dbpedia.org/property/title,Shove,Correct,120,5.357976198196411,39
+http://dbpedia.org/resource/Božo_Koprivica,http://dbpedia.org/ontology/ethnicity,http://dbpedia.org/resource/Yugoslavs,Correct,121,1.7194387912750244,39
+http://dbpedia.org/resource/Božo_Koprivica,http://dbpedia.org/ontology/ethnicity,http://dbpedia.org/resource/Montenegrins,Correct,121,1.7194387912750244,39
+http://dbpedia.org/resource/M.S.G._(McAuley_Schenker_Group_album),http://dbpedia.org/ontology/recordedIn,http://dbpedia.org/resource/Track_Record_Studios,Correct,122,1.1357223987579346,39
+http://dbpedia.org/resource/Allisyn_Ashley_Arm,http://www.w3.org/2000/01/rdf-schema#comment,"Allisyn Ashley Arm (born April 25, 1996) is an American actress and sketch comedian. Arm is most known for her main role as Zora Lancaster on Sonny with a Chance and in Disney Channel's sketch comedy series So Random!",Correct,123,1.388641595840454,39
+http://dbpedia.org/resource/The_Reef_(1999_film),http://dbpedia.org/property/country,Germany,Correct,124,3.966564178466797,39
+http://dbpedia.org/resource/The_Reef_(1999_film),http://dbpedia.org/property/country,Czech Republic,Correct,124,3.966564178466797,39
+http://dbpedia.org/resource/The_Reef_(1999_film),http://www.w3.org/2000/01/rdf-schema#comment,"The Reef (also known as Passion's Way) is a 1999 historical drama film directed by Robert Allan Ackerman based on the book The Reef by Edith Wharton. It starred Sela Ward, Timothy Dalton, Alicia Witt, Jamie Glover. It was filmed in Prague, Czech Republic in 1996 but did not premiere on CBS until July 1999.",Correct,124,3.966564178466797,39
+http://dbpedia.org/resource/The_Reef_(1999_film),http://dbpedia.org/property/released,1999-07-25,Correct,124,3.966564178466797,39
+http://dbpedia.org/resource/The_Reef_(1999_film),http://dbpedia.org/ontology/distributor,http://dbpedia.org/resource/CBS,Correct,124,3.966564178466797,39
+http://dbpedia.org/resource/Death_by_a_Thousand_Cuts_(book),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:History_books_about_punishment,Correct,125,5.928441524505615,39
+http://dbpedia.org/resource/Death_by_a_Thousand_Cuts_(book),http://dbpedia.org/ontology/mediaType,http://dbpedia.org/resource/Hardcover,Correct,125,5.928441524505615,39
+http://dbpedia.org/resource/Death_by_a_Thousand_Cuts_(book),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:History_of_Imperial_China,Correct,125,5.928441524505615,39
+http://dbpedia.org/resource/Death_by_a_Thousand_Cuts_(book),http://dbpedia.org/ontology/isbn,ISBN 0-674-02773-6,Correct,125,5.928441524505615,39
+http://dbpedia.org/resource/Death_by_a_Thousand_Cuts_(book),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Torture,Correct,125,5.928441524505615,39
+http://dbpedia.org/resource/Roger_O'Donnell,http://dbpedia.org/ontology/birthYear,1955,Correct,126,5.702656507492065,39
+http://dbpedia.org/resource/Roger_O'Donnell,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English_electronic_musicians,Correct,126,5.702656507492065,39
+http://dbpedia.org/resource/Roger_O'Donnell,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Roger_O'Donnell,Correct,126,5.702656507492065,39
+http://dbpedia.org/resource/Roger_O'Donnell,http://dbpedia.org/ontology/activeYearsStartYear,1976,Correct,126,5.702656507492065,39
+http://dbpedia.org/resource/Roger_O'Donnell,http://dbpedia.org/property/dateOfBirth,1955-10-29,Correct,126,5.702656507492065,39
+http://dbpedia.org/resource/Morte,http://www.w3.org/2000/01/rdf-schema#comment,"Mortimer ""Morte"" Rictusgrin is a fictional character in the role-playing video game Planescape: Torment, voiced by Rob Paulson. He appears as a sentient, levitating human skull with intact eyeballs. Morte accompanies the protagonist, The Nameless One, from early in the game. He serves as comic relief as well as providing a significant section of backstory. His attack consists of both biting and relentlessly taunting his opponent.",Correct,127,4.334868431091309,39
+http://dbpedia.org/resource/Morte,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Video_game_sidekicks,Correct,127,4.334868431091309,39
+http://dbpedia.org/resource/Morte,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Video_game_characters_introduced_in_1999,Correct,127,4.334868431091309,39
+http://dbpedia.org/resource/Morte,http://dbpedia.org/property/voice,http://dbpedia.org/resource/Rob_Paulsen,Correct,127,4.334868431091309,39
+http://dbpedia.org/resource/Morte,http://dbpedia.org/property/creator,http://dbpedia.org/resource/Chris_Avellone,Correct,127,4.334868431091309,39
+http://dbpedia.org/resource/Full_Confession,http://dbpedia.org/property/country,United States,Correct,128,3.52361273765564,39
+http://dbpedia.org/resource/Full_Confession,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,128,3.52361273765564,39
+http://dbpedia.org/resource/Full_Confession,http://dbpedia.org/ontology/abstract,"Full Confession is a 1939 is a US crime drama film made by RKO Radio Pictures. It was directed by  John Farrow from an adaptation by Jerome Cady of Leo Birinski's story.The film stars Victor McLaglen, Sally Eilers, Barry Fitzgerald and Joseph Calleia.  The film was made in Black and White.",Correct,128,3.52361273765564,39
+http://dbpedia.org/resource/The_Prometheus_Deception,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/United_States,Correct,129,4.176553249359131,39
+http://dbpedia.org/resource/The_Prometheus_Deception,http://www.w3.org/2000/01/rdf-schema#label,The Prometheus Deception,Correct,129,4.176553249359131,39
+http://dbpedia.org/resource/The_Prometheus_Deception,http://dbpedia.org/ontology/numberOfPages,384,Correct,129,4.176553249359131,39
+http://dbpedia.org/resource/The_Prometheus_Deception,http://dbpedia.org/ontology/abstract,"The Prometheus Deception is a spy fiction thriller novel written in 2000 by Robert Ludlum about an agent in an ultraclandestine agency known only as the Directorate named Nick Bryson, alias Jonas Barett, alias Jonathan Coleridge, alias The Technician, who is thrown into a fight between an organization he knows as Prometheus and his former employers at the Directorate.Like other Ludlum novels, The Prometheus Deception conveys Ludlum's concern about the accumulation of power by individuals or organizations. Whereas some of his prior novels, such as The Holcroft Covenant and The Aquitaine Progression featured conspiracies by governments or political extremists to seize control of the world, The Prometheus Deception features a conspiracy by a very large company. Though it details the reaction of governments to a series of major terrorist attacks, The Prometheus Deception was written before the events of September 11, 2001. Readers have noted  a striking similarity between the novel's plot and the synopsis of the TV show ""Alias,"" (aired September 30, 2001 to May 22, 2006) in which a secret agent working for what she believes is the CIA discovers she's been working for a terrorist organization all along.The Prometheus Deception was one of Ludlum's last books published in his lifetime.",Correct,129,4.176553249359131,39
+http://dbpedia.org/resource/The_Prometheus_Deception,http://dbpedia.org/ontology/author,http://dbpedia.org/resource/Robert_Ludlum,Correct,129,4.176553249359131,39
+http://dbpedia.org/resource/Drama_(film),http://dbpedia.org/property/genre,http://dbpedia.org/resource/Soundtrack,Correct,130,6.204516887664795,39
+http://dbpedia.org/resource/Drama_(film),http://dbpedia.org/property/distributor,Jayanna Combines,Correct,130,6.204516887664795,39
+http://dbpedia.org/resource/Drama_(film),http://dbpedia.org/property/runtime,8940.0,Correct,130,6.204516887664795,39
+http://dbpedia.org/resource/Drama_(film),http://dbpedia.org/property/type,http://dbpedia.org/resource/Soundtrack,Correct,130,6.204516887664795,39
+http://dbpedia.org/resource/Drama_(film),http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Drama.drama.jpg?width=300,Correct,130,6.204516887664795,39
+http://dbpedia.org/resource/Santosh_Shukla,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/India,Correct,131,5.164287328720093,39
+http://dbpedia.org/resource/Santosh_Shukla,http://dbpedia.org/property/occupation,http://dbpedia.org/resource/Actor,Correct,131,5.164287328720093,39
+http://dbpedia.org/resource/Santosh_Shukla,http://xmlns.com/foaf/0.1/name,Santosh Shukla,Correct,131,5.164287328720093,39
+http://dbpedia.org/resource/Santosh_Shukla,http://www.w3.org/2000/01/rdf-schema#comment,Santosh Shukla is an Indian bollywood film and television actor. He raised fame after his stint in Bigg Boss 6. Shukla made his Bollywood debut from film Jai Ho - released in 2014.,Correct,131,5.164287328720093,39
+http://dbpedia.org/resource/Santosh_Shukla,http://xmlns.com/foaf/0.1/name,"Shukla, Santosh",Correct,131,5.164287328720093,39
+"http://dbpedia.org/resource/Ferdinand_Philippe,_Duke_of_Orléans",http://dbpedia.org/property/religion,http://dbpedia.org/resource/Roman_Catholicism,Correct,132,4.175736427307129,39
+"http://dbpedia.org/resource/Ferdinand_Philippe,_Duke_of_Orléans",http://dbpedia.org/property/successor,"http://dbpedia.org/resource/Prince_Philippe,_Duke_of_Orléans_(1869–1926)",Correct,132,4.175736427307129,39
+"http://dbpedia.org/resource/Ferdinand_Philippe,_Duke_of_Orléans",http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:People_from_Palermo,Correct,132,4.175736427307129,39
+"http://dbpedia.org/resource/Ferdinand_Philippe,_Duke_of_Orléans",http://dbpedia.org/property/shortDescription,French prince of the house of Orléans,Correct,132,4.175736427307129,39
+"http://dbpedia.org/resource/Ferdinand_Philippe,_Duke_of_Orléans",http://www.w3.org/2000/01/rdf-schema#label,"Ferdinand Philippe, Duke of Orléans",Correct,132,4.175736427307129,39
+http://dbpedia.org/resource/Drive:_The_Surprising_Truth_About_What_Motivates_Us,http://dbpedia.org/ontology/numberOfPages,256,Correct,133,1.8966612815856931,39
+http://dbpedia.org/resource/Drive:_The_Surprising_Truth_About_What_Motivates_Us,http://www.w3.org/2000/01/rdf-schema#label,Drive: The Surprising Truth About What Motivates Us,Correct,133,1.8966612815856931,39
+http://dbpedia.org/resource/Leonardo_Benvenuti,http://dbpedia.org/ontology/alias,Leo Benvenuti,Correct,134,4.136113882064819,39
+http://dbpedia.org/resource/Leonardo_Benvenuti,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Leonardo_Benvenuti,Correct,134,4.136113882064819,39
+http://dbpedia.org/resource/Leonardo_Benvenuti,http://dbpedia.org/property/occupation,Screenwriter,Correct,134,4.136113882064819,39
+http://dbpedia.org/resource/Leonardo_Benvenuti,http://dbpedia.org/ontology/birthYear,1923,Correct,134,4.136113882064819,39
+http://dbpedia.org/resource/Leonardo_Benvenuti,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:David_di_Donatello_winners,Correct,134,4.136113882064819,39
+http://dbpedia.org/resource/Dorothea_Baird,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Teddington,Correct,135,1.1413679122924805,39
+http://dbpedia.org/resource/Les_Tontons_flingueurs,http://dbpedia.org/ontology/language,http://dbpedia.org/resource/German_language,Correct,136,1.294478416442871,39
+http://dbpedia.org/resource/Tempted_(Cast_novel),http://dbpedia.org/ontology/publicationDate,2009-10-23,Correct,137,1.1611502170562744,39
+http://dbpedia.org/resource/Escort_(band),http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,138,0.9952294826507568,39
+http://dbpedia.org/resource/Animal_Rights_Without_Liberation,http://dbpedia.org/ontology/nonFictionSubject,http://dbpedia.org/resource/Animal_welfare,Correct,139,0.8732800483703613,39
+http://dbpedia.org/resource/Girl_of_My_Dreams,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Pop_rock,Correct,140,1.4197604656219482,39
+http://dbpedia.org/resource/Girl_of_My_Dreams,http://dbpedia.org/ontology/album,http://dbpedia.org/resource/Chapter_I:_A_New_Beginning,Correct,140,1.4197604656219482,39
+http://dbpedia.org/resource/Irfan_Mensur,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Sarajevo,Correct,141,1.1537559032440186,39
+http://dbpedia.org/resource/Isaac_Grünewald,http://dbpedia.org/ontology/movement,http://dbpedia.org/resource/Expressionism,Correct,142,7.286540269851685,39
+http://dbpedia.org/resource/Isaac_Grünewald,http://dbpedia.org/ontology/movement,http://dbpedia.org/resource/Modernism,Correct,142,7.286540269851685,39
+http://dbpedia.org/resource/Laura_Love,http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Lincoln,_Nebraska",Correct,143,1.4745569229125977,39
+http://dbpedia.org/resource/Marcel_van_Eeden,http://dbpedia.org/property/dateOfBirth,1965-11-22,Correct,144,4.567394495010376,39
+http://dbpedia.org/resource/Marcel_van_Eeden,http://purl.org/dc/elements/1.1/description,Dutch painter,Correct,144,4.567394495010376,39
+http://dbpedia.org/resource/Marcel_van_Eeden,http://dbpedia.org/ontology/birthDate,1965-11-22,Correct,144,4.567394495010376,39
+http://dbpedia.org/resource/Marcel_van_Eeden,http://dbpedia.org/ontology/abstract,"Marcel van Eeden (born 22 November 1965, in The Hague, Netherlands) is a Dutch draftsman and painter. From 1989 to 1993 van Eeden studied painting at the Royal Academy of Art in The Hague. Van Eeden lives and works in Zurich and The Hague. Characteristically, van Eeden's work is reminiscent of the film-noir period, of almost photo-realistic depictions and he manipulates the use of the black and white contrast. A wider audience was introduced to his work after his contribution to the Berlin Biennale in 2006.",Correct,144,4.567394495010376,39
+http://dbpedia.org/resource/Marcel_van_Eeden,http://dbpedia.org/property/name,"Eeden, Marcel Van",Correct,144,4.567394495010376,39
+http://dbpedia.org/resource/Sammy_Siegler,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,145,1.8278672695159912,39
+http://dbpedia.org/resource/Outside_These_Walls,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Black-and-white_films,Correct,146,3.056422233581543,39
+http://dbpedia.org/resource/Outside_These_Walls,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_films,Correct,146,3.056422233581543,39
+http://dbpedia.org/resource/Outside_These_Walls,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,146,3.056422233581543,39
+http://dbpedia.org/resource/Tommy_Ladnier,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,147,1.0907046794891355,39
+http://dbpedia.org/resource/Olives_and_Their_Oil,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Short_documentary_films,Correct,148,5.32755970954895,39
+http://dbpedia.org/resource/Olives_and_Their_Oil,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1910s_documentary_films,Correct,148,5.32755970954895,39
+http://dbpedia.org/resource/Olives_and_Their_Oil,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Olives_and_Their_Oil,Correct,148,5.32755970954895,39
+http://dbpedia.org/resource/Olives_and_Their_Oil,http://dbpedia.org/property/id,228668,Correct,148,5.32755970954895,39
+http://dbpedia.org/resource/Olives_and_Their_Oil,http://www.w3.org/2000/01/rdf-schema#label,Olives and Their Oil,Correct,148,5.32755970954895,39
+http://dbpedia.org/resource/Rimshot,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/Characteristic_rock_drum_pattern_rimshot.png,Correct,149,4.866691112518311,39
+http://dbpedia.org/resource/Rimshot,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Technique,Correct,149,4.866691112518311,39
+http://dbpedia.org/resource/Rimshot,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Characteristic_rock_drum_pattern_rimshot.png?width=300,Correct,149,4.866691112518311,39
+http://dbpedia.org/resource/Rimshot,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Rimshot,Correct,149,4.866691112518311,39
+http://dbpedia.org/resource/Rimshot,http://www.w3.org/2000/01/rdf-schema#label,Rimshot,Correct,149,4.866691112518311,39
+http://dbpedia.org/resource/Leona_Lewis,http://dbpedia.org/property/name,Leona Lewis,Correct,150,2.158089399337769,39
+http://dbpedia.org/resource/Leona_Lewis,http://www.w3.org/2000/01/rdf-schema#label,Leona Lewis,Correct,150,2.158089399337769,39
+http://dbpedia.org/resource/Johnny_Wright_(music_manager),http://dbpedia.org/ontology/background,non_performing_personnel,Correct,151,4.029069185256958,39
+http://dbpedia.org/resource/Johnny_Wright_(music_manager),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_talent_agents,Correct,151,4.029069185256958,39
+http://dbpedia.org/resource/Johnny_Wright_(music_manager),http://dbpedia.org/property/associatedArtists,http://dbpedia.org/resource/Laurieann_Gibson,Correct,151,4.029069185256958,39
+http://dbpedia.org/resource/Johnny_Wright_(music_manager),http://dbpedia.org/ontology/birthYear,1960,Correct,151,4.029069185256958,39
+http://dbpedia.org/resource/Johnny_Wright_(music_manager),http://dbpedia.org/property/associatedArtists,http://dbpedia.org/resource/Ciara,Correct,151,4.029069185256958,39
+http://dbpedia.org/resource/Dharma_Chakram,http://dbpedia.org/property/title,Cheppana Cheppana,Correct,152,3.911633491516113,39
+http://dbpedia.org/resource/Dharma_Chakram,http://dbpedia.org/property/label,Supreme Music,Correct,152,3.911633491516113,39
+http://dbpedia.org/resource/Dharma_Chakram,http://www.w3.org/2000/01/rdf-schema#label,Dharma Chakram,Correct,152,3.911633491516113,39
+http://dbpedia.org/resource/Dharma_Chakram,http://dbpedia.org/property/starring,http://dbpedia.org/resource/Prema_(actress),Correct,152,3.911633491516113,39
+http://dbpedia.org/resource/Dharma_Chakram,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Dharma_Chakram,Correct,152,3.911633491516113,39
+http://dbpedia.org/resource/Michael_Scheffel,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Frankfurt,Correct,153,1.1469626426696775,39
+http://dbpedia.org/resource/Andrei_Tarkovsky,http://xmlns.com/foaf/0.1/name,Andrei Tarkovsky,Correct,154,2.303866147994995,39
+http://dbpedia.org/resource/Andrei_Tarkovsky,http://dbpedia.org/property/birthPlace,"Zavrazhye, Russian SFSR, Soviet Union",Correct,154,2.303866147994995,39
+http://dbpedia.org/resource/Bhanubhakta_Acharya,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Tanahun_District,Correct,155,1.1150610446929932,39
+http://dbpedia.org/resource/Hero_Wanted,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_about_revenge,Correct,156,4.436552286148071,39
+http://dbpedia.org/resource/Hero_Wanted,http://dbpedia.org/property/studio,http://dbpedia.org/resource/Nu_Image,Correct,156,4.436552286148071,39
+http://dbpedia.org/resource/Hero_Wanted,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Police_detective_films,Correct,156,4.436552286148071,39
+http://dbpedia.org/resource/Hero_Wanted,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Gangster_films,Correct,156,4.436552286148071,39
+http://dbpedia.org/resource/Hero_Wanted,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Direct-to-video_thriller_films,Correct,156,4.436552286148071,39
+http://dbpedia.org/resource/Live_My_Life_(song),http://dbpedia.org/ontology/abstract,"""Live My Life"" is a song by American group Far East Movement from their fourth studio album Dirty Bass. The song was released on February 25, 2012 as the album's lead single. It features vocals from Canadian pop singer Justin Bieber. The song was produced by RedOne and De Paris.The official remix of the song, subtitled ""Live My Life (Party Rock Remix)"", features vocals from RedFoo of LMFAO. The track was released on March 6, 2012 as a digital download. Also, it was included as the last track of the standard edition of Dirty Bass.",Correct,157,4.679116487503052,39
+http://dbpedia.org/resource/Live_My_Life_(song),http://dbpedia.org/property/autocat,yes,Correct,157,4.679116487503052,39
+http://dbpedia.org/resource/Live_My_Life_(song),http://dbpedia.org/property/cover,LiveMyLife.jpg,Correct,157,4.679116487503052,39
+http://dbpedia.org/resource/Live_My_Life_(song),http://dbpedia.org/property/note,featuring Rye Rye,Correct,157,4.679116487503052,39
+http://dbpedia.org/resource/Live_My_Life_(song),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Songs_written_by_Bilal_Hajji,Correct,157,4.679116487503052,39
+http://dbpedia.org/resource/The_Story_of_Sin,http://dbpedia.org/property/director,http://dbpedia.org/resource/Walerian_Borowczyk,Correct,158,4.543769836425781,39
+http://dbpedia.org/resource/The_Story_of_Sin,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Polish_films,Correct,158,4.543769836425781,39
+http://dbpedia.org/resource/The_Story_of_Sin,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_directed_by_Walerian_Borowczyk,Correct,158,4.543769836425781,39
+http://dbpedia.org/resource/The_Story_of_Sin,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Polish-language_films,Correct,158,4.543769836425781,39
+http://dbpedia.org/resource/The_Story_of_Sin,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_based_on_works_by_Stefan_Żeromski,Correct,158,4.543769836425781,39
+http://dbpedia.org/resource/Zacara_da_Teramo,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Rome,Correct,159,1.2476625442504885,39
+http://dbpedia.org/resource/In_the_Heart_of_the_Country,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/South_Africa,Correct,160,0.9958679676055908,39
+http://dbpedia.org/resource/Ferret_Music,http://dbpedia.org/ontology/distributingLabel,http://dbpedia.org/resource/Fontana_Distribution,Correct,161,5.078694105148315,39
+http://dbpedia.org/resource/Ferret_Music,http://dbpedia.org/ontology/distributingCompany,http://dbpedia.org/resource/Alternative_Distribution_Alliance,Correct,161,5.078694105148315,39
+http://dbpedia.org/resource/Ferret_Music,http://dbpedia.org/ontology/distributingCompany,http://dbpedia.org/resource/Entertainment_One_Distribution,Correct,161,5.078694105148315,39
+http://dbpedia.org/resource/Ferret_Music,http://dbpedia.org/ontology/distributingCompany,http://dbpedia.org/resource/Fontana_Distribution,Correct,161,5.078694105148315,39
+http://dbpedia.org/resource/Ferret_Music,http://dbpedia.org/ontology/distributingLabel,http://dbpedia.org/resource/Alternative_Distribution_Alliance,Correct,161,5.078694105148315,39
+http://dbpedia.org/resource/Decoder_(band),http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,162,1.1439127922058103,39
+http://dbpedia.org/resource/Ben_Chapman_(actor),http://dbpedia.org/property/children,"Ben Chapman III, Grant Chapman",Correct,163,3.754128217697144,39
+http://dbpedia.org/resource/Ben_Chapman_(actor),http://dbpedia.org/ontology/deathPlace,"http://dbpedia.org/resource/Honolulu,_Hawaii",Correct,163,3.754128217697144,39
+http://dbpedia.org/resource/Ben_Chapman_(actor),http://dbpedia.org/property/deathDate,2008-02-21,Correct,163,3.754128217697144,39
+http://dbpedia.org/resource/Ben_Chapman_(actor),http://xmlns.com/foaf/0.1/surname,Chapman,Correct,163,3.754128217697144,39
+http://dbpedia.org/resource/Ben_Chapman_(actor),http://dbpedia.org/ontology/activeYearsStartYear,1949,Correct,163,3.754128217697144,39
+http://dbpedia.org/resource/Empire_of_the_Ants_(film),http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-movie-noun-1,Correct,164,4.752196788787842,39
+http://dbpedia.org/resource/Empire_of_the_Ants_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Giant_monster_films,Correct,164,4.752196788787842,39
+http://dbpedia.org/resource/Empire_of_the_Ants_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1977_films,Correct,164,4.752196788787842,39
+http://dbpedia.org/resource/Empire_of_the_Ants_(film),http://dbpedia.org/ontology/Work/runtime,89.0,Correct,164,4.752196788787842,39
+http://dbpedia.org/resource/Empire_of_the_Ants_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Natural_horror_films,Correct,164,4.752196788787842,39
+http://dbpedia.org/resource/Indecision_(band),http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,165,1.0192053318023682,39
+http://dbpedia.org/resource/Paul_Lawrie,http://dbpedia.org/property/birthDate,1969-01-01,Correct,166,4.807973384857178,39
+http://dbpedia.org/resource/Paul_Lawrie,http://dbpedia.org/property/prowins,12,Correct,166,4.807973384857178,39
+http://dbpedia.org/resource/Paul_Lawrie,http://dbpedia.org/property/name,"Lawrie, Paul",Correct,166,4.807973384857178,39
+http://dbpedia.org/resource/Paul_Lawrie,http://dbpedia.org/ontology/height,1.8034,Correct,166,4.807973384857178,39
+http://dbpedia.org/resource/Paul_Lawrie,http://xmlns.com/foaf/0.1/name,"Lawrie, Paul",Correct,166,4.807973384857178,39
+http://dbpedia.org/resource/WVVW-LP,http://dbpedia.org/property/watts,93,Correct,167,5.1603522300720215,39
+http://dbpedia.org/resource/WVVW-LP,http://dbpedia.org/ontology/broadcastArea,"http://dbpedia.org/resource/Parkersburg,_West_Virginia",Correct,167,5.1603522300720215,39
+http://dbpedia.org/resource/WVVW-LP,http://dbpedia.org/property/class,L1,Correct,167,5.1603522300720215,39
+http://dbpedia.org/resource/WVVW-LP,http://www.georss.org/georss/point,39.31 -81.59694444444445,Correct,167,5.1603522300720215,39
+http://dbpedia.org/resource/WVVW-LP,http://dbpedia.org/property/haat,36,Correct,167,5.1603522300720215,39
+http://dbpedia.org/resource/The_Greatest_Man_That_Ever_Lived_(Variations_on_a_Shaker_Hymn),http://dbpedia.org/ontology/album,http://dbpedia.org/resource/Weezer_(2008_album),Correct,168,4.866157054901123,39
+http://dbpedia.org/resource/The_Greatest_Man_That_Ever_Lived_(Variations_on_a_Shaker_Hymn),http://dbpedia.org/ontology/runtime,352.0,Correct,168,4.866157054901123,39
+http://dbpedia.org/resource/The_Greatest_Man_That_Ever_Lived_(Variations_on_a_Shaker_Hymn),http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Power_pop,Correct,168,4.866157054901123,39
+http://dbpedia.org/resource/The_Greatest_Man_That_Ever_Lived_(Variations_on_a_Shaker_Hymn),http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/The_Greatest_Man_That_Ever_Lived_(Variations_on_a_Shaker_Hymn),Correct,168,4.866157054901123,39
+http://dbpedia.org/resource/The_Greatest_Man_That_Ever_Lived_(Variations_on_a_Shaker_Hymn),http://dbpedia.org/property/recorded,2008,Correct,168,4.866157054901123,39
+"http://dbpedia.org/resource/The_Saint,_the_Surfer,_and_the_CEO",http://dbpedia.org/ontology/numberOfPages,217,Correct,169,3.3254895210266118,39
+"http://dbpedia.org/resource/The_Saint,_the_Surfer,_and_the_CEO",http://www.w3.org/2000/01/rdf-schema#label,"The Saint, the Surfer, and the CEO",Correct,169,3.3254895210266118,39
+"http://dbpedia.org/resource/The_Saint,_the_Surfer,_and_the_CEO",http://dbpedia.org/ontology/publicationDate,2002-10-01,Correct,169,3.3254895210266118,39
+http://dbpedia.org/resource/Die_Happy_(band),http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,170,1.532357692718506,39
+http://dbpedia.org/resource/L'inafferrabile_12,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1950_films,Correct,171,4.557223320007324,39
+http://dbpedia.org/resource/L'inafferrabile_12,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Correct,171,4.557223320007324,39
+http://dbpedia.org/resource/L'inafferrabile_12,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_directed_by_Mario_Mattoli,Correct,171,4.557223320007324,39
+http://dbpedia.org/resource/L'inafferrabile_12,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1950s_comedy_films,Correct,171,4.557223320007324,39
+http://dbpedia.org/resource/L'inafferrabile_12,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Italian_films,Correct,171,4.557223320007324,39
+http://dbpedia.org/resource/Dari_(Italian_band),http://dbpedia.org/property/background,group_or_band,Correct,172,5.289057493209839,39
+http://dbpedia.org/resource/Dari_(Italian_band),http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Dari_(Italian_band),Correct,172,5.289057493209839,39
+http://dbpedia.org/resource/Dari_(Italian_band),http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Electropop,Correct,172,5.289057493209839,39
+http://dbpedia.org/resource/Dari_(Italian_band),http://dbpedia.org/property/origin,"Aosta, Italy",Correct,172,5.289057493209839,39
+http://dbpedia.org/resource/Dari_(Italian_band),http://xmlns.com/foaf/0.1/name,Dari,Correct,172,5.289057493209839,39
+http://dbpedia.org/resource/Madame_Butterfly_(1915_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Black-and-white_films,Correct,173,5.978339433670044,39
+http://dbpedia.org/resource/Madame_Butterfly_(1915_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_silent_feature_films,Correct,173,5.978339433670044,39
+http://dbpedia.org/resource/Madame_Butterfly_(1915_film),http://dbpedia.org/ontology/abstract,Madame Butterfly is a 1915 silent film directed by Sidney Olcott. The film is based upon a John Luther Long novel and the opera Madama Butterfly.,Correct,173,5.978339433670044,39
+http://dbpedia.org/resource/Madame_Butterfly_(1915_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_based_on_operas,Correct,173,5.978339433670044,39
+http://dbpedia.org/resource/Madame_Butterfly_(1915_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,173,5.978339433670044,39
+http://dbpedia.org/resource/Paul_Randolph_(musician),http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,174,1.3095459938049316,39
+http://dbpedia.org/resource/Todd_McCaffrey,http://xmlns.com/foaf/0.1/name,"McCaffrey, Todd",Correct,175,2.1725494861602783,39
+http://dbpedia.org/resource/Todd_McCaffrey,http://xmlns.com/foaf/0.1/name,Todd McCaffrey,Correct,175,2.1725494861602783,39
+http://dbpedia.org/resource/Todd_McCaffrey,http://dbpedia.org/ontology/abstract,Todd J. McCaffrey (born 27 April 1956 as Todd Johnson) is an Irish American author of science fiction best known for continuing the Dragonriders of Pern series in collaboration with his mother Anne McCaffrey.,Correct,175,2.1725494861602783,39
+http://dbpedia.org/resource/Pretty_Ladies,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,176,3.777343988418579,39
+http://dbpedia.org/resource/Pretty_Ladies,http://xmlns.com/foaf/0.1/name,Pretty Ladies,Correct,176,3.777343988418579,39
+http://dbpedia.org/resource/Pretty_Ladies,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Correct,176,3.777343988418579,39
+http://dbpedia.org/resource/Pretty_Ladies,http://dbpedia.org/property/name,Pretty Ladies,Correct,176,3.777343988418579,39
+http://dbpedia.org/resource/Pretty_Ladies,http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/ZaSu_Pitts,Correct,176,3.777343988418579,39
+http://dbpedia.org/resource/The_Impossible_Voyage,http://dbpedia.org/ontology/thumbnail,"http://commons.wikimedia.org/wiki/Special:FilePath/Méliès,_Le_voyage_a_travers_l'impossible1904_colorizée_01.jpg?width=300",Correct,177,3.2230923175811768,39
+http://dbpedia.org/resource/The_Impossible_Voyage,http://dbpedia.org/property/name,The Impossible Voyage,Correct,177,3.2230923175811768,39
+http://dbpedia.org/resource/The_Impossible_Voyage,http://xmlns.com/foaf/0.1/name,The Impossible Voyage,Correct,177,3.2230923175811768,39
+http://dbpedia.org/resource/Jools_Holland,http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Blackheath,_London",Correct,178,1.0897760391235352,39
+http://dbpedia.org/resource/Kilroy_was_here,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English_phrases,Correct,179,6.74762225151062,39
+http://dbpedia.org/resource/Kilroy_was_here,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Kilroy_was_here,Correct,179,6.74762225151062,39
+http://dbpedia.org/resource/Kilroy_was_here,http://www.w3.org/2000/01/rdf-schema#label,Kilroy was here,Correct,179,6.74762225151062,39
+http://dbpedia.org/resource/Kilroy_was_here,http://dbpedia.org/ontology/abstract,"Kilroy was here is an American popular culture expression that became popular during World War II; it is typically seen in graffiti. Its origins are debated, but the phrase and the distinctive accompanying doodle — a bald-headed man (sometimes depicted as having a few hairs) with a prominent nose peeking over a wall with the fingers of each hand clutching the wall — became associated with GIs in the 1940s.In the United Kingdom, the graffiti is known as ""Mr Chad"" or just ""Chad"", and the Australian equivalent to the phrase is ""Foo was here"". ""Foo was here"" might date from World War I, and the character of Chad may have derived from a British cartoonist in 1938, possibly pre-dating ""Kilroy was here"".  Etymologist Dave Wilton says, ""Some time during the war, Chad and Kilroy met, and in the spirit of Allied unity merged, with the British drawing appearing over the American phrase."" ""Foo was here"" became popular amongst Australian schoolchildren of post-war generations. Other names for the character include Smoe, Clem, Flywheel, Private Snoops, Overby, The Jeep (as both characters had sizable noses), and Sapo.Author Charles Panati says that in the United States ""the mischievous face and the phrase became a national joke... The outrageousness of the graffiti was not so much what it said, but where it turned up."" The major Kilroy graffiti fad ended in the 1950s, but today people all over the world still scribble the character and ""Kilroy was here"" in schools, trains, and other public areas.It is believed that James J. Kilroy was the origin of the expression, as he used the phrase when checking ships at the Fore River Shipyard.",Correct,179,6.74762225151062,39
+http://dbpedia.org/resource/Kilroy_was_here,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Military_history_of_the_United_States_during_World_War_II,Correct,179,6.74762225151062,39
+http://dbpedia.org/resource/Teenage_Kicks,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1978_songs,Correct,180,5.250852584838867,39
+http://dbpedia.org/resource/Teenage_Kicks,http://dbpedia.org/property/genre,http://dbpedia.org/resource/Punk_rock,Correct,180,5.250852584838867,39
+http://dbpedia.org/resource/Teenage_Kicks,http://dbpedia.org/property/length,96.0,Correct,180,5.250852584838867,39
+http://dbpedia.org/resource/Teenage_Kicks,http://dbpedia.org/property/length,113.0,Correct,180,5.250852584838867,39
+http://dbpedia.org/resource/Teenage_Kicks,http://dbpedia.org/property/headline,Side two,Correct,180,5.250852584838867,39
+http://dbpedia.org/resource/Albert_King,http://dbpedia.org/ontology/instrument,http://dbpedia.org/resource/Gibson_Flying_V,Correct,181,5.370932579040527,39
+http://dbpedia.org/resource/Albert_King,http://dbpedia.org/property/notableInstruments,http://dbpedia.org/resource/Gibson_Flying_V,Correct,181,5.370932579040527,39
+http://dbpedia.org/resource/Albert_King,http://dbpedia.org/ontology/recordLabel,http://dbpedia.org/resource/Stax_Records,Correct,181,5.370932579040527,39
+http://dbpedia.org/resource/Albert_King,http://dbpedia.org/property/genre,http://dbpedia.org/resource/Blues,Correct,181,5.370932579040527,39
+http://dbpedia.org/resource/Albert_King,http://dbpedia.org/ontology/recordLabel,http://dbpedia.org/resource/Utopia_Records,Correct,181,5.370932579040527,39
+http://dbpedia.org/resource/The_Frisk,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,182,1.3528387546539309,39
+http://dbpedia.org/resource/Felix_Otto_Dessoff,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Leipzig,Correct,183,1.264840841293335,39
+http://dbpedia.org/resource/Scarface:_The_World_Is_Yours,http://dbpedia.org/property/genre,http://dbpedia.org/resource/Open_world,Correct,184,2.8618996143341064,39
+http://dbpedia.org/resource/Scarface:_The_World_Is_Yours,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Open_world,Correct,184,2.8618996143341064,39
+http://dbpedia.org/resource/Scarface:_The_World_Is_Yours,http://www.w3.org/2000/01/rdf-schema#label,Scarface: The World Is Yours,Correct,184,2.8618996143341064,39
+http://dbpedia.org/resource/George_E._Leach,http://dbpedia.org/property/type,award-star,Correct,185,4.154165267944336,39
+http://dbpedia.org/resource/George_E._Leach,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Recipients_of_the_Distinguished_Service_Cross_(United_States),Correct,185,4.154165267944336,39
+http://dbpedia.org/resource/George_E._Leach,http://dbpedia.org/property/years,1921,Correct,185,4.154165267944336,39
+http://dbpedia.org/resource/George_E._Leach,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1876_births,Correct,185,4.154165267944336,39
+http://dbpedia.org/resource/George_E._Leach,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Recipients_of_the_Croix_de_guerre_1914–1918_(France),Correct,185,4.154165267944336,39
+http://dbpedia.org/resource/James_Tien_(politician),http://dbpedia.org/ontology/party,http://dbpedia.org/resource/Liberal_Party_(Hong_Kong),Correct,186,4.67030668258667,39
+http://dbpedia.org/resource/James_Tien_(politician),http://xmlns.com/foaf/0.1/name,James Tien Pei-chun,Correct,186,4.67030668258667,39
+http://dbpedia.org/resource/James_Tien_(politician),http://xmlns.com/foaf/0.1/name,James Tien,Correct,186,4.67030668258667,39
+http://dbpedia.org/resource/James_Tien_(politician),http://xmlns.com/foaf/0.1/name,"Tien, James",Correct,186,4.67030668258667,39
+http://dbpedia.org/resource/James_Tien_(politician),http://dbpedia.org/ontology/abstract,"James Tien Pei-chun, GBS, OBE, JP (born 8 January 1947, Shanghai) is the former Chairman and Leader of the Liberal Party (LP) and member of the Legislative Council of Hong Kong (Legco). Coming from the background of an entrepreneur, he was also a non-official member of the Executive Council of Hong Kong (Exco), member of Central and Western and Kwai Tsing District Council and Hong Kong member to the Chinese People's Political Consultative Conference (CPPCC).",Correct,186,4.67030668258667,39
+http://dbpedia.org/resource/Offbeat_(film),http://dbpedia.org/property/language,English,Correct,187,3.3092563152313232,39
+http://dbpedia.org/resource/Offbeat_(film),http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Correct,187,3.3092563152313232,39
+http://dbpedia.org/resource/Offbeat_(film),http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/John_Meillon,Correct,187,3.3092563152313232,39
+http://dbpedia.org/resource/Offbeat_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_films,Correct,187,3.3092563152313232,39
+http://dbpedia.org/resource/Majin_Boo,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Male_characters_in_anime_and_manga,Correct,188,4.466455698013306,39
+http://dbpedia.org/resource/Majin_Boo,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Fictional_characters_who_can_teleport,Correct,188,4.466455698013306,39
+http://dbpedia.org/resource/Majin_Boo,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Fictional_shapeshifters,Correct,188,4.466455698013306,39
+http://dbpedia.org/resource/Majin_Boo,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Fictional_characters_who_can_duplicate_themselves,Correct,188,4.466455698013306,39
+http://dbpedia.org/resource/Majin_Boo,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Anime_and_manga_characters_with_superhuman_strength,Correct,188,4.466455698013306,39
+http://dbpedia.org/resource/Moloya_Goswami,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Dibrugarh,Correct,189,4.797055959701538,39
+http://dbpedia.org/resource/Moloya_Goswami,http://www.w3.org/2000/01/rdf-schema#comment,"Moloya Goswami (Assamese: মলয়া গোস্বামী) is a popular actress from Assam, India. She was the first Assamese actress to win the National Film Award for Best Actress for her performance in the Assamese film Firingoti (1992).",Correct,189,4.797055959701538,39
+http://dbpedia.org/resource/Moloya_Goswami,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/India,Correct,189,4.797055959701538,39
+http://dbpedia.org/resource/Moloya_Goswami,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Assam,Correct,189,4.797055959701538,39
+http://dbpedia.org/resource/Moloya_Goswami,http://dbpedia.org/property/occupation,http://dbpedia.org/resource/Actor,Correct,189,4.797055959701538,39
+http://dbpedia.org/resource/Bangaru_Papa,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Correct,190,1.4196052551269531,39
+http://dbpedia.org/resource/Slowdive,http://dbpedia.org/ontology/bandMember,http://dbpedia.org/resource/Rachel_Goswell,Correct,191,4.9860899448394775,39
+http://dbpedia.org/resource/Slowdive,http://dbpedia.org/property/website,http://www.slowdiveofficial.com,Correct,191,4.9860899448394775,39
+http://dbpedia.org/resource/Slowdive,http://xmlns.com/foaf/0.1/name,Slowdive,Correct,191,4.9860899448394775,39
+http://dbpedia.org/resource/Slowdive,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Shoegazing,Correct,191,4.9860899448394775,39
+http://dbpedia.org/resource/Slowdive,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Indie_rock,Correct,191,4.9860899448394775,39
+http://dbpedia.org/resource/The_Wizard_of_Gore_(2007_film),http://dbpedia.org/property/country,United States,Correct,192,5.9247822761535645,39
+http://dbpedia.org/resource/The_Wizard_of_Gore_(2007_film),http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Correct,192,5.9247822761535645,39
+http://dbpedia.org/resource/The_Wizard_of_Gore_(2007_film),http://dbpedia.org/ontology/abstract,"The Wizard of Gore is a 2007 splatter/noir horror film directed by Jeremy Kasten and starring Kip Pardue, Bijou Phillips, Crispin Glover, Joshua Miller, Brad Dourif, Jeffrey Combs, and the Suicide Girls. The film is a remake of the 1970 Herschell Gordon Lewis film of the same name.",Correct,192,5.9247822761535645,39
+http://dbpedia.org/resource/The_Wizard_of_Gore_(2007_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_mystery_films,Correct,192,5.9247822761535645,39
+http://dbpedia.org/resource/The_Wizard_of_Gore_(2007_film),http://dbpedia.org/property/starring,http://dbpedia.org/resource/Crispin_Glover,Correct,192,5.9247822761535645,39
+http://dbpedia.org/resource/Jan_Montyn,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Oudewater,Correct,193,3.8863003253936768,39
+http://dbpedia.org/resource/Jan_Montyn,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Netherlands,Correct,193,3.8863003253936768,39
+http://dbpedia.org/resource/Jan_Montyn,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Netherlands,Correct,193,3.8863003253936768,39
+http://dbpedia.org/resource/KZLE,http://dbpedia.org/ontology/alias,Classic Rock 93,Correct,194,5.18898868560791,39
+http://dbpedia.org/resource/KZLE,http://xmlns.com/foaf/0.1/name,KZLE,Correct,194,5.18898868560791,39
+http://dbpedia.org/resource/KZLE,http://www.w3.org/2000/01/rdf-schema#label,KZLE,Correct,194,5.18898868560791,39
+http://dbpedia.org/resource/KZLE,http://dbpedia.org/ontology/programmeFormat,http://dbpedia.org/resource/Classic_rock,Correct,194,5.18898868560791,39
+http://dbpedia.org/resource/KZLE,http://dbpedia.org/property/branding,Classic Rock 93,Correct,194,5.18898868560791,39
+http://dbpedia.org/resource/The_Heart_Specialist_(1922_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,195,4.623969078063965,39
+http://dbpedia.org/resource/The_Heart_Specialist_(1922_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_silent_feature_films,Correct,195,4.623969078063965,39
+http://dbpedia.org/resource/The_Heart_Specialist_(1922_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_drama_films,Correct,195,4.623969078063965,39
+http://dbpedia.org/resource/The_Heart_Specialist_(1922_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1920s_drama_films,Correct,195,4.623969078063965,39
+http://dbpedia.org/resource/The_Heart_Specialist_(1922_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Lost_films,Correct,195,4.623969078063965,39
+http://dbpedia.org/resource/The_Hour_of_the_Pig,http://dbpedia.org/property/language,http://dbpedia.org/resource/English_language,Correct,196,4.428381443023682,39
+http://dbpedia.org/resource/The_Hour_of_the_Pig,http://dbpedia.org/ontology/releaseDate,1994-01-21,Correct,196,4.428381443023682,39
+http://dbpedia.org/resource/The_Hour_of_the_Pig,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/France,Correct,196,4.428381443023682,39
+http://dbpedia.org/resource/The_Hour_of_the_Pig,http://dbpedia.org/property/starring,http://dbpedia.org/resource/Amina_Annabi,Correct,196,4.428381443023682,39
+http://dbpedia.org/resource/The_Hour_of_the_Pig,http://dbpedia.org/property/director,http://dbpedia.org/resource/Leslie_Megahey,Correct,196,4.428381443023682,39
+http://dbpedia.org/resource/Songs_in_the_Dark_(album),http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Songs_in_the_Dark_(album),Correct,197,6.079005479812622,39
+http://dbpedia.org/resource/Songs_in_the_Dark_(album),http://dbpedia.org/property/name,Songs in the Dark,Correct,197,6.079005479812622,39
+http://dbpedia.org/resource/Songs_in_the_Dark_(album),http://dbpedia.org/property/title,Russian Lullaby,Correct,197,6.079005479812622,39
+http://dbpedia.org/resource/Songs_in_the_Dark_(album),http://dbpedia.org/property/artist,the Wainwright Sisters,Correct,197,6.079005479812622,39
+http://dbpedia.org/resource/Songs_in_the_Dark_(album),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Collaborative_albums,Correct,197,6.079005479812622,39
+http://dbpedia.org/resource/Death_of_a_Legend,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Death_of_a_Legend,Correct,198,4.44545316696167,39
+http://dbpedia.org/resource/Death_of_a_Legend,http://dbpedia.org/property/director,http://dbpedia.org/resource/Bill_Mason,Correct,198,4.44545316696167,39
+http://dbpedia.org/resource/Death_of_a_Legend,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Documentary_films_about_nature,Correct,198,4.44545316696167,39
+http://dbpedia.org/resource/Death_of_a_Legend,http://dbpedia.org/ontology/writer,http://dbpedia.org/resource/Bill_Mason,Correct,198,4.44545316696167,39
+http://dbpedia.org/resource/Death_of_a_Legend,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Death_of_a_Legend,Correct,198,4.44545316696167,39
+http://dbpedia.org/resource/The_Adventures_of_Abney_&_Teal,http://dbpedia.org/ontology/executiveProducer,http://dbpedia.org/resource/Anne_Wood,Correct,199,4.511669635772705,39
+http://dbpedia.org/resource/The_Adventures_of_Abney_&_Teal,http://dbpedia.org/ontology/distributor,http://dbpedia.org/resource/Canadian_Broadcasting_Corporation,Correct,199,4.511669635772705,39
+http://dbpedia.org/resource/The_Adventures_of_Abney_&_Teal,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:BBC_children's_television_programmes,Correct,199,4.511669635772705,39
+http://dbpedia.org/resource/The_Adventures_of_Abney_&_Teal,http://dbpedia.org/property/numSeasons,2,Correct,199,4.511669635772705,39
+http://dbpedia.org/resource/The_Adventures_of_Abney_&_Teal,http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Shingai_Shoniwa,Correct,199,4.511669635772705,39
+http://dbpedia.org/resource/Vettri_FM,http://dbpedia.org/ontology/firstAirDate,2008-02-11,Correct,200,4.568257808685303,39
+http://dbpedia.org/resource/Vettri_FM,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Media_in_Colombo,Correct,200,4.568257808685303,39
+http://dbpedia.org/resource/Vettri_FM,http://dbpedia.org/property/name,Vettri FM,Correct,200,4.568257808685303,39
+http://dbpedia.org/resource/Vettri_FM,http://dbpedia.org/property/website,http://www.vettri.lk/,Correct,200,4.568257808685303,39
+http://dbpedia.org/resource/Vettri_FM,http://dbpedia.org/ontology/abstract,"Vettri FM is a Tamil radio station in Sri Lanka. The channel started broadcasting on 11 February 2008.Vettri FM reached number 1 in Greater Colombo area in the LMRB ratings released in May 2011. Vettri FM's official web page is http://www.vettri.lk, their official Facebook page is https://www.facebook.com/VettriFMOfficial",Correct,200,4.568257808685303,39
+http://dbpedia.org/resource/WPOV-LP,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Radio_stations_in_New_Jersey,Correct,201,4.42120361328125,39
+http://dbpedia.org/resource/WPOV-LP,http://dbpedia.org/property/website,http://www.wpovfm.org/,Correct,201,4.42120361328125,39
+http://dbpedia.org/resource/WPOV-LP,http://dbpedia.org/property/erp,35,Correct,201,4.42120361328125,39
+http://dbpedia.org/resource/WPOV-LP,http://dbpedia.org/property/city,http://dbpedia.org/resource/New_Jersey,Correct,201,4.42120361328125,39
+http://dbpedia.org/resource/WPOV-LP,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Low-power_FM_radio_stations_in_New_Jersey,Correct,201,4.42120361328125,39
+http://dbpedia.org/resource/Hot_Wacks,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Book,Correct,202,4.99471116065979,39
+http://dbpedia.org/resource/Hot_Wacks,http://www.w3.org/2000/01/rdf-schema#comment,"Hot Wacks is a Canadian book that has been in circulation for over 25 years, featuring reviews of bootleg music releases. Reviews include information such as source, quality, track listing and packaging. It is commonly referred to as the 'Bootleg Bible' by bootleg collectors. Hot Wacks was the work of Kurt Glemser.",Correct,202,4.99471116065979,39
+http://dbpedia.org/resource/Hot_Wacks,http://dbpedia.org/ontology/abstract,"Hot Wacks is a Canadian book that has been in circulation for over 25 years, featuring reviews of bootleg music releases. Reviews include information such as source, quality, track listing and packaging. It is commonly referred to as the 'Bootleg Bible' by bootleg collectors. Hot Wacks was the work of Kurt Glemser. Before Hot Wacks he wrote two other bootleg discographies - Bootlegs (March, 1973) followed by Underground Sounds (October, 1974).It was published in Kitchener, Ontario.Hot Wacks spawned a magazine Hot Wacks Quarterly which also reviewed bootlegs as well as other collectible records (Communist pressings, box sets, etc.) as well as featuring pictorials of female rockers.Hot Wacks went through 15 printings starting with Hot Wacks Book I (November, 1975) and ending with Book XV: The Last Wacks. The latter was almost 800 pages long. After this Hot Wacks was published as Supplement 1 - 6. Bob Walker, another Canadian, came on board after Hot Wacks Book XI. It's interesting that after Kurt Glemser wrote a critical review of THE GREAT WHITE WONDERS (a book that claims to tell the history of bootlegs) in Supplement 3 that the author of that book changed comments about Kurt, K & S Records and Hot Wacks. The review came out around the time of the second printing of THE GREAT WHITE WONDERS which was now titled BOOTLEGS. The comments about Kurt, K & S Records and Hot Wacks in BOOTLEGS were changed in the latest printing to be critical, however, without any facts to back up the negative comments. Kurt at least backed up his critical review with facts.",Correct,202,4.99471116065979,39
+http://dbpedia.org/resource/Hot_Wacks,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Hot_Wacks,Correct,202,4.99471116065979,39
+http://dbpedia.org/resource/Hot_Wacks,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Music_books,Correct,202,4.99471116065979,39
+http://dbpedia.org/resource/Hot_Wacks,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Book,Correct,202,12.715106010437012,39
+http://dbpedia.org/resource/Hot_Wacks,http://www.w3.org/2000/01/rdf-schema#comment,"Hot Wacks is a Canadian book that has been in circulation for over 25 years, featuring reviews of bootleg music releases. Reviews include information such as source, quality, track listing and packaging. It is commonly referred to as the 'Bootleg Bible' by bootleg collectors. Hot Wacks was the work of Kurt Glemser.",Correct,202,12.715106010437012,39
+http://dbpedia.org/resource/Hot_Wacks,http://dbpedia.org/ontology/abstract,"Hot Wacks is a Canadian book that has been in circulation for over 25 years, featuring reviews of bootleg music releases. Reviews include information such as source, quality, track listing and packaging. It is commonly referred to as the 'Bootleg Bible' by bootleg collectors. Hot Wacks was the work of Kurt Glemser. Before Hot Wacks he wrote two other bootleg discographies - Bootlegs (March, 1973) followed by Underground Sounds (October, 1974).It was published in Kitchener, Ontario.Hot Wacks spawned a magazine Hot Wacks Quarterly which also reviewed bootlegs as well as other collectible records (Communist pressings, box sets, etc.) as well as featuring pictorials of female rockers.Hot Wacks went through 15 printings starting with Hot Wacks Book I (November, 1975) and ending with Book XV: The Last Wacks. The latter was almost 800 pages long. After this Hot Wacks was published as Supplement 1 - 6. Bob Walker, another Canadian, came on board after Hot Wacks Book XI. It's interesting that after Kurt Glemser wrote a critical review of THE GREAT WHITE WONDERS (a book that claims to tell the history of bootlegs) in Supplement 3 that the author of that book changed comments about Kurt, K & S Records and Hot Wacks. The review came out around the time of the second printing of THE GREAT WHITE WONDERS which was now titled BOOTLEGS. The comments about Kurt, K & S Records and Hot Wacks in BOOTLEGS were changed in the latest printing to be critical, however, without any facts to back up the negative comments. Kurt at least backed up his critical review with facts.",Correct,202,12.715106010437012,39
+http://dbpedia.org/resource/Hot_Wacks,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Hot_Wacks,Correct,202,12.715106010437012,39
+http://dbpedia.org/resource/Hot_Wacks,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Music_books,Correct,202,12.715106010437012,39

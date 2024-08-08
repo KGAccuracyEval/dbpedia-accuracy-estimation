@@ -1,0 +1,49 @@
+Subject,Predicate,Object,Error,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/Arthur_C._Clarke,http://dbpedia.org/ontology/notableWork,http://dbpedia.org/resource/Arthur_C._Clarke,Object,0,4.063386917114258,12
+http://dbpedia.org/resource/Taifa_of_Molina,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Molina_de_Segura,Object,4,16.613092184066772,21
+http://dbpedia.org/resource/Častolovice,http://dbpedia.org/property/populationDensity,auto,Predicate,7,8.330310821533203,28
+http://dbpedia.org/resource/TransAdelaide,http://dbpedia.org/property/homepage,http://web.archive.org/web/20090201005855/http:/transadelaide.com.au/,Predicate,9,6.9616172313690186,28
+http://dbpedia.org/resource/TransAdelaide,http://xmlns.com/foaf/0.1/homepage,http://web.archive.org/web/20090201005855/http:/transadelaide.com.au/,Predicate,9,6.9616172313690186,28
+http://dbpedia.org/resource/Kola_Bay_Bridge,http://www.w3.org/2003/01/geo/wgs84_pos#long,33.0414,Object,10,5.242223739624023,37
+http://dbpedia.org/resource/Seabiscuit_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_set_in_the_1940s,Object,12,13.761234760284424,37
+http://dbpedia.org/resource/Seabiscuit_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2000s_thriller_films,Object,12,13.761234760284424,37
+http://dbpedia.org/resource/Seabiscuit_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Psychological_thriller_films,Object,12,13.761234760284424,37
+http://dbpedia.org/resource/Yemen,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Aden,Object,17,3.828810930252075,37
+http://dbpedia.org/resource/Kievan_Rus',http://dbpedia.org/ontology/dissolutionYear,1240,Object,25,2.480180025100708,37
+http://dbpedia.org/resource/U.S._Music_Corporation,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/Marshall_Amplification,Object,27,3.0927958488464355,37
+http://dbpedia.org/resource/U.S._Music_Corporation,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/Jay_Turser,Object,27,3.0927958488464355,37
+http://dbpedia.org/resource/Sarah_Kirsch_(poet),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Communist_women_writers,Object,30,5.739985942840576,38
+http://dbpedia.org/resource/VH1,http://dbpedia.org/property/pictureFormat,*,Object,31,10.644800901412964,38
+http://dbpedia.org/resource/VH1,http://dbpedia.org/property/satChan,539,Subject;Predicate,31,10.644800901412964,38
+http://dbpedia.org/resource/RocknRolla,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:French_films,Object,45,4.136178255081177,38
+http://dbpedia.org/resource/RocknRolla,http://dbpedia.org/property/genre,http://dbpedia.org/resource/Funk,Object,45,4.136178255081177,38
+http://dbpedia.org/resource/Marina_Bay_MRT_Station,http://dbpedia.org/property/name,25,Predicate;Object,58,6.439230918884277,39
+http://dbpedia.org/resource/Naoum_Aronson,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Naoum_Aronson__1,Object,65,21.711230993270878,39
+http://dbpedia.org/resource/The_Elective_Affinities,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:French_films,Object,69,6.036274194717407,39
+http://dbpedia.org/resource/Kalka,http://dbpedia.org/property/caption,Distribution of religions,Predicate,70,13.92780590057373,39
+http://dbpedia.org/resource/Kalka,http://dbpedia.org/property/website,www.kalka.city,Object,70,13.92780590057373,39
+http://dbpedia.org/resource/Silapathar,http://dbpedia.org/property/lats,43,Object,77,3.5606958866119385,39
+http://dbpedia.org/resource/Edwin_Sydney_Stuart,http://dbpedia.org/property/before,http://dbpedia.org/resource/Edwin_Henry_Fitler,Object,94,3.7769508361816406,39
+http://dbpedia.org/resource/CGR_1st_Class_2-6-0ST_1876,http://dbpedia.org/ontology/rebuilder,http://dbpedia.org/resource/Cape_Government_Railways,Object,101,3.1436281204223637,40
+http://dbpedia.org/resource/Karl_Marx,http://dbpedia.org/property/b,Sociological Theory/Karl Marx,Predicate,104,4.172718048095703,40
+http://dbpedia.org/resource/Kunming–Singapore_Railway,http://dbpedia.org/property/el,Overhead catenary,Predicate,107,3.24767804145813,40
+http://dbpedia.org/resource/WVPG,http://dbpedia.org/ontology/broadcastArea,"http://dbpedia.org/resource/Marietta,_Ohio",Object,111,2.2933192253112797,40
+http://dbpedia.org/resource/Vilhelmina,http://dbpedia.org/ontology/PopulatedPlace/areaTotal,3.54,Object,113,8.841789960861206,40
+http://dbpedia.org/resource/Vilhelmina,http://dbpedia.org/property/longm,39,Object,113,8.841789960861206,40
+http://dbpedia.org/resource/Sant'Antonio_di_Gallura,http://dbpedia.org/property/latm,0,Object,115,8.06078577041626,40
+http://dbpedia.org/resource/Gary_Wilhelms,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1931_births,Object,119,4.2437520027160645,40
+http://dbpedia.org/resource/W.E.,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Russian-language_films,Object,123,3.3247339725494385,40
+http://dbpedia.org/resource/Ralph_Hanan,http://dbpedia.org/property/nolist,true,Predicate;Object,125,3.7607581615448,40
+http://dbpedia.org/resource/Magliano_Vetere,http://www.w3.org/2003/01/geo/wgs84_pos#long,15.2333,Object,126,2.4545278549194336,40
+http://dbpedia.org/resource/Polish_National_Government_(January_Uprising),http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Vilnius,Object,132,4.059700965881348,40
+http://dbpedia.org/resource/Polish_National_Government_(January_Uprising),http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Kiev,Object,132,4.059700965881348,40
+http://dbpedia.org/resource/Of_All_Things_I_Will_Soon_Grow_Tired,http://dbpedia.org/property/genre,http://dbpedia.org/resource/Emo,Object,137,3.713925838470459,40
+http://dbpedia.org/resource/Of_All_Things_I_Will_Soon_Grow_Tired,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Emo,Object,137,3.713925838470459,40
+http://dbpedia.org/resource/Jōshin-etsu_Expressway,http://dbpedia.org/property/cities,"http://dbpedia.org/resource/Tomioka,_Gunma",Object,140,3.962400913238525,40
+http://dbpedia.org/resource/Music_of_Final_Fantasy_XIII,http://dbpedia.org/property/length,276.0,Object,145,2.9583969116210938,40
+http://dbpedia.org/resource/Edwin_O._Smith,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:DePauw_Tigers_football_coaches,Object,148,4.820571184158325,40
+http://dbpedia.org/resource/Samuel_Fitch,http://dbpedia.org/property/children,"Susannah Fitch Church, Elizabeth Fitch Rogers , Samuel Jr., Daniel Fitch, Anne Fitch St. John , Jonathan Fitch",Object,150,5.231854200363159,40
+http://dbpedia.org/resource/Siege_of_Aintab,http://dbpedia.org/ontology/strength,Total force:,Object,152,8.212323665618896,40
+http://dbpedia.org/resource/The_Automatic,http://dbpedia.org/property/align,right,Predicate;Object,154,6.976744890213013,40
+http://dbpedia.org/resource/Varāhamihira,http://dbpedia.org/ontology/notableWork,http://dbpedia.org/resource/Varāhamihira,Predicate;Object,156,6.530409812927246,40
+http://dbpedia.org/resource/Sezgin_Tanrıkulu,http://dbpedia.org/ontology/termPeriod,http://dbpedia.org/resource/Sezgin_Tanrıkulu__1,Object,160,6.53525185585022,40

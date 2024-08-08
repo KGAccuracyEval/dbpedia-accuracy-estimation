@@ -1,0 +1,36 @@
+Subject,Predicate,Object,Error,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/Famous_Studios,http://dbpedia.org/ontology/keyPerson,http://dbpedia.org/resource/Shamus_Culhane,Object,1,15.227020025253296,7
+http://dbpedia.org/resource/Kievan_Rus',http://dbpedia.org/ontology/dissolutionYear,1240,Object,3,4.096729755401611,7
+http://dbpedia.org/resource/David_Mordaunt,http://dbpedia.org/property/matches,4,Object,8,5.529104232788086,8
+http://dbpedia.org/resource/Robert_Ford_(poet),http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Ontario,Predicate,10,3.8665833473205566,8
+http://dbpedia.org/resource/Auja_al-Hafir,http://dbpedia.org/property/district,br,Object,20,16.216379642486572,9
+http://dbpedia.org/resource/Auja_al-Hafir,http://dbpedia.org/property/cause,M,Object,20,16.216379642486572,9
+http://dbpedia.org/resource/Auja_al-Hafir,http://dbpedia.org/property/longm,23,Predicate;Object,20,16.216379642486572,9
+http://dbpedia.org/resource/Landsbankinn,http://dbpedia.org/ontology/keyPerson,http://dbpedia.org/resource/Chief_executive_officer,Object,22,5.689631700515747,9
+http://dbpedia.org/resource/Landsbankinn,http://dbpedia.org/ontology/keyPerson,http://dbpedia.org/resource/Chairman,Object,22,5.689631700515747,9
+http://dbpedia.org/resource/Paessler,http://dbpedia.org/property/foundation,"http://dbpedia.org/resource/Nuremberg,_Germany",Predicate,23,6.54524040222168,9
+http://dbpedia.org/resource/Paessler,http://dbpedia.org/property/homepage,http://www.paessler.com/,Object,23,6.54524040222168,9
+http://dbpedia.org/resource/TextDrive,http://xmlns.com/foaf/0.1/homepage,http://www.textdrive.com/,Object,25,3.2794442176818848,9
+http://dbpedia.org/resource/Today!_(Mississippi_John_Hurt_album),http://www.w3.org/2000/01/rdf-schema#label,Today! (Mississippi John Hurt album),Predicate,29,5.668680191040039,10
+http://dbpedia.org/resource/Xinetd,http://dbpedia.org/ontology/programmingLanguage,http://dbpedia.org/resource/Shell_(computing),Object,30,2.860248327255249,10
+http://dbpedia.org/resource/Of_All_Things_I_Will_Soon_Grow_Tired,http://dbpedia.org/property/genre,http://dbpedia.org/resource/Emo,Object,32,5.804266214370728,10
+http://dbpedia.org/resource/Of_All_Things_I_Will_Soon_Grow_Tired,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Emo,Object,32,5.804266214370728,10
+http://dbpedia.org/resource/Saiyuki_(manga),http://dbpedia.org/property/last,2011-11-25,Object,47,14.48885416984558,13
+http://dbpedia.org/resource/Saiyuki_(manga),http://dbpedia.org/property/music,http://dbpedia.org/resource/Motoi_Sakuraba,Subject,47,14.48885416984558,13
+http://dbpedia.org/resource/Saiyuki_(manga),http://dbpedia.org/ontology/numberOfVolumes,10,Object,47,14.48885416984558,13
+http://dbpedia.org/resource/Kazuo_Nakamura,http://dbpedia.org/ontology/movement,http://dbpedia.org/resource/Abstract_expressionism,Object,48,4.054078340530396,15
+http://dbpedia.org/resource/Romuald_the_Reindeer,http://dbpedia.org/ontology/voice,http://dbpedia.org/resource/Howell_Evens,Object,51,3.66005277633667,17
+http://dbpedia.org/resource/Silapathar,http://dbpedia.org/property/lats,43,Object,57,5.628672122955322,18
+http://dbpedia.org/resource/Silapathar,http://dbpedia.org/property/areaCode,"+91, 03753",Object,57,5.628672122955322,18
+http://dbpedia.org/resource/Holy_Roman_Empire,http://dbpedia.org/property/s,Kingdom of Prussia,Predicate,64,7.823689937591553,18
+http://dbpedia.org/resource/J._M._E._McTaggart,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Thomas_Hill_Green,Object,75,3.1409497261047363,23
+http://dbpedia.org/resource/A_Price_Above_Rubies,http://dbpedia.org/property/released,August 1999,Object,86,3.590651750564575,23
+http://dbpedia.org/resource/Çağlar_Birinci,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Turkey_national_football_team,Object,90,8.28932523727417,27
+http://dbpedia.org/resource/Sant'Antonio_di_Gallura,http://dbpedia.org/property/province,http://dbpedia.org/resource/Province_of_Olbia-Tempio,Object,104,4.561671733856201,27
+http://dbpedia.org/resource/Pancham_(TV_series),http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Pancham_(TV_series),Predicate,105,3.1911795139312744,27
+http://dbpedia.org/resource/Karl_Marx,http://dbpedia.org/property/b,Sociological Theory/Karl Marx,Predicate,113,3.3116261959075928,30
+http://dbpedia.org/resource/WTWW,http://dbpedia.org/ontology/callsignMeaning,We Transmit World Wide,Object,120,7.244624614715576,39
+http://dbpedia.org/resource/WTWW,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Companies_based_in_Nashville,_Tennessee",Object,120,7.244624614715576,39
+http://dbpedia.org/resource/The_Rocketeer_(NES_video_game),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1938_in_fiction,Subject,128,2.97889256477356,39
+http://dbpedia.org/resource/SonicWall,http://dbpedia.org/property/parent,http://dbpedia.org/resource/Dell,Predicate,153,2.309170961380005,39
+http://dbpedia.org/resource/Governorate_of_New_Andalusia_(1501–13),http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Aragua,Object,165,3.320952892303467,39

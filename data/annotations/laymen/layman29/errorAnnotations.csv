@@ -1,0 +1,111 @@
+Subject,Predicate,Object,Error,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/Territory_of_Papua_and_New_Guinea,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Australian_dollar,Object,6,7.601273059844971,7
+http://dbpedia.org/resource/Territory_of_Papua_and_New_Guinea,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/New_Guinean_pound,Object,6,7.601273059844971,7
+http://dbpedia.org/resource/Afghanistan,http://dbpedia.org/property/giniYear,2008,Object,14,6.523596048355103,7
+http://dbpedia.org/resource/WVAH-TV,http://dbpedia.org/property/location,"http://dbpedia.org/resource/Huntington,_West_Virginia",Object,16,6.75445294380188,7
+http://dbpedia.org/resource/Casablanca_(film),http://dbpedia.org/property/v,no,Predicate,22,10.35468602180481,7
+http://dbpedia.org/resource/Casablanca_(film),http://dbpedia.org/property/budget,878000.0,Object,22,10.35468602180481,7
+http://dbpedia.org/resource/Washington_Avenue_Soldier's_Monument_and_Triangle,http://dbpedia.org/ontology/nearestCity,"http://dbpedia.org/resource/Hackensack,_New_Jersey",Object,23,4.516309022903442,8
+http://dbpedia.org/resource/SexyMandarin,http://xmlns.com/foaf/0.1/homepage,http://www.sexymandarin.com/,Object,25,7.036613941192627,8
+http://dbpedia.org/resource/SexyMandarin,http://dbpedia.org/property/homepage,http://www.sexymandarin.com/,Object,25,7.036613941192627,8
+http://dbpedia.org/resource/Manchester_Museum,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Wilmslow_Road,Object,26,3.279787063598633,8
+http://dbpedia.org/resource/Timurid_Empire,http://dbpedia.org/property/capital,http://dbpedia.org/resource/Herat,Object,27,17.399322271347046,8
+http://dbpedia.org/resource/WLGZ-FM,http://dbpedia.org/ontology/city,"http://dbpedia.org/resource/Webster,_New_York",Object,29,6.3393659591674805,8
+http://dbpedia.org/resource/WLGZ-FM,http://dbpedia.org/property/city,"http://dbpedia.org/resource/Webster,_New_York",Object,29,6.3393659591674805,8
+http://dbpedia.org/resource/James_Francis_Garrick,http://dbpedia.org/ontology/abstract,"Sir James Francis Garrick KCMG QC, (10 January 1836 – 12 January 1907) was a politician and agent-general from Brisbane, Queensland, Australia. In his later years, he lived in London.",Object,31,9.986737966537476,8
+http://dbpedia.org/resource/James_Francis_Garrick,http://dbpedia.org/property/years,1878,Object,31,9.986737966537476,8
+http://dbpedia.org/resource/James_Francis_Garrick,http://dbpedia.org/property/rows,2,Object,31,9.986737966537476,8
+http://dbpedia.org/resource/Love_at_Twenty,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Japanese_films,Object,37,3.9636380672454834,8
+http://dbpedia.org/resource/Archery_at_the_1996_Summer_Olympics_–_Men's_team,http://dbpedia.org/ontology/goldMedalist,http://dbpedia.org/resource/Butch_Johnson,Object,42,5.874693870544434,8
+http://dbpedia.org/resource/Archery_at_the_1996_Summer_Olympics_–_Men's_team,http://dbpedia.org/ontology/goldMedalist,http://dbpedia.org/resource/Rod_White,Object,42,5.874693870544434,8
+http://dbpedia.org/resource/Dangerous_(film),http://dbpedia.org/ontology/producer,http://dbpedia.org/resource/Harry_Joe_Brown,Object,43,4.676773071289063,8
+http://dbpedia.org/resource/John_Denver,http://dbpedia.org/ontology/associatedBand,http://dbpedia.org/resource/Tina_Turner,Predicate,45,9.65603804588318,9
+http://dbpedia.org/resource/John_Denver,http://dbpedia.org/ontology/associatedBand,http://dbpedia.org/resource/Olivia_Newton-John,Predicate,45,9.65603804588318,9
+http://dbpedia.org/resource/John_Denver,http://dbpedia.org/ontology/deathPlace,"http://dbpedia.org/resource/Pacific_Grove,_California",Object,45,9.65603804588318,9
+http://dbpedia.org/resource/I_Want_Candy,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2008_singles,Object,48,4.771420955657959,9
+http://dbpedia.org/resource/Berestia,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Vlag_ontbreekt.svg?width=300,Object,49,4.115499019622803,9
+http://dbpedia.org/resource/Someone_to_Watch_Over_Me_(film),http://dbpedia.org/property/starring,*,Object,67,3.8983170986175537,9
+"http://dbpedia.org/resource/2nd/17th_Battalion,_Royal_New_South_Wales_Regiment",http://dbpedia.org/ontology/commandStructure,http://dbpedia.org/resource/2nd_Division_(Australia),Object,69,28.35018277168274,9
+http://dbpedia.org/resource/James_Dyrenforth,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/James_Dyrenforth,Subject;Object,73,14.34799098968506,12
+http://dbpedia.org/resource/Dorothy_Appleby,http://dbpedia.org/property/placeOfDeath,http://dbpedia.org/resource/Long_Island,Object,75,3.430837154388428,12
+http://dbpedia.org/resource/WIVM-LD,http://dbpedia.org/ontology/location,"http://dbpedia.org/resource/Newcomerstown,_Ohio",Object,79,8.009675741195679,12
+http://dbpedia.org/resource/WIVM-LD,http://dbpedia.org/property/homepage,http://www.wivmtv.com/,Object,79,8.009675741195679,12
+http://dbpedia.org/resource/Alexander_Holle,http://dbpedia.org/property/years,--09-26,Object,81,3.7759718894958496,12
+http://dbpedia.org/resource/Tau_(sculpture),http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Tau_(sculpture),Object,82,6.184986114501953,12
+http://dbpedia.org/resource/Tau_(sculpture),http://dbpedia.org/property/widthImperial,252,Object,82,6.184986114501953,12
+http://dbpedia.org/resource/Niels-Henning_Ørsted_Pedersen,http://dbpedia.org/property/associatedActs,http://dbpedia.org/resource/Ben_Webster,Object,86,3.357495069503784,12
+http://dbpedia.org/resource/Courteney_Cox,http://dbpedia.org/property/birthPlace,"Mountain Brook, Alabama, U.S.",Object,90,3.521561861038208,12
+http://dbpedia.org/resource/Anything_Can_Happen,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Anything_Can_Happen,Object,91,10.440867185592651,12
+http://dbpedia.org/resource/Victoria_Memorial_(India),http://xmlns.com/foaf/0.1/homepage,http://www.victoriamemorial-cal.org/,Object,98,2.684691905975342,12
+http://dbpedia.org/resource/Robert_Wise,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Robert_wise_1990.jpg?width=300,Object,99,3.638650894165039,12
+"http://dbpedia.org/resource/Stay_(Faraway,_So_Close!)",http://dbpedia.org/property/label,http://dbpedia.org/resource/Island_Records,Predicate;Object,102,29.35097312927246,12
+http://dbpedia.org/resource/32nd_Medical_Brigade,http://dbpedia.org/ontology/abstract,The 32nd Medical Brigade is a medical brigade in the United States Army formed in 1940. The unit is a part of the United States Army Medical Department Center and School.,Object,107,3.5831758975982666,12
+http://dbpedia.org/resource/Beyond_Good_&_Evil_(video_game),http://dbpedia.org/property/title,Fun and Mini-Games,Object,112,5.504088878631592,13
+http://dbpedia.org/resource/Beyond_Good_&_Evil_(video_game),http://dbpedia.org/property/title,Heart of darkness,Object,112,5.504088878631592,13
+http://dbpedia.org/resource/Andrew_Kooman,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Human_trafficking_in_Thailand,Object,113,12.631381034851074,13
+http://dbpedia.org/resource/Andrew_Kooman,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Urban_fantasy_writers,Object,113,12.631381034851074,13
+http://dbpedia.org/resource/Andrew_Kooman,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Christian_novelists,Object,113,12.631381034851074,13
+http://dbpedia.org/resource/Alsace-Lorraine,http://dbpedia.org/property/flagP,Flag of France.svg,Object,114,5.453485012054443,13
+http://dbpedia.org/resource/Alsace-Lorraine,http://dbpedia.org/property/imageMapCaption,Alsace-Lorraine within the German Empire,Object,114,5.453485012054443,13
+http://dbpedia.org/resource/Peter_Raw,http://dbpedia.org/property/commands,http://dbpedia.org/resource/No._82_Wing_RAAF,Object,115,2.761458158493042,13
+http://dbpedia.org/resource/Sauto_Theater,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Theatre,Predicate,116,5.434940814971924,13
+http://dbpedia.org/resource/Verran_Sparebank,http://dbpedia.org/property/foundation,1907,Object,118,3.4369561672210693,13
+http://dbpedia.org/resource/Rose_Tremain,http://dbpedia.org/property/name,"(CBE, FRSL)",Object,120,2.2735958099365234,13
+http://dbpedia.org/resource/Christina_Pickles,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_stage_actresses,Object,124,26.256405115127563,13
+"http://dbpedia.org/resource/East_London,_Eastern_Cape",http://dbpedia.org/property/longm,52,Predicate;Object,126,41.52007794380188,13
+"http://dbpedia.org/resource/East_London,_Eastern_Cape",http://dbpedia.org/property/decSun,239.7,Predicate;Object,126,41.52007794380188,13
+"http://dbpedia.org/resource/East_London,_Eastern_Cape",http://dbpedia.org/property/junMeanC,15.4,Predicate;Object,126,41.52007794380188,13
+"http://dbpedia.org/resource/East_London,_Eastern_Cape",http://dbpedia.org/property/metricFirst,Yes,Predicate;Object,126,41.52007794380188,13
+"http://dbpedia.org/resource/East_London,_Eastern_Cape",http://dbpedia.org/property/censuscode,260113,Predicate,126,41.52007794380188,13
+"http://dbpedia.org/resource/St_Mary's_Church,_Garthorpe",http://xmlns.com/foaf/0.1/page,http://www.visitchurches.org.uk/Ourchurches/Completelistofchurches/St-Marys-Church-Garthorpe-Leicestershire/,Object,129,3.651247978210449,14
+http://dbpedia.org/resource/WSBR,http://www.georss.org/georss/point,26.335 -80.26527777777778,Predicate;Object,131,5.299936056137085,14
+http://dbpedia.org/resource/Julia_Roberts,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_female_models,Object,132,6.095132827758789,14
+http://dbpedia.org/resource/Julia_Roberts,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Actresses_from_Atlanta,_Georgia",Object,132,6.095132827758789,14
+http://dbpedia.org/resource/Joe_DiMaggio,http://xmlns.com/foaf/0.1/name,Joe DiMaggio,Object,134,5.808463096618652,14
+http://dbpedia.org/resource/Joe_DiMaggio,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_Roman_Catholics,Object,134,5.808463096618652,14
+http://dbpedia.org/resource/Half-A-Dollar-Bill,http://dbpedia.org/property/runtime,3600.0,Predicate;Object,135,4.122508049011231,14
+http://dbpedia.org/resource/The_Gambler_(2014_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Blackjack,Object,136,5.554074048995972,14
+http://dbpedia.org/resource/Amersham_Museum,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/English_local_history,Predicate,140,12.073878049850464,14
+http://dbpedia.org/resource/Amersham_Museum,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Museums_established_in_1991,Object,140,12.073878049850464,14
+http://dbpedia.org/resource/Amersham_Museum,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1991_establishments_in_England,Object,140,12.073878049850464,14
+http://dbpedia.org/resource/Saxe-Gotha-Altenburg,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Gotha,Object,143,2.3258402347564697,14
+http://dbpedia.org/resource/Spider-Man_Unlimited,http://dbpedia.org/property/shortsummary,"Spider-Man meets the Counter-Earth version of the Green Goblin, a hero who mistakes Spider-Man for a villain. Spider-Man realizes the kidnapper of Dr. Naoko Yamada-Jones isn't the Goblin. The two team up to save her and stop a plan by her kidnappers responsible for the green Bio-Mass: Venom and Carnage.",Object,144,11.640877962112429,16
+http://dbpedia.org/resource/Spider-Man_Unlimited,http://dbpedia.org/property/episodenumber,10,Object,144,11.640877962112429,16
+http://dbpedia.org/resource/Spider-Man_Unlimited,http://dbpedia.org/property/title,Sustenance,Object,144,11.640877962112429,16
+http://dbpedia.org/resource/Michael_Nesmith,http://dbpedia.org/property/width,35.0,Predicate;Object,146,17.719995975494385,16
+http://dbpedia.org/resource/Michael_Nesmith,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_male_novelists,Object,146,17.719995975494385,16
+http://dbpedia.org/resource/Michael_Nesmith,http://dbpedia.org/property/tsurl,Michael_Nesmith,Predicate;Object,146,17.719995975494385,16
+http://dbpedia.org/resource/Ran_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Object,148,3.544072389602661,16
+http://dbpedia.org/resource/Josh_Homme,http://dbpedia.org/ontology/associatedBand,http://dbpedia.org/resource/Eagles_of_Death_Metal,Object,149,12.225208044052124,16
+http://dbpedia.org/resource/Josh_Homme,http://dbpedia.org/property/label,http://dbpedia.org/resource/Man's_Ruin_Records,Object,149,12.225208044052124,16
+http://dbpedia.org/resource/Josh_Homme,http://dbpedia.org/property/genre,http://dbpedia.org/resource/Heavy_metal_music,Object,149,12.225208044052124,16
+"http://dbpedia.org/resource/Bennett_High_School_(Buffalo,_New_York)",http://dbpedia.org/property/motto,Optima Futura,Object,153,11.579370975494385,16
+"http://dbpedia.org/resource/Bennett_High_School_(Buffalo,_New_York)",http://www.w3.org/2003/01/geo/wgs84_pos#long,-78.8322,Predicate;Object,153,11.579370975494385,16
+"http://dbpedia.org/resource/Bennett_High_School_(Buffalo,_New_York)",http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1920_establishments_in_New_York,Object,153,11.579370975494385,16
+http://dbpedia.org/resource/Horizon_Christian_Schools,http://dbpedia.org/property/homepage,http://www.horizonchristianschools.org/,Object,154,6.290489912033081,16
+http://dbpedia.org/resource/Horizon_Christian_Schools,http://xmlns.com/foaf/0.1/homepage,http://www.horizonchristianschools.org/,Object,154,6.290489912033081,16
+http://dbpedia.org/resource/Yul_Brynner,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:White_Russian_emigrants_to_China,Object,155,4.317347288131714,16
+http://dbpedia.org/resource/Ken_Gatward,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:People_from_Frinton-on-Sea,Object,156,3.4033217430114746,16
+http://dbpedia.org/resource/Michael_Caine,http://xmlns.com/foaf/0.1/name,CBE,Object,157,4.6795268058776855,16
+http://dbpedia.org/resource/Gloria_Gaynor,http://dbpedia.org/ontology/background,solo_singer,Predicate;Object,158,8.632789850234985,16
+http://dbpedia.org/resource/Gloria_Gaynor,http://dbpedia.org/property/label,Logic( ),Object,158,8.632789850234985,16
+http://dbpedia.org/resource/Fatih_Terim,http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Fatih_Terim__1,Predicate;Object,159,7.619645118713379,17
+http://dbpedia.org/resource/Fatih_Terim,http://dbpedia.org/ontology/careerStation,http://dbpedia.org/resource/Fatih_Terim__8,Predicate;Object,159,7.619645118713379,17
+http://dbpedia.org/resource/John_F._Kennedy,http://dbpedia.org/property/description,--11-10,Predicate;Object,160,15.559757947921751,17
+http://dbpedia.org/resource/John_F._Kennedy,http://dbpedia.org/property/sopt,t,Predicate;Object,160,15.559757947921751,17
+http://dbpedia.org/resource/John_F._Kennedy,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Filmed_assassinations,Object,160,15.559757947921751,17
+http://dbpedia.org/resource/John_F._Kennedy,http://dbpedia.org/property/defenseEnd,1963,Predicate,160,15.559757947921751,17
+http://dbpedia.org/resource/Peter_Shor,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Massachusetts_Institute_of_Technology_alumni,Object,161,3.7657408714294434,17
+"http://dbpedia.org/resource/Stockdale_High_School_(Bakersfield,_California)",http://dbpedia.org/property/slogan,"""Branded By Excellence""",Object,162,3.560453176498413,17
+http://dbpedia.org/resource/Lasse_Mårtenson,http://xmlns.com/foaf/0.1/name,Lasse Martenson,Object,167,2.8008909225463867,17
+http://dbpedia.org/resource/Ken_Gillespie,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Australian_military_personnel_of_the_War_in_Afghanistan_(2001–present),Object,169,4.063399076461792,17
+http://dbpedia.org/resource/Quicksand_(2003_film),http://dbpedia.org/ontology/distributor,http://dbpedia.org/resource/First_Look_Studios,Object,173,11.315163135528564,17
+http://dbpedia.org/resource/Quicksand_(2003_film),http://dbpedia.org/property/distributor,http://dbpedia.org/resource/First_Look_Studios,Object,173,11.315163135528564,17
+http://dbpedia.org/resource/Quicksand_(2003_film),http://dbpedia.org/property/distributor,http://dbpedia.org/resource/Artisan_Entertainment,Object,173,11.315163135528564,17
+http://dbpedia.org/resource/Quicksand_(2003_film),http://dbpedia.org/property/studio,http://dbpedia.org/resource/Artisan_Entertainment,Object,173,11.315163135528564,17
+http://dbpedia.org/resource/Josh_Homme,http://dbpedia.org/property/label,http://dbpedia.org/resource/Elektra_Records,Object,176,5.439809083938599,17
+http://dbpedia.org/resource/Josh_Homme,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Palm_Desert_Scene,Object,176,5.439809083938599,17
+http://dbpedia.org/resource/Tommy_Tutone,http://dbpedia.org/property/pastMembers,Doug Mueller,Object,180,2.959635019302368,19
+http://dbpedia.org/resource/In_the_Presence_of_Mine_Enemies,http://dbpedia.org/ontology/numberOfPages,464,Object,182,3.2947311401367188,19
+http://dbpedia.org/resource/The_Pack_(group),http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Subject,185,2.4261460304260254,19
+http://dbpedia.org/resource/Angel_Planells,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Angel_Planells,Object,195,3.027160167694092,19

@@ -1,0 +1,552 @@
+Subject,Predicate,Object,Annotation,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/Patti_D'Arbanville,http://dbpedia.org/property/yearsactive,1964,Incorrect,0,479.6814315319061,39
+http://dbpedia.org/resource/Patti_D'Arbanville,http://dbpedia.org/property/id,1091,I Don't Know,0,479.6814315319061,39
+http://dbpedia.org/resource/Patti_D'Arbanville,http://dbpedia.org/property/partner,Don Johnson  1 son,Incorrect,0,479.6814315319061,39
+http://dbpedia.org/resource/Patti_D'Arbanville,http://dbpedia.org/property/dateOfBirth,1951-05-25,Correct,0,479.6814315319061,39
+http://dbpedia.org/resource/Patti_D'Arbanville,http://dbpedia.org/ontology/imdbId,0001091,I Don't Know,0,479.6814315319061,39
+http://dbpedia.org/resource/William_Davis_(Royal_Navy_officer),http://dbpedia.org/ontology/award,http://dbpedia.org/resource/Distinguished_Service_Order,Correct,1,262.5646469593048,39
+http://dbpedia.org/resource/William_Davis_(Royal_Navy_officer),http://dbpedia.org/property/years,1958,Incorrect,1,262.5646469593048,39
+http://dbpedia.org/resource/William_Davis_(Royal_Navy_officer),http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Shimla,Correct,1,262.5646469593048,39
+http://dbpedia.org/resource/William_Davis_(Royal_Navy_officer),http://dbpedia.org/property/commands,http://dbpedia.org/resource/Home_Fleet,Correct,1,262.5646469593048,39
+http://dbpedia.org/resource/William_Davis_(Royal_Navy_officer),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Deputy_Lieutenants_of_Gloucestershire,Correct,1,262.5646469593048,39
+http://dbpedia.org/resource/Jean_Dieudonné,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Kishore_Marathe,Correct,2,255.99757385253903,39
+http://dbpedia.org/resource/Jean_Dieudonné,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Alexander_Grothendieck,Correct,2,255.99757385253903,39
+http://dbpedia.org/resource/Jean_Dieudonné,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/France,Correct,2,255.99757385253903,39
+http://dbpedia.org/resource/Jean_Dieudonné,http://dbpedia.org/ontology/award,http://dbpedia.org/resource/Leroy_P._Steele_Prize,Incorrect,2,255.99757385253903,39
+http://dbpedia.org/resource/Jean_Dieudonné,http://dbpedia.org/ontology/doctoralAdvisor,http://dbpedia.org/resource/Paul_Montel,Correct,2,255.99757385253903,39
+http://dbpedia.org/resource/House_at_1487_Loma_Vista_Street,http://www.w3.org/2000/01/rdf-schema#label,House at 1487 Loma Vista Street,Correct,3,55.4552321434021,39
+http://dbpedia.org/resource/House_at_1487_Loma_Vista_Street,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/House,I Don't Know,3,55.4552321434021,39
+http://dbpedia.org/resource/House_at_1487_Loma_Vista_Street,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/House_at_1487_Loma_Vista_Street.JPG?width=300,I Don't Know,3,55.4552321434021,39
+http://dbpedia.org/resource/House_at_1487_Loma_Vista_Street,http://dbpedia.org/ontology/yearOfConstruction,1913,Correct,3,55.4552321434021,39
+http://dbpedia.org/resource/House_at_1487_Loma_Vista_Street,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Houses_on_the_National_Register_of_Historic_Places_in_California,Correct,3,55.4552321434021,39
+http://dbpedia.org/resource/Charles_Pfizer,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Ludwigsburg,Correct,4,42.97587513923645,39
+http://dbpedia.org/resource/Duchy_of_Brunswick,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/German_gold_mark,Correct,5,216.80808663368225,39
+http://dbpedia.org/resource/Duchy_of_Brunswick,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Braunschweig,Correct,5,216.80808663368225,39
+http://dbpedia.org/resource/Duchy_of_Brunswick,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/German_Papiermark,Incorrect,5,216.80808663368225,39
+http://dbpedia.org/resource/Duchy_of_Brunswick,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Vereinsthaler,Incorrect,5,216.80808663368225,39
+http://dbpedia.org/resource/By_the_Way,http://dbpedia.org/property/language,English,Correct,6,107.51240134239195,39
+http://dbpedia.org/resource/By_the_Way,http://dbpedia.org/ontology/subsequentWork,http://dbpedia.org/resource/Greatest_Hits_(Red_Hot_Chili_Peppers_album),Correct,6,107.51240134239195,39
+http://dbpedia.org/resource/By_the_Way,http://dbpedia.org/property/length,295.0,Incorrect,6,107.51240134239195,39
+http://dbpedia.org/resource/By_the_Way,http://dbpedia.org/property/length,270.0,Incorrect,6,107.51240134239195,39
+http://dbpedia.org/resource/By_the_Way,http://dbpedia.org/property/genre,http://dbpedia.org/resource/Alternative_rock,Correct,6,107.51240134239195,39
+http://dbpedia.org/resource/Collapsin_response_mediator_protein_family,http://www.w3.org/2000/01/rdf-schema#comment,"Collapsin response mediator protein family or CRMP family consists of five intracellular phosphoproteins (CRMP-1, CRMP-2, CRMP-3, CRMP4, CRMP5) of similar molecular size (60–66 kDa) and high (50–70%) amino acid sequence identity. CRMPs are predominantly expressed in the nervous system during development and play important roles in axon formation from neurites and in growth cone guidance and collapse through their interactions with microtubules.",Correct,7,62.84657025337219,39
+http://dbpedia.org/resource/Collapsin_response_mediator_protein_family,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Protein_families,Correct,7,62.84657025337219,39
+http://dbpedia.org/resource/Collapsin_response_mediator_protein_family,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Protein_CRMP1_PDB_1kcx.png?width=300,Incorrect,7,62.84657025337219,39
+http://dbpedia.org/resource/Collapsin_response_mediator_protein_family,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Neuroscience,Correct,7,62.84657025337219,39
+http://dbpedia.org/resource/Collapsin_response_mediator_protein_family,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/Protein_CRMP1_PDB_1kcx.png,I Don't Know,7,62.84657025337219,39
+http://dbpedia.org/resource/Too_Phat,http://dbpedia.org/property/birthDate,1973-10-16,Incorrect,8,205.4173402786255,39
+http://dbpedia.org/resource/Too_Phat,http://dbpedia.org/ontology/associatedBand,http://dbpedia.org/resource/Sakti_(band),I Don't Know,8,205.4173402786255,39
+http://dbpedia.org/resource/Too_Phat,http://xmlns.com/foaf/0.1/name,Too Phat,Correct,8,205.4173402786255,39
+http://dbpedia.org/resource/Too_Phat,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Too_Phat,I Don't Know,8,205.4173402786255,39
+http://dbpedia.org/resource/Too_Phat,http://dbpedia.org/property/associatedActs,http://dbpedia.org/resource/Warren_G,I Don't Know,8,205.4173402786255,39
+http://dbpedia.org/resource/Big_River_Man,http://dbpedia.org/property/name,Big River Man,Correct,9,11.191611289978027,39
+http://dbpedia.org/resource/Allied_occupation_of_Libya,http://dbpedia.org/property/commonName,Libya,Incorrect,10,87.7721598148346,39
+http://dbpedia.org/resource/Richard_C._Mangam,http://dbpedia.org/property/unit,"Company H, 148th New York Infantry",Correct,11,83.78912115097046,39
+http://dbpedia.org/resource/Richard_C._Mangam,http://dbpedia.org/property/shortDescription,United States Army Medal of Honor recipient,Correct,11,83.78912115097046,39
+http://dbpedia.org/resource/Richard_C._Mangam,http://xmlns.com/foaf/0.1/name,"Mangam, Richard C.",Correct,11,83.78912115097046,39
+http://dbpedia.org/resource/Richard_C._Mangam,http://dbpedia.org/property/deathDate,1893-11-18,Correct,11,83.78912115097046,39
+http://dbpedia.org/resource/Richard_C._Mangam,http://dbpedia.org/property/placeofburialLabel,Place of burial,Correct,11,83.78912115097046,39
+http://dbpedia.org/resource/Hereditary_diffuse_leukoencephalopathy_with_spheroids,http://dbpedia.org/ontology/omim,221820,I Don't Know,12,47.289979457855225,39
+http://dbpedia.org/resource/Hereditary_diffuse_leukoencephalopathy_with_spheroids,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Genetic_disorders,Correct,12,47.289979457855225,39
+http://dbpedia.org/resource/Hereditary_diffuse_leukoencephalopathy_with_spheroids,http://xmlns.com/foaf/0.1/name,Hereditary diffuse leukoencephalopathy with spheroids (HDLS),Correct,12,47.289979457855225,39
+http://dbpedia.org/resource/Hereditary_diffuse_leukoencephalopathy_with_spheroids,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Hereditary_diffuse_leukoencephalopathy_with_spheroids,I Don't Know,12,47.289979457855225,39
+http://dbpedia.org/resource/Hereditary_diffuse_leukoencephalopathy_with_spheroids,http://www.w3.org/2000/01/rdf-schema#label,Hereditary diffuse leukoencephalopathy with spheroids,Correct,12,47.289979457855225,39
+http://dbpedia.org/resource/The_Wise_Guy,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:First_National_Pictures_films,Correct,13,223.0226211547852,39
+http://dbpedia.org/resource/The_Wise_Guy,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_directed_by_Frank_Lloyd,Correct,13,223.0226211547852,39
+http://dbpedia.org/resource/The_Wise_Guy,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_crime_drama_films,Correct,13,223.0226211547852,39
+http://dbpedia.org/resource/The_Wise_Guy,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,13,223.0226211547852,39
+http://dbpedia.org/resource/The_Wise_Guy,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_silent_feature_films,Correct,13,223.0226211547852,39
+http://dbpedia.org/resource/Anna_Ancher,http://dbpedia.org/ontology/movement,http://dbpedia.org/resource/Impressionism,Correct,14,28.2183575630188,39
+http://dbpedia.org/resource/The_Fall_of_the_Roman_Empire_(film),http://dbpedia.org/property/title,"Old Acquaintances ""Lucilla and Livius""",Incorrect,15,107.74695944786072,39
+http://dbpedia.org/resource/The_Fall_of_the_Roman_Empire_(film),http://dbpedia.org/property/title,The Prophecy,Incorrect,15,107.74695944786072,39
+http://dbpedia.org/resource/The_Fall_of_the_Roman_Empire_(film),http://dbpedia.org/ontology/cinematography,http://dbpedia.org/resource/Robert_Krasker,Correct,15,107.74695944786072,39
+http://dbpedia.org/resource/The_Fall_of_the_Roman_Empire_(film),http://dbpedia.org/property/length,320.0,Incorrect,15,107.74695944786072,39
+http://dbpedia.org/resource/The_Fall_of_the_Roman_Empire_(film),http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Stephen_Boyd,Correct,15,107.74695944786072,39
+"http://dbpedia.org/resource/United_States_Army_Armament_Research,_Development_and_Engineering_Center",http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Army,Correct,16,19.453888654708862,39
+"http://dbpedia.org/resource/United_States_Army_Armament_Research,_Development_and_Engineering_Center",http://dbpedia.org/property/garrison,http://dbpedia.org/resource/Picatinny_Arsenal,Incorrect,16,19.453888654708862,39
+http://dbpedia.org/resource/Sreelekha_Mitra,http://dbpedia.org/property/occupation,http://dbpedia.org/resource/Actor,Correct,17,54.787458419799805,39
+http://dbpedia.org/resource/Sreelekha_Mitra,http://xmlns.com/foaf/0.1/name,"Mitra, Sreelekha",Incorrect,17,54.787458419799805,39
+http://dbpedia.org/resource/Sreelekha_Mitra,http://www.w3.org/2000/01/rdf-schema#comment,"Sreelekha Mitra (Bengali: শ্রীলেখা মিত্র) (born 30 August 1971) is a Bengali Indian actress of TV and films. She has won an Anandalok Award (2006) and BFJA Award (2007) for acting. She is also a judge in a Bengali standup comedy show, Mirakkel. Mitra appeared in a Coca-Cola ad  with Aamir Khan.",Correct,17,54.787458419799805,39
+http://dbpedia.org/resource/Sreelekha_Mitra,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Kolkata,Correct,17,54.787458419799805,39
+http://dbpedia.org/resource/Sreelekha_Mitra,http://xmlns.com/foaf/0.1/name,Sreelekha Mitra,Correct,17,54.787458419799805,39
+http://dbpedia.org/resource/Philip_Emeagwali,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Philip_Emeagwali,Correct,18,116.04389667510986,39
+http://dbpedia.org/resource/Philip_Emeagwali,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:People_with_eidetic_memory,Correct,18,116.04389667510986,39
+http://dbpedia.org/resource/Philip_Emeagwali,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:George_Washington_University_alumni,Correct,18,116.04389667510986,39
+http://dbpedia.org/resource/Philip_Emeagwali,http://xmlns.com/foaf/0.1/name,"Emeagwali, Philip",Correct,18,116.04389667510986,39
+http://dbpedia.org/resource/Philip_Emeagwali,http://dbpedia.org/ontology/abstract,"Philip Emeagwali (born in 1954) is a Nigerian-born engineer, mathematician, computer scientist and geologist. He was the winner of the 1989 Gordon Bell Prize in the ""price/performance"" category, for his use of a Connection Machine supercomputer, and has a 190 IQ.",Correct,18,116.04389667510986,39
+http://dbpedia.org/resource/The_Frank_Zappa_AAAFNRAAA_Birthday_Bundle_(2008),http://dbpedia.org/property/producer,"Frank Zappa, Joe Travers, Dweezil Zappa, Linda Perry",Correct,19,26.323632955551147,39
+http://dbpedia.org/resource/The_Frank_Zappa_AAAFNRAAA_Birthday_Bundle_(2008),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Compilation_albums_published_posthumously,Correct,19,26.323632955551147,39
+http://dbpedia.org/resource/The_Frank_Zappa_AAAFNRAAA_Birthday_Bundle_(2008),http://dbpedia.org/ontology/releaseDate,2008-12-21,Correct,19,26.323632955551147,39
+http://dbpedia.org/resource/The_Frank_Zappa_AAAFNRAAA_Birthday_Bundle_(2008),http://dbpedia.org/ontology/abstract,"The Frank Zappa AAAFNRAAA Birthday Bundle 2008 was released as a digital download on iTunes on December 21, 2008. It consists of five previously unreleased tracks performed by Frank Zappa, and new tracks featuring Zappa's children, producer Joe Travers and others. It is the second iTunes album by Frank Zappa, the first being The Frank Zappa AAAFNRAA Birthday Bundle (2006). (AAAFNRAA stands for ""Anything Anytime Anywhere for No Reason At All"", Zappa's motto of sorts.) The additional A in this release's title stands for ""Again"".",Correct,19,26.323632955551147,39
+http://dbpedia.org/resource/The_Frank_Zappa_AAAFNRAAA_Birthday_Bundle_(2008),http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Compilation_album,Correct,19,26.323632955551147,39
+http://dbpedia.org/resource/Operation_Gladio,http://dbpedia.org/property/methods,http://dbpedia.org/resource/Paramilitary,Correct,20,61.65568804740906,39
+http://dbpedia.org/resource/Operation_Gladio,http://dbpedia.org/property/headquarters,http://dbpedia.org/resource/Rome,Correct,20,61.65568804740906,39
+http://dbpedia.org/resource/Operation_Gladio,http://dbpedia.org/ontology/headquarter,http://dbpedia.org/resource/Italy,Correct,20,61.65568804740906,39
+http://dbpedia.org/resource/Operation_Gladio,http://dbpedia.org/property/membership,622,Correct,20,61.65568804740906,39
+http://dbpedia.org/resource/Operation_Gladio,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Stay-behind,Correct,20,61.65568804740906,39
+"http://dbpedia.org/resource/The_Time,_the_Place_and_the_Girl_(1929_film)",http://dbpedia.org/property/studio,http://dbpedia.org/resource/Vitaphone,Correct,21,43.86525082588196,39
+"http://dbpedia.org/resource/The_Time,_the_Place_and_the_Girl_(1929_film)",http://dbpedia.org/property/name,"The Time, the Place and the Girl",Correct,21,43.86525082588196,39
+"http://dbpedia.org/resource/Maria_Letizia_Bonaparte,_Duchess_of_Aosta",http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Burials_at_the_Basilica_of_Superga,Incorrect,22,122.69431352615356,39
+"http://dbpedia.org/resource/Maria_Letizia_Bonaparte,_Duchess_of_Aosta",http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Italian_princesses,Incorrect,22,122.69431352615356,39
+"http://dbpedia.org/resource/Maria_Letizia_Bonaparte,_Duchess_of_Aosta",http://dbpedia.org/property/hasPhotoCollection,"http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Maria_Letizia_Bonaparte,_Duchess_of_Aosta",Correct,22,122.69431352615356,39
+"http://dbpedia.org/resource/Maria_Letizia_Bonaparte,_Duchess_of_Aosta",http://xmlns.com/foaf/0.1/name,Marie Laetitia Eugénie Catherine Adélaïde Bonaparte,Correct,22,122.69431352615356,39
+"http://dbpedia.org/resource/Maria_Letizia_Bonaparte,_Duchess_of_Aosta",http://dbpedia.org/property/house,http://dbpedia.org/resource/House_of_Bonaparte,Correct,22,122.69431352615356,39
+http://dbpedia.org/resource/Matthew_Hancock,http://dbpedia.org/ontology/primeMinister,http://dbpedia.org/resource/David_Cameron,Incorrect,23,20.112390756607056,39
+http://dbpedia.org/resource/Matthew_Hancock,http://dbpedia.org/property/primeminister,http://dbpedia.org/resource/David_Cameron,Incorrect,23,20.112390756607056,39
+http://dbpedia.org/resource/Canada_Place,http://dbpedia.org/property/startDate,1983-03-09,Incorrect,24,110.6448299884796,39
+http://dbpedia.org/resource/Canada_Place,http://www.w3.org/2000/01/rdf-schema#label,Canada Place,Correct,24,110.6448299884796,39
+http://dbpedia.org/resource/Canada_Place,http://dbpedia.org/property/floorCount,23,Incorrect,24,110.6448299884796,39
+http://dbpedia.org/resource/Canada_Place,http://dbpedia.org/ontology/cost,4.0E8,Incorrect,24,110.6448299884796,39
+http://dbpedia.org/resource/William_Whiteway,http://dbpedia.org/property/office,http://dbpedia.org/resource/Newfoundland_and_Labrador_House_of_Assembly,Correct,25,90.07997870445251,39
+http://dbpedia.org/resource/William_Whiteway,http://dbpedia.org/property/governor,Henry Berkeley Fitzhardinge Maxse,Incorrect,25,90.07997870445251,39
+http://dbpedia.org/resource/William_Whiteway,http://dbpedia.org/property/governor,Glover 2nd term,Incorrect,25,90.07997870445251,39
+http://dbpedia.org/resource/William_Whiteway,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/England,Correct,25,90.07997870445251,39
+http://dbpedia.org/resource/William_Whiteway,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Devon,Correct,25,90.07997870445251,39
+http://dbpedia.org/resource/History_of_Rock_'n'_Roll_(TV_series),http://dbpedia.org/ontology/distributor,http://dbpedia.org/resource/Warner_Bros._Television,Correct,26,75.46216821670532,40
+http://dbpedia.org/resource/History_of_Rock_'n'_Roll_(TV_series),http://dbpedia.org/property/distributor,http://dbpedia.org/resource/Warner_Bros._Television,Correct,26,75.46216821670532,40
+http://dbpedia.org/resource/History_of_Rock_'n'_Roll_(TV_series),http://dbpedia.org/property/channel,http://dbpedia.org/resource/Prime_Time_Entertainment_Network,Correct,26,75.46216821670532,40
+http://dbpedia.org/resource/History_of_Rock_'n'_Roll_(TV_series),http://dbpedia.org/ontology/channel,http://dbpedia.org/resource/Prime_Time_Entertainment_Network,Correct,26,75.46216821670532,40
+http://dbpedia.org/resource/Laza_Ristovski,http://dbpedia.org/property/shortDescription,Serbian musician,Correct,27,210.55697798728943,40
+http://dbpedia.org/resource/Laza_Ristovski,http://dbpedia.org/property/placeOfDeath,http://dbpedia.org/resource/Belgrade,Correct,27,210.55697798728943,40
+http://dbpedia.org/resource/Laza_Ristovski,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Serbian_rock_keyboardists,Correct,27,210.55697798728943,40
+http://dbpedia.org/resource/Laza_Ristovski,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:People_from_Kraljevo,Incorrect,27,210.55697798728943,40
+http://dbpedia.org/resource/Laza_Ristovski,http://dbpedia.org/property/genre,http://dbpedia.org/resource/New_Age_music,Correct,27,210.55697798728943,40
+http://dbpedia.org/resource/Danilo_Barthel,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Power_forwards_(basketball),Correct,28,77.84415650367737,40
+http://dbpedia.org/resource/Danilo_Barthel,http://dbpedia.org/property/name,Danilo Barthel,Correct,28,77.84415650367737,40
+http://dbpedia.org/resource/Danilo_Barthel,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Skyliners_Frankfurt_players,Correct,28,77.84415650367737,40
+http://dbpedia.org/resource/Danilo_Barthel,http://dbpedia.org/ontology/abstract,"Danilo Barthel (born October 24, 1991) is a German basketball player. He usually plays as power forward and is a member of the Fraport Skyliners since 2011.",Correct,28,77.84415650367737,40
+http://dbpedia.org/resource/Danilo_Barthel,http://dbpedia.org/property/highlights,"*BBL All-Star 
+*BBL Most Improved Player",Correct,28,77.84415650367737,40
+http://dbpedia.org/resource/Ray_(film),http://dbpedia.org/property/producer,Taylor Hackford,Correct,29,36.9334671497345,40
+http://dbpedia.org/resource/Ray_(film),http://dbpedia.org/ontology/producer,http://dbpedia.org/resource/Stuart_Benjamin,Correct,29,36.9334671497345,40
+http://dbpedia.org/resource/Ray_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_directed_by_Taylor_Hackford,Correct,29,36.9334671497345,40
+http://dbpedia.org/resource/Ray_(film),http://dbpedia.org/ontology/budget,4.0E7,Incorrect,29,36.9334671497345,40
+http://dbpedia.org/resource/Ray_(film),http://dbpedia.org/property/starring,http://dbpedia.org/resource/Larenz_Tate,Correct,29,36.9334671497345,40
+http://dbpedia.org/resource/Lionel_Richie,http://www.w3.org/2000/01/rdf-schema#label,Lionel Richie,Correct,30,4.8388214111328125,40
+http://dbpedia.org/resource/Rio_Tinto_Group,http://dbpedia.org/ontology/industry,http://dbpedia.org/resource/Metal,Correct,31,98.71392321586607,40
+http://dbpedia.org/resource/Rio_Tinto_Group,http://dbpedia.org/ontology/product,http://dbpedia.org/resource/Titanium_dioxide,Correct,31,98.71392321586607,40
+http://dbpedia.org/resource/Rio_Tinto_Group,http://dbpedia.org/property/subsid,http://dbpedia.org/resource/Rio_Tinto_Alcan,Correct,31,98.71392321586607,40
+http://dbpedia.org/resource/Rio_Tinto_Group,http://dbpedia.org/property/location,http://dbpedia.org/resource/United_Kingdom,Correct,31,98.71392321586607,40
+http://dbpedia.org/resource/Rio_Tinto_Group,http://dbpedia.org/property/location,http://dbpedia.org/resource/London,Correct,31,98.71392321586607,40
+http://dbpedia.org/resource/Vladimir_Dvorniković,http://dbpedia.org/property/shortDescription,Croatian philosopher,Correct,32,29.98489284515381,40
+http://dbpedia.org/resource/Vladimir_Dvorniković,http://xmlns.com/foaf/0.1/givenName,Vladimir,Correct,32,29.98489284515381,40
+http://dbpedia.org/resource/Vladimir_Dvorniković,http://dbpedia.org/property/name,"Dvornikovic, Vladimir",Correct,32,29.98489284515381,40
+http://dbpedia.org/resource/Vladimir_Dvorniković,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Vladimir_Dvorniković,Correct,32,29.98489284515381,40
+http://dbpedia.org/resource/Vladimir_Dvorniković,http://dbpedia.org/ontology/deathDate,1956,Correct,32,29.98489284515381,40
+http://dbpedia.org/resource/The_Man_Behind_the_Gun,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1953_films,Correct,33,28.00870680809021,40
+http://dbpedia.org/resource/The_Man_Behind_the_Gun,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Man_Behind_the_Gun,Correct,33,28.00870680809021,40
+http://dbpedia.org/resource/The_Man_Behind_the_Gun,http://dbpedia.org/ontology/director,http://dbpedia.org/resource/Felix_E._Feist,Correct,33,28.00870680809021,40
+http://dbpedia.org/resource/The_Man_Behind_the_Gun,http://www.w3.org/2000/01/rdf-schema#comment,The Man Behind the Gun is a 1953 Western film starring Randolph Scott about the establishment of the city of Los Angeles.,Correct,33,28.00870680809021,40
+http://dbpedia.org/resource/The_Man_Behind_the_Gun,http://dbpedia.org/property/director,http://dbpedia.org/resource/Felix_Feist,Correct,33,28.00870680809021,40
+http://dbpedia.org/resource/Arthur_Wilkinson,http://dbpedia.org/ontology/deathDate,1968,Correct,34,50.93643522262573,40
+http://dbpedia.org/resource/Arthur_Wilkinson,http://purl.org/dc/elements/1.1/description,British composer,Correct,34,50.93643522262573,40
+http://dbpedia.org/resource/Arthur_Wilkinson,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1968_deaths,Correct,34,50.93643522262573,40
+http://dbpedia.org/resource/Arthur_Wilkinson,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:British_composers,Correct,34,50.93643522262573,40
+http://dbpedia.org/resource/Arthur_Wilkinson,http://www.w3.org/2000/01/rdf-schema#label,Arthur Wilkinson,Correct,34,50.93643522262573,40
+http://dbpedia.org/resource/A_Pistol_Shot,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_based_on_works_by_Aleksandr_Pushkin,Correct,35,42.57304358482361,40
+http://dbpedia.org/resource/A_Pistol_Shot,http://dbpedia.org/ontology/editing,http://dbpedia.org/resource/Mario_Serandrei,Correct,35,42.57304358482361,40
+http://dbpedia.org/resource/A_Pistol_Shot,http://dbpedia.org/property/runtime,5400.0,Incorrect,35,42.57304358482361,40
+http://dbpedia.org/resource/A_Pistol_Shot,http://dbpedia.org/property/released,1942-08-31,Correct,35,42.57304358482361,40
+http://dbpedia.org/resource/A_Pistol_Shot,http://www.w3.org/2000/01/rdf-schema#label,A Pistol Shot,Correct,35,42.57304358482361,40
+http://dbpedia.org/resource/Jürgen_Moser,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/John_N._Mather,Correct,36,10.420254707336426,40
+http://dbpedia.org/resource/Jürgen_Moser,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Michael_Herman_(mathematician),Correct,36,10.420254707336426,40
+http://dbpedia.org/resource/Jürgen_Moser,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Carl_Gustav_Jacob_Jacobi,Correct,36,10.420254707336426,40
+http://dbpedia.org/resource/List_of_Edgar_&_Ellen_episodes,http://dbpedia.org/property/title,Viva La Trash / The Expert / Heimertz's Family Album: Something's Fishy,Correct,37,28.733417987823486,40
+http://dbpedia.org/resource/List_of_Edgar_&_Ellen_episodes,http://dbpedia.org/property/shortsummary,Edgar and Ellen create catastrophe on Halloween,Correct,37,28.733417987823486,40
+http://dbpedia.org/resource/List_of_Edgar_&_Ellen_episodes,http://dbpedia.org/property/shortsummary,Edgar invents a remote that controls time. / A group of new-age people camp out on Edgar and Ellen's lawn. / Pet dreams that he is a hero.,Correct,37,28.733417987823486,40
+http://dbpedia.org/resource/List_of_Edgar_&_Ellen_episodes,http://dbpedia.org/property/title,When You Wish Upon a Well / Baby Talk / Nod's Limbs' Public Address: Pet-o-Matic,Correct,37,28.733417987823486,40
+http://dbpedia.org/resource/List_of_Edgar_&_Ellen_episodes,http://dbpedia.org/property/episodenumber,S4,I Don't Know,37,28.733417987823486,40
+http://dbpedia.org/resource/Broadminded_(film),http://dbpedia.org/property/country,United States,Correct,38,21.898770093917847,40
+http://dbpedia.org/resource/Broadminded_(film),http://dbpedia.org/property/studio,http://dbpedia.org/resource/First_National,Correct,38,21.898770093917847,40
+http://dbpedia.org/resource/Broadminded_(film),http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Joe_E._Brown,Correct,38,21.898770093917847,40
+http://dbpedia.org/resource/Broadminded_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,38,21.898770093917847,40
+http://dbpedia.org/resource/Broadminded_(film),http://dbpedia.org/property/language,English,Correct,38,21.898770093917847,40
+http://dbpedia.org/resource/Sahasam,http://dbpedia.org/property/name,Sahasam,Correct,39,38.7169680595398,40
+http://dbpedia.org/resource/Sahasam,http://dbpedia.org/property/label,http://dbpedia.org/resource/T-Series,I Don't Know,39,38.7169680595398,40
+http://dbpedia.org/resource/Bangalore_Nagarathnamma,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Bangalore,Incorrect,40,47.68018865585327,40
+http://dbpedia.org/resource/British_Oceanographic_Data_Centre,http://dbpedia.org/property/location,L3 5DA,I Don't Know,41,34.464242696762085,40
+http://dbpedia.org/resource/British_Oceanographic_Data_Centre,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Bodc_logo.jpg?width=300,I Don't Know,41,34.464242696762085,40
+http://dbpedia.org/resource/British_Oceanographic_Data_Centre,http://dbpedia.org/property/size,150,Incorrect,41,34.464242696762085,40
+http://dbpedia.org/resource/British_Oceanographic_Data_Centre,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Liverpool,Correct,41,34.464242696762085,40
+http://dbpedia.org/resource/British_Oceanographic_Data_Centre,http://dbpedia.org/property/alt,British Oceanographic Data Centre,Correct,41,34.464242696762085,40
+http://dbpedia.org/resource/Karl_Svozil,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Vienna,Correct,42,27.19259762763977,40
+http://dbpedia.org/resource/Death_Angel,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Musical_groups_from_the_San_Francisco_Bay_Area,Correct,43,572.728728055954,40
+http://dbpedia.org/resource/Death_Angel,http://dbpedia.org/property/associatedActs,http://dbpedia.org/resource/Swarm_(band),I Don't Know,43,572.728728055954,40
+http://dbpedia.org/resource/Death_Angel,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Musical_groups_reestablished_in_2001,Correct,43,572.728728055954,40
+http://dbpedia.org/resource/Death_Angel,http://dbpedia.org/property/genre,http://dbpedia.org/resource/Thrash_metal,Correct,43,572.728728055954,40
+http://dbpedia.org/resource/Death_Angel,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/San_Francisco_Bay_Area,Correct,43,572.728728055954,40
+http://dbpedia.org/resource/The_Sounds,http://dbpedia.org/property/imageSize,Landscape,Incorrect,44,53.59548020362854,40
+http://dbpedia.org/resource/The_Sounds,http://dbpedia.org/property/associatedActs,http://dbpedia.org/resource/Krezip,Correct,44,53.59548020362854,40
+http://dbpedia.org/resource/The_Sounds,http://dbpedia.org/property/label,http://dbpedia.org/resource/Warner_Music_Group,Correct,44,53.59548020362854,40
+http://dbpedia.org/resource/The_Sounds,http://dbpedia.org/ontology/activeYearsStartYear,1999,Correct,44,53.59548020362854,40
+http://dbpedia.org/resource/The_Sounds,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Post-punk_revival,Correct,44,53.59548020362854,40
+http://dbpedia.org/resource/Citizen_Kane,http://dbpedia.org/ontology/budget,839727.0,Incorrect,45,20.44188523292541,40
+http://dbpedia.org/resource/Citizen_Kane,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,45,20.44188523292541,40
+http://dbpedia.org/resource/Citizen_Kane,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Film_scores_by_Bernard_Herrmann,Correct,45,20.44188523292541,40
+http://dbpedia.org/resource/Citizen_Kane,http://dbpedia.org/property/alt,"Poster showing two women in the bottom left of the picture looking up towards a man in a white suit in the top right of the picture. ""Everybody's talking about it. It's terrific!"" appears in the top right of the picture. ""Orson Welles"" appears in block letters between the women and the man in the white suit. ""Citizen Kane"" appears in red and yellow block letters tipped 60° to the right. The remaining credits are listed in fine print in the bottom right.",Correct,45,20.44188523292541,40
+http://dbpedia.org/resource/Citizen_Kane,http://dbpedia.org/property/distributor,http://dbpedia.org/resource/RKO_Pictures,Correct,45,20.44188523292541,40
+http://dbpedia.org/resource/Spanish_West_Indies,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Santo_Domingo,Correct,46,80.55658102035522,40
+http://dbpedia.org/resource/Spanish_West_Indies,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Spanish_colonial_real,Correct,46,80.55658102035522,40
+http://dbpedia.org/resource/VIS_Entertainment,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/VIS_Entertainment,Correct,47,15.876551389694214,40
+http://dbpedia.org/resource/VIS_Entertainment,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Video_game_companies_of_the_United_Kingdom,Correct,47,15.876551389694214,40
+http://dbpedia.org/resource/VIS_Entertainment,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Defunct_video_game_companies,Correct,47,15.876551389694214,40
+http://dbpedia.org/resource/VIS_Entertainment,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Companies_of_Scotland,Correct,47,15.876551389694214,40
+http://dbpedia.org/resource/VIS_Entertainment,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Video_game_companies_established_in_1996,Correct,47,15.876551389694214,40
+http://dbpedia.org/resource/Inukai_Tsuyoshi,http://dbpedia.org/property/placeOfBirth,http://dbpedia.org/resource/Japan,Correct,48,68.4801504611969,40
+http://dbpedia.org/resource/Inukai_Tsuyoshi,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Assassinated_heads_of_government,Correct,48,68.4801504611969,40
+http://dbpedia.org/resource/Inukai_Tsuyoshi,http://dbpedia.org/ontology/orderInOffice,Prime Minister of Japan,Correct,48,68.4801504611969,40
+http://dbpedia.org/resource/Inukai_Tsuyoshi,http://dbpedia.org/property/party,Rikken Seiyūkai,Correct,48,68.4801504611969,40
+http://dbpedia.org/resource/Inukai_Tsuyoshi,http://www.w3.org/2000/01/rdf-schema#comment,"Inukai Tsuyoshi (犬養 毅, 4 June 1855 – 15 May 1932) was a Japanese politician, cabinet minister, and Prime Minister of Japan from 13 December 1931 to 15 May 1932.",Correct,48,68.4801504611969,40
+http://dbpedia.org/resource/Ali_Sokoli,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1921_births,Correct,49,72.6588134765625,40
+http://dbpedia.org/resource/Ali_Sokoli,http://dbpedia.org/ontology/birthYear,1921,Correct,49,72.6588134765625,40
+http://dbpedia.org/resource/Ali_Sokoli,http://dbpedia.org/property/placeOfBirth,http://dbpedia.org/resource/Kingdom_of_Yugoslavia,Correct,49,72.6588134765625,40
+http://dbpedia.org/resource/Ali_Sokoli,http://dbpedia.org/property/dateOfDeath,1974-09-23,Correct,49,72.6588134765625,40
+http://dbpedia.org/resource/Ali_Sokoli,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:People_from_Orahovac,Correct,49,72.6588134765625,40
+http://dbpedia.org/resource/Weissenau_Abbey,http://dbpedia.org/property/commonName,Weissenau,Correct,50,4.256426811218262,40
+http://dbpedia.org/resource/Viktor_Bolkhovitinov,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Aircraft_designers,Correct,51,60.45502471923828,40
+http://dbpedia.org/resource/Viktor_Bolkhovitinov,http://xmlns.com/foaf/0.1/givenName,Viktor Fedorovich,Correct,51,60.45502471923828,40
+http://dbpedia.org/resource/Viktor_Bolkhovitinov,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/Wiktor_Fjodorowitsch_Bolchowitinow_jung.jpg,Correct,51,60.45502471923828,40
+http://dbpedia.org/resource/Viktor_Bolkhovitinov,http://dbpedia.org/property/placeOfDeath,Moscow,Correct,51,60.45502471923828,40
+http://dbpedia.org/resource/Viktor_Bolkhovitinov,http://xmlns.com/foaf/0.1/name,Viktor Fedorovich Bolkhovitinov,Correct,51,60.45502471923828,40
+http://dbpedia.org/resource/Stand_Up_and_Cheer!,http://dbpedia.org/property/language,English,Correct,52,77.55676436424255,40
+http://dbpedia.org/resource/Stand_Up_and_Cheer!,http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Nigel_Bruce,Correct,52,77.55676436424255,40
+http://dbpedia.org/resource/Stand_Up_and_Cheer!,http://xmlns.com/foaf/0.1/name,Stand Up and Cheer!,Correct,52,77.55676436424255,40
+http://dbpedia.org/resource/Stand_Up_and_Cheer!,http://dbpedia.org/property/music,http://dbpedia.org/resource/Lew_Brown,Correct,52,77.55676436424255,40
+http://dbpedia.org/resource/Stand_Up_and_Cheer!,http://dbpedia.org/ontology/writer,http://dbpedia.org/resource/Will_Rogers,Correct,52,77.55676436424255,40
+http://dbpedia.org/resource/The_Union_Trade,http://www.w3.org/2000/01/rdf-schema#label,The Union Trade,Correct,53,552.4136774539948,40
+http://dbpedia.org/resource/The_Union_Trade,http://dbpedia.org/property/pastMembers,Dan Rodkewich,Correct,53,552.4136774539948,40
+http://dbpedia.org/resource/The_Union_Trade,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/The_Union_Trade,Correct,53,552.4136774539948,40
+http://dbpedia.org/resource/The_Union_Trade,http://dbpedia.org/property/genre,http://dbpedia.org/resource/Post-rock,Correct,53,552.4136774539948,40
+http://dbpedia.org/resource/The_Union_Trade,http://dbpedia.org/property/currentMembers,Nate Munger,Correct,53,552.4136774539948,40
+http://dbpedia.org/resource/Glad_Christmas_Tidings,http://dbpedia.org/property/title,Los pastores a belen,Correct,54,137.4359474182129,40
+http://dbpedia.org/resource/Glad_Christmas_Tidings,http://dbpedia.org/property/title,A Holiday Hoedown for Organ,Correct,54,137.4359474182129,40
+http://dbpedia.org/resource/Glad_Christmas_Tidings,http://www.w3.org/2000/01/rdf-schema#label,Glad Christmas Tidings,Correct,54,137.4359474182129,40
+http://dbpedia.org/resource/Glad_Christmas_Tidings,http://dbpedia.org/property/extra,"Choir, Orchestra, and Bells",I Don't Know,54,137.4359474182129,40
+http://dbpedia.org/resource/Glad_Christmas_Tidings,http://xmlns.com/foaf/0.1/name,Glad Christmas Tidings,Correct,54,137.4359474182129,40
+http://dbpedia.org/resource/Don_Gummer,http://dbpedia.org/ontology/training,http://dbpedia.org/resource/Herron_School_of_Art_and_Design,Correct,55,30.205226182937626,40
+http://dbpedia.org/resource/454th_Bombardment_Group,http://dbpedia.org/ontology/role,Bombardment,Correct,56,15.08661675453186,40
+http://dbpedia.org/resource/454th_Bombardment_Group,http://dbpedia.org/property/awardDate,1944-07-25,Correct,56,15.08661675453186,40
+http://dbpedia.org/resource/454th_Bombardment_Group,http://xmlns.com/foaf/0.1/name,60px,Incorrect,56,15.08661675453186,40
+http://dbpedia.org/resource/454th_Bombardment_Group,http://dbpedia.org/property/awardName,Distinguished Unit Citation,Correct,56,15.08661675453186,40
+http://dbpedia.org/resource/454th_Bombardment_Group,http://dbpedia.org/property/awardNotes,"Linz, Germany",I Don't Know,56,15.08661675453186,40
+http://dbpedia.org/resource/Hangin'_Around_(Big_Brovaz_song),http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Contemporary_R&B,Correct,57,46.56515145301819,40
+http://dbpedia.org/resource/Hangin'_Around_(Big_Brovaz_song),http://dbpedia.org/ontology/Work/runtime,3.4833333333333334,Incorrect,57,46.56515145301819,40
+http://dbpedia.org/resource/Hangin'_Around_(Big_Brovaz_song),http://dbpedia.org/ontology/album,http://dbpedia.org/resource/Re-Entry_(Big_Brovaz_album),Correct,57,46.56515145301819,40
+http://dbpedia.org/resource/Hangin'_Around_(Big_Brovaz_song),http://dbpedia.org/property/recorded,2005,Correct,57,46.56515145301819,40
+http://dbpedia.org/resource/Hangin'_Around_(Big_Brovaz_song),http://dbpedia.org/property/format,http://dbpedia.org/resource/Gramophone_record,Correct,57,46.56515145301819,40
+http://dbpedia.org/resource/Kirghiz_Soviet_Socialist_Republic,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Bishkek,Correct,58,18.085052967071533,40
+http://dbpedia.org/resource/The_Blue_Lamp,http://dbpedia.org/property/music,Jack Parnell,Correct,59,23.23668956756592,40
+http://dbpedia.org/resource/The_Blue_Lamp,http://dbpedia.org/property/screenplay,http://dbpedia.org/resource/T.E.B._Clarke,Correct,59,23.23668956756592,40
+http://dbpedia.org/resource/The_Blue_Lamp,http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Robert_Flemyng,Correct,59,23.23668956756592,40
+http://dbpedia.org/resource/The_Blue_Lamp,http://xmlns.com/foaf/0.1/name,The Blue Lamp,Correct,59,23.23668956756592,40
+http://dbpedia.org/resource/The_Blue_Lamp,http://www.w3.org/2000/01/rdf-schema#comment,"The Blue Lamp is a 1950 British police drama, directed by Basil Dearden and starring Jack Warner as veteran PC Dixon, Jimmy Hanley as newcomer PC Mitchell, and a very young Dirk Bogarde as hardened criminal Tom Riley. The title refers to the blue lamps that traditionally hung outside British police stations (and often still do).",Correct,59,23.23668956756592,40
+http://dbpedia.org/resource/Prince_Baudouin_of_Belgium,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Child,I Don't Know,60,46.06975865364075,40
+http://dbpedia.org/resource/Prince_Baudouin_of_Belgium,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Brussels,Correct,60,46.06975865364075,40
+http://dbpedia.org/resource/Prince_Baudouin_of_Belgium,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Belgium,Correct,60,46.06975865364075,40
+http://dbpedia.org/resource/Prince_Baudouin_of_Belgium,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Belgium,Correct,60,46.06975865364075,40
+http://dbpedia.org/resource/Prince_Baudouin_of_Belgium,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Belgium,Correct,60,46.06975865364075,40
+http://dbpedia.org/resource/Any_Love_(Misia_song),http://dbpedia.org/property/released,2007-07-04,Correct,61,16.74858283996582,40
+http://dbpedia.org/resource/Any_Love_(Misia_song),http://dbpedia.org/property/title,Soba ni Ite...,I Don't Know,61,16.74858283996582,40
+http://dbpedia.org/resource/Any_Love_(Misia_song),http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Seventeenth,I Don't Know,61,16.74858283996582,40
+http://dbpedia.org/resource/Any_Love_(Misia_song),http://dbpedia.org/property/extra,Sinkiroh,I Don't Know,61,16.74858283996582,40
+http://dbpedia.org/resource/Any_Love_(Misia_song),http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Contemporary_R&B,Correct,61,16.74858283996582,40
+http://dbpedia.org/resource/Amnon_Dankner,http://dbpedia.org/ontology/abstract,"Amnon Dankner (Hebrew: אמנון דנקנר‎, February 5, 1946 – April 5, 2013) was an Israeli newspaper editor and author. He was the editor of the mass-circulation daily Maariv for six years.",Correct,62,41.25917196273804,40
+http://dbpedia.org/resource/Moscow_24_(TV_channel),http://dbpedia.org/property/sisterNames,http://dbpedia.org/resource/Russia-24,Correct,63,294.8443419933319,40
+http://dbpedia.org/resource/Moscow_24_(TV_channel),http://dbpedia.org/ontology/sisterStation,http://dbpedia.org/resource/Russia-2,Correct,63,294.8443419933319,40
+http://dbpedia.org/resource/Moscow_24_(TV_channel),http://dbpedia.org/property/pictureFormat,16,Correct,63,294.8443419933319,40
+http://dbpedia.org/resource/Moscow_24_(TV_channel),http://dbpedia.org/ontology/headquarter,http://dbpedia.org/resource/Russia,Correct,63,294.8443419933319,40
+http://dbpedia.org/resource/Moscow_24_(TV_channel),http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Moscow_24_(TV_channel),Correct,63,294.8443419933319,40
+http://dbpedia.org/resource/Two_Bits,http://dbpedia.org/ontology/director,http://dbpedia.org/resource/James_Foley_(director),I Don't Know,64,60.82722568511963,40
+http://dbpedia.org/resource/Two_Bits,http://dbpedia.org/property/language,http://dbpedia.org/resource/English_language,Correct,64,60.82722568511963,40
+http://dbpedia.org/resource/Two_Bits,http://dbpedia.org/property/caption,Theatrical release poster,I Don't Know,64,60.82722568511963,40
+http://dbpedia.org/resource/Two_Bits,http://dbpedia.org/ontology/language,http://dbpedia.org/resource/English_language,Correct,64,60.82722568511963,40
+http://dbpedia.org/resource/Two_Bits,http://dbpedia.org/property/imageSize,250,I Don't Know,64,60.82722568511963,40
+http://dbpedia.org/resource/The_War_Zone,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:British_drama_films,Correct,65,55.65932393074036,40
+http://dbpedia.org/resource/The_War_Zone,http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Freddie_Cunliffe,Correct,65,55.65932393074036,40
+http://dbpedia.org/resource/The_War_Zone,http://dbpedia.org/property/starring,http://dbpedia.org/resource/Freddie_Cunliffe,Correct,65,55.65932393074036,40
+http://dbpedia.org/resource/The_War_Zone,http://dbpedia.org/property/name,The War Zone,Correct,65,55.65932393074036,40
+http://dbpedia.org/resource/The_War_Zone,http://dbpedia.org/property/caption,Theatrical release poster,I Don't Know,65,55.65932393074036,40
+http://dbpedia.org/resource/Apple_Inc.,http://dbpedia.org/property/tradedAs,http://dbpedia.org/resource/S&P_500_Index,Correct,66,39.75588536262512,40
+http://dbpedia.org/resource/Apple_Inc.,http://dbpedia.org/ontology/revenue,1.82795E11,Incorrect,66,39.75588536262512,40
+http://dbpedia.org/resource/Apple_Inc.,http://dbpedia.org/property/services,http://dbpedia.org/resource/Apple_Store,Correct,66,39.75588536262512,40
+http://dbpedia.org/resource/Apple_Inc.,http://dbpedia.org/property/keyPeople,http://dbpedia.org/resource/Luca_Maestri,Correct,66,39.75588536262512,40
+http://dbpedia.org/resource/Apple_Inc.,http://dbpedia.org/ontology/locationCity,"http://dbpedia.org/resource/Cupertino,_California",Correct,66,39.75588536262512,40
+http://dbpedia.org/resource/Gun_Law_(film),http://dbpedia.org/property/country,United States,Correct,67,16520.699692249298,40
+http://dbpedia.org/resource/Gun_Law_(film),http://dbpedia.org/ontology/director,http://dbpedia.org/resource/John_Ford,Correct,67,16520.699692249298,40
+http://dbpedia.org/resource/Gun_Law_(film),http://dbpedia.org/property/director,http://dbpedia.org/resource/John_Ford,Correct,67,16520.699692249298,40
+http://dbpedia.org/resource/Gun_Law_(film),http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-movie-noun-1,I Don't Know,67,16520.699692249298,40
+http://dbpedia.org/resource/Operation_Harpoon_(1942),http://dbpedia.org/ontology/result,Italian naval victory,Correct,68,135.56055283546448,40
+http://dbpedia.org/resource/Operation_Harpoon_(1942),http://dbpedia.org/ontology/strength,17 destroyers,Correct,68,135.56055283546448,40
+http://dbpedia.org/resource/Operation_Harpoon_(1942),http://dbpedia.org/ontology/causalties,3 destroyers damaged,Correct,68,135.56055283546448,40
+http://dbpedia.org/resource/Operation_Harpoon_(1942),http://www.w3.org/2000/01/rdf-schema#comment,"Operation Harpoon was one of two simultaneous Allied convoys sent to supply Malta in the Axis-dominated Mediterranean Sea in mid-June 1942, during the Second World War. One convoy, Operation Vigorous, left Alexandria. The other, Operation Harpoon, travelled in the opposite direction from Gibraltar. Both convoys met with fierce Axis opposition and only two of Harpoon′s six merchant ships completed the journey, at the cost of several Allied warships.",Correct,68,135.56055283546448,40
+http://dbpedia.org/resource/Operation_Harpoon_(1942),http://dbpedia.org/ontology/causalties,101+ killed,Correct,68,135.56055283546448,40
+http://dbpedia.org/resource/Ian_McKellen,http://dbpedia.org/ontology/partner,http://dbpedia.org/resource/Sean_Mathias,I Don't Know,69,321.8360514640808,40
+http://dbpedia.org/resource/Eastern_Wei,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Luoyang,Correct,70,379.6119067668915,41
+http://dbpedia.org/resource/Eastern_Wei,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Ye_(ancient_China),Correct,70,379.6119067668915,41
+http://dbpedia.org/resource/Giovanni_Battista_Piranesi,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Artist,Correct,71,186.43746066093445,41
+http://dbpedia.org/resource/Giovanni_Battista_Piranesi,http://dbpedia.org/ontology/deathYear,1778,Correct,71,186.43746066093445,41
+http://dbpedia.org/resource/Giovanni_Battista_Piranesi,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1778_deaths,Correct,71,186.43746066093445,41
+http://dbpedia.org/resource/Giovanni_Battista_Piranesi,http://dbpedia.org/ontology/field,http://dbpedia.org/resource/Etching,Correct,71,186.43746066093445,41
+http://dbpedia.org/resource/Giovanni_Battista_Piranesi,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Italian_etchers,Correct,71,186.43746066093445,41
+http://dbpedia.org/resource/Thomas_Lough,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Thomas_Lough,Correct,72,126.33049297332764,41
+http://dbpedia.org/resource/Thomas_Lough,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:UK_MPs_1892–95,Correct,72,126.33049297332764,41
+http://dbpedia.org/resource/Thomas_Lough,http://www.w3.org/2000/01/rdf-schema#comment,"The Rt. Hon. Thomas Lough, P.C. (1850 – 11 January 1922), was a British radical Liberal politician.He was born in Cavan, Ireland to Mathew Lough and Martha Steel, and was educated at the Royal School Cavan and at Wesleyan Connexional School, Dublin.He worked as a tea merchant in London from 1880. He was an unsuccessful Liberal candidate for Truro at the 1886 general election and in 1888 appointed Ramsay MacDonald as a private secretary.",Correct,72,126.33049297332764,41
+http://dbpedia.org/resource/Thomas_Lough,http://dbpedia.org/property/years,1905,Incorrect,72,126.33049297332764,41
+http://dbpedia.org/resource/Thomas_Lough,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:UK_MPs_1906–10,Correct,72,126.33049297332764,41
+http://dbpedia.org/resource/Thomas_Lane_(MP),http://xmlns.com/foaf/0.1/givenName,Thomas,Correct,73,137.71844148635864,41
+http://dbpedia.org/resource/Thomas_Lane_(MP),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1652_deaths,Correct,73,137.71844148635864,41
+http://dbpedia.org/resource/Thomas_Lane_(MP),http://dbpedia.org/property/bwfore,http://dbpedia.org/resource/Arthur_Goodwin,I Don't Know,73,137.71844148635864,41
+http://dbpedia.org/resource/Thomas_Lane_(MP),http://dbpedia.org/property/name,"Lane, Thomas",Correct,73,137.71844148635864,41
+http://dbpedia.org/resource/Thomas_Lane_(MP),http://dbpedia.org/property/after,Parliament suspended until 1640,I Don't Know,73,137.71844148635864,41
+http://dbpedia.org/resource/Shahid_(film),http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Kay_Kay_Menon,Correct,74,134.54833722114563,41
+http://dbpedia.org/resource/Shahid_(film),http://dbpedia.org/property/starring,http://dbpedia.org/resource/Tigmanshu_Dhulia,Correct,74,134.54833722114563,41
+http://dbpedia.org/resource/Shahid_(film),http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Prabhleen_Sandhu,Correct,74,134.54833722114563,41
+http://dbpedia.org/resource/Shahid_(film),http://dbpedia.org/property/editing,Apurva Asrani,Correct,74,134.54833722114563,41
+http://dbpedia.org/resource/Shahid_(film),http://dbpedia.org/ontology/language,http://dbpedia.org/resource/Hindi,Correct,74,134.54833722114563,41
+http://dbpedia.org/resource/Septembers_of_Shiraz,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2010s_drama_films,Correct,75,50.512882232666016,41
+http://dbpedia.org/resource/Septembers_of_Shiraz,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2015_films,Correct,75,50.512882232666016,41
+http://dbpedia.org/resource/Septembers_of_Shiraz,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,75,50.512882232666016,41
+http://dbpedia.org/resource/Septembers_of_Shiraz,http://dbpedia.org/property/starring,http://dbpedia.org/resource/Alon_Abutbul,Correct,75,50.512882232666016,41
+http://dbpedia.org/resource/Septembers_of_Shiraz,http://dbpedia.org/property/starring,http://dbpedia.org/resource/Alon_Aboutboul,Correct,75,50.512882232666016,41
+http://dbpedia.org/resource/Grey's_Anatomy,http://dbpedia.org/property/producer,Jeff Rafner,Correct,76,156.81856727600098,41
+http://dbpedia.org/resource/Grey's_Anatomy,http://dbpedia.org/property/producer,Gabrielle G. Stanton,Correct,76,156.81856727600098,41
+http://dbpedia.org/resource/Grey's_Anatomy,http://dbpedia.org/property/showName,Grey's Anatomy,Correct,76,156.81856727600098,41
+http://dbpedia.org/resource/Grey's_Anatomy,http://dbpedia.org/property/composer,http://dbpedia.org/resource/Danny_Lux,Correct,76,156.81856727600098,41
+http://dbpedia.org/resource/Grey's_Anatomy,http://dbpedia.org/property/producer,Peter Norwalk,Correct,76,156.81856727600098,41
+http://dbpedia.org/resource/The_Birthday_Party_(film),http://dbpedia.org/property/cinematography,http://dbpedia.org/resource/Denys_Coop,Correct,77,87.43068790435791,41
+http://dbpedia.org/resource/The_Birthday_Party_(film),http://www.w3.org/2000/01/rdf-schema#label,The Birthday Party (film),Correct,77,87.43068790435791,41
+http://dbpedia.org/resource/The_Birthday_Party_(film),http://dbpedia.org/ontology/producer,http://dbpedia.org/resource/Max_Rosenberg,Correct,77,87.43068790435791,41
+http://dbpedia.org/resource/The_Birthday_Party_(film),http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Robert_Shaw_(British_actor),Correct,77,87.43068790435791,41
+http://dbpedia.org/resource/The_Birthday_Party_(film),http://xmlns.com/foaf/0.1/homepage,http://www.haroldpinter.org/films/films_bdayparty.shtml,Correct,77,87.43068790435791,41
+http://dbpedia.org/resource/Sundgau,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Altkirch,Correct,78,32.37597393989563,41
+http://dbpedia.org/resource/The_Legend_of_Bagger_Vance,http://dbpedia.org/ontology/distributor,http://dbpedia.org/resource/20th_Century_Fox,Correct,79,71.89117383956909,41
+http://dbpedia.org/resource/The_Legend_of_Bagger_Vance,http://dbpedia.org/ontology/producer,http://dbpedia.org/resource/Jake_Eberts,Correct,79,71.89117383956909,41
+http://dbpedia.org/resource/The_Legend_of_Bagger_Vance,http://dbpedia.org/ontology/distributor,http://dbpedia.org/resource/DreamWorks,Correct,79,71.89117383956909,41
+http://dbpedia.org/resource/The_Legend_of_Bagger_Vance,http://dbpedia.org/property/starring,http://dbpedia.org/resource/Matt_Damon,Correct,79,71.89117383956909,41
+http://dbpedia.org/resource/The_Legend_of_Bagger_Vance,http://dbpedia.org/ontology/musicComposer,http://dbpedia.org/resource/Rachel_Portman,Correct,79,71.89117383956909,41
+http://dbpedia.org/resource/Slingshot_6_7/8,http://dbpedia.org/property/studio,http://dbpedia.org/resource/Walter_Lantz_Productions,Correct,80,155.97759318351746,41
+http://dbpedia.org/resource/Slingshot_6_7/8,http://dbpedia.org/ontology/animator,http://dbpedia.org/resource/Ray_Abrams_(animator),Correct,80,155.97759318351746,41
+http://dbpedia.org/resource/Slingshot_6_7/8,http://dbpedia.org/ontology/animator,http://dbpedia.org/resource/Fred_Brunish,Correct,80,155.97759318351746,41
+http://dbpedia.org/resource/Slingshot_6_7/8,http://dbpedia.org/ontology/animator,http://dbpedia.org/resource/Paul_Smith_(animator),Correct,80,155.97759318351746,41
+http://dbpedia.org/resource/Slingshot_6_7/8,http://dbpedia.org/property/colorProcess,http://dbpedia.org/resource/Technicolor,Correct,80,155.97759318351746,41
+http://dbpedia.org/resource/Wilhelm_Höttl,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Altaussee,Correct,81,116.75472044944765,41
+http://dbpedia.org/resource/Wilhelm_Höttl,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Vienna,Correct,81,116.75472044944765,41
+"http://dbpedia.org/resource/John_H._Tilelli,_Jr.",http://dbpedia.org/property/laterwork,http://dbpedia.org/resource/Operation_Dark_Winter,Correct,82,53.235045194625854,41
+"http://dbpedia.org/resource/John_H._Tilelli,_Jr.",http://dbpedia.org/ontology/serviceStartYear,1963,Correct,82,53.235045194625854,41
+"http://dbpedia.org/resource/John_H._Tilelli,_Jr.",http://dbpedia.org/property/birthDate,1941-10-02,Correct,82,53.235045194625854,41
+"http://dbpedia.org/resource/John_H._Tilelli,_Jr.",http://dbpedia.org/property/ribbon,Army Overseas Service Ribbon.svg,Correct,82,53.235045194625854,41
+"http://dbpedia.org/resource/John_H._Tilelli,_Jr.",http://xmlns.com/foaf/0.1/isPrimaryTopicOf,"http://en.wikipedia.org/wiki/John_H._Tilelli,_Jr.",Correct,82,53.235045194625854,41
+http://dbpedia.org/resource/WOYS,http://dbpedia.org/property/webcast,http://static.infomaniak.ch/infomaniak/radio/html/oysterradio_player.html,Correct,83,37.84281277656555,41
+http://dbpedia.org/resource/WOYS,http://dbpedia.org/property/branding,Oyster Radio,Correct,83,37.84281277656555,41
+http://dbpedia.org/resource/WOYS,http://dbpedia.org/property/class,3.0,Correct,83,37.84281277656555,41
+http://dbpedia.org/resource/WOYS,http://dbpedia.org/property/format,http://dbpedia.org/resource/Classic_Hits,Correct,83,37.84281277656555,41
+http://dbpedia.org/resource/WOYS,http://dbpedia.org/property/facilityId,56224,I Don't Know,83,37.84281277656555,41
+http://dbpedia.org/resource/John_Thornton_Augustine_Washington,http://dbpedia.org/ontology/residence,http://dbpedia.org/resource/Cedar_Lawn,Correct,84,61.31126356124878,41
+http://dbpedia.org/resource/John_Thornton_Augustine_Washington,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Soldier,Correct,84,61.31126356124878,41
+http://dbpedia.org/resource/John_Thornton_Augustine_Washington,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Virginia,Correct,84,61.31126356124878,41
+http://dbpedia.org/resource/John_Thornton_Augustine_Washington,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Virginia,Correct,84,61.31126356124878,41
+http://dbpedia.org/resource/John_Thornton_Augustine_Washington,http://dbpedia.org/property/religion,http://dbpedia.org/resource/Episcopal_Church_(United_States),Correct,84,61.31126356124878,41
+http://dbpedia.org/resource/TWiT.tv,http://dbpedia.org/property/name,TWiT.tv,Correct,85,13.78657579421997,41
+http://dbpedia.org/resource/TWiT.tv,http://dbpedia.org/property/web,http://wiki.twit.tv,Correct,85,13.78657579421997,41
+http://dbpedia.org/resource/TWiT.tv,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/TWiT.tv,Correct,85,13.78657579421997,41
+http://dbpedia.org/resource/TWiT.tv,http://dbpedia.org/property/language,English,Correct,85,13.78657579421997,41
+http://dbpedia.org/resource/TWiT.tv,http://dbpedia.org/property/filename,Twit Bumper.ogg,I Don't Know,85,13.78657579421997,41
+http://dbpedia.org/resource/Benjamin_Franklin,http://dbpedia.org/ontology/vicePresident,http://dbpedia.org/resource/Charles_Biddle,Correct,86,106.44692587852478,41
+http://dbpedia.org/resource/Benjamin_Franklin,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Province_of_Massachusetts_Bay,Correct,86,106.44692587852478,41
+http://dbpedia.org/resource/Benjamin_Franklin,http://dbpedia.org/ontology/child,http://dbpedia.org/resource/Sarah_Franklin_Bache,Correct,86,106.44692587852478,41
+http://dbpedia.org/resource/Benjamin_Franklin,http://dbpedia.org/property/name,Benjamin Franklin,Correct,86,106.44692587852478,41
+http://dbpedia.org/resource/Benjamin_Franklin,http://dbpedia.org/ontology/child,http://dbpedia.org/resource/Francis_Folger_Franklin,Correct,86,106.44692587852478,41
+http://dbpedia.org/resource/John_Helfrich,http://dbpedia.org/property/shortDescription,American cleric and homeopathist,Correct,87,27.79354739189148,41
+http://dbpedia.org/resource/John_Helfrich,http://www.w3.org/2000/01/rdf-schema#label,John Helfrich,Correct,87,27.79354739189148,41
+http://dbpedia.org/resource/John_Helfrich,http://dbpedia.org/property/dateOfDeath,1852,Correct,87,27.79354739189148,41
+http://dbpedia.org/resource/John_Helfrich,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/John_Helfrich,Correct,87,27.79354739189148,41
+http://dbpedia.org/resource/John_Helfrich,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/John_Helfrich,Correct,87,27.79354739189148,41
+http://dbpedia.org/resource/Tracy_Caldwell_Dyson,http://dbpedia.org/ontology/abstract,"HIDDEN ERROR: Usage of ""date_death"" is not recognizedTracy Caldwell Dyson (born Tracy Ellen Caldwell, August 14, 1969) is an American chemist and NASA astronaut. Caldwell Dyson was a Mission Specialist on Space Shuttle Endeavour flight STS-118 in August 2007. She was part of the Expedition 24 crew on the International Space Station between April 4, 2010 and September 25, 2010. She has completed three spacewalks, logging more than 22 hrs of EVA including work to replace a malfunctioning coolant pump.",I Don't Know,88,16.711939096450806,41
+http://dbpedia.org/resource/On_the_Side_of_Angels,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:LeAnn_Rimes_songs,Correct,89,72.6319420337677,41
+http://dbpedia.org/resource/On_the_Side_of_Angels,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Curb_Records_singles,Correct,89,72.6319420337677,41
+http://dbpedia.org/resource/On_the_Side_of_Angels,http://dbpedia.org/property/released,1997-10-11,Correct,89,72.6319420337677,41
+http://dbpedia.org/resource/On_the_Side_of_Angels,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Country_music,Correct,89,72.6319420337677,41
+http://dbpedia.org/resource/On_the_Side_of_Angels,http://dbpedia.org/property/name,On the Side of Angels,Correct,89,72.6319420337677,41
+http://dbpedia.org/resource/Fabio_Testi,http://www.w3.org/2000/01/rdf-schema#label,Fabio Testi,Correct,90,24.364173412323,41
+http://dbpedia.org/resource/Fabio_Testi,http://xmlns.com/foaf/0.1/surname,Testi,Correct,90,24.364173412323,41
+http://dbpedia.org/resource/Fabio_Testi,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Fabio_Testi,Correct,90,24.364173412323,41
+http://dbpedia.org/resource/Fabio_Testi,http://dbpedia.org/ontology/abstract,"Fabio Testi (born 2 August 1941) is an Italian film actor, notable as the star of, among many other films, First Action Hero.Born in Peschiera del Garda, Italy, the 1.84m tall actor started his film career as a stuntman in his college years. His most famous job as a stuntman was in Sergio Leone's Once Upon a Time in the West, where he fell from a rooftop and hit the ground on his shoulder.He has a son, Edwin, born 1971, from his relationship with Edwige Fenech. In 1979 Testi married Lola Navarro, with whom he fathered three children. On January 3, 2015 he got married to Antonella Liguori.",Correct,90,24.364173412323,41
+http://dbpedia.org/resource/Fabio_Testi,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Italian_male_film_actors,Correct,90,24.364173412323,41
+http://dbpedia.org/resource/Natsuna_Watanabe,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:People_from_Saitama_Prefecture,Correct,91,61.043591022491455,41
+http://dbpedia.org/resource/Natsuna_Watanabe,http://dbpedia.org/property/gender,Female,Correct,91,61.043591022491455,41
+http://dbpedia.org/resource/Natsuna_Watanabe,http://dbpedia.org/property/agent,Toyota Office,Correct,91,61.043591022491455,41
+http://dbpedia.org/resource/Natsuna_Watanabe,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/Natsuna_-_Samedi_-_Japan_Expo_2013_-_P1670081.jpg,Correct,91,61.043591022491455,41
+http://dbpedia.org/resource/Natsuna_Watanabe,http://dbpedia.org/ontology/birthDate,1989-05-23,Correct,91,61.043591022491455,41
+http://dbpedia.org/resource/Benjamin_Tupper,http://www.w3.org/2000/01/rdf-schema#label,Benjamin Tupper,Correct,92,28.31418299674988,41
+http://dbpedia.org/resource/Benjamin_Tupper,http://dbpedia.org/ontology/relation,http://dbpedia.org/resource/Anselm_Tupper,Correct,92,28.31418299674988,41
+http://dbpedia.org/resource/Benjamin_Tupper,http://dbpedia.org/ontology/abstract,"Benjamin Tupper (March 11, 1738 – June 16, 1792) was a soldier in the French and Indian War, and an officer of the Continental Army during the American Revolutionary War, achieving the rank of brevet brigadier general. Subsequently, he served as a Massachusetts legislator, and he assisted Gen. William Shepard in stopping Shays' Rebellion. Benjamin Tupper was a co-founder of the Ohio Company of Associates, and was a pioneer to the Ohio Country, involved in establishing Marietta, Ohio as the first permanent settlement in the Northwest Territory.",Correct,92,28.31418299674988,41
+http://dbpedia.org/resource/Tom_Jones_(singer),http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Singer,Correct,93,40.82095623016357,41
+http://dbpedia.org/resource/Tom_Jones_(singer),http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Country_music,Correct,93,40.82095623016357,41
+http://dbpedia.org/resource/Tom_Jones_(singer),http://dbpedia.org/property/placeOfBirth,"Treforest, Pontypridd, Glamorgan, Wales",Correct,93,40.82095623016357,41
+http://dbpedia.org/resource/Tom_Jones_(singer),http://dbpedia.org/property/birthDate,1940-06-07,Correct,93,40.82095623016357,41
+http://dbpedia.org/resource/Tom_Jones_(singer),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Interscope_Records_artists,Correct,93,40.82095623016357,41
+http://dbpedia.org/resource/Rodrigues,http://dbpedia.org/property/latns,S,I Don't Know,94,134.56565713882446,41
+http://dbpedia.org/resource/Rodrigues,http://dbpedia.org/property/novLowC,21.3,Correct,94,134.56565713882446,41
+http://dbpedia.org/resource/Rodrigues,http://dbpedia.org/ontology/PopulatedPlace/populationDensity,386.0,Correct,94,134.56565713882446,41
+http://dbpedia.org/resource/Rodrigues,http://dbpedia.org/property/demographicsType,Languages,Correct,94,134.56565713882446,41
+http://dbpedia.org/resource/Rodrigues,http://dbpedia.org/property/sepPrecipitationMm,43.8,Correct,94,134.56565713882446,41
+http://dbpedia.org/resource/Robert_Scholes,http://www.w3.org/2000/01/rdf-schema#comment,"Robert E. Scholes is an American literary critic and theorist. He is known for his ideas on fabulation and metafiction.He graduated from Yale University. Since 1970 he has been a Professor at Brown University.With Eric S. Rabkin, he published in 1977 the book Science Fiction: History, Science, Vision, which considerably influenced science fiction studies.",Correct,95,33.19239544868469,41
+http://dbpedia.org/resource/Robert_Scholes,http://www.w3.org/2000/01/rdf-schema#label,Robert Scholes,Correct,95,33.19239544868469,41
+http://dbpedia.org/resource/Robert_Scholes,http://xmlns.com/foaf/0.1/name,Robert E. Scholes,Correct,95,33.19239544868469,41
+http://dbpedia.org/resource/Robert_Scholes,http://purl.org/dc/elements/1.1/description,American academic,Correct,95,33.19239544868469,41
+http://dbpedia.org/resource/Robert_Scholes,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Science_fiction_studies,Correct,95,33.19239544868469,41
+http://dbpedia.org/resource/The_Last_Stand_(album),http://www.w3.org/2000/01/rdf-schema#comment,"The Last Stand is the third group album from Hip Hop collective Boot Camp Clik, released on July 18, 2006. The group consists of Black Moon's Buckshot, Smif-N-Wessun's Tek and Steele, Heltah Skeltah's Rock and Sean Price, and O.G.C.'s Starang Wondah, Louieville Sluggah and Top Dog. The album marks the return of Rock, who had left Duck Down Records in 1999 to pursue a solo career.",Correct,96,7344.426336526871,41
+http://dbpedia.org/resource/The_Last_Stand_(album),http://dbpedia.org/property/released,2006-07-18,Correct,96,7344.426336526871,41
+http://dbpedia.org/resource/The_Last_Stand_(album),http://dbpedia.org/property/rev3score,link,I Don't Know,96,7344.426336526871,41
+http://dbpedia.org/resource/The_Last_Stand_(album),http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Album,Correct,96,7344.426336526871,41
+http://dbpedia.org/resource/The_Last_Stand_(album),http://dbpedia.org/property/rev5score,link,I Don't Know,96,7344.426336526871,41
+http://dbpedia.org/resource/Hermann_Schubert,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Kingdom_of_Prussia,Correct,97,61.62461996078491,41
+http://dbpedia.org/resource/Hermann_Schubert,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Province_of_Brandenburg,Correct,97,61.62461996078491,41
+http://dbpedia.org/resource/Hermann_Schubert,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Kingdom_of_Prussia,Correct,97,61.62461996078491,41
+http://dbpedia.org/resource/Noam_Chomsky,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/René_Descartes,Correct,98,45.70512700080872,41
+http://dbpedia.org/resource/Noam_Chomsky,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Adam_Smith,Correct,98,45.70512700080872,41
+http://dbpedia.org/resource/Noam_Chomsky,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Peter_Kropotkin,Correct,98,45.70512700080872,41
+http://dbpedia.org/resource/Noam_Chomsky,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Ludwig_Wittgenstein,Correct,98,45.70512700080872,41
+http://dbpedia.org/resource/Noam_Chomsky,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/William_Chomsky,Correct,98,45.70512700080872,41
+http://dbpedia.org/resource/Denmark–Norway,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Danish_rigsdaler,Correct,99,70.65918755531311,41
+http://dbpedia.org/resource/Denmark–Norway,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Norwegian_rigsdaler,Correct,99,70.65918755531311,41
+http://dbpedia.org/resource/Denmark–Norway,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Copenhagen,Correct,99,70.65918755531311,41
+http://dbpedia.org/resource/Eckbach,http://dbpedia.org/ontology/sourceCountry,http://dbpedia.org/resource/Germany,Correct,100,203.6622133255005,41
+http://dbpedia.org/resource/Eckbach,http://dbpedia.org/property/progression,http://dbpedia.org/resource/Rhine,Correct,100,203.6622133255005,41
+http://dbpedia.org/resource/Eckbach,http://dbpedia.org/property/basinCountries,http://dbpedia.org/resource/Germany,Correct,100,203.6622133255005,41
+http://dbpedia.org/resource/Eckbach,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/River,Correct,100,203.6622133255005,41
+http://dbpedia.org/resource/Eckbach,http://dbpedia.org/property/riverSystem,http://dbpedia.org/resource/Rhine,Correct,100,203.6622133255005,41
+http://dbpedia.org/resource/184th_Pennsylvania_Infantry,http://dbpedia.org/property/battles,http://dbpedia.org/resource/Battle_of_Hatcher's_Run,Correct,101,9.807427644729614,41
+http://dbpedia.org/resource/184th_Pennsylvania_Infantry,http://www.w3.org/2000/01/rdf-schema#comment,The 184th Pennsylvania Volunteer Infantry was an infantry regiment that served in the Union Army during the American Civil War.,Correct,101,9.807427644729614,41
+http://dbpedia.org/resource/184th_Pennsylvania_Infantry,http://dbpedia.org/ontology/battle,http://dbpedia.org/resource/Battle_of_Sutherland's_Station,Correct,101,9.807427644729614,41
+http://dbpedia.org/resource/184th_Pennsylvania_Infantry,http://dbpedia.org/ontology/battle,http://dbpedia.org/resource/Siege_of_Petersburg,Correct,101,9.807427644729614,41
+http://dbpedia.org/resource/184th_Pennsylvania_Infantry,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/Union_(American_Civil_War),Correct,101,9.807427644729614,41
+http://dbpedia.org/resource/Edward_Garnier,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Wuppertal,Correct,102,202.0378303527832,41
+http://dbpedia.org/resource/Edward_Garnier,http://dbpedia.org/property/office,http://dbpedia.org/resource/Ministry_of_Justice_(United_Kingdom),Correct,102,202.0378303527832,41
+http://dbpedia.org/resource/Edward_Garnier,http://www.w3.org/2000/01/rdf-schema#label,Edward Garnier,Correct,102,202.0378303527832,41
+http://dbpedia.org/resource/Edward_Garnier,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/West_Germany,Correct,102,202.0378303527832,41
+http://dbpedia.org/resource/Edward_Garnier,http://dbpedia.org/ontology/almaMater,"http://dbpedia.org/resource/Jesus_College,_Oxford",Correct,102,202.0378303527832,41
+http://dbpedia.org/resource/Chief_of_Navy_(Australia),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Royal_Australian_Navy,Correct,103,13.345695972442629,41
+http://dbpedia.org/resource/Chief_of_Navy_(Australia),http://dbpedia.org/property/insigniasize,130,I Don't Know,103,13.345695972442629,41
+http://dbpedia.org/resource/Chief_of_Navy_(Australia),http://dbpedia.org/property/incumbentsince,2014-06-30,I Don't Know,103,13.345695972442629,41
+http://dbpedia.org/resource/Chief_of_Navy_(Australia),http://dbpedia.org/property/insignia,Chief Of Navy Australia.png,Correct,103,13.345695972442629,41
+http://dbpedia.org/resource/Chief_of_Navy_(Australia),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Royal_Australian_Navy_admirals,Correct,103,13.345695972442629,41
+http://dbpedia.org/resource/Dinah_Shore,http://dbpedia.org/property/associatedActs,http://dbpedia.org/resource/Frank_Sinatra,Correct,104,54.51955676078797,41
+http://dbpedia.org/resource/Dinah_Shore,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1916_births,Correct,104,54.51955676078797,41
+http://dbpedia.org/resource/Dinah_Shore,http://dbpedia.org/property/shortDescription,http://dbpedia.org/resource/Actress,Correct,104,54.51955676078797,41
+http://dbpedia.org/resource/Dinah_Shore,http://dbpedia.org/ontology/birthYear,1916,Correct,104,54.51955676078797,41
+http://dbpedia.org/resource/Dinah_Shore,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:20th-century_American_actresses,Correct,104,54.51955676078797,41
+http://dbpedia.org/resource/Posidonius,http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Apamea,_Syria",Correct,105,52.66280817985535,41
+http://dbpedia.org/resource/Posidonius,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Rome,Correct,105,52.66280817985535,41
+http://dbpedia.org/resource/Posidonius,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Panaetius,Correct,105,52.66280817985535,41
+http://dbpedia.org/resource/Posidonius,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Apamea_(Syria),Correct,105,52.66280817985535,41
+http://dbpedia.org/resource/Death_at_a_Funeral_(2010_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Slapstick_films,Correct,106,55.59605383872986,41
+http://dbpedia.org/resource/Death_at_a_Funeral_(2010_film),http://dbpedia.org/property/producer,"* William Hordberg
+*",Correct,106,55.59605383872986,41
+http://dbpedia.org/resource/Death_at_a_Funeral_(2010_film),http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Ron_Glass,Correct,106,55.59605383872986,41
+http://dbpedia.org/resource/Death_at_a_Funeral_(2010_film),http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Keith_David,Correct,106,55.59605383872986,41
+http://dbpedia.org/resource/Death_at_a_Funeral_(2010_film),http://dbpedia.org/property/starring,http://dbpedia.org/resource/Regina_Hall,Correct,106,55.59605383872986,41
+http://dbpedia.org/resource/Star_Soldier,http://www.w3.org/2000/01/rdf-schema#comment,"Star Soldier (スターソルジャー, Sutā Sorujā) is a series of shoot 'em up video games mainly developed by Hudson Soft. Konami has owned the rights to the series since their absorption of Hudson Soft in 2012.The first game, named Star Soldier, appeared on the MSX and NES in 1986, and the series has continued on various gaming systems.",Correct,107,12.959912300109863,41
+http://dbpedia.org/resource/Star_Soldier,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Video_game_franchises,Correct,107,12.959912300109863,41
+http://dbpedia.org/resource/Star_Soldier,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Star_Soldier,Correct,107,12.959912300109863,41
+http://dbpedia.org/resource/Star_Soldier,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Star_Soldier,Correct,107,12.959912300109863,41
+http://dbpedia.org/resource/Star_Soldier,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Star_Soldier,Correct,107,12.959912300109863,41
+http://dbpedia.org/resource/Duke_Georg_Alexander_of_Mecklenburg-Strelitz,http://dbpedia.org/ontology/parent,http://dbpedia.org/resource/Grand_Duchess_Catherine_Mikhailovna_of_Russia,Correct,108,65.97677087783813,41
+http://dbpedia.org/resource/Sweeney_Todd:_The_Demon_Barber_of_Fleet_Street_(1936_film),http://dbpedia.org/ontology/writer,http://dbpedia.org/resource/H._F._Maltby,Correct,109,129.2078197002411,41
+http://dbpedia.org/resource/Sweeney_Todd:_The_Demon_Barber_of_Fleet_Street_(1936_film),http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Eve_Lister,Correct,109,129.2078197002411,41
+http://dbpedia.org/resource/Sweeney_Todd:_The_Demon_Barber_of_Fleet_Street_(1936_film),http://dbpedia.org/property/starring,http://dbpedia.org/resource/Mrs._Lovett,Incorrect,109,129.2078197002411,41
+http://dbpedia.org/resource/Sweeney_Todd:_The_Demon_Barber_of_Fleet_Street_(1936_film),http://www.w3.org/2000/01/rdf-schema#comment,Sweeney Todd: The Demon Barber of Fleet Street is a 1936 British drama horror film produced and directed by George King. The film features actor Tod Slaughter in one of his most famous roles as the barber Sweeney Todd.,Correct,109,129.2078197002411,41
+http://dbpedia.org/resource/Sweeney_Todd:_The_Demon_Barber_of_Fleet_Street_(1936_film),http://xmlns.com/foaf/0.1/name,Sweeney Todd: The Demon Barber of Fleet Street,Correct,109,129.2078197002411,41
+http://dbpedia.org/resource/Dmitry_Kramkov,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Juan_Carlos_Rivera,Correct,110,38.65962648391724,41
+http://dbpedia.org/resource/Dmitry_Kramkov,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/David_German,Correct,110,38.65962648391724,41
+http://dbpedia.org/resource/Jesus_of_Montreal,http://www.w3.org/2000/01/rdf-schema#comment,Jesus of Montreal (French: Jésus de Montréal) is a 1989 Canadian film directed by Denys Arcand.,Correct,111,42.00643563270569,41
+http://dbpedia.org/resource/Jesus_of_Montreal,http://dbpedia.org/property/director,http://dbpedia.org/resource/Denys_Arcand,Correct,111,42.00643563270569,41
+http://dbpedia.org/resource/Jesus_of_Montreal,http://dbpedia.org/ontology/musicComposer,http://dbpedia.org/resource/Yves_Laferriere,Correct,111,42.00643563270569,41
+http://dbpedia.org/resource/Jesus_of_Montreal,http://dbpedia.org/ontology/editing,http://dbpedia.org/resource/Isabelle_Dedieu,Correct,111,42.00643563270569,41
+http://dbpedia.org/resource/Jesus_of_Montreal,http://dbpedia.org/property/caption,Movie poster,I Don't Know,111,42.00643563270569,41
+http://dbpedia.org/resource/Sexual_intercourse,http://www.w3.org/2000/01/rdf-schema#label,Sexual intercourse,Correct,112,4.2635884284973145,41
+http://dbpedia.org/resource/Paul_Stephenson_(police_officer),http://dbpedia.org/property/years,2005,Incorrect,113,39.80072116851807,41
+http://dbpedia.org/resource/Paul_Stephenson_(police_officer),http://dbpedia.org/property/honorificSuffix,http://dbpedia.org/resource/Queen's_Police_Medal,Correct,113,39.80072116851807,41
+http://dbpedia.org/resource/Paul_Stephenson_(police_officer),http://dbpedia.org/ontology/office,Commissioner of Police of the Metropolis,Correct,113,39.80072116851807,41
+http://dbpedia.org/resource/Paul_Stephenson_(police_officer),http://dbpedia.org/property/office,http://dbpedia.org/resource/Commissioner_of_Police_of_the_Metropolis,Correct,113,39.80072116851807,41
+http://dbpedia.org/resource/Paul_Stephenson_(police_officer),http://dbpedia.org/property/years,2009,Incorrect,113,39.80072116851807,41
+http://dbpedia.org/resource/Bronisław_Kaper,http://dbpedia.org/property/origin,http://dbpedia.org/resource/Poland,Correct,114,78.77314805984497,41
+http://dbpedia.org/resource/Bronisław_Kaper,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Composer,Correct,114,78.77314805984497,41
+http://dbpedia.org/resource/Bronisław_Kaper,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Musicians_from_Warsaw,Correct,114,78.77314805984497,41
+http://dbpedia.org/resource/Bronisław_Kaper,http://dbpedia.org/property/deathPlace,"Beverly Hills, California, U.S.",Correct,114,78.77314805984497,41
+http://dbpedia.org/resource/Bronisław_Kaper,http://dbpedia.org/property/placeOfDeath,"Beverly Hills, California, U.S.",Correct,114,78.77314805984497,41
+http://dbpedia.org/resource/Salah_Mansour,http://dbpedia.org/property/placeOfBirth,http://dbpedia.org/resource/Qalyubia_Governorate,Correct,115,65.82778191566467,41
+http://dbpedia.org/resource/Salah_Mansour,http://purl.org/dc/elements/1.1/description,Egyptian film director,Correct,115,65.82778191566467,41
+http://dbpedia.org/resource/Salah_Mansour,http://dbpedia.org/property/deathDate,1979-01-19,Correct,115,65.82778191566467,41
+http://dbpedia.org/resource/Salah_Mansour,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Salah_Mansour,Correct,115,65.82778191566467,41
+http://dbpedia.org/resource/Salah_Mansour,http://dbpedia.org/ontology/deathDate,1979-01-19,Correct,115,65.82778191566467,41
+http://dbpedia.org/resource/Education,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Education,Correct,116,14.339680910110474,41
+http://dbpedia.org/resource/Education,http://dbpedia.org/property/by,no,Incorrect,116,14.339680910110474,41
+http://dbpedia.org/resource/Education,http://dbpedia.org/property/about,yes,Incorrect,116,14.339680910110474,41
+http://dbpedia.org/resource/Education,http://dbpedia.org/property/onlinebooks,no,I Don't Know,116,14.339680910110474,41
+http://dbpedia.org/resource/Education,http://dbpedia.org/property/label,Education,Correct,116,14.339680910110474,41
+http://dbpedia.org/resource/Murray_S._Blum,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Louisiana_State_University_faculty,Correct,117,83.2418065071106,41
+http://dbpedia.org/resource/Murray_S._Blum,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:United_States_Army_soldiers,Correct,117,83.2418065071106,41
+http://dbpedia.org/resource/Murray_S._Blum,http://xmlns.com/foaf/0.1/name,"Blum, Murray S.",Correct,117,83.2418065071106,41
+http://dbpedia.org/resource/Murray_S._Blum,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:University_of_Georgia_faculty,Correct,117,83.2418065071106,41
+http://dbpedia.org/resource/Murray_S._Blum,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_military_personnel_of_the_Korean_War,Correct,117,83.2418065071106,41
+http://dbpedia.org/resource/Rusnano,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Companies_of_Russia,Correct,118,118.89014863967896,41
+http://dbpedia.org/resource/Rusnano,http://dbpedia.org/ontology/foundingYear,2007,Correct,118,118.89014863967896,41
+http://dbpedia.org/resource/Rusnano,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Nanotechnology_companies_of_Russia,Correct,118,118.89014863967896,41
+http://dbpedia.org/resource/Rusnano,http://dbpedia.org/ontology/numberOfEmployees,470,I Don't Know,118,118.89014863967896,41
+http://dbpedia.org/resource/Rusnano,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Nanotechnology_companies,Correct,118,118.89014863967896,41
+http://dbpedia.org/resource/The_Toilers_and_the_Wayfarers,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/The_Toilers_and_the_Wayfarers,Correct,119,163.89876222610474,41
+http://dbpedia.org/resource/The_Toilers_and_the_Wayfarers,http://dbpedia.org/ontology/cinematography,http://www.imdb.com/name/nm1521054/,Incorrect,119,163.89876222610474,41
+http://dbpedia.org/resource/The_Toilers_and_the_Wayfarers,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:German_emigrants_to_the_United_States,Incorrect,119,163.89876222610474,41
+http://dbpedia.org/resource/The_Toilers_and_the_Wayfarers,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Male_prostitution_in_the_arts,I Don't Know,119,163.89876222610474,41
+http://dbpedia.org/resource/The_Toilers_and_the_Wayfarers,http://www.w3.org/2000/01/rdf-schema#comment,"The Toilers and the Wayfarers  is a 1996 film written and directed by Keith Froelich.  It was released on March 14, 1997.",Correct,119,163.89876222610474,41
+http://dbpedia.org/resource/As_Long_as_It_Takes,http://dbpedia.org/ontology/previousWork,http://dbpedia.org/resource/The_Invitation_(Meredith_Andrews_album),Correct,120,118.77502584457396,41
+http://dbpedia.org/resource/As_Long_as_It_Takes,http://dbpedia.org/property/writer,"Ingram, Jacob Sooter",Correct,120,118.77502584457396,41
+http://dbpedia.org/resource/As_Long_as_It_Takes,http://dbpedia.org/property/writer,"Stu Gerrard, Ingram",Correct,120,118.77502584457396,41
+http://dbpedia.org/resource/As_Long_as_It_Takes,http://dbpedia.org/property/artist,http://dbpedia.org/resource/Meredith_Andrews,Correct,120,118.77502584457396,41
+http://dbpedia.org/resource/As_Long_as_It_Takes,http://dbpedia.org/property/length,271.0,Incorrect,120,118.77502584457396,41
+"http://dbpedia.org/resource/St._James_Church_(Monkton,_Maryland)",http://dbpedia.org/property/longDirection,W,Incorrect,121,13.98226523399353,41
+"http://dbpedia.org/resource/St._James_Church_(Monkton,_Maryland)",http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Properties_of_religious_function_on_the_National_Register_of_Historic_Places_in_Maryland,Correct,121,13.98226523399353,41
+"http://dbpedia.org/resource/St._James_Church_(Monkton,_Maryland)",http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Churches_in_Baltimore_County,_Maryland",Correct,121,13.98226523399353,41
+"http://dbpedia.org/resource/St._James_Church_(Monkton,_Maryland)",http://dbpedia.org/property/architecture,Georgian,Correct,121,13.98226523399353,41
+"http://dbpedia.org/resource/St._James_Church_(Monkton,_Maryland)",http://dbpedia.org/ontology/nrhpReferenceNumber,74000941,I Don't Know,121,13.98226523399353,41
+http://dbpedia.org/resource/Simon_Blackburn,http://dbpedia.org/ontology/era,http://dbpedia.org/resource/Contemporary_philosophy,Correct,122,4.341339588165283,41
+http://dbpedia.org/resource/Eric_Voegelin,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Tom_Flanagan_(political_scientist),Correct,123,8.574135303497314,41
+http://dbpedia.org/resource/Eric_Voegelin,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Plato,Correct,123,8.574135303497314,41
+http://dbpedia.org/resource/Eric_Voegelin,http://dbpedia.org/ontology/era,http://dbpedia.org/resource/20th-century_philosophy,Correct,123,8.574135303497314,41
+http://dbpedia.org/resource/Eric_Voegelin,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Ellis_Sandoz,Correct,123,8.574135303497314,41
+http://dbpedia.org/resource/Eric_Voegelin,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Othmar_Spann,Correct,123,8.574135303497314,41
+http://dbpedia.org/resource/Anne_Charles_Basset_Montaigu,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Anne_Charles_Basset_Montaigu,Correct,124,10.746781587600708,41
+http://dbpedia.org/resource/Anne_Charles_Basset_Montaigu,http://dbpedia.org/property/name,"Montaigu, Anne Charles Basett",Correct,124,10.746781587600708,41
+http://dbpedia.org/resource/Anne_Charles_Basset_Montaigu,http://dbpedia.org/property/battles,http://dbpedia.org/resource/Napoleonic_Wars,Correct,124,10.746781587600708,41
+http://dbpedia.org/resource/Anne_Charles_Basset_Montaigu,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:People_of_the_French_Revolution,Correct,124,10.746781587600708,41
+http://dbpedia.org/resource/Anne_Charles_Basset_Montaigu,http://xmlns.com/foaf/0.1/name,"Montaigu, Anne Charles Basett",Correct,124,10.746781587600708,41
+http://dbpedia.org/resource/Pythagoras,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Anaximander,Correct,125,22.05478072166443,41
+http://dbpedia.org/resource/Pythagoras,http://dbpedia.org/ontology/era,http://dbpedia.org/resource/Ancient_philosophy,Correct,125,22.05478072166443,41
+http://dbpedia.org/resource/Pythagoras,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Parmenides,Correct,125,22.05478072166443,41
+http://dbpedia.org/resource/Pythagoras,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Johannes_Kepler,Correct,125,22.05478072166443,41
+http://dbpedia.org/resource/Pythagoras,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/Plato,Correct,125,22.05478072166443,41
+http://dbpedia.org/resource/Gerald_Maxwell,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Recipients_of_the_Air_Force_Cross_(United_Kingdom),Correct,126,102.17775392532349,41
+http://dbpedia.org/resource/Gerald_Maxwell,http://dbpedia.org/property/serviceyears,1914,Incorrect,126,102.17775392532349,41
+http://dbpedia.org/resource/Gerald_Maxwell,http://dbpedia.org/property/serviceyears,1939,Incorrect,126,102.17775392532349,41
+http://dbpedia.org/resource/Gerald_Maxwell,http://dbpedia.org/ontology/militaryUnit,http://dbpedia.org/resource/Lovat_Scouts,Correct,126,102.17775392532349,41
+http://dbpedia.org/resource/Gerald_Maxwell,http://dbpedia.org/property/unit,http://dbpedia.org/resource/No._56_Squadron_RAF,Correct,126,102.17775392532349,41
+http://dbpedia.org/resource/Tetje_Mierendorf,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Hamburg,Correct,127,5.445185422897339,41
+http://dbpedia.org/resource/Max_Eckert-Greifendorff,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Chemnitz,Correct,128,31.848910570144653,41
+http://dbpedia.org/resource/Max_Eckert-Greifendorff,http://www.w3.org/2000/01/rdf-schema#label,Max Eckert-Greifendorff,Correct,128,31.848910570144653,41
+http://dbpedia.org/resource/Chinese_Pavilion_at_Drottningholm,http://dbpedia.org/property/location,http://dbpedia.org/resource/Ekerö_Municipality,Correct,129,21.326907634735107,41
+http://dbpedia.org/resource/Chinese_Pavilion_at_Drottningholm,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Historic_house_museums_in_Sweden,Correct,129,21.326907634735107,41
+http://dbpedia.org/resource/Chinese_Pavilion_at_Drottningholm,http://dbpedia.org/property/visitationYear,2010,I Don't Know,129,21.326907634735107,41
+http://dbpedia.org/resource/Chinese_Pavilion_at_Drottningholm,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Kina_slott_2012a.jpg?width=300,Correct,129,21.326907634735107,41
+http://dbpedia.org/resource/Chinese_Pavilion_at_Drottningholm,http://dbpedia.org/property/caption,"The Chinese Pavilion, northern facade, 2012.",Correct,129,21.326907634735107,41
+http://dbpedia.org/resource/The_Truth_(1960_film),http://xmlns.com/foaf/0.1/name,The Truth (La Vérité),Correct,130,55.09648489952088,41
+http://dbpedia.org/resource/The_Truth_(1960_film),http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Charles_Vanel,Correct,130,55.09648489952088,41
+http://dbpedia.org/resource/The_Truth_(1960_film),http://dbpedia.org/property/caption,Film poster,Correct,130,55.09648489952088,41
+http://dbpedia.org/resource/The_Truth_(1960_film),http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Correct,130,55.09648489952088,41
+http://dbpedia.org/resource/William_O'Donovan_(politician),http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Tonbridge,Correct,131,54.587398052215576,41
+http://dbpedia.org/resource/William_O'Donovan_(politician),http://dbpedia.org/property/name,"Odonovan, William",Correct,131,54.587398052215576,41
+http://dbpedia.org/resource/William_O'Donovan_(politician),http://dbpedia.org/property/dateOfBirth,1886,Correct,131,54.587398052215576,41
+http://dbpedia.org/resource/William_O'Donovan_(politician),http://dbpedia.org/property/placeOfBirth,Tonbridge,Correct,131,54.587398052215576,41
+http://dbpedia.org/resource/William_O'Donovan_(politician),http://dbpedia.org/ontology/deathDate,1955-01-13,Correct,131,54.587398052215576,41
+http://dbpedia.org/resource/Dumb_Shit,http://dbpedia.org/property/writer,http://dbpedia.org/resource/Snoop_Dogg,Correct,132,16.91950011253357,41
+http://dbpedia.org/resource/Dumb_Shit,http://dbpedia.org/ontology/writer,http://dbpedia.org/resource/Snoop_Dogg,Correct,132,16.91950011253357,41

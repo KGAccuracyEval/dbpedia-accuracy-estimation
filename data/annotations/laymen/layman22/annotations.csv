@@ -1,0 +1,449 @@
+Subject,Predicate,Object,Annotation,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/Yoshio_Nishina,http://dbpedia.org/ontology/award,http://dbpedia.org/resource/Asahi_Prize,Correct,0,1460.289590358734,10
+http://dbpedia.org/resource/Yoshio_Nishina,http://dbpedia.org/ontology/notableStudent,http://dbpedia.org/resource/Hideki_Yukawa,Correct,0,1460.289590358734,10
+http://dbpedia.org/resource/Yoshio_Nishina,http://dbpedia.org/ontology/notableStudent,http://dbpedia.org/resource/Sin-Itiro_Tomonaga,Correct,0,1460.289590358734,10
+http://dbpedia.org/resource/Yoshio_Nishina,http://dbpedia.org/ontology/notableStudent,http://dbpedia.org/resource/Shoichi_Sakata,Correct,0,1460.289590358734,10
+http://dbpedia.org/resource/Yoshio_Nishina,http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Satoshō,_Okayama",Correct,0,1460.289590358734,10
+http://dbpedia.org/resource/International_Surf_Lifesaving_Association,http://dbpedia.org/property/name,Articles for creation/International Surf Lifesaving Association,I Don't Know,1,957.0119950771332,10
+http://dbpedia.org/resource/International_Surf_Lifesaving_Association,http://dbpedia.org/property/content,"Huntington Beach, California, USA",Incorrect,1,957.0119950771332,10
+http://dbpedia.org/resource/International_Surf_Lifesaving_Association,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Organization,Incorrect,1,957.0119950771332,10
+http://dbpedia.org/resource/International_Surf_Lifesaving_Association,http://dbpedia.org/property/heading,Region served,Incorrect,1,957.0119950771332,10
+http://dbpedia.org/resource/International_Surf_Lifesaving_Association,http://www.w3.org/2000/01/rdf-schema#comment,"The International Surf Lifesaving Association (ISLA) is a nonprofit organization that advances professional lifesaving development to areas in need around the globe. ISLA uses latest technology to identify areas in need. ISLA advances development through lifeguard training programs and aquatic rescue operation consults, lifeguard exchanges, equipment donations, and by integrating with drowning prevention organizations to share information, techniques, stories, and culture.",Correct,1,957.0119950771332,10
+http://dbpedia.org/resource/Chung_Hwa_Middle_School,http://dbpedia.org/property/postalcode,BS8670,Correct,2,2084.9504957199097,10
+http://dbpedia.org/resource/Chung_Hwa_Middle_School,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Educational_institutions_established_in_1922,Correct,2,2084.9504957199097,10
+http://dbpedia.org/resource/Chung_Hwa_Middle_School,http://dbpedia.org/ontology/language,http://dbpedia.org/resource/Chinese_language,Correct,2,2084.9504957199097,10
+http://dbpedia.org/resource/Chung_Hwa_Middle_School,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/School,Incorrect,2,2084.9504957199097,10
+http://dbpedia.org/resource/Chung_Hwa_Middle_School,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Schools_needing_cleanup,I Don't Know,2,2084.9504957199097,10
+http://dbpedia.org/resource/The_Lost_World_of_Mr._Hardy,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Incorrect,3,275.6219062805176,10
+http://dbpedia.org/resource/The_Lost_World_of_Mr._Hardy,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:British_films,Correct,3,275.6219062805176,10
+http://dbpedia.org/resource/The_Lost_World_of_Mr._Hardy,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_films,I Don't Know,3,275.6219062805176,10
+http://dbpedia.org/resource/The_Lost_World_of_Mr._Hardy,http://dbpedia.org/property/language,English,Correct,3,275.6219062805176,10
+http://dbpedia.org/resource/The_Lost_World_of_Mr._Hardy,http://dbpedia.org/property/country,United Kingdom,Correct,3,275.6219062805176,10
+http://dbpedia.org/resource/Gina_Torres,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/New_York_City,Correct,4,178.99887943267822,10
+http://dbpedia.org/resource/Gina_Torres,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Gina_Torres__1,Incorrect,4,178.99887943267822,10
+http://dbpedia.org/resource/Gina_Torres,http://xmlns.com/foaf/0.1/name,Gina Torres,Correct,4,178.99887943267822,10
+http://dbpedia.org/resource/Gina_Torres,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/New_York,Correct,4,178.99887943267822,10
+http://dbpedia.org/resource/Gina_Torres,http://xmlns.com/foaf/0.1/name,Gina Fernando Torres,Incorrect,4,178.99887943267822,10
+http://dbpedia.org/resource/Sentrigo,http://dbpedia.org/property/industry,http://dbpedia.org/resource/Software_&_Programming,Correct,5,721.0405683517456,10
+http://dbpedia.org/resource/Sentrigo,http://dbpedia.org/property/industry,http://dbpedia.org/resource/Software,Correct,5,721.0405683517456,10
+http://dbpedia.org/resource/Sentrigo,http://dbpedia.org/property/products,vPatch;,Correct,5,721.0405683517456,10
+http://dbpedia.org/resource/Sentrigo,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/United_States,Correct,5,721.0405683517456,10
+http://dbpedia.org/resource/Sentrigo,http://dbpedia.org/ontology/location,"http://dbpedia.org/resource/Santa_Clara,_California",Correct,5,721.0405683517456,10
+http://dbpedia.org/resource/Ohorongo_Cement,http://xmlns.com/foaf/0.1/homepage,http://www.ohorongo-cement.com,Correct,6,502.44331455230713,10
+http://dbpedia.org/resource/Ohorongo_Cement,http://dbpedia.org/ontology/industry,http://dbpedia.org/resource/Cement,Correct,6,502.44331455230713,10
+http://dbpedia.org/resource/Ohorongo_Cement,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Windhoek,Correct,6,502.44331455230713,10
+http://dbpedia.org/resource/Ohorongo_Cement,http://dbpedia.org/property/keyPeople,"Gerhard Hirth, Klaus Bauer, Peter Frank Koep",I Don't Know,6,502.44331455230713,10
+http://dbpedia.org/resource/Ohorongo_Cement,http://dbpedia.org/property/industry,http://dbpedia.org/resource/Cement,Correct,6,502.44331455230713,10
+http://dbpedia.org/resource/Newton_Running,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Shoe_companies_of_the_United_States,Correct,7,178.90217995643616,10
+http://dbpedia.org/resource/Newton_Running,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Privately_held_company,Correct,7,178.90217995643616,10
+http://dbpedia.org/resource/Newton_Running,http://xmlns.com/foaf/0.1/name,Newton Running,Correct,7,178.90217995643616,10
+http://dbpedia.org/resource/Newton_Running,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Manufacturer,Incorrect,7,178.90217995643616,10
+http://dbpedia.org/resource/Newton_Running,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Shoe_brands,Correct,7,178.90217995643616,10
+http://dbpedia.org/resource/Miss_USA_1990,http://dbpedia.org/ontology/abstract,"Miss USA 1990, the 39th Miss USA pageant, was televised live from the Century II Convention Center in Wichita, Kansas on March 2, 1990.  At the conclusion of the final competition, Carole Gist of Michigan was crowned by outgoing titleholder Gretchen Polhemus of Texas. Carole became the first African American winner ever and the first woman from Michigan to be crowned as Miss USA.For the first time, each judge's score was displayed to every audience, adding transparency to the process.A major format change in 1990 transformed the Miss USA competition for the next decade: the delegates would face an extra round of elimination on finals night: the top six judges' questions.Instead of reducing the top twelve to the usual final five, the judges would pick an intermediate top six. Those six finalists would answer questions from the judges and the field was reduced to a final three, who would face the traditional final question, adding unpredictability to the competition after five Texan Miss USA winners from GuyRex Associates, which would lose its Miss Texas USA franchise the next year.The pageant was hosted by Dick Clark for the second of five times, with color commentary by Leeza Gibbons and Laura Harring, Miss USA 1985. This was the first time the pageant was held in Wichita, where it would be staged for the next three years.",Correct,8,1313.1014552116394,10
+http://dbpedia.org/resource/Miss_USA_1990,http://dbpedia.org/property/broadcaster,http://dbpedia.org/resource/KWCH,Correct,8,1313.1014552116394,10
+http://dbpedia.org/resource/Miss_USA_1990,http://xmlns.com/foaf/0.1/homepage,http://www.missusa.com/,I Don't Know,8,1313.1014552116394,10
+http://dbpedia.org/resource/Miss_USA_1990,http://dbpedia.org/property/photogenic,Stephanie Teneyck,Correct,8,1313.1014552116394,10
+http://dbpedia.org/resource/Miss_USA_1990,http://dbpedia.org/property/presenters,"Dick Clark, Leeza Gibbons and Laura Harring",Correct,8,1313.1014552116394,10
+"http://dbpedia.org/resource/Sir_John_Anderson,_1st_Baronet,_of_Harrold_Priory",http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Scottish_businesspeople,Correct,9,10219.770577669144,10
+"http://dbpedia.org/resource/Sir_John_Anderson,_1st_Baronet,_of_Harrold_Priory",http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1963_deaths,Correct,9,10219.770577669144,10
+"http://dbpedia.org/resource/Sir_John_Anderson,_1st_Baronet,_of_Harrold_Priory",http://xmlns.com/foaf/0.1/surname,Anderson,Correct,9,10219.770577669144,10
+"http://dbpedia.org/resource/Sir_John_Anderson,_1st_Baronet,_of_Harrold_Priory",http://dbpedia.org/property/shortDescription,"Scottish businessman, writer and lecturer.",Correct,9,10219.770577669144,10
+"http://dbpedia.org/resource/Sir_John_Anderson,_1st_Baronet,_of_Harrold_Priory",http://dbpedia.org/property/name,"Anderson, John",Correct,9,10219.770577669144,10
+http://dbpedia.org/resource/Newhaven_Harbour_railway_station,http://dbpedia.org/property/platforms,2,Correct,10,367.370680809021,10
+http://dbpedia.org/resource/Newhaven_Harbour_railway_station,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-railway_station-noun-1,I Don't Know,10,367.370680809021,10
+http://dbpedia.org/resource/Newhaven_Harbour_railway_station,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Lewes,Correct,10,367.370680809021,10
+http://dbpedia.org/resource/Newhaven_Harbour_railway_station,http://dbpedia.org/property/symbol,rail,Correct,10,367.370680809021,10
+http://dbpedia.org/resource/Newhaven_Harbour_railway_station,http://dbpedia.org/ontology/district,http://dbpedia.org/resource/Lewes_(district),Correct,10,367.370680809021,10
+http://dbpedia.org/resource/H._H._Asquith,http://dbpedia.org/ontology/primeMinister,http://dbpedia.org/resource/Bonar_Law,I Don't Know,11,235523.56455087665,10
+http://dbpedia.org/resource/H._H._Asquith,http://dbpedia.org/ontology/primeMinister,http://dbpedia.org/resource/David_Lloyd_George,I Don't Know,11,235523.56455087665,10
+http://dbpedia.org/resource/H._H._Asquith,http://dbpedia.org/property/primeminister,http://dbpedia.org/resource/David_Lloyd_George,Incorrect,11,235523.56455087665,10
+http://dbpedia.org/resource/H._H._Asquith,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/West_Riding_of_Yorkshire,Correct,11,235523.56455087665,10
+http://dbpedia.org/resource/H._H._Asquith,http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Morley,_West_Yorkshire",Correct,11,235523.56455087665,10
+http://dbpedia.org/resource/Britannia_Industries,http://dbpedia.org/ontology/product,http://dbpedia.org/resource/Biscuit,Correct,12,210.7730574607849,13
+http://dbpedia.org/resource/Britannia_Industries,http://dbpedia.org/ontology/internationally,1,I Don't Know,12,210.7730574607849,13
+http://dbpedia.org/resource/Britannia_Industries,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Britannia_Industries,I Don't Know,12,210.7730574607849,13
+http://dbpedia.org/resource/Britannia_Industries,http://dbpedia.org/property/keyPeople,Nusli Wadia,Correct,12,210.7730574607849,13
+http://dbpedia.org/resource/Britannia_Industries,http://dbpedia.org/property/intl,yes,I Don't Know,12,210.7730574607849,13
+http://dbpedia.org/resource/Stone_Poneys,http://dbpedia.org/property/pastMembers,Bill Martin,Correct,13,2198.331843852997,13
+http://dbpedia.org/resource/Stone_Poneys,http://dbpedia.org/property/pastMembers,http://dbpedia.org/resource/Linda_Ronstadt,Correct,13,2198.331843852997,13
+http://dbpedia.org/resource/Stone_Poneys,http://dbpedia.org/property/pastMembers,Kit Alderson,Correct,13,2198.331843852997,13
+http://dbpedia.org/resource/Stone_Poneys,http://dbpedia.org/property/pastMembers,Shep Cooke,Correct,13,2198.331843852997,13
+http://dbpedia.org/resource/Stone_Poneys,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Country_rock,Correct,13,2198.331843852997,13
+http://dbpedia.org/resource/Construcciones_Aeronáuticas_SA,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Spain,Correct,14,32.40575838088989,13
+http://dbpedia.org/resource/The_Sky_Ranger,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Black-and-white_films,Correct,15,297.06564807891846,13
+http://dbpedia.org/resource/The_Sky_Ranger,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-movie-noun-1,Correct,15,297.06564807891846,13
+http://dbpedia.org/resource/The_Sky_Ranger,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,15,297.06564807891846,13
+http://dbpedia.org/resource/The_Sky_Ranger,http://dbpedia.org/property/country,United States,Correct,15,297.06564807891846,13
+http://dbpedia.org/resource/The_Sky_Ranger,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_comedy_films,Incorrect,15,297.06564807891846,13
+http://dbpedia.org/resource/Diardi,http://dbpedia.org/ontology/abstract,Diardi is a sports car manufactured in Turkey by the Çenberci Group.,Correct,16,81128.49786949158,13
+http://dbpedia.org/resource/Diardi,http://www.w3.org/2000/01/rdf-schema#label,Diardi,Correct,16,81128.49786949158,13
+http://dbpedia.org/resource/Diardi,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Narlıdere,I Don't Know,16,81128.49786949158,13
+http://dbpedia.org/resource/Diardi,http://www.w3.org/2000/01/rdf-schema#comment,Diardi is a sports car manufactured in Turkey by the Çenberci Group.,Correct,16,81128.49786949158,13
+http://dbpedia.org/resource/Diardi,http://xmlns.com/foaf/0.1/name,DIARDI,Correct,16,81128.49786949158,13
+http://dbpedia.org/resource/Dublin_North_(Dáil_Éireann_constituency),http://dbpedia.org/property/name,http://dbpedia.org/resource/Denis_Cullen,Incorrect,17,252.5531940460205,14
+http://dbpedia.org/resource/Dublin_North_(Dáil_Éireann_constituency),http://dbpedia.org/property/name,http://dbpedia.org/resource/G._V._Wright,Correct,17,252.5531940460205,14
+http://dbpedia.org/resource/Dublin_North_(Dáil_Éireann_constituency),http://dbpedia.org/property/name,http://dbpedia.org/resource/Kathleen_Clarke,Incorrect,17,252.5531940460205,14
+http://dbpedia.org/resource/Dublin_North_(Dáil_Éireann_constituency),http://dbpedia.org/property/name,http://dbpedia.org/resource/Alan_Farrell,Incorrect,17,252.5531940460205,14
+http://dbpedia.org/resource/Dublin_North_(Dáil_Éireann_constituency),http://dbpedia.org/property/name,http://dbpedia.org/resource/William_Hewat,Incorrect,17,252.5531940460205,14
+http://dbpedia.org/resource/K1_Speed,http://dbpedia.org/ontology/locationCity,"http://dbpedia.org/resource/Carlsbad,_California",Correct,18,440.2919600009918,14
+http://dbpedia.org/resource/K1_Speed,http://dbpedia.org/ontology/regionServed,http://dbpedia.org/resource/Southern_California,Correct,18,440.2919600009918,14
+http://dbpedia.org/resource/K1_Speed,http://www.w3.org/2000/01/rdf-schema#label,K1 Speed,Correct,18,440.2919600009918,14
+http://dbpedia.org/resource/Ibrahim_Pasha_of_Egypt,http://dbpedia.org/ontology/placeOfBurial,http://dbpedia.org/resource/Cairo,Correct,19,46.198081493377686,14
+http://dbpedia.org/resource/Ibrahim_Pasha_of_Egypt,http://dbpedia.org/ontology/placeOfBurial,http://dbpedia.org/resource/Egypt,Correct,19,46.198081493377686,14
+http://dbpedia.org/resource/Alfred_Menezes,http://www.w3.org/2000/01/rdf-schema#label,Alfred Menezes,Correct,20,13.690444707870483,14
+http://dbpedia.org/resource/Little_Red_Riding_Hood's_Zombie_BBQ,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2008_video_games,Correct,21,179.59687113761902,14
+http://dbpedia.org/resource/Little_Red_Riding_Hood's_Zombie_BBQ,http://xmlns.com/foaf/0.1/homepage,http://www.gammickentertainment.com/zombie,Incorrect,21,179.59687113761902,14
+http://dbpedia.org/resource/Little_Red_Riding_Hood's_Zombie_BBQ,http://dbpedia.org/property/released,--10-21,I Don't Know,21,179.59687113761902,14
+http://dbpedia.org/resource/Little_Red_Riding_Hood's_Zombie_BBQ,http://dbpedia.org/property/platforms,"Nintendo DS, Nintendo DSi",Correct,21,179.59687113761902,14
+http://dbpedia.org/resource/Little_Red_Riding_Hood's_Zombie_BBQ,http://dbpedia.org/property/developer,EnjoyUp,Correct,21,179.59687113761902,14
+http://dbpedia.org/resource/Neil_Simon's_I_Ought_to_Be_in_Pictures,http://dbpedia.org/ontology/director,http://dbpedia.org/resource/Herbert_Ross,Correct,22,89.3505117893219,14
+http://dbpedia.org/resource/Bunker_Bean,http://dbpedia.org/property/country,United States,Correct,23,155.14784336090088,14
+http://dbpedia.org/resource/Bunker_Bean,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Incorrect,23,155.14784336090088,14
+http://dbpedia.org/resource/Bunker_Bean,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,23,155.14784336090088,14
+http://dbpedia.org/resource/Bunker_Bean,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-movie-noun-1,Correct,23,155.14784336090088,14
+http://dbpedia.org/resource/Lee_Hyeri,http://dbpedia.org/ontology/birthDate,1994-06-09,Correct,24,46.02618074417114,14
+http://dbpedia.org/resource/John_Richardson_(drummer),http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Musicians_from_Champaign,_Illinois",Correct,25,460.64408898353577,15
+http://dbpedia.org/resource/John_Richardson_(drummer),http://dbpedia.org/ontology/associatedBand,http://dbpedia.org/resource/Tommy_Keene,Incorrect,25,460.64408898353577,15
+http://dbpedia.org/resource/John_Richardson_(drummer),http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/JRLiverpoolKit.jpg?width=300,I Don't Know,25,460.64408898353577,15
+http://dbpedia.org/resource/John_Richardson_(drummer),http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/John_Richardson_(drummer),Correct,25,460.64408898353577,15
+http://dbpedia.org/resource/John_Richardson_(drummer),http://dbpedia.org/ontology/associatedBand,http://dbpedia.org/resource/Adam_Schmitt,Incorrect,25,460.64408898353577,15
+http://dbpedia.org/resource/Westminster_School,http://dbpedia.org/property/chairLabel,Chairman of Governors,I Don't Know,26,307.22516655921936,15
+http://dbpedia.org/resource/Westminster_School,http://dbpedia.org/ontology/foundedBy,http://dbpedia.org/resource/Henry_VIII_of_England,Incorrect,26,307.22516655921936,15
+http://dbpedia.org/resource/Westminster_School,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Member_schools_of_the_Headmasters'_and_Headmistresses'_Conference,I Don't Know,26,307.22516655921936,15
+http://dbpedia.org/resource/Westminster_School,http://dbpedia.org/property/houses,Milne's,Correct,26,307.22516655921936,15
+http://dbpedia.org/resource/Westminster_School,http://dbpedia.org/ontology/abstract,"The Royal College of St Peter in Westminster, better known as Westminster School, is an independent school within in the precincts of Westminster Abbey in England. It has the highest Oxford and Cambridge acceptance rates of any secondary school or college in the world. With a history going back to the 14th century, the school's alumni include Ben Jonson, John Dryden, Robert Hooke, Sir Christopher Wren, John Locke, Jeremy Bentham, Edward Gibbon, Henry Mayhew, A. A. Milne, Sir Peter Ustinov, Tony Benn and seven Prime Ministers. Boys are admitted to the Under School at age seven, and to the senior school at age thirteen; girls are admitted only at sixteen. The school has around 750 pupils; around a quarter are boarders, most of whom go home at weekends, after Saturday morning school. It is one of the original nine British public schools (the so-called 'Clarendon Schools') as defined by the Public Schools Act 1868. Charging up to £7,800 for day pupils per term and £11,264 for boarders per term in 2014/15, Westminster is the 13th most expensive HMC day school and 10th most expensive HMC boarding school in the UK.",Correct,26,307.22516655921936,15
+http://dbpedia.org/resource/GIMP,http://dbpedia.org/property/author,http://dbpedia.org/resource/Spencer_Kimball_(computer_programmer),Correct,27,444.384024143219,15
+http://dbpedia.org/resource/GIMP,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Raster_graphics_editor,Correct,27,444.384024143219,15
+http://dbpedia.org/resource/GIMP,http://dbpedia.org/property/operatingSystem,http://dbpedia.org/resource/OpenBSD,Correct,27,444.384024143219,15
+http://dbpedia.org/resource/GIMP,http://dbpedia.org/ontology/operatingSystem,http://dbpedia.org/resource/OpenBSD,Correct,27,444.384024143219,15
+http://dbpedia.org/resource/GIMP,http://dbpedia.org/property/developer,The GIMP Development Team,Correct,27,444.384024143219,15
+http://dbpedia.org/resource/Southwest_Airlines,http://dbpedia.org/ontology/abstract,"Southwest Airlines Co. (NYSE: LUV) is a major U.S. airline and the world's largest low-cost carrier, headquartered in Dallas, Texas. The airline was established in 1967 and adopted its current name in 1971. The airline has nearly 46,000 employees as of December 2014 and operates more than 3,400 flights per day. As of June 5, 2011, it carries the most domestic passengers of any U.S. airline. As of November 2014, Southwest Airlines has scheduled service to 93 destinations in 41 states, Puerto Rico, and abroad.Southwest Airlines has used only Boeing 737s, except for several years in the 1970s and 1980s, when it leased some Boeing 727s from Braniff. As of August 2012, Southwest is the largest operator of the 737 worldwide with over 650 in service, each averaging six flights per day.As an employer, Southwest was ranked #15 in the Glassdoor Employees’ Choice Awards 2015.",Correct,28,565.6317586898804,15
+http://dbpedia.org/resource/Southwest_Airlines,http://dbpedia.org/ontology/operatingIncome,2.23E9,Correct,28,565.6317586898804,15
+http://dbpedia.org/resource/Southwest_Airlines,http://dbpedia.org/property/frequentFlyer,http://dbpedia.org/resource/Southwest_Airlines,Incorrect,28,565.6317586898804,15
+http://dbpedia.org/resource/Southwest_Airlines,http://dbpedia.org/ontology/icaoAirlineCode,SWA,Correct,28,565.6317586898804,15
+http://dbpedia.org/resource/Southwest_Airlines,http://dbpedia.org/ontology/numberOfEmployees,47000,Correct,28,565.6317586898804,15
+http://dbpedia.org/resource/January_07003:_Bell_Studies_for_the_Clock_of_the_Long_Now,http://dbpedia.org/ontology/artist,http://dbpedia.org/resource/Brian_Eno,Correct,29,145.28442192077637,15
+http://dbpedia.org/resource/January_07003:_Bell_Studies_for_the_Clock_of_the_Long_Now,http://dbpedia.org/property/genre,http://dbpedia.org/resource/Ambient_music,Correct,29,145.28442192077637,15
+http://dbpedia.org/resource/January_07003:_Bell_Studies_for_the_Clock_of_the_Long_Now,http://dbpedia.org/property/artist,http://dbpedia.org/resource/Brian_Eno,Correct,29,145.28442192077637,15
+http://dbpedia.org/resource/January_07003:_Bell_Studies_for_the_Clock_of_the_Long_Now,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Ambient_music,Correct,29,145.28442192077637,15
+http://dbpedia.org/resource/January_07003:_Bell_Studies_for_the_Clock_of_the_Long_Now,http://dbpedia.org/ontology/producer,http://dbpedia.org/resource/Brian_Eno,Correct,29,145.28442192077637,15
+http://dbpedia.org/resource/Sky_Italia,http://xmlns.com/foaf/0.1/name,Sky Italia,Correct,30,56122.97543430328,15
+http://dbpedia.org/resource/Sky_Italia,http://dbpedia.org/ontology/foundingYear,2003,Correct,30,56122.97543430328,15
+http://dbpedia.org/resource/Sky_Italia,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Companies_established_in_2003,Correct,30,56122.97543430328,15
+http://dbpedia.org/resource/Sky_Italia,http://xmlns.com/foaf/0.1/homepage,http://www.sky.it/,I Don't Know,30,56122.97543430328,15
+http://dbpedia.org/resource/Sky_Italia,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Limited_liability_company,Correct,30,56122.97543430328,15
+http://dbpedia.org/resource/MotorStorm,http://dbpedia.org/property/modes,http://dbpedia.org/resource/Single-player_video_game,Correct,31,149.34423875808716,16
+http://dbpedia.org/resource/MotorStorm,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Game,Incorrect,31,149.34423875808716,16
+http://dbpedia.org/resource/MotorStorm,http://dbpedia.org/property/mc,82,I Don't Know,31,149.34423875808716,16
+http://dbpedia.org/resource/MotorStorm,http://dbpedia.org/property/gspot,7.9,I Don't Know,31,149.34423875808716,16
+http://dbpedia.org/resource/MotorStorm,http://dbpedia.org/property/developer,http://dbpedia.org/resource/Evolution_Studios,Correct,31,149.34423875808716,16
+http://dbpedia.org/resource/Savyasachi_(film),http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Incorrect,32,6.198458194732666,16
+http://dbpedia.org/resource/Smart_Personal_Objects_Technology,http://dbpedia.org/ontology/abstract,"The Smart Personal Objects Technology (SPOT) is a discontinued initiative by Microsoft to create intelligent and personal home appliances, consumer electronics, and other objects through new hardware capabilities and software features.Development of SPOT began as an incubation project initiated by the Microsoft Research division. SPOT was first announced by Bill Gates at the COMDEX computer exposition event in 2002, and additional details were revealed by Microsoft at the 2003 Consumer Electronics Show where Gates demonstrated a set of prototype smart watches—the first type of device that would support the technology.  Unlike more recent technologies, SPOT did not use more traditional forms of connectivity, such as 3G or Wi-Fi, but relied on FM broadcasting subcarrier transmission as a method of data distribution. While several other electronics would be created that supported the technology throughout its lifecyle, SPOT was considered a commercial failure. Reasons that have been cited for its failure include its subscription-based business model, support limited to North America, the emergence of more efficient and popular forms of data distribution, and mobile feature availability that surpasses the features that SPOT offered.",Correct,33,465.3710675239563,16
+http://dbpedia.org/resource/Smart_Personal_Objects_Technology,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Smartphones,Incorrect,33,465.3710675239563,16
+http://dbpedia.org/resource/Smart_Personal_Objects_Technology,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Microsoft_initiatives,Correct,33,465.3710675239563,16
+http://dbpedia.org/resource/Smart_Personal_Objects_Technology,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2002_introductions,Correct,33,465.3710675239563,16
+http://dbpedia.org/resource/Smart_Personal_Objects_Technology,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/Melitta_ME1MSB_Smart_Mill_and_Brew_with_SPOT.jpeg,Correct,33,465.3710675239563,16
+http://dbpedia.org/resource/Paessler,http://dbpedia.org/property/foundation,"http://dbpedia.org/resource/Nuremberg,_Germany",Correct,34,750.1873044967651,16
+http://dbpedia.org/resource/Paessler,http://dbpedia.org/ontology/product,http://dbpedia.org/resource/PRTG_Network_Monitor,Correct,34,750.1873044967651,16
+http://dbpedia.org/resource/Paessler,http://dbpedia.org/property/location,"http://dbpedia.org/resource/Nuremberg,_Germany",Correct,34,750.1873044967651,16
+http://dbpedia.org/resource/Paessler,http://dbpedia.org/property/homepage,http://www.paessler.com/,I Don't Know,34,750.1873044967651,16
+http://dbpedia.org/resource/Paessler,http://dbpedia.org/property/products,http://dbpedia.org/resource/PRTG_Network_Monitor,Correct,34,750.1873044967651,16
+http://dbpedia.org/resource/Pizza_73,http://dbpedia.org/property/name,Pizza 73,Correct,35,231.451425075531,16
+http://dbpedia.org/resource/Pizza_73,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Pizza_73,Incorrect,35,231.451425075531,16
+http://dbpedia.org/resource/Pizza_73,http://dbpedia.org/ontology/abstract,"Pizza 73 is a Canadian restaurant chain that offers a number of different styles of pizza, along with chicken wings. It has been operated by Pizza Pizza since 2007. Toronto-based Pizza Pizza had acquired the restaurant for a total of $CAN70.2 million. There are 89 locations throughout Western Canada, which include the provinces of British Columbia, Alberta, and Saskatchewan. The restaurant's name originates from its original phone number: 473–7373. Founded by David Tougas and Guy Goodwin in 1985, Pizza 73 is headquartered in Edmonton, Alberta, Canada, with Michael Overs serving as the restaurant's chairman.It was the first delivery chain in Western Canada that provided a centralized call center, allowing customers to order their meal by phone; Pizza 73 has allowed orders online by the internet since 1995. The restaurant has been recognized as one of Canada's 50 best managed services, and one of Alberta's 50 fastest growing companies by Alberta Venture. On August 18, 2011, Pizza 73 launched its iPhone application, thus allowing potential customers a new way to order food.",Incorrect,35,231.451425075531,16
+http://dbpedia.org/resource/Pizza_73,http://dbpedia.org/ontology/numberOfLocations,89,Incorrect,35,231.451425075531,16
+http://dbpedia.org/resource/Pizza_73,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Pizza_73,Correct,35,231.451425075531,16
+http://dbpedia.org/resource/Avant_Window_Navigator,http://dbpedia.org/ontology/license,http://dbpedia.org/resource/GNU_General_Public_License,Correct,36,751.411052942276,16
+http://dbpedia.org/resource/Avant_Window_Navigator,http://dbpedia.org/ontology/license,http://dbpedia.org/resource/Creative_Commons_license,Correct,36,751.411052942276,16
+http://dbpedia.org/resource/Avant_Window_Navigator,http://dbpedia.org/ontology/license,http://dbpedia.org/resource/GNU_Lesser_General_Public_License,Incorrect,36,751.411052942276,16
+http://dbpedia.org/resource/Haiku_D'Etat,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,37,88.46076965332031,16
+http://dbpedia.org/resource/Ronneby_Municipality,http://dbpedia.org/property/subdivisionName,Sweden,Incorrect,38,484.505099773407,16
+http://dbpedia.org/resource/Ronneby_Municipality,http://dbpedia.org/property/utcOffset,+1,I Don't Know,38,484.505099773407,16
+http://dbpedia.org/resource/Ronneby_Municipality,http://dbpedia.org/property/coordinatesDisplay,"inline,title",I Don't Know,38,484.505099773407,16
+http://dbpedia.org/resource/Ronneby_Municipality,http://dbpedia.org/property/areaNote,Area as of .,Incorrect,38,484.505099773407,16
+http://dbpedia.org/resource/Ronneby_Municipality,http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/List_of_sovereign_states,Incorrect,38,484.505099773407,16
+http://dbpedia.org/resource/Kenji_Fujimori,http://xmlns.com/foaf/0.1/homepage,http://www.kenjifujimori.com.pe/,I Don't Know,39,295.633935213089,16
+http://dbpedia.org/resource/Kenji_Fujimori,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Kenji_Fujimori,Correct,39,295.633935213089,16
+http://dbpedia.org/resource/Kenji_Fujimori,http://xmlns.com/foaf/0.1/surname,Fujimori,Correct,39,295.633935213089,16
+http://dbpedia.org/resource/Kenji_Fujimori,http://xmlns.com/foaf/0.1/givenName,Kenji,Correct,39,295.633935213089,16
+http://dbpedia.org/resource/Kenji_Fujimori,http://www.w3.org/2000/01/rdf-schema#comment,"Kenji Gerardo Fujimori Higuchi (Japanese: 藤森 健二, born 19 May 1980 in Lima) is a Peruvian businessman and fujimorist politician. He is the son of Alberto Fujimori who was the President of Peru from 1990 to 2001, and the brother of Fuerza 2011 leader Keiko Fujimori.",Correct,39,295.633935213089,16
+http://dbpedia.org/resource/The_Penguins_of_Madagascar,http://dbpedia.org/ontology/distributor,http://dbpedia.org/resource/20th_Television,Correct,40,89.43087959289551,16
+http://dbpedia.org/resource/The_Penguins_of_Madagascar,http://dbpedia.org/property/showName,The Penguins of Madagascar,Correct,40,89.43087959289551,16
+http://dbpedia.org/resource/The_Penguins_of_Madagascar,http://dbpedia.org/property/starring,*,Incorrect,40,89.43087959289551,16
+http://dbpedia.org/resource/The_Penguins_of_Madagascar,http://dbpedia.org/property/network,http://dbpedia.org/resource/Nickelodeon,I Don't Know,40,89.43087959289551,16
+http://dbpedia.org/resource/The_Penguins_of_Madagascar,http://dbpedia.org/property/composer,http://dbpedia.org/resource/Adam_Berry,I Don't Know,40,89.43087959289551,16
+http://dbpedia.org/resource/Birth_of_a_Notion_(film),http://www.w3.org/2000/01/rdf-schema#comment,"Birth of a Notion is a Looney Tunes cartoon animated in 1946 and released in 1947.  It was reissued as a Blue Ribbon Merrie Melodies cartoon, with the ending theme song still being that of the Looney Tunes cartoon.  It features Daffy Duck, as well as a dog named Leopold and an unnamed mad scientist. Director Robert McKimson used his ""Barnyard Dawg"" character design as Leopold, while the scientist is a caricature, both visually and vocally, of Peter Lorre.",Correct,41,418.9752726554871,16
+http://dbpedia.org/resource/Birth_of_a_Notion_(film),http://dbpedia.org/property/animator,Fred Jones,Correct,41,418.9752726554871,16
+http://dbpedia.org/resource/Birth_of_a_Notion_(film),http://dbpedia.org/ontology/series,http://dbpedia.org/resource/Looney_Tunes,Correct,41,418.9752726554871,16
+http://dbpedia.org/resource/Birth_of_a_Notion_(film),http://dbpedia.org/property/storyArtist,http://dbpedia.org/resource/Warren_Foster,Correct,41,418.9752726554871,16
+http://dbpedia.org/resource/Birth_of_a_Notion_(film),http://dbpedia.org/property/producer,http://dbpedia.org/resource/Edward_Selzer,Correct,41,418.9752726554871,16
+http://dbpedia.org/resource/Bordertown_(2006_film),http://dbpedia.org/ontology/distributor,http://dbpedia.org/resource/ThinkFilm,Correct,42,168900.33371019363,16
+http://dbpedia.org/resource/Bordertown_(2006_film),http://dbpedia.org/property/distributor,http://dbpedia.org/resource/THINKFilm,Correct,42,168900.33371019363,16
+http://dbpedia.org/resource/Bordertown_(2006_film),http://dbpedia.org/ontology/distributor,http://dbpedia.org/resource/Capitol_Films,Correct,42,168900.33371019363,16
+http://dbpedia.org/resource/Bordertown_(2006_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,42,168900.33371019363,16
+http://dbpedia.org/resource/Bordertown_(2006_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_films,Correct,42,168900.33371019363,16
+http://dbpedia.org/resource/PRTM,http://dbpedia.org/property/services,http://dbpedia.org/resource/Management_consulting,Correct,43,328.0758674144745,18
+http://dbpedia.org/resource/PRTM,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/United_States,Correct,43,328.0758674144745,18
+http://dbpedia.org/resource/PRTM,http://dbpedia.org/property/keyPeople,"Mary Lyons, Chief Talent Officer",Correct,43,328.0758674144745,18
+http://dbpedia.org/resource/PRTM,http://dbpedia.org/property/services,http://dbpedia.org/resource/Supply_Chain,Correct,43,328.0758674144745,18
+http://dbpedia.org/resource/PRTM,http://dbpedia.org/property/homepage,http://www.prtm.com/,Incorrect,43,328.0758674144745,18
+http://dbpedia.org/resource/A_Lowland_Cinderella,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_films,Incorrect,44,301.48685574531555,18
+http://dbpedia.org/resource/A_Lowland_Cinderella,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:British_films,Correct,44,301.48685574531555,18
+http://dbpedia.org/resource/A_Lowland_Cinderella,http://dbpedia.org/property/language,English intertitles,Correct,44,301.48685574531555,18
+http://dbpedia.org/resource/A_Lowland_Cinderella,http://dbpedia.org/property/country,United Kingdom,Correct,44,301.48685574531555,18
+http://dbpedia.org/resource/A_Lowland_Cinderella,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Black-and-white_films,Correct,44,301.48685574531555,18
+http://dbpedia.org/resource/IPad_Air,http://dbpedia.org/property/connectivity,http://dbpedia.org/resource/Global_Positioning_System,Incorrect,45,21972.274460554123,18
+http://dbpedia.org/resource/IPad_Air,http://dbpedia.org/property/service,http://dbpedia.org/resource/Game_Center,Correct,45,21972.274460554123,18
+http://dbpedia.org/resource/IPad_Air,http://dbpedia.org/property/service,http://dbpedia.org/resource/IBooks,Correct,45,21972.274460554123,18
+http://dbpedia.org/resource/IPad_Air,http://dbpedia.org/property/connectivity,http://dbpedia.org/resource/Code_division_multiple_access,Correct,45,21972.274460554123,18
+http://dbpedia.org/resource/IPad_Air,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Computer,Incorrect,45,21972.274460554123,18
+http://dbpedia.org/resource/Twitter,http://dbpedia.org/property/revenue,1.4E9,Incorrect,46,178.30419778823853,18
+http://dbpedia.org/resource/Twitter,http://dbpedia.org/property/float,right,I Don't Know,46,178.30419778823853,18
+http://dbpedia.org/resource/Twitter,http://dbpedia.org/property/locationCity,http://dbpedia.org/resource/California,Correct,46,178.30419778823853,18
+http://dbpedia.org/resource/Twitter,http://dbpedia.org/property/industry,http://dbpedia.org/resource/Internet,Correct,46,178.30419778823853,18
+http://dbpedia.org/resource/Twitter,http://dbpedia.org/property/q,no,Incorrect,46,178.30419778823853,18
+http://dbpedia.org/resource/Anti-Scrunti_Faction,http://dbpedia.org/ontology/bandMember,http://dbpedia.org/resource/Leslie_Mah,Correct,47,370.13635635375977,18
+http://dbpedia.org/resource/Anti-Scrunti_Faction,http://dbpedia.org/property/origin,http://dbpedia.org/resource/United_States,Correct,47,370.13635635375977,18
+http://dbpedia.org/resource/Anti-Scrunti_Faction,http://dbpedia.org/ontology/bandMember,http://dbpedia.org/resource/Tracie_Thomas,Correct,47,370.13635635375977,18
+http://dbpedia.org/resource/Anti-Scrunti_Faction,http://dbpedia.org/property/currentMembers,Leslie Mah,Incorrect,47,370.13635635375977,18
+http://dbpedia.org/resource/Anti-Scrunti_Faction,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1984_establishments_in_Colorado,Incorrect,47,370.13635635375977,18
+http://dbpedia.org/resource/Conrad_Letzkau,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Assassinated_mayors,Correct,48,208.30764079093933,18
+http://dbpedia.org/resource/Conrad_Letzkau,http://xmlns.com/foaf/0.1/name,Conrad Letzkau,Correct,48,208.30764079093933,18
+http://dbpedia.org/resource/Conrad_Letzkau,http://dbpedia.org/property/shortDescription,Mayor of Danzig,Correct,48,208.30764079093933,18
+http://dbpedia.org/resource/Conrad_Letzkau,http://dbpedia.org/ontology/deathDate,1412,Correct,48,208.30764079093933,18
+http://dbpedia.org/resource/Conrad_Letzkau,http://xmlns.com/foaf/0.1/surname,Letzkau,Correct,48,208.30764079093933,18
+http://dbpedia.org/resource/Vodohod,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Companies_of_Russia,Correct,49,188.9587342739105,18
+http://dbpedia.org/resource/Vodohod,http://www.w3.org/2000/01/rdf-schema#label,Vodohod,Correct,49,188.9587342739105,18
+http://dbpedia.org/resource/Vodohod,http://dbpedia.org/property/name,Vodohod,Correct,49,188.9587342739105,18
+http://dbpedia.org/resource/Vodohod,http://dbpedia.org/ontology/foundingYear,2004,Correct,49,188.9587342739105,18
+http://dbpedia.org/resource/Vodohod,http://www.w3.org/2000/01/rdf-schema#comment,"Vodohod is  the Russia’s largest cruise company and river cruise line operator which was founded in 2004 by the Volga Shipping Company named after Ivan Kulibin’s “water-going vessel” or “water-goer”. The company has its headquarters in Moscow and Saint Petersburg, Russia. After merging with Volga Flot Tour company operates more than 50 passenger ships along rivers of Volga, Don, Kama, the Moscow and Volga-Don canals, the Volga-Baltic Waterway, Northern-Western rivers, lakes Ladoga and Onega.",Correct,49,188.9587342739105,18
+http://dbpedia.org/resource/Duke_University,http://dbpedia.org/ontology/athletics,http://dbpedia.org/resource/NCAA_Division_I,Correct,50,656.0705976486206,18
+http://dbpedia.org/resource/Duke_University,http://dbpedia.org/ontology/affiliation,http://dbpedia.org/resource/Oak_Ridge_Associated_Universities,Correct,50,656.0705976486206,18
+http://dbpedia.org/resource/Duke_University,http://dbpedia.org/ontology/facultySize,3398,Incorrect,50,656.0705976486206,18
+http://dbpedia.org/resource/Duke_University,http://dbpedia.org/ontology/affiliation,http://dbpedia.org/resource/United_Methodist_Church,Correct,50,656.0705976486206,18
+http://dbpedia.org/resource/Duke_University,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Private_university,Correct,50,656.0705976486206,18
+http://dbpedia.org/resource/Thunderbolt_and_Lightfoot,http://dbpedia.org/ontology/director,http://dbpedia.org/resource/Michael_Cimino,Correct,51,161.83287048339844,18
+http://dbpedia.org/resource/Thunderbolt_and_Lightfoot,http://dbpedia.org/ontology/producer,http://dbpedia.org/resource/Robert_Daley_(producer),Correct,51,161.83287048339844,18
+http://dbpedia.org/resource/Thunderbolt_and_Lightfoot,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_set_in_Montana,Correct,51,161.83287048339844,18
+http://dbpedia.org/resource/Thunderbolt_and_Lightfoot,http://dbpedia.org/property/producer,http://dbpedia.org/resource/Robert_Daley_(producer),Correct,51,161.83287048339844,18
+http://dbpedia.org/resource/Thunderbolt_and_Lightfoot,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1970s_comedy-drama_films,Incorrect,51,161.83287048339844,18
+http://dbpedia.org/resource/Adobe_Persuasion,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Aldus_software,Correct,52,231.99281764030457,20
+http://dbpedia.org/resource/Adobe_Persuasion,http://dbpedia.org/ontology/developer,http://dbpedia.org/resource/Aldus,Correct,52,231.99281764030457,20
+http://dbpedia.org/resource/Adobe_Persuasion,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Adobe_Persuasion,I Don't Know,52,231.99281764030457,20
+http://dbpedia.org/resource/Adobe_Persuasion,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Presentation_program,Correct,52,231.99281764030457,20
+http://dbpedia.org/resource/Adobe_Persuasion,http://dbpedia.org/ontology/operatingSystem,http://dbpedia.org/resource/Microsoft_Windows,Correct,52,231.99281764030457,20
+http://dbpedia.org/resource/Le_Fantasque_(newspaper),http://www.w3.org/2000/01/rdf-schema#label,Le Fantasque (newspaper),Correct,53,432.9065914154053,20
+http://dbpedia.org/resource/Le_Fantasque_(newspaper),http://dbpedia.org/ontology/foundedBy,http://dbpedia.org/resource/Napoléon_Aubin,Correct,53,432.9065914154053,20
+http://dbpedia.org/resource/Le_Fantasque_(newspaper),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Newspapers_published_in_Quebec_City,Correct,53,432.9065914154053,20
+http://dbpedia.org/resource/Le_Fantasque_(newspaper),http://dbpedia.org/property/ceasedPublication,1845,Correct,53,432.9065914154053,20
+http://dbpedia.org/resource/Le_Fantasque_(newspaper),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Publications_established_in_1837,Incorrect,53,432.9065914154053,20
+http://dbpedia.org/resource/BQ_Aquaris_E4.5_Ubuntu_Edition,http://dbpedia.org/property/os,http://dbpedia.org/resource/Ubuntu_Touch,Correct,54,728.2852528095245,20
+http://dbpedia.org/resource/BQ_Aquaris_E4.5_Ubuntu_Edition,http://dbpedia.org/property/name,BQ Aquaris E4.5 Ubuntu Edition,Correct,54,728.2852528095245,20
+http://dbpedia.org/resource/BQ_Aquaris_E4.5_Ubuntu_Edition,http://dbpedia.org/property/cpu,Quad-core Cortex A7 up to 1.3 GHz MediaTek,Correct,54,728.2852528095245,20
+http://dbpedia.org/resource/BQ_Aquaris_E4.5_Ubuntu_Edition,http://dbpedia.org/property/os,http://dbpedia.org/resource/Android_(operating_system),Incorrect,54,728.2852528095245,20
+http://dbpedia.org/resource/Daphne_Heard,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Plymouth,Correct,55,68.82967138290405,20
+http://dbpedia.org/resource/Daphne_Heard,http://dbpedia.org/property/placeOfBirth,http://dbpedia.org/resource/Plymouth,Correct,55,68.82967138290405,20
+http://dbpedia.org/resource/Daphne_Heard,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Plymouth,Correct,55,68.82967138290405,20
+http://dbpedia.org/resource/The_Cossacks_(1961_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Soviet_films,Correct,56,332.26292634010315,20
+http://dbpedia.org/resource/The_Cossacks_(1961_film),http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Incorrect,56,332.26292634010315,20
+http://dbpedia.org/resource/The_Cossacks_(1961_film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Russian-language_films,Correct,56,332.26292634010315,20
+http://dbpedia.org/resource/24_Hour_Party_People,http://dbpedia.org/property/starring,http://dbpedia.org/resource/Andy_Serkis,I Don't Know,57,163.46007752418518,20
+http://dbpedia.org/resource/24_Hour_Party_People,http://www.w3.org/2000/01/rdf-schema#label,24 Hour Party People,Correct,57,163.46007752418518,20
+http://dbpedia.org/resource/24_Hour_Party_People,http://dbpedia.org/ontology/abstract,"24 Hour Party People (FAC-401) is a 2002 British comedy-drama film about Manchester's popular music community from 1976 to 1992, and specifically about Factory Records. It was written by Frank Cottrell Boyce and directed by Michael Winterbottom. The film was entered into the 2002 Cannes Film Festival. It received positive reviews.It begins with the punk rock era of the late 1970s and moves through the 1980s into the ""Madchester"" scene of the late 1980s and early 1990s. The main character is Tony Wilson (played by Steve Coogan), a news reporter for Granada Television and the head of Factory Records. The narrative largely follows his career, while also covering the major Factory artists, especially Joy Division and New Order, A Certain Ratio, The Durutti Column and Happy Mondays.The film is a dramatisation based on a combination of real events, rumours, urban legends, and the imaginings of the scriptwriter – as the film makes clear. In one scene, one-time Buzzcocks member Howard Devoto (played by Martin Hancock) is shown having sex with Wilson's first wife in the toilets of a club; the real Devoto, an extra in the scene, turns to the camera and says, ""I definitely don't remember this happening"". The fourth wall is frequently broken, with Wilson (who also acts as the narrator) frequently commenting on events directly to camera as they occur, at one point declaring that he is ""being postmodern, before it's fashionable"". The actors are often intercut with real contemporary concert footage, including the Sex Pistols gig at the Lesser Free Trade Hall.",Correct,57,163.46007752418518,20
+http://dbpedia.org/resource/Blue_Ridge_Christian_Academy,http://dbpedia.org/ontology/motto,"""Equipping students to impact the world for Christ""",Incorrect,58,738.7466297149658,20
+http://dbpedia.org/resource/Blue_Ridge_Christian_Academy,http://dbpedia.org/ontology/city,"http://dbpedia.org/resource/Landrum,_South_Carolina",Correct,58,738.7466297149658,20
+http://dbpedia.org/resource/Blue_Ridge_Christian_Academy,http://dbpedia.org/property/caption,School logo,Incorrect,58,738.7466297149658,20
+http://dbpedia.org/resource/Blue_Ridge_Christian_Academy,http://dbpedia.org/property/denomination,Non-denominational,Correct,58,738.7466297149658,20
+http://dbpedia.org/resource/Blue_Ridge_Christian_Academy,http://dbpedia.org/property/athletics,"Ladies' Volleyball, Cross Country, Boys' Fall Soccer, Boys' and Girls' Basketball, Boys' and Girls' Spring Soccer",Correct,58,738.7466297149658,20
+http://dbpedia.org/resource/Rentrak,http://dbpedia.org/property/type,http://dbpedia.org/resource/Public_company,Incorrect,59,2297.4581639766693,20
+http://dbpedia.org/resource/Rentrak,http://xmlns.com/foaf/0.1/homepage,http://www.rentrak.com/,Incorrect,59,2297.4581639766693,20
+http://dbpedia.org/resource/Rentrak,http://dbpedia.org/property/locationCountry,http://dbpedia.org/resource/United_States,Correct,59,2297.4581639766693,20
+http://dbpedia.org/resource/Rentrak,http://dbpedia.org/property/industry,Media Measurement,Correct,59,2297.4581639766693,20
+http://dbpedia.org/resource/Rentrak,http://dbpedia.org/ontology/keyPerson,http://dbpedia.org/resource/Chief_information_officer,Correct,59,2297.4581639766693,20
+http://dbpedia.org/resource/Pat_Green,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,60,82221.3426015377,20
+http://dbpedia.org/resource/Pat_Green,http://xmlns.com/foaf/0.1/name,Pat Green,Correct,60,82221.3426015377,20
+http://dbpedia.org/resource/Pat_Green,http://xmlns.com/foaf/0.1/name,"Green, Pat",Correct,60,82221.3426015377,20
+http://dbpedia.org/resource/Cold_Water_Army,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,61,160.13426542282104,21
+http://dbpedia.org/resource/Carpathian_Ruthenia,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Uzhhorod,Correct,62,256.58455896377563,21
+http://dbpedia.org/resource/Carpathian_Ruthenia,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Khust,Incorrect,62,256.58455896377563,21
+http://dbpedia.org/resource/Balázs_Szokolay,http://purl.org/dc/elements/1.1/description,Hungarian pianist,Correct,63,218.35740876197812,21
+http://dbpedia.org/resource/Balázs_Szokolay,http://www.w3.org/2000/01/rdf-schema#label,Balázs Szokolay,Correct,63,218.35740876197812,21
+http://dbpedia.org/resource/Balázs_Szokolay,http://dbpedia.org/property/dateOfBirth,1961,Correct,63,218.35740876197812,21
+http://dbpedia.org/resource/Balázs_Szokolay,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Living_people,Correct,63,218.35740876197812,21
+http://dbpedia.org/resource/Balázs_Szokolay,http://dbpedia.org/property/name,"Szokolay, Balazs",Incorrect,63,218.35740876197812,21
+http://dbpedia.org/resource/Terence_Cole_(jurist),http://dbpedia.org/property/appointer,Peter Hollingworth,Correct,64,358.17550015449524,21
+http://dbpedia.org/resource/Terence_Cole_(jurist),http://dbpedia.org/property/appointer,Michael Jeffery,Incorrect,64,358.17550015449524,21
+http://dbpedia.org/resource/Kemao_Market,http://dbpedia.org/ontology/address,18 Zhongguancun St,Correct,65,95.23543620109558,25
+http://dbpedia.org/resource/Kemao_Market,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Visitor_attractions_in_Beijing,Correct,65,95.23543620109558,25
+http://dbpedia.org/resource/Kemao_Market,http://dbpedia.org/property/location,http://dbpedia.org/resource/Zhongguancun,Correct,65,95.23543620109558,25
+http://dbpedia.org/resource/Kemao_Market,http://dbpedia.org/property/alternateNames,Kemao Electronics Plaza,Correct,65,95.23543620109558,25
+http://dbpedia.org/resource/Kemao_Market,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/China,Correct,65,95.23543620109558,25
+http://dbpedia.org/resource/Christopher_Koch,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Tasmania,Correct,66,61.40482211112976,25
+http://dbpedia.org/resource/Christopher_Koch,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Hobart,Correct,66,61.40482211112976,25
+http://dbpedia.org/resource/Charlie_Chaplin,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English_film_score_composers,Correct,67,479.0043134689331,25
+http://dbpedia.org/resource/Charlie_Chaplin,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English_male_comedians,Correct,67,479.0043134689331,25
+http://dbpedia.org/resource/Charlie_Chaplin,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English_male_silent_film_actors,Correct,67,479.0043134689331,25
+http://dbpedia.org/resource/Charlie_Chaplin,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:20th-century_English_male_actors,Correct,67,479.0043134689331,25
+http://dbpedia.org/resource/Charlie_Chaplin,http://dbpedia.org/property/name,Sir Charles Chaplin,Correct,67,479.0043134689331,25
+http://dbpedia.org/resource/Julia_Cameron,http://xmlns.com/foaf/0.1/name,"Cameron, Julia",Correct,68,497.4070091247559,25
+http://dbpedia.org/resource/Julia_Cameron,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_women_dramatists_and_playwrights,Correct,68,497.4070091247559,25
+http://dbpedia.org/resource/Julia_Cameron,http://dbpedia.org/ontology/education,http://dbpedia.org/resource/Fordham_University,Correct,68,497.4070091247559,25
+http://dbpedia.org/resource/Julia_Cameron,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:20th-century_American_poets,Correct,68,497.4070091247559,25
+http://dbpedia.org/resource/Julia_Cameron,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Writers_from_New_Mexico,Incorrect,68,497.4070091247559,25
+http://dbpedia.org/resource/Asking_for_Trouble,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_films,Correct,69,243.4977421760559,25
+http://dbpedia.org/resource/Asking_for_Trouble,http://dbpedia.org/property/language,English,Correct,69,243.4977421760559,25
+http://dbpedia.org/resource/Asking_for_Trouble,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Incorrect,69,243.4977421760559,25
+http://dbpedia.org/resource/MediaCoder,http://xmlns.com/foaf/0.1/name,MediaCoder,Correct,70,142.50764656066897,25
+http://dbpedia.org/resource/MediaCoder,http://dbpedia.org/property/latestPreviewVersion,0.8,Correct,70,142.50764656066897,25
+http://dbpedia.org/resource/MediaCoder,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Program,Incorrect,70,142.50764656066897,25
+http://dbpedia.org/resource/MediaCoder,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Video_conversion_software,Correct,70,142.50764656066897,25
+http://dbpedia.org/resource/MediaCoder,http://dbpedia.org/property/name,MediaCoder,Correct,70,142.50764656066897,25
+http://dbpedia.org/resource/Mota-Engil,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Construction_and_civil_engineering_companies_of_Portugal,Correct,71,762.8865325450897,25
+http://dbpedia.org/resource/Mota-Engil,http://dbpedia.org/property/equity,5.78E8,Correct,71,762.8865325450897,25
+http://dbpedia.org/resource/Mota-Engil,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Conglomerate_companies_of_Portugal,Correct,71,762.8865325450897,25
+http://dbpedia.org/resource/Mota-Engil,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Mota-Engil,Incorrect,71,762.8865325450897,25
+http://dbpedia.org/resource/Mota-Engil,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Companies_established_in_2000,Correct,71,762.8865325450897,25
+http://dbpedia.org/resource/Murata_Manufacturing,http://dbpedia.org/ontology/revenue,8.467E11,Correct,72,748.497220993042,25
+http://dbpedia.org/resource/Murata_Manufacturing,http://dbpedia.org/property/name,"Murata Manufacturing Company, Ltd.",Correct,72,748.497220993042,25
+http://dbpedia.org/resource/Murata_Manufacturing,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Companies_listed_on_the_Osaka_Securities_Exchange,I Don't Know,72,748.497220993042,25
+http://dbpedia.org/resource/Murata_Manufacturing,http://dbpedia.org/property/type,http://dbpedia.org/resource/Kabushiki_gaisha,Correct,72,748.497220993042,25
+http://dbpedia.org/resource/Murata_Manufacturing,http://dbpedia.org/ontology/abstract,"Murata Manufacturing Co., Ltd. (株式会社村田製作所, Kabushiki-gaisha Murata Seisakusho) is a Japanese manufacturer of electronic components, based in Nagaokakyo, Kyoto. Honorary Chairman Akira Murata started Murata Manufacturing as a personal venture in October, 1944. On December 1950 reorganized the company into Murata Manufacturing Co., Ltd. with paid-in Capital ¥1 million.Murata Manufacturing is a leading company primarily involved in the manufacturing of ceramic passive electronic components, primarily capacitors, and it has an overwhelming share worldwide in ceramic filters, high-frequency parts, and sensors. As of March 31, 2013 Murata Manufacturing has 24 subsidiaries in Japan and 52 overseas in the United States, Canada, Mexico, Brazil, Germany, France, Italy, the United Kingdom, Switzerland, the Netherlands, Spain, Hungary, Finland, China, Taiwan, South Korea, Singapore, Malaysia, the Philippines, Thailand, Hong Kong, Vietnam and India.On April 13, 2012, Murata announced a deal to acquire RF Monolithics for $1.78 per share.On August 23, 2014, Murata announced the acquisition of Peregrine Semiconductor Corporation.",Correct,72,748.497220993042,25
+http://dbpedia.org/resource/WTWW,http://dbpedia.org/ontology/broadcastArea,http://dbpedia.org/resource/Middle_East,Correct,73,351.58159494400024,25
+http://dbpedia.org/resource/WTWW,http://dbpedia.org/ontology/callsignMeaning,We Transmit World Wide,Correct,73,351.58159494400024,25
+http://dbpedia.org/resource/WTWW,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Companies_based_in_Nashville,_Tennessee",Incorrect,73,351.58159494400024,25
+http://dbpedia.org/resource/WTWW,http://dbpedia.org/property/city,"http://dbpedia.org/resource/Lebanon,_Tennessee",Correct,73,351.58159494400024,25
+http://dbpedia.org/resource/WTWW,http://dbpedia.org/ontology/broadcastNetwork,http://dbpedia.org/resource/Scriptures_For_America,Incorrect,73,351.58159494400024,25
+http://dbpedia.org/resource/Chandidas_Mahavidyalaya,http://dbpedia.org/property/affiliations,http://dbpedia.org/resource/University_of_Burdwan,Correct,74,780.4906604290009,25
+http://dbpedia.org/resource/Chandidas_Mahavidyalaya,http://dbpedia.org/property/name,Chandidas Mahavidyalaya,Correct,74,780.4906604290009,25
+http://dbpedia.org/resource/Chandidas_Mahavidyalaya,http://dbpedia.org/property/state,http://dbpedia.org/resource/West_Bengal,Correct,74,780.4906604290009,25
+http://dbpedia.org/resource/Chandidas_Mahavidyalaya,http://dbpedia.org/property/type,Undergraduate college,Incorrect,74,780.4906604290009,25
+http://dbpedia.org/resource/Chandidas_Mahavidyalaya,http://www.w3.org/2000/01/rdf-schema#label,Chandidas Mahavidyalaya,Correct,74,780.4906604290009,25
+http://dbpedia.org/resource/Matti_Manushulu,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1990_films,Correct,75,80.96114134788513,25
+http://dbpedia.org/resource/Matti_Manushulu,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Indian_films,Correct,75,80.96114134788513,25
+http://dbpedia.org/resource/Matti_Manushulu,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Telugu-language_films,Correct,75,80.96114134788513,25
+http://dbpedia.org/resource/Matti_Manushulu,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_about_social_issues_in_India,Correct,75,80.96114134788513,25
+http://dbpedia.org/resource/'65_Love_Affair,http://dbpedia.org/ontology/previousWork,http://dbpedia.org/resource/Cool_Night_(song),Incorrect,76,392.84805274009705,25
+http://dbpedia.org/resource/'65_Love_Affair,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Synthpop,Incorrect,76,392.84805274009705,25
+http://dbpedia.org/resource/'65_Love_Affair,http://dbpedia.org/property/released,February 1982,Correct,76,392.84805274009705,25
+http://dbpedia.org/resource/'65_Love_Affair,http://dbpedia.org/property/nextSingle,"""Love or Let Me Be Lonely""",Correct,76,392.84805274009705,25
+http://dbpedia.org/resource/'65_Love_Affair,http://dbpedia.org/ontology/Work/runtime,3.716666666666667,Incorrect,76,392.84805274009705,25
+http://dbpedia.org/resource/Gervaise,http://dbpedia.org/property/runtime,7200.0,Incorrect,77,858.3394606113434,26
+http://dbpedia.org/resource/Gervaise,http://xmlns.com/foaf/0.1/name,Gervaise,Correct,77,858.3394606113434,26
+http://dbpedia.org/resource/Gervaise,http://dbpedia.org/ontology/writer,http://dbpedia.org/resource/Pierre_Bost,Correct,77,858.3394606113434,26
+http://dbpedia.org/resource/Gervaise,http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Maria_Schell,Correct,77,858.3394606113434,26
+http://dbpedia.org/resource/Gervaise,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Gervaise,Correct,77,858.3394606113434,26
+http://dbpedia.org/resource/Hellville_de_Luxe,http://dbpedia.org/property/nosales,yes,Incorrect,78,236.96495461463928,26
+http://dbpedia.org/resource/Hellville_de_Luxe,http://dbpedia.org/property/nextAlbum,Las Consecuencias,Correct,78,236.96495461463928,26
+http://dbpedia.org/resource/Hellville_de_Luxe,http://dbpedia.org/property/length,276.0,Incorrect,78,236.96495461463928,26
+http://dbpedia.org/resource/Hellville_de_Luxe,http://dbpedia.org/property/length,249.0,Incorrect,78,236.96495461463928,26
+http://dbpedia.org/resource/Hellville_de_Luxe,http://dbpedia.org/property/artist,Enrique Bunbury,Correct,78,236.96495461463928,26
+http://dbpedia.org/resource/Arizona_Summit_Law_School,http://dbpedia.org/ontology/facultySize,38,I Don't Know,79,360.4077796936035,26
+http://dbpedia.org/resource/Arizona_Summit_Law_School,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Private_university,Correct,79,360.4077796936035,26
+http://dbpedia.org/resource/Arizona_Summit_Law_School,http://dbpedia.org/property/type,http://dbpedia.org/resource/Private_university,Correct,79,360.4077796936035,26
+http://dbpedia.org/resource/Ferrari,http://dbpedia.org/ontology/locationCity,http://dbpedia.org/resource/Maranello,Correct,80,79.75445604324341,26
+http://dbpedia.org/resource/Ferrari,http://dbpedia.org/property/locationCity,http://dbpedia.org/resource/Maranello,Correct,80,79.75445604324341,26
+http://dbpedia.org/resource/Ferrari,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Sports_car_manufacturers,Correct,80,79.75445604324341,26
+http://dbpedia.org/resource/Ferrari,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Italian_brands,Correct,80,79.75445604324341,26
+http://dbpedia.org/resource/Ferrari,http://dbpedia.org/ontology/foundingYear,1947,Correct,80,79.75445604324341,26
+http://dbpedia.org/resource/Pinnacle_Studio,http://www.w3.org/2000/01/rdf-schema#comment,"Pinnacle Studio is a video editing program originally developed by Pinnacle Systems as the consumer-level counterpart to Pinnacle's former professional-level software, Liquid Edition. It was acquired by Avid and later  by Corel in July 2012.",Correct,81,147.3079125881195,26
+http://dbpedia.org/resource/Pinnacle_Studio,http://www.w3.org/2000/01/rdf-schema#label,Pinnacle Studio,Correct,81,147.3079125881195,26
+http://dbpedia.org/resource/Valis_II,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:PlayStation_Network_games,Correct,82,290.9504861831665,26
+http://dbpedia.org/resource/Valis_II,http://dbpedia.org/property/composer,http://dbpedia.org/resource/Tenpei_Sato,Correct,82,290.9504861831665,26
+http://dbpedia.org/resource/Valis_II,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Valis_series,Correct,82,290.9504861831665,26
+http://dbpedia.org/resource/Valis_II,http://dbpedia.org/ontology/computingPlatform,http://dbpedia.org/resource/MSX,Correct,82,290.9504861831665,26
+http://dbpedia.org/resource/Valis_II,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Sega_Genesis_games,Correct,82,290.9504861831665,26
+http://dbpedia.org/resource/Bill_Richmond_(writer),http://xmlns.com/foaf/0.1/name,Bill Richmond,Correct,83,26.483450412750244,26
+http://dbpedia.org/resource/Bill_Richmond_(writer),http://xmlns.com/foaf/0.1/name,"Richmond, Bill",Correct,83,26.483450412750244,26
+http://dbpedia.org/resource/Sam_Kinison,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Sam_Kinison,Correct,84,222.96278285980225,26
+http://dbpedia.org/resource/Sam_Kinison,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Observational_comedy,Correct,84,222.96278285980225,26
+http://dbpedia.org/resource/Sam_Kinison,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Satire,Correct,84,222.96278285980225,26
+http://dbpedia.org/resource/Sam_Kinison,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Black_comedy,Correct,84,222.96278285980225,26
+http://dbpedia.org/resource/Sam_Kinison,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/U.S.,Correct,84,222.96278285980225,26
+http://dbpedia.org/resource/Rock_&_Roll_Heart_Attack,http://dbpedia.org/property/title,Big Kiss,Incorrect,85,304.21226716041565,26
+http://dbpedia.org/resource/Rock_&_Roll_Heart_Attack,http://dbpedia.org/property/length,300.0,Incorrect,85,304.21226716041565,26
+http://dbpedia.org/resource/Rock_&_Roll_Heart_Attack,http://dbpedia.org/property/writer,"C. Valentine, T. Green",Incorrect,85,304.21226716041565,26
+http://dbpedia.org/resource/Rock_&_Roll_Heart_Attack,http://dbpedia.org/property/length,243.0,Incorrect,85,304.21226716041565,26
+http://dbpedia.org/resource/Rock_&_Roll_Heart_Attack,http://dbpedia.org/property/label,Magada Records,Incorrect,85,304.21226716041565,26
+http://dbpedia.org/resource/Viewbank_College,http://dbpedia.org/property/country,http://dbpedia.org/resource/Australia,Correct,86,219.58212113380432,27
+http://dbpedia.org/resource/Viewbank_College,http://dbpedia.org/property/staff,95,I Don't Know,86,219.58212113380432,27
+http://dbpedia.org/resource/Deadstring_Brothers,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,87,25.589076280593872,27
+"http://dbpedia.org/resource/Atlas_Mill,_Ashton-under-Lyne",http://dbpedia.org/property/mapType,Greater Manchester,Incorrect,88,54.5910747051239,27
+"http://dbpedia.org/resource/Atlas_Mill,_Ashton-under-Lyne",http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Mill,Incorrect,88,54.5910747051239,27
+http://dbpedia.org/resource/Haitham_Zein,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Lebanon,Incorrect,89,109.09199452400208,27
+http://dbpedia.org/resource/Fejér_County_(former),http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Székesfehérvár,Correct,90,52.28091597557068,27
+http://dbpedia.org/resource/University_of_Helmstedt,http://www.w3.org/2003/01/geo/wgs84_pos#lat,52.2292,Correct,91,309.3933639526367,27
+http://dbpedia.org/resource/University_of_Helmstedt,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Universities_and_colleges_in_Historical_Germany,Correct,91,309.3933639526367,27
+http://dbpedia.org/resource/University_of_Helmstedt,http://www.w3.org/2003/01/geo/wgs84_pos#long,11.0086,Incorrect,91,309.3933639526367,27
+http://dbpedia.org/resource/University_of_Helmstedt,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Principality_of_Brunswick-Wolfenbüttel,Correct,91,309.3933639526367,27
+http://dbpedia.org/resource/University_of_Helmstedt,http://www.georss.org/georss/point,52.229166666666664 11.008611111111112,Incorrect,91,309.3933639526367,27
+http://dbpedia.org/resource/Kill_Sadie,http://dbpedia.org/ontology/associatedMusicalArtist,http://dbpedia.org/resource/Pretty_Girls_Make_Graves,Correct,92,126.25365662574768,27
+http://dbpedia.org/resource/Kill_Sadie,http://dbpedia.org/ontology/associatedBand,http://dbpedia.org/resource/Pretty_Girls_Make_Graves,Correct,92,126.25365662574768,27
+http://dbpedia.org/resource/Kill_Sadie,http://xmlns.com/foaf/0.1/name,Kill Sadie,Correct,92,126.25365662574768,27
+http://dbpedia.org/resource/James_Donald,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Aberdeen,Correct,93,76.76523041725159,27
+http://dbpedia.org/resource/James_Donald,http://dbpedia.org/property/placeOfDeath,http://dbpedia.org/resource/Wiltshire,Correct,93,76.76523041725159,27
+http://dbpedia.org/resource/James_Donald,http://dbpedia.org/property/deathPlace,http://dbpedia.org/resource/Wiltshire,Correct,93,76.76523041725159,27
+http://dbpedia.org/resource/James_Donald,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Scotland,Correct,93,76.76523041725159,27
+http://dbpedia.org/resource/Shuttle_America,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Regional_Airline_Association_members,Correct,94,305.3112723827362,27
+http://dbpedia.org/resource/Shuttle_America,http://dbpedia.org/property/hubs,http://dbpedia.org/resource/Newark_Liberty_Airport,I Don't Know,94,305.3112723827362,27
+http://dbpedia.org/resource/Shuttle_America,http://dbpedia.org/property/hubs,Delta Connection:,Correct,94,305.3112723827362,27
+http://dbpedia.org/resource/Shuttle_America,http://dbpedia.org/property/hubs,http://dbpedia.org/resource/New_York_LaGuardia,I Don't Know,94,305.3112723827362,27
+http://dbpedia.org/resource/Shuttle_America,http://dbpedia.org/property/website,http://www.shuttleamerica.com,Correct,94,305.3112723827362,27
+http://dbpedia.org/resource/Saiyuki_(manga),http://dbpedia.org/property/last,2011-11-25,Incorrect,95,602.7132589817047,27
+http://dbpedia.org/resource/Saiyuki_(manga),http://dbpedia.org/property/title,Saiyuki Gaiden,Incorrect,95,602.7132589817047,27
+http://dbpedia.org/resource/Saiyuki_(manga),http://dbpedia.org/property/music,http://dbpedia.org/resource/Motoi_Sakuraba,Correct,95,602.7132589817047,27
+http://dbpedia.org/resource/Saiyuki_(manga),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Programs_acquired_by_GMA_Network,Incorrect,95,602.7132589817047,27
+http://dbpedia.org/resource/Saiyuki_(manga),http://dbpedia.org/ontology/numberOfVolumes,10,Incorrect,95,602.7132589817047,27
+http://dbpedia.org/resource/Geoff_Love,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Pop_music,Correct,96,157.01745319366455,27
+http://dbpedia.org/resource/Geoff_Love,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Film_score,Correct,96,157.01745319366455,27
+http://dbpedia.org/resource/Geoff_Love,http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Easy_listening,Correct,96,157.01745319366455,27
+"http://dbpedia.org/resource/Alfonso,_Prince_of_Asturias_(1907–1938)",http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Spain,Correct,97,34.85658526420593,27
+http://dbpedia.org/resource/The_Geneva_School,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1993_establishments_in_Florida,Correct,98,479.4196865558624,29
+http://dbpedia.org/resource/The_Geneva_School,http://dbpedia.org/property/enrollment,450,I Don't Know,98,479.4196865558624,29
+http://dbpedia.org/resource/The_Geneva_School,http://dbpedia.org/ontology/mascot,The Knights,Correct,98,479.4196865558624,29
+http://dbpedia.org/resource/The_Geneva_School,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/School,Incorrect,98,479.4196865558624,29
+http://dbpedia.org/resource/The_Geneva_School,http://www.w3.org/2000/01/rdf-schema#label,The Geneva School,Correct,98,479.4196865558624,29
+http://dbpedia.org/resource/Sydney_Pollack,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_male_television_actors,Correct,99,192.5018548965454,29
+http://dbpedia.org/resource/Sydney_Pollack,http://dbpedia.org/property/placeOfBirth,"Lafayette, Indiana, U.S.",Correct,99,192.5018548965454,29
+http://dbpedia.org/resource/Sydney_Pollack,http://xmlns.com/foaf/0.1/surname,Pollack,Correct,99,192.5018548965454,29
+http://dbpedia.org/resource/Sydney_Pollack,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Male_actors_from_Los_Angeles,_California",Incorrect,99,192.5018548965454,29
+http://dbpedia.org/resource/Sydney_Pollack,http://dbpedia.org/property/caption,Pollack in 2006,Incorrect,99,192.5018548965454,29
+http://dbpedia.org/resource/Harold_Wilson,http://dbpedia.org/property/rows,3,Incorrect,100,328.0305757522583,29
+http://dbpedia.org/resource/Harold_Wilson,http://dbpedia.org/property/crest,"On a wreath of the colours, Upon a Rock a Lighthouse in front thereof a Spade blade downwards and a Quill point downwards in saltire all proper.",Correct,100,328.0305757522583,29
+http://dbpedia.org/resource/Harold_Wilson,http://dbpedia.org/property/name,Harold Wilson,Correct,100,328.0305757522583,29
+http://dbpedia.org/resource/Harold_Wilson,http://dbpedia.org/property/name,"Wilson, James Harold, Baron Wilson of Rievaulx",Correct,100,328.0305757522583,29
+http://dbpedia.org/resource/Harold_Wilson,http://dbpedia.org/ontology/termPeriod,http://dbpedia.org/resource/Harold_Wilson__9,Incorrect,100,328.0305757522583,29
+http://dbpedia.org/resource/Westfield_Middle_School,http://dbpedia.org/property/upperAge,13,Correct,101,985.9107673168182,29
+http://dbpedia.org/resource/Westfield_Middle_School,http://dbpedia.org/property/gender,http://dbpedia.org/resource/Mixed-sex_education,Correct,101,985.9107673168182,29
+http://dbpedia.org/resource/Westfield_Middle_School,http://dbpedia.org/property/postcode,MK40 4HW,Incorrect,101,985.9107673168182,29
+http://dbpedia.org/resource/Westfield_Middle_School,http://www.w3.org/2003/01/geo/wgs84_pos#lat,52.135,I Don't Know,101,985.9107673168182,29
+http://dbpedia.org/resource/Westfield_Middle_School,http://dbpedia.org/ontology/abstract,"Westfield Middle School is a school in Queens Park, Bedford, UK.The School is situated on Chester Road, and is the Queens Park area's only Middle School. The school usually takes pupils from Queens Park Lower school and Priory Lower School. Most of Westfield's graduating students go on to attend Biddenham Upper School.Westfield School is distinctive in that it has won International School status and is a Sports College.  Over 27 different languages are spoken at the school and many faiths are celebrated.Bedford Borough Council had decided to implement a two-tier education system in the borough, meaning that  all middle schools in the area will close. However since the failure to secure Building Schools for the future money, the notice to close Westfield Middle and other middle schools has been taken back.",Correct,101,985.9107673168182,29
+http://dbpedia.org/resource/Windows_Server_2003,http://dbpedia.org/property/license,http://dbpedia.org/resource/Proprietary_software,Incorrect,102,251.30203652381897,29
+http://dbpedia.org/resource/Windows_Server_2003,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Windows_Server_2003,Incorrect,102,251.30203652381897,29
+http://dbpedia.org/resource/Windows_Server_2003,http://xmlns.com/foaf/0.1/name,Windows Server 2003,Correct,102,251.30203652381897,29
+http://dbpedia.org/resource/Windows_Server_2003,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Server,Incorrect,102,251.30203652381897,29
+http://dbpedia.org/resource/Windows_Server_2003,http://dbpedia.org/property/releaseUrl,http://blogs.technet.com/windowsserver/archive/2007/03/13/sp2-goes-live.aspx,Correct,102,251.30203652381897,29
+http://dbpedia.org/resource/Turn_10_Studios,http://dbpedia.org/property/foundation,2001,Correct,103,187.3217349052429,29
+http://dbpedia.org/resource/Turn_10_Studios,http://xmlns.com/foaf/0.1/homepage,http://www.forzamotorsport.net/en-us/turn10,Correct,103,187.3217349052429,29
+http://dbpedia.org/resource/Turn_10_Studios,http://dbpedia.org/property/industry,http://dbpedia.org/resource/Video_game_industry,Correct,103,187.3217349052429,29
+http://dbpedia.org/resource/Turn_10_Studios,http://dbpedia.org/property/products,Forza Motorsport,Correct,103,187.3217349052429,29
+http://dbpedia.org/resource/Turn_10_Studios,http://dbpedia.org/property/keyPeople,Phil Frazier,Correct,103,187.3217349052429,29
+http://dbpedia.org/resource/Ian_Bruce_Ferguson,http://xmlns.com/foaf/0.1/name,Ian Bruce Ferguson,Correct,104,224.994722366333,29
+http://dbpedia.org/resource/Ian_Bruce_Ferguson,http://dbpedia.org/property/serviceyears,1939,Incorrect,104,224.994722366333,29
+http://dbpedia.org/resource/Ian_Bruce_Ferguson,http://xmlns.com/foaf/0.1/name,Ian Ferguson,Incorrect,104,224.994722366333,29
+http://dbpedia.org/resource/Ian_Bruce_Ferguson,http://xmlns.com/foaf/0.1/name,"Ferguson, Ian",Incorrect,104,224.994722366333,29
+http://dbpedia.org/resource/Ian_Bruce_Ferguson,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Canberra,Correct,104,224.994722366333,29
+http://dbpedia.org/resource/Cristóbal_Diatristán_de_Acuña,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Viceroyalty_of_Peru,I Don't Know,105,1065.5800848007202,29
+http://dbpedia.org/resource/International_Standard_Serial_Number,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Library_science,Correct,106,273.6610214710236,29
+http://dbpedia.org/resource/International_Standard_Serial_Number,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Serial_numbers,Incorrect,106,273.6610214710236,29
+http://dbpedia.org/resource/International_Standard_Serial_Number,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Checksum_algorithms,Correct,106,273.6610214710236,29
+http://dbpedia.org/resource/International_Standard_Serial_Number,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Universal_identifiers,Correct,106,273.6610214710236,29
+http://dbpedia.org/resource/International_Standard_Serial_Number,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:ISO_standards,Correct,106,273.6610214710236,29
+http://dbpedia.org/resource/ALGOL_58,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Fortran,Incorrect,107,424.85356736183167,29
+http://dbpedia.org/resource/ALGOL_58,http://dbpedia.org/ontology/influenced,http://dbpedia.org/resource/ALGOL,Correct,107,424.85356736183167,29
+http://dbpedia.org/resource/ALGOL_58,http://dbpedia.org/property/name,ALGOL 58,Correct,107,424.85356736183167,29
+http://dbpedia.org/resource/ALGOL_58,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Plankalkül,Incorrect,107,424.85356736183167,29
+http://dbpedia.org/resource/Mickey_Walls,http://dbpedia.org/ontology/raceHorse,http://dbpedia.org/resource/Prospective_Dolly,Incorrect,108,15291.99935245514,29
+http://dbpedia.org/resource/Mickey_Walls,http://dbpedia.org/ontology/raceHorse,http://dbpedia.org/resource/Kiridashi,Correct,108,15291.99935245514,29
+http://dbpedia.org/resource/Mickey_Walls,http://dbpedia.org/ontology/honours,http://dbpedia.org/resource/British_Columbia_Thoroughbred_Hall_of_Fame,Correct,108,15291.99935245514,29
+http://dbpedia.org/resource/Mickey_Walls,http://dbpedia.org/ontology/raceHorse,http://dbpedia.org/resource/Chief_Bearhart,Correct,108,15291.99935245514,29
+http://dbpedia.org/resource/Mickey_Walls,http://dbpedia.org/ontology/raceHorse,http://dbpedia.org/resource/Woodcarver_(horse),Correct,108,15291.99935245514,29

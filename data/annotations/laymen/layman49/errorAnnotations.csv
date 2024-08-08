@@ -1,0 +1,60 @@
+Subject,Predicate,Object,Error,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/Gary_Wilhelms,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1931_births,Object,3,19.62911891937256,28
+http://dbpedia.org/resource/Giuseppe_Medici,http://dbpedia.org/property/deathPlace,http://dbpedia.org/resource/Modena,Object,5,2.5816688537597656,28
+http://dbpedia.org/resource/The_Sky_Ranger,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_comedy_films,Object,9,4.63063383102417,28
+"http://dbpedia.org/resource/United_States_presidential_election_in_Alabama,_1836",http://dbpedia.org/ontology/startDate,1836-12-07,Object,10,1.813273906707764,28
+http://dbpedia.org/resource/WXEI-LP,http://dbpedia.org/ontology/webcast,http://wxei.8m.com/,Object,13,4.331466913223267,28
+http://dbpedia.org/resource/WXEI-LP,http://dbpedia.org/property/format,http://dbpedia.org/resource/Religious_broadcasting,Object,13,4.331466913223267,28
+http://dbpedia.org/resource/The_Ducks,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Object,15,1.5967421531677246,28
+http://dbpedia.org/resource/Dufftown,http://dbpedia.org/ontology/lieutenancyArea,http://dbpedia.org/resource/Banffshire,Object,19,1.4617319107055664,28
+http://dbpedia.org/resource/Rambod_Javan,http://dbpedia.org/property/height,1.76m,Object,23,1.3459320068359375,28
+http://dbpedia.org/resource/Diocese_of_Shirak,http://dbpedia.org/ontology/established,4 September 1920,Object,29,1.5469539165496826,28
+http://dbpedia.org/resource/Nashville_(season_1),http://dbpedia.org/property/episodenumber,19,Object,31,2.527182102203369,28
+http://dbpedia.org/resource/Nashville_(season_1),http://dbpedia.org/property/writtenby,Dana Greenblatt,Object,31,2.527182102203369,28
+http://dbpedia.org/resource/Oliver_Parker,http://dbpedia.org/property/shortDescription,British film director and screenwriter,Object,32,1.2478399276733398,28
+http://dbpedia.org/resource/Young_Fabians_Finance_Network,http://dbpedia.org/ontology/parentOrganisation,http://dbpedia.org/resource/Young_Fabians,Subject,33,1.9481501579284668,28
+http://dbpedia.org/resource/Eugenio_María_de_Hostos,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Sociology,Object,35,1.6633782386779783,28
+http://dbpedia.org/resource/Al-Muthanna_Club,http://dbpedia.org/ontology/ideology,http://dbpedia.org/resource/Antisemitism,Object,40,1.5803520679473877,29
+http://dbpedia.org/resource/Lesotho,http://dbpedia.org/ontology/officialLanguage,http://dbpedia.org/resource/South_African_English,Object,42,4.03023099899292,29
+http://dbpedia.org/resource/Protestantism_in_the_Philippines,http://www.w3.org/2000/01/rdf-schema#comment,"Protestant Christianity arrived in the Philippines during the late 19th and the early 20th century. American missionaries were mostly responsible for introducing Protestantism, but some were founded locally.",Object,49,3.629796981811523,29
+http://dbpedia.org/resource/Arthur_Lakes,http://dbpedia.org/ontology/deathPlace,"http://dbpedia.org/resource/Ymir,_British_Columbia",Object,52,1.446106195449829,29
+http://dbpedia.org/resource/Costanzo_Preve,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Piedmont,Predicate;Object,53,12.24824285507202,29
+http://dbpedia.org/resource/Bordertown_(2006_film),http://dbpedia.org/ontology/distributor,http://dbpedia.org/resource/ThinkFilm,Object,54,1.812633991241455,29
+http://dbpedia.org/resource/Shaw_University,http://dbpedia.org/property/name,http://dbpedia.org/resource/William_Gaston_Pearson,Object,55,3.1477952003479004,29
+http://dbpedia.org/resource/Oceans_(film),http://dbpedia.org/property/distributor,http://dbpedia.org/resource/Warner_Bros.,Object,56,1.4131128787994385,29
+http://dbpedia.org/resource/E._M._S._Namboodiripad,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Madras_Presidency,Object,58,2.333333969116211,29
+http://dbpedia.org/resource/E._M._S._Namboodiripad,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Presidencies_and_provinces_of_British_India,Predicate,58,2.333333969116211,29
+http://dbpedia.org/resource/WXKB,http://dbpedia.org/property/webcast,http://b1039.com/streamer/,Object,60,1.8636040687561035,31
+"http://dbpedia.org/resource/Sir_John_Barker,_4th_Baronet",http://dbpedia.org/property/years,1680,Predicate,68,6.9271979331970215,31
+http://dbpedia.org/resource/Take_Away_(song),http://dbpedia.org/ontology/musicalArtist,http://dbpedia.org/resource/Tweet_(singer),Object,69,9.675699234008787,31
+http://dbpedia.org/resource/Battle_of_the_Espero_Convoy,http://dbpedia.org/property/strength,3,Predicate,74,1.9308347702026367,31
+http://dbpedia.org/resource/Gina_Torres,http://dbpedia.org/ontology/occupation,http://dbpedia.org/resource/Gina_Torres__1,Object,75,5.662670135498047,31
+http://dbpedia.org/resource/Church_of_St._George_(Cairo),http://dbpedia.org/property/website,http://patriarchateofalexandria.com,Object,79,5.116607904434204,31
+http://dbpedia.org/resource/Church_of_St._George_(Cairo),http://dbpedia.org/property/constructedDate,10,Object,79,5.116607904434204,31
+http://dbpedia.org/resource/El_Topo,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_independent_films,Object,80,15.873568773269652,32
+http://dbpedia.org/resource/El_Topo,http://dbpedia.org/property/producer,Moshe Rosemberg,Object,80,15.873568773269652,32
+http://dbpedia.org/resource/Military_Ordinariate_of_Portugal,http://xmlns.com/foaf/0.1/name,Ordinariato Castrense de Portugal,Object,85,10.812195777893066,37
+http://dbpedia.org/resource/Farouk_al-Sharaa,http://dbpedia.org/ontology/termPeriod,http://dbpedia.org/resource/Farouk_al-Sharaa__3,Predicate,87,2.5961170196533203,40
+http://dbpedia.org/resource/Little_Red_Riding_Hood's_Zombie_BBQ,http://xmlns.com/foaf/0.1/homepage,http://www.gammickentertainment.com/zombie,Object,90,5.578771829605103,40
+http://dbpedia.org/resource/Little_Red_Riding_Hood's_Zombie_BBQ,http://dbpedia.org/property/released,--10-21,Object,90,5.578771829605103,40
+http://dbpedia.org/resource/Pazuzu_(The_Exorcist),http://dbpedia.org/ontology/portrayer,http://dbpedia.org/resource/Eileen_Dietz,Object,95,3.512355089187622,40
+http://dbpedia.org/resource/Untitled_Woody_Allen_film,http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Corey_Stoll,Subject,97,8.959349870681763,40
+http://dbpedia.org/resource/Untitled_Woody_Allen_film,http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Tony_Sirico,Subject,97,8.959349870681763,40
+http://dbpedia.org/resource/Untitled_Woody_Allen_film,http://dbpedia.org/ontology/director,http://dbpedia.org/resource/Woody_Allen,Subject,97,8.959349870681763,40
+http://dbpedia.org/resource/Untitled_Woody_Allen_film,http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Steve_Carell,Subject,97,8.959349870681763,40
+http://dbpedia.org/resource/Untitled_Woody_Allen_film,http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Kristen_Stewart,Subject,97,8.959349870681763,40
+http://dbpedia.org/resource/Graham_Leonard,http://dbpedia.org/ontology/predecessor,http://dbpedia.org/resource/Maurice_Key,Object,98,6.44725489616394,40
+http://dbpedia.org/resource/Graham_Leonard,http://dbpedia.org/ontology/predecessor,http://dbpedia.org/resource/George_Ingle,Object,98,6.44725489616394,40
+http://dbpedia.org/resource/Republic_of_Texas,http://xmlns.com/foaf/0.1/name,Texas,Predicate,99,5.63159704208374,40
+http://dbpedia.org/resource/Sodagreen,http://dbpedia.org/ontology/activeYearsEndYear,2004,Object,105,6.512823820114136,40
+http://dbpedia.org/resource/Anti-Scrunti_Faction,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1984_establishments_in_Colorado,Object,108,3.1313419342041016,40
+http://dbpedia.org/resource/Rock_&_Roll_Heart_Attack,http://dbpedia.org/property/title,Big Kiss,Predicate,116,5.731284141540527,40
+http://dbpedia.org/resource/Rock_&_Roll_Heart_Attack,http://dbpedia.org/property/length,300.0,Object,116,5.731284141540527,40
+http://dbpedia.org/resource/AJ_Michalka,http://dbpedia.org/property/alternativeNames,"Michalka, AJ",Predicate,117,2.9624059200286865,40
+http://dbpedia.org/resource/Birth_of_a_Notion_(film),http://dbpedia.org/property/producer,http://dbpedia.org/resource/Edward_Selzer,Object,122,2.015287160873413,40
+http://dbpedia.org/resource/Vasa_IFK,http://dbpedia.org/property/name,Artur Lemanowicz,Object,128,8.782066822052002,40
+http://dbpedia.org/resource/Sezgin_Tanrıkulu,http://dbpedia.org/property/termStart,2011-06-07,Object,130,2.696392059326172,40
+"http://dbpedia.org/resource/Luigi_Barzini,_Jr.",http://xmlns.com/foaf/0.1/name,"Barzini, Luigi",Object,132,3.1654300689697266,40
+"http://dbpedia.org/resource/Thomas_Burlison,_Baron_Burlison",http://dbpedia.org/property/years,1992,Predicate,138,2.663269281387329,40
+http://dbpedia.org/resource/N.W.A,http://dbpedia.org/property/associatedActs,*,Object,140,3.1959779262542725,40
+http://dbpedia.org/resource/Hans_Grundig,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/German_Empire,Predicate;Object,145,3.849756240844727,40

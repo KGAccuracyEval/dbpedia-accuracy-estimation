@@ -1,0 +1,645 @@
+Subject,Predicate,Object,Annotation,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/Sitmar_Cruises,http://dbpedia.org/ontology/regionServed,http://dbpedia.org/resource/Australasia,Correct,0,1350.570261001587,6
+http://dbpedia.org/resource/Sitmar_Cruises,http://dbpedia.org/property/locationCountry,http://dbpedia.org/resource/Monaco,Correct,0,1350.570261001587,6
+http://dbpedia.org/resource/Sitmar_Cruises,http://dbpedia.org/ontology/service,http://dbpedia.org/resource/Migrant_Ship,Correct,0,1350.570261001587,6
+http://dbpedia.org/resource/Sitmar_Cruises,http://dbpedia.org/ontology/service,http://dbpedia.org/resource/Cruise_ship,Correct,0,1350.570261001587,6
+http://dbpedia.org/resource/Sitmar_Cruises,http://dbpedia.org/ontology/locationCity,http://dbpedia.org/resource/Monte_Carlo,Correct,0,1350.570261001587,6
+http://dbpedia.org/resource/Ankur_Warikoo,http://dbpedia.org/ontology/personFunction,http://dbpedia.org/resource/Ankur_Warikoo__2,Incorrect,1,349.66289496421814,6
+http://dbpedia.org/resource/Seibu_Railway,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Seibu_Railway,Correct,2,481.633425951004,6
+http://dbpedia.org/resource/Seibu_Railway,http://dbpedia.org/ontology/numberOfEmployees,3289,Correct,2,481.633425951004,6
+http://dbpedia.org/resource/Seibu_Railway,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/SeibuRailway_logo.svg?width=300,Correct,2,481.633425951004,6
+http://dbpedia.org/resource/Seibu_Railway,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Railway_companies_of_Japan,Correct,2,481.633425951004,6
+http://dbpedia.org/resource/Seibu_Railway,http://dbpedia.org/property/name,西武鉄道株式会社,Correct,2,481.633425951004,6
+http://dbpedia.org/resource/Grattan_Bridge,http://dbpedia.org/property/spans,5,Correct,3,44.718843936920166,6
+http://dbpedia.org/resource/Grattan_Bridge,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Bridge,Correct,3,44.718843936920166,6
+http://dbpedia.org/resource/Drammen_Station,http://dbpedia.org/property/postspan,1,Correct,4,155.77550101280212,6
+http://dbpedia.org/resource/Drammen_Station,http://dbpedia.org/property/prespan,yes,Incorrect,4,155.77550101280212,6
+http://dbpedia.org/resource/Drammen_Station,http://dbpedia.org/property/pre,—,Incorrect,4,155.77550101280212,6
+http://dbpedia.org/resource/Drammen_Station,http://dbpedia.org/property/prestation,http://dbpedia.org/resource/Gulskogen_Station,Correct,4,155.77550101280212,6
+http://dbpedia.org/resource/Drammen_Station,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Railway_stations_on_the_Drammen_Line,Correct,4,155.77550101280212,6
+http://dbpedia.org/resource/OrangeScape,http://dbpedia.org/ontology/product,http://dbpedia.org/resource/Kissflow,Incorrect,5,557.9223828315735,6
+http://dbpedia.org/resource/OrangeScape,http://xmlns.com/foaf/0.1/homepage,http://www.orangescape.com,Correct,5,557.9223828315735,6
+http://dbpedia.org/resource/OrangeScape,http://dbpedia.org/property/industry,http://dbpedia.org/resource/Cloud_computing,Correct,5,557.9223828315735,6
+http://dbpedia.org/resource/OrangeScape,http://dbpedia.org/ontology/industry,http://dbpedia.org/resource/Cloud_computing,Correct,5,557.9223828315735,6
+http://dbpedia.org/resource/OrangeScape,http://dbpedia.org/ontology/product,http://dbpedia.org/resource/Platform_as_a_service,Correct,5,557.9223828315735,6
+http://dbpedia.org/resource/Saskatchewan_Highway_1,http://dbpedia.org/ontology/ruralMunicipality,http://dbpedia.org/resource/Rural_Municipality_of_Morse_No._165,Correct,6,81.7625060081482,6
+http://dbpedia.org/resource/Saskatchewan_Highway_1,http://dbpedia.org/ontology/ruralMunicipality,http://dbpedia.org/resource/Rural_Municipality_of_Swift_Current_No._137,Correct,6,81.7625060081482,6
+http://dbpedia.org/resource/Saskatchewan_Highway_1,http://dbpedia.org/ontology/ruralMunicipality,http://dbpedia.org/resource/Rural_Municipality_of_Moosomin_No._121,Correct,6,81.7625060081482,6
+http://dbpedia.org/resource/Saskatchewan_Highway_1,http://dbpedia.org/ontology/ruralMunicipality,http://dbpedia.org/resource/Rural_Municipality_of_South_Qu'Appelle_No._157,Correct,6,81.7625060081482,6
+http://dbpedia.org/resource/Saskatchewan_Highway_1,http://dbpedia.org/ontology/ruralMunicipality,http://dbpedia.org/resource/Rural_Municipality_of_Wheatlands_No._163,Correct,6,81.7625060081482,6
+http://dbpedia.org/resource/Exor_(company),http://dbpedia.org/ontology/keyPerson,http://dbpedia.org/resource/John_Elkann,Correct,7,76.11316418647766,6
+http://dbpedia.org/resource/Exor_(company),http://dbpedia.org/ontology/keyPerson,http://dbpedia.org/resource/Chief_executive_officer,Incorrect,7,76.11316418647766,6
+http://dbpedia.org/resource/Exor_(company),http://dbpedia.org/ontology/industry,http://dbpedia.org/resource/Investment_company,Incorrect,7,76.11316418647766,6
+http://dbpedia.org/resource/Back_to_Back_(Status_Quo_album),http://dbpedia.org/property/artist,http://dbpedia.org/resource/Status_Quo_(band),Correct,8,57.55744123458862,6
+http://dbpedia.org/resource/Back_to_Back_(Status_Quo_album),http://dbpedia.org/ontology/producer,http://dbpedia.org/resource/Status_Quo_(band),Correct,8,57.55744123458862,6
+http://dbpedia.org/resource/Back_to_Back_(Status_Quo_album),http://dbpedia.org/ontology/artist,http://dbpedia.org/resource/Status_Quo_(band),Correct,8,57.55744123458862,6
+http://dbpedia.org/resource/Back_to_Back_(Status_Quo_album),http://dbpedia.org/property/producer,http://dbpedia.org/resource/Status_Quo_(band),Correct,8,57.55744123458862,6
+http://dbpedia.org/resource/WFLZ-FM,http://dbpedia.org/property/formerCallsigns,WOJC,Correct,9,929.294312953949,6
+http://dbpedia.org/resource/WFLZ-FM,http://dbpedia.org/ontology/abstract,"WFLZ-FM (93.3 FM, ""93-3 FLZ"")  is a CHR/Pop station broadcasting in the Tampa Bay area, Florida, USA. The station has a class C signal operating at 100,000 watts effective radiated power, and is one of the most powerful FM radio stations in Florida, covering four of the state's radio markets.  The station's studios are located in South Tampa and the transmitter site is in Riverview.WFLZ currently broadcasts in HD format.  93.3 HD-1 simulcasts the analog WFLZ-FM 93.3 MHz (""93-3 FLZ HD-1 Hit music""), whereas 93.3 HD-2 exclusively broadcasts dance music (""Evolution on 93-3 FLZ HD-2"").",Correct,9,929.294312953949,6
+http://dbpedia.org/resource/WFLZ-FM,http://xmlns.com/foaf/0.1/name,WFLZ-FM,Correct,9,929.294312953949,6
+http://dbpedia.org/resource/WFLZ-FM,http://www.w3.org/2000/01/rdf-schema#comment,"WFLZ-FM (93.3 FM, ""93-3 FLZ"")  is a CHR/Pop station broadcasting in the Tampa Bay area, Florida, USA. The station has a class C signal operating at 100,000 watts effective radiated power, and is one of the most powerful FM radio stations in Florida, covering four of the state's radio markets.  The station's studios are located in South Tampa and the transmitter site is in Riverview.WFLZ currently broadcasts in HD format.",Correct,9,929.294312953949,6
+http://dbpedia.org/resource/WFLZ-FM,http://dbpedia.org/property/format,http://dbpedia.org/resource/CHR/Pop,Incorrect,9,929.294312953949,6
+http://dbpedia.org/resource/Eyewitness_(TV_series),http://dbpedia.org/property/company,http://dbpedia.org/resource/Time-Life_Television,Incorrect,10,78.63315987586975,7
+http://dbpedia.org/resource/Eyewitness_(TV_series),http://dbpedia.org/ontology/company,http://dbpedia.org/resource/Time-Life_Television,Incorrect,10,78.63315987586975,7
+http://dbpedia.org/resource/Eyewitness_(TV_series),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Television_programs_based_on_children's_books,Correct,10,78.63315987586975,7
+http://dbpedia.org/resource/Eyewitness_(TV_series),http://www.w3.org/2000/01/rdf-schema#comment,Eyewitness is a natural history television series produced by BBC and DK Vision.  The series is based on the Dorling Kindersley Eyewitness Books series of children's books. Oxfordshire native Guy Dagul composes the theme music.,Correct,10,78.63315987586975,7
+http://dbpedia.org/resource/North_by_Northwest,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_action_thriller_films,Correct,11,499.07690596580505,7
+http://dbpedia.org/resource/North_by_Northwest,http://dbpedia.org/ontology/director,http://dbpedia.org/resource/Alfred_Hitchcock,Correct,11,499.07690596580505,7
+http://dbpedia.org/resource/North_by_Northwest,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:United_States_National_Film_Registry_films,Correct,11,499.07690596580505,7
+http://dbpedia.org/resource/North_by_Northwest,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-movie-noun-1,Correct,11,499.07690596580505,7
+http://dbpedia.org/resource/North_by_Northwest,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Edgar_Award_winning_works,Correct,11,499.07690596580505,7
+http://dbpedia.org/resource/Zhangjiakou_City_Bank,http://dbpedia.org/ontology/service,http://dbpedia.org/resource/Bank,Correct,12,32.34934997558594,7
+http://dbpedia.org/resource/WXEI-LP,http://dbpedia.org/property/erp,100,Correct,13,193.58659076690677,7
+http://dbpedia.org/resource/WXEI-LP,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Station,Correct,13,193.58659076690677,7
+http://dbpedia.org/resource/WXEI-LP,http://dbpedia.org/ontology/city,http://dbpedia.org/resource/Florida,Correct,13,193.58659076690677,7
+http://dbpedia.org/resource/WXEI-LP,http://dbpedia.org/ontology/webcast,http://wxei.8m.com/,Incorrect,13,193.58659076690677,7
+http://dbpedia.org/resource/WXEI-LP,http://dbpedia.org/property/format,http://dbpedia.org/resource/Religious_broadcasting,Incorrect,13,193.58659076690677,7
+http://dbpedia.org/resource/Spectrasonics,http://dbpedia.org/property/foundation,1994,Correct,14,48.68648719787598,7
+http://dbpedia.org/resource/Spectrasonics,http://xmlns.com/foaf/0.1/homepage,http://www.spectrasonics.net/,Incorrect,14,48.68648719787598,7
+http://dbpedia.org/resource/Spectrasonics,http://dbpedia.org/property/keyPeople,http://dbpedia.org/resource/Eric_Persing,Correct,14,48.68648719787598,7
+http://dbpedia.org/resource/Spectrasonics,http://dbpedia.org/property/homepage,http://www.spectrasonics.net/,Incorrect,14,48.68648719787598,7
+http://dbpedia.org/resource/Spectrasonics,http://dbpedia.org/ontology/keyPerson,http://dbpedia.org/resource/Eric_Persing,Correct,14,48.68648719787598,7
+http://dbpedia.org/resource/Alpina,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Germany,Correct,15,328.3263130187988,7
+http://dbpedia.org/resource/Battle_of_the_Network_Stars,http://dbpedia.org/property/company,http://dbpedia.org/resource/IMG_(business),Incorrect,16,271.4723918437958,7
+http://dbpedia.org/resource/Battle_of_the_Network_Stars,http://dbpedia.org/ontology/numberOfEpisodes,19,Correct,16,271.4723918437958,7
+http://dbpedia.org/resource/Battle_of_the_Network_Stars,http://www.w3.org/2000/01/rdf-schema#label,Battle of the Network Stars,Correct,16,271.4723918437958,7
+http://dbpedia.org/resource/Battle_of_the_Network_Stars,http://dbpedia.org/property/company,http://dbpedia.org/resource/IMG_(company),Correct,16,271.4723918437958,7
+http://dbpedia.org/resource/Battle_of_the_Network_Stars,http://xmlns.com/foaf/0.1/name,Battle of the Network Stars,Correct,16,271.4723918437958,7
+http://dbpedia.org/resource/Ontario_College_of_Teachers,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Professional_titles_and_certifications,Correct,17,210.453950881958,7
+http://dbpedia.org/resource/Ontario_College_of_Teachers,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Professional_associations_based_in_Canada,Correct,17,210.453950881958,7
+http://dbpedia.org/resource/Ontario_College_of_Teachers,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/OCTbuildingOEEOedifice.JPG?width=300,Correct,17,210.453950881958,7
+http://dbpedia.org/resource/Ontario_College_of_Teachers,http://www.w3.org/2000/01/rdf-schema#comment,"The Ontario College of Teachers is the regulatory body for the teaching profession in Ontario and is the largest self-regulatory body in Canada. It was established in 1997. The college's mandate is to license, govern and regulate the practice of teaching. It is also responsible for developing standards of teaching practice, regulating on-going teacher certification and professional development, and accrediting teacher education programs.",Correct,17,210.453950881958,7
+http://dbpedia.org/resource/Ontario_College_of_Teachers,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/OCTbuildingOEEOedifice.JPG,Correct,17,210.453950881958,7
+http://dbpedia.org/resource/Lovin_and_Withers_Cottages,http://dbpedia.org/property/architect,"Lovin & Withers, Inc.",Correct,18,283.9545269012451,7
+http://dbpedia.org/resource/Lovin_and_Withers_Cottages,http://www.w3.org/2003/01/geo/wgs84_pos#long,-114.046,I Don't Know,18,283.9545269012451,7
+http://dbpedia.org/resource/Lovin_and_Withers_Cottages,http://dbpedia.org/property/locmapin,Arizona,Incorrect,18,283.9545269012451,7
+http://dbpedia.org/resource/Lovin_and_Withers_Cottages,http://dbpedia.org/ontology/architecturalStyle,http://dbpedia.org/resource/Bungalow,Correct,18,283.9545269012451,7
+http://dbpedia.org/resource/Lovin_and_Withers_Cottages,http://dbpedia.org/property/added,1986-05-14,Correct,18,283.9545269012451,7
+http://dbpedia.org/resource/Boston_and_Lowell_Railroad,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Boston_and_Lowell_Railroad,Incorrect,19,481.04545307159424,7
+http://dbpedia.org/resource/Boston_and_Lowell_Railroad,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Defunct_Massachusetts_railroads,Correct,19,481.04545307159424,7
+http://dbpedia.org/resource/Boston_and_Lowell_Railroad,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Railway_lines_opened_in_1835,Correct,19,481.04545307159424,7
+http://dbpedia.org/resource/Boston_and_Lowell_Railroad,http://www.w3.org/2000/01/rdf-schema#comment,The Boston and Lowell Railroad is a historic railroad that operated in Massachusetts in the United States. It was one of the first railroads in North America and the first major one in the state. The line later operated as part of the Boston and Maine Railroad's Southern Division.,Correct,19,481.04545307159424,7
+http://dbpedia.org/resource/Boston_and_Lowell_Railroad,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Boston_and_Lowell_Railroad_1887.png?width=300,Correct,19,481.04545307159424,7
+http://dbpedia.org/resource/Galatea_of_the_Spheres,http://dbpedia.org/ontology/museum,http://dbpedia.org/resource/Dalí_Theatre_and_Museum,Correct,20,24.039915084838867,7
+http://dbpedia.org/resource/Stânca-Costești_Dam,http://www.w3.org/2003/01/geo/wgs84_pos#lat,47.8583,Correct,21,375.736289024353,7
+http://dbpedia.org/resource/Stânca-Costești_Dam,http://www.w3.org/2003/01/geo/wgs84_pos#long,27.2586,Incorrect,21,375.736289024353,7
+http://dbpedia.org/resource/Stânca-Costești_Dam,http://www.w3.org/2000/01/rdf-schema#comment,The Stânca-Costeşti Dam (Romanian: Barajul Stânca-Costeşti) is a dam on the Prut and a checkpoint between Moldova and Romania. The dam is located between Costeşti (Moldova) and Stânca (Romania).,Correct,21,375.736289024353,7
+http://dbpedia.org/resource/Stânca-Costești_Dam,http://dbpedia.org/property/longD,27,I Don't Know,21,375.736289024353,7
+http://dbpedia.org/resource/Stânca-Costești_Dam,http://dbpedia.org/property/latM,51,I Don't Know,21,375.736289024353,7
+http://dbpedia.org/resource/Khashm_el-Girba_Dam,http://dbpedia.org/ontology/river,http://dbpedia.org/resource/Atbarah_River,Correct,22,24.46188497543335,7
+http://dbpedia.org/resource/Memorial_to_Women_of_the_Confederacy,http://dbpedia.org/ontology/architecturalStyle,http://dbpedia.org/resource/Neoclassical_architecture,Correct,23,178.4840898513794,7
+http://dbpedia.org/resource/Memorial_to_Women_of_the_Confederacy,http://dbpedia.org/property/body,http://dbpedia.org/resource/United_Daughters_of_the_Confederacy,Incorrect,23,178.4840898513794,7
+"http://dbpedia.org/resource/Nicholas_Brown,_Jr.",http://dbpedia.org/ontology/restingPlace,http://dbpedia.org/resource/North_Burial_Ground,Correct,24,397.2823729515076,7
+"http://dbpedia.org/resource/Nicholas_Brown,_Jr.",http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/Brown_University,Correct,24,397.2823729515076,7
+"http://dbpedia.org/resource/Nicholas_Brown,_Jr.",http://dbpedia.org/ontology/restingPlace,"http://dbpedia.org/resource/Providence,_Rhode_Island",Correct,24,397.2823729515076,7
+"http://dbpedia.org/resource/Nicholas_Brown,_Jr.",http://dbpedia.org/ontology/residence,"http://dbpedia.org/resource/Providence,_Rhode_Island",Correct,24,397.2823729515076,7
+"http://dbpedia.org/resource/Nicholas_Brown,_Jr.",http://dbpedia.org/ontology/parent,"http://dbpedia.org/resource/Nicholas_Brown,_Sr.",Correct,24,397.2823729515076,7
+http://dbpedia.org/resource/Steam_Powered_Giraffe,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,25,45.97210717201233,7
+http://dbpedia.org/resource/Derby,http://dbpedia.org/ontology/leaderTitle,Executive,Incorrect,26,544.1073679924011,7
+http://dbpedia.org/resource/Derby,http://dbpedia.org/property/southeast,http://dbpedia.org/resource/Kegworth,Incorrect,26,544.1073679924011,7
+http://dbpedia.org/resource/Derby,http://dbpedia.org/property/populationBlank,2.9,Incorrect,26,544.1073679924011,7
+http://dbpedia.org/resource/Derby,http://dbpedia.org/property/leaderName,http://dbpedia.org/resource/Amanda_Solloway,Incorrect,26,544.1073679924011,7
+http://dbpedia.org/resource/Derby,http://dbpedia.org/property/leaderTitle,http://dbpedia.org/resource/Local_government_in_England,Correct,26,544.1073679924011,7
+http://dbpedia.org/resource/ALARGAN_International_Real_Estate_Company,http://dbpedia.org/property/name,ALARGAN International Real Estate Company,Correct,27,121.71473383903503,7
+http://dbpedia.org/resource/ALARGAN_International_Real_Estate_Company,http://dbpedia.org/ontology/foundingYear,1994,Correct,27,121.71473383903503,7
+http://dbpedia.org/resource/ALARGAN_International_Real_Estate_Company,http://dbpedia.org/property/keyPeople,- Khaled K. Al-Mashaan,Correct,27,121.71473383903503,7
+http://dbpedia.org/resource/ALARGAN_International_Real_Estate_Company,http://xmlns.com/foaf/0.1/name,ALARGAN International Real Estate Company,Correct,27,121.71473383903503,7
+http://dbpedia.org/resource/ALARGAN_International_Real_Estate_Company,http://www.w3.org/2000/01/rdf-schema#comment,"ALARGAN International Real Estate Company is a Kuwaiti real estate development company. ALARGAN underwent an Initial public offering on the Kuwait Stock Exchange in July 2007. ""Alargan Projects"" a sister company of Alargan projects was established in Riyadh, Kingdom of Saudi Arabia in 2005.",Correct,27,121.71473383903503,7
+http://dbpedia.org/resource/Hungry_Horse_Dam,http://dbpedia.org/ontology/lake,http://dbpedia.org/resource/Hungry_Horse_Dam__1,Incorrect,28,128.02507281303406,7
+http://dbpedia.org/resource/Hungry_Horse_Dam,http://dbpedia.org/ontology/location,"http://dbpedia.org/resource/Flathead_County,_Montana",Correct,28,128.02507281303406,7
+http://dbpedia.org/resource/Sensenich_Propeller,http://dbpedia.org/property/locationCity,"Lancaster, Pennsylvania and Plant City, Florida",Correct,29,10.0597882270813,7
+http://dbpedia.org/resource/Sensenich_Propeller,http://dbpedia.org/property/products,http://dbpedia.org/resource/Propeller_(aeronautics),Correct,29,10.0597882270813,7
+http://dbpedia.org/resource/Sensenich_Propeller,http://dbpedia.org/property/divisions,"*Sensenich Propeller Manufacturing Company
+*Sensenich Wood Propeller Company 
+*Sensenich Propeller Service",I Don't Know,29,10.0597882270813,7
+http://dbpedia.org/resource/Sensenich_Propeller,http://www.w3.org/2000/01/rdf-schema#comment,"Sensenich Propeller, founded in 1932, is an American manufacturer of wood, metal and composite propellers for certified, homebuilt and ultralight aircraft, as well as airboats. The company headquarters is located in Lititz, Pennsylvania.The company was initially established in 1932 as Sensenich Brothers to make aircraft propellers, but expanded into airboat propellers in 1949, establishing a second factory for that market at Plant City, Florida under the name Sensenich Wood Propeller Company.",Correct,29,10.0597882270813,7
+http://dbpedia.org/resource/Sensenich_Propeller,http://dbpedia.org/property/logo,http://dbpedia.org/resource/File:Sensenich_Logo_2012.png,Correct,29,10.0597882270813,7
+"http://dbpedia.org/resource/Vere_Ponsonby,_9th_Earl_of_Bessborough",http://dbpedia.org/ontology/monarch,http://dbpedia.org/resource/George_V,Correct,30,137.00756216049194,7
+http://dbpedia.org/resource/Hasso_Plattner,http://dbpedia.org/property/birthPlace,http://dbpedia.org/resource/Berlin,Correct,31,31.99455308914185,7
+http://dbpedia.org/resource/Hasso_Plattner,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Berlin,Correct,31,31.99455308914185,7
+http://dbpedia.org/resource/Ebenezer_Ako-Adjei,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Accra,Correct,32,177.82627272605896,7
+http://dbpedia.org/resource/Ebenezer_Ako-Adjei,http://dbpedia.org/ontology/otherParty,http://dbpedia.org/resource/United_Gold_Coast_Convention,Correct,32,177.82627272605896,7
+http://dbpedia.org/resource/Ebenezer_Ako-Adjei,http://dbpedia.org/property/residence,http://dbpedia.org/resource/Accra,Correct,32,177.82627272605896,7
+http://dbpedia.org/resource/Plaid_Cymru,http://dbpedia.org/ontology/ideology,http://dbpedia.org/resource/Social_democracy,Correct,33,331.1680130958557,7
+http://dbpedia.org/resource/Plaid_Cymru,http://dbpedia.org/property/ideology,http://dbpedia.org/resource/Social_democracy,Correct,33,331.1680130958557,7
+http://dbpedia.org/resource/Plaid_Cymru,http://dbpedia.org/property/foundation,1925-08-05,Correct,33,331.1680130958557,7
+http://dbpedia.org/resource/Plaid_Cymru,http://dbpedia.org/property/title,Links to related articles,Incorrect,33,331.1680130958557,7
+http://dbpedia.org/resource/Plaid_Cymru,http://dbpedia.org/property/headquarters,"Tŷ Gwynfor, Marine Chambers, Anson Court, Atlantic Wharf",Correct,33,331.1680130958557,7
+"http://dbpedia.org/resource/Quentin_Davies,_Baron_Davies_of_Stamford",http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Oxford,Correct,34,24.74326801300049,7
+http://dbpedia.org/resource/Kirti_Nagar_metro_station,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Delhi_Metro_stations,Correct,35,268.52947878837585,7
+http://dbpedia.org/resource/Kirti_Nagar_metro_station,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Delhi_Metro,Correct,35,268.52947878837585,7
+http://dbpedia.org/resource/Kirti_Nagar_metro_station,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Railway_stations_in_West_Delhi_district,Correct,35,268.52947878837585,7
+http://dbpedia.org/resource/Kirti_Nagar_metro_station,http://dbpedia.org/ontology/parkingInformation,Yes,Incorrect,35,268.52947878837585,7
+http://dbpedia.org/resource/Kirti_Nagar_metro_station,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Railway_stations_opened_in_2005,Correct,35,268.52947878837585,7
+"http://dbpedia.org/resource/St_Mary's_Church,_Garthorpe",http://xmlns.com/foaf/0.1/page,http://www.visitchurches.org.uk/Ourchurches/Completelistofchurches/St-Marys-Church-Garthorpe-Leicestershire/,Incorrect,36,4.670642852783203,7
+http://dbpedia.org/resource/Michael_Howard,http://dbpedia.org/ontology/predecessor,http://dbpedia.org/resource/Michael_Portillo,Incorrect,37,36.90854787826538,7
+http://dbpedia.org/resource/Ameritech,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/Ohio_Bell,Correct,38,137.4692816734314,7
+http://dbpedia.org/resource/Ameritech,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/Pacific_Bell,Correct,38,137.4692816734314,7
+http://dbpedia.org/resource/Ameritech,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/Wisconsin_Bell,Correct,38,137.4692816734314,7
+http://dbpedia.org/resource/Ameritech,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/Illinois_Bell,Correct,38,137.4692816734314,7
+http://dbpedia.org/resource/Ameritech,http://dbpedia.org/ontology/subsidiary,http://dbpedia.org/resource/Indiana_Bell,Correct,38,137.4692816734314,7
+http://dbpedia.org/resource/Marina_Bay_MRT_Station,http://dbpedia.org/property/structure,Underground,Correct,39,387.4669060707092,17
+http://dbpedia.org/resource/Marina_Bay_MRT_Station,http://xmlns.com/foaf/0.1/name,滨海湾地铁站,Correct,39,387.4669060707092,17
+http://dbpedia.org/resource/Marina_Bay_MRT_Station,http://dbpedia.org/ontology/numberOfTracks,4,Incorrect,39,387.4669060707092,17
+http://dbpedia.org/resource/Marina_Bay_MRT_Station,http://dbpedia.org/ontology/railwayPlatforms,Island (North South & Circle Lines),Correct,39,387.4669060707092,17
+http://dbpedia.org/resource/Marina_Bay_MRT_Station,http://dbpedia.org/property/name,25,Incorrect,39,387.4669060707092,17
+http://dbpedia.org/resource/Berlin_Oranienburger_Straße_station,http://dbpedia.org/property/line,http://dbpedia.org/resource/Berlin_Nord-Süd_Tunnel,Correct,40,652.6727297306061,20
+http://dbpedia.org/resource/Berlin_Oranienburger_Straße_station,http://dbpedia.org/property/symbolLocation,de,Incorrect,40,652.6727297306061,20
+http://dbpedia.org/resource/Berlin_Oranienburger_Straße_station,http://dbpedia.org/ontology/abstract,"Berlin Oranienburger Straße (in German Bahnhof Berlin Oranienburger Straße) is a railway station in the city of Berlin, Germany, located on Oranienburger Straße. It is served by the Berlin S-Bahn and local tram lines.",Correct,40,652.6727297306061,20
+http://dbpedia.org/resource/Berlin_Oranienburger_Straße_station,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Station,Correct,40,652.6727297306061,20
+http://dbpedia.org/resource/Berlin_Oranienburger_Straße_station,http://dbpedia.org/property/system,SBB,I Don't Know,40,652.6727297306061,20
+http://dbpedia.org/resource/Kuala_Lumpur_Sentral_railway_station,http://dbpedia.org/ontology/parkingInformation,None,Incorrect,41,43.82437300682068,20
+http://dbpedia.org/resource/Kuala_Lumpur_Sentral_railway_station,http://dbpedia.org/ontology/parkingInformation,"Available, pay",Correct,41,43.82437300682068,20
+http://dbpedia.org/resource/Team_and_Concepts,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Company,Correct,42,85.64803814888,20
+http://dbpedia.org/resource/Team_and_Concepts,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Companies_established_in_2003,Correct,42,85.64803814888,20
+http://dbpedia.org/resource/Team_and_Concepts,http://dbpedia.org/property/type,http://dbpedia.org/resource/Private_company,Correct,42,85.64803814888,20
+http://dbpedia.org/resource/Team_and_Concepts,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Team_and_Concepts,Correct,42,85.64803814888,20
+http://dbpedia.org/resource/Team_and_Concepts,http://dbpedia.org/ontology/foundingYear,2003,Correct,42,85.64803814888,20
+http://dbpedia.org/resource/Svenska_Högarna,http://dbpedia.org/ontology/buildingEndDate,1874,Correct,43,434.94851088523865,20
+http://dbpedia.org/resource/Svenska_Högarna,http://dbpedia.org/property/characteristic,15.0,Incorrect,43,434.94851088523865,20
+http://dbpedia.org/resource/Svenska_Högarna,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Sweden,Correct,43,434.94851088523865,20
+http://dbpedia.org/resource/Svenska_Högarna,http://dbpedia.org/property/yeardeactivated,Active,I Don't Know,43,434.94851088523865,20
+http://dbpedia.org/resource/Svenska_Högarna,http://dbpedia.org/property/marking,"Red, lantern room gren metallic",Correct,43,434.94851088523865,20
+http://dbpedia.org/resource/Riola,http://dbpedia.org/property/areaCodeType,http://dbpedia.org/resource/Telephone_numbers_in_Spain,Incorrect,44,376.5565979480744,20
+http://dbpedia.org/resource/Riola,http://dbpedia.org/property/timezone,http://dbpedia.org/resource/Central_European_Time,Correct,44,376.5565979480744,20
+http://dbpedia.org/resource/Riola,http://dbpedia.org/property/longew,W,I Don't Know,44,376.5565979480744,20
+http://dbpedia.org/resource/Riola,http://dbpedia.org/ontology/isPartOf,http://dbpedia.org/resource/Province_of_Valencia,Correct,44,376.5565979480744,20
+http://dbpedia.org/resource/Riola,http://dbpedia.org/property/longd,0,I Don't Know,44,376.5565979480744,20
+http://dbpedia.org/resource/Emil_Sick,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/United_States,Correct,45,117.52759313583374,20
+http://dbpedia.org/resource/Emil_Sick,http://dbpedia.org/ontology/restingPlace,"http://dbpedia.org/resource/Lake_Forest_Park,_Washington",Correct,45,117.52759313583374,20
+http://dbpedia.org/resource/Emil_Sick,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Seattle,Correct,45,117.52759313583374,20
+http://dbpedia.org/resource/Emil_Sick,http://dbpedia.org/ontology/restingPlace,"http://dbpedia.org/resource/King_County,_Washington",Correct,45,117.52759313583374,20
+http://dbpedia.org/resource/Percy_the_Small_Engine,http://dbpedia.org/ontology/voice,http://dbpedia.org/resource/Keith_Wickham,Correct,46,406.3411667346954,20
+http://dbpedia.org/resource/Percy_the_Small_Engine,http://dbpedia.org/ontology/voice,http://dbpedia.org/resource/Christopher_Ragland,Correct,46,406.3411667346954,20
+http://dbpedia.org/resource/Percy_the_Small_Engine,http://dbpedia.org/ontology/voice,http://dbpedia.org/resource/Martin_Sherman_(actor),Correct,46,406.3411667346954,20
+http://dbpedia.org/resource/Percy_the_Small_Engine,http://dbpedia.org/ontology/voice,http://dbpedia.org/resource/Linda_Ballantyne,Incorrect,46,406.3411667346954,20
+http://dbpedia.org/resource/Percy_the_Small_Engine,http://dbpedia.org/ontology/voice,http://dbpedia.org/resource/Chie_Kōjiro,Correct,46,406.3411667346954,20
+http://dbpedia.org/resource/Olainfarm,http://dbpedia.org/property/industry,http://dbpedia.org/resource/Pharmaceutical_drug,Correct,47,544.7340919971466,20
+http://dbpedia.org/resource/Olainfarm,http://www.w3.org/2000/01/rdf-schema#label,Olainfarm,Correct,47,544.7340919971466,20
+http://dbpedia.org/resource/Olainfarm,http://dbpedia.org/ontology/foundingDate,1991-06-10,Incorrect,47,544.7340919971466,20
+http://dbpedia.org/resource/Olainfarm,http://dbpedia.org/ontology/industry,http://dbpedia.org/resource/Pharmaceutical_drug,Correct,47,544.7340919971466,20
+http://dbpedia.org/resource/Pelham_Bay_Bridge,http://dbpedia.org/ontology/constructionMaterial,http://dbpedia.org/resource/Steel,Correct,48,55.681889057159424,20
+http://dbpedia.org/resource/Pelham_Bay_Bridge,http://dbpedia.org/ontology/constructionMaterial,http://dbpedia.org/resource/Concrete,Incorrect,48,55.681889057159424,20
+http://dbpedia.org/resource/Pelham_Bay_Bridge,http://dbpedia.org/ontology/maintainedBy,http://dbpedia.org/resource/Amtrak,Incorrect,48,55.681889057159424,20
+http://dbpedia.org/resource/Durham_bus_station,http://www.w3.org/2000/01/rdf-schema#label,Durham bus station,Correct,49,5.191540956497192,20
+http://dbpedia.org/resource/American_Vacuum_Society,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Nonprofit_organization,Correct,50,62.14914298057556,20
+http://dbpedia.org/resource/American_Vacuum_Society,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Academic_organizations_based_in_the_United_States,Correct,50,62.14914298057556,20
+http://dbpedia.org/resource/American_Vacuum_Society,http://dbpedia.org/ontology/formationYear,1953,Correct,50,62.14914298057556,20
+http://dbpedia.org/resource/American_Vacuum_Society,http://dbpedia.org/ontology/language,http://dbpedia.org/resource/English_language,Correct,50,62.14914298057556,20
+http://dbpedia.org/resource/American_Vacuum_Society,http://dbpedia.org/ontology/abstract,"AVS: Science and Technology of Materials, Interfaces, and Processing (formerly American Vacuum Society) is a not-for-profit learned society founded in 1953. AVS is a member society of the American Institute of Physics. AVS has approximately 5000 members worldwide from academia, governmental laboratories and industry. AVS publishes through the American Institute of Physics the Journal of Vacuum Science and Technology (JVST A and B), Biointerphases, which are devoted to peer-reviewed articles, and Surface Science Spectra (SSS), which publishes peer-reviewed articles with reference spectra of technological and scientific interest. AVS has 10 technical divisions, 2 technical groups, 16 regional chapters, two international chapters and one international affiliate:Advanced Surface Engineering DivisionApplied Surface Science DivisionBiomaterial Interfaces DivisionElectronic Materials and Processing DivisionMagnetic Interfaces and Nanostructures DivisionNanometer-Scale Science and Technology DivisionPlasma Science and Technology DivisionSurface Science DivisionThin Film DivisionVacuum Technology DivisionAVS Technical Groups DivisionManufacturing Science & Technology Technical Group (MSTG)MEMS and NEMS Technical Group↑ ↑ ↑ 3.0 3.1 ↑",Correct,50,62.14914298057556,20
+http://dbpedia.org/resource/Commerce,http://www.w3.org/2000/01/rdf-schema#label,Commerce,Correct,51,3.0905158519744877,20
+http://dbpedia.org/resource/Pedder_Street,http://www.w3.org/2003/01/geo/wgs84_pos#long,114.158,Incorrect,52,349.67745780944824,20
+http://dbpedia.org/resource/Pedder_Street,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:British_Hong_Kong,Correct,52,349.67745780944824,20
+http://dbpedia.org/resource/Pedder_Street,http://www.w3.org/2000/01/rdf-schema#comment,"Pedder Street is a major thoroughfare in the core of Hong Kong's Central District. It runs south-north from Queen's Road Central, continues through Des Voeux Road Central, and ends at its intersection with Connaught Road Central.",Correct,52,349.67745780944824,20
+http://dbpedia.org/resource/Pedder_Street,http://dbpedia.org/property/bgcolor,#c6dbf7,I Don't Know,52,349.67745780944824,20
+http://dbpedia.org/resource/Pedder_Street,http://dbpedia.org/property/width,25,Incorrect,52,349.67745780944824,20
+http://dbpedia.org/resource/London_Biggin_Hill_Airport,http://www.w3.org/2000/01/rdf-schema#label,London Biggin Hill Airport,Correct,53,22.896231174468998,20
+http://dbpedia.org/resource/London_Biggin_Hill_Airport,http://dbpedia.org/ontology/runwaySurface,Asphalt,Correct,53,22.896231174468998,20
+http://dbpedia.org/resource/London_Biggin_Hill_Airport,http://dbpedia.org/property/nativename,Biggin Hill Airport,Correct,53,22.896231174468998,20
+http://dbpedia.org/resource/James_Brokenshire,http://dbpedia.org/ontology/primeMinister,http://dbpedia.org/resource/David_Cameron,Correct,54,38.10971403121948,20
+http://dbpedia.org/resource/James_Brokenshire,http://dbpedia.org/property/primeminister,http://dbpedia.org/resource/David_Cameron,Correct,54,38.10971403121948,20
+http://dbpedia.org/resource/Position_Ignition,http://www.w3.org/2000/01/rdf-schema#comment,"Position Ignition is a Careers Guidance Service that provides career support, advice and guidance to individuals and organizations. It was set up to provide highly personal career consulting services to individuals similar to those provided to senior businessmen in other professions such as a literary agent, talent agent and a sports agent. Although headquartered in London, United Kingdom, the company is a virtual business without any established offices.",Correct,55,66.35412788391113,22
+http://dbpedia.org/resource/Position_Ignition,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Career_advice_services,Correct,55,66.35412788391113,22
+http://dbpedia.org/resource/Position_Ignition,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Position_Ignition,Correct,55,66.35412788391113,22
+http://dbpedia.org/resource/Position_Ignition,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Service,Correct,55,66.35412788391113,22
+http://dbpedia.org/resource/Position_Ignition,http://dbpedia.org/ontology/abstract,"Position Ignition is a Careers Guidance Service that provides career support, advice and guidance to individuals and organizations. It was set up to provide highly personal career consulting services to individuals similar to those provided to senior businessmen in other professions such as a literary agent, talent agent and a sports agent. Although headquartered in London, United Kingdom, the company is a virtual business without any established offices. The business has created a modern virtual way of working and provides career advice to high level professionals in their homes and in open spaces. Position Ignition is the first UK company to call their career consultants career guides. They currently have 15 career guides working with them.",Correct,55,66.35412788391113,22
+http://dbpedia.org/resource/Adam_Matthew_Digital,http://dbpedia.org/property/publications,databases,Correct,56,127.91045093536376,22
+http://dbpedia.org/resource/Adam_Matthew_Digital,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Digital_media,Correct,56,127.91045093536376,22
+http://dbpedia.org/resource/Adam_Matthew_Digital,http://dbpedia.org/property/country,http://dbpedia.org/resource/United_Kingdom,Correct,56,127.91045093536376,22
+http://dbpedia.org/resource/Adam_Matthew_Digital,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Year_of_establishment_missing,Incorrect,56,127.91045093536376,22
+http://dbpedia.org/resource/Adam_Matthew_Digital,http://xmlns.com/foaf/0.1/homepage,http://www.amdigital.co.uk/,Incorrect,56,127.91045093536376,22
+http://dbpedia.org/resource/William_Zeckendorf,http://www.w3.org/2000/01/rdf-schema#comment,"William Zeckendorf, Sr. (June 30, 1905 – September 30, 1976) was a prominent American real estate developer. Through his development company Webb and Knapp—for which he began working in 1938 and which he purchased in 1949—he developed a significant portion of the New York City urban landscape. Architects I. M. Pei and Le Corbusier have worked for Zeckendorf on many of his projects.",Correct,57,82.27175307273865,22
+http://dbpedia.org/resource/William_Zeckendorf,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/William_Zeckendorf,Correct,57,82.27175307273865,22
+http://dbpedia.org/resource/William_Zeckendorf,http://www.w3.org/2000/01/rdf-schema#label,William Zeckendorf,Correct,57,82.27175307273865,22
+http://dbpedia.org/resource/William_Zeckendorf,http://dbpedia.org/ontology/deathDate,1976-09-30,Correct,57,82.27175307273865,22
+http://dbpedia.org/resource/William_Zeckendorf,http://dbpedia.org/ontology/birthDate,1905-06-30,Correct,57,82.27175307273865,22
+http://dbpedia.org/resource/Byron_Cook_(politician),http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/Navarro_College,Correct,58,173.13597583770752,22
+http://dbpedia.org/resource/Byron_Cook_(politician),http://dbpedia.org/property/residence,"http://dbpedia.org/resource/Corsicana,_Texas",Correct,58,173.13597583770752,22
+http://dbpedia.org/resource/Byron_Cook_(politician),http://dbpedia.org/property/residence,"http://dbpedia.org/resource/Navarro_County,_Texas",Correct,58,173.13597583770752,22
+http://dbpedia.org/resource/Sigma_Pi,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Fraternities_and_sororities_in_Canada,Correct,59,285.0708992481232,24
+http://dbpedia.org/resource/Sigma_Pi,http://dbpedia.org/property/chapter,"Epsilon-Kappa, Southern Arkansas University",Correct,59,285.0708992481232,24
+http://dbpedia.org/resource/Sigma_Pi,http://dbpedia.org/property/chapter,"Alpha-Sigma, University of Arkansas",Correct,59,285.0708992481232,24
+http://dbpedia.org/resource/Sigma_Pi,http://dbpedia.org/property/chapter,"Alpha-Eta, The College of William and Mary",Correct,59,285.0708992481232,24
+http://dbpedia.org/resource/Sigma_Pi,http://dbpedia.org/property/nota,Former NFL Water/towel Boy,Incorrect,59,285.0708992481232,24
+http://dbpedia.org/resource/Scottish_Fuels,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Scottish_Fuels,Correct,60,67.465017080307,24
+http://dbpedia.org/resource/Scottish_Fuels,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Oil_and_gas_companies_of_Scotland,Correct,60,67.465017080307,24
+http://dbpedia.org/resource/Scottish_Fuels,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2001_establishments_in_Scotland,Correct,60,67.465017080307,24
+http://dbpedia.org/resource/Scottish_Fuels,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Companies_established_in_2001,Correct,60,67.465017080307,24
+http://dbpedia.org/resource/Scottish_Fuels,http://www.w3.org/2000/01/rdf-schema#comment,"Scottish Fuels is a distributor of fuel oil products and petrol within Scotland.  It was formed in 2001 following the transfer of local assets from BP. Scottish Fuels is based in Falkirk and is owned by DCC Plc, an Irish company.",Correct,60,67.465017080307,24
+http://dbpedia.org/resource/Eibenstock_Dam,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Germany,Correct,61,146.59851908683777,24
+http://dbpedia.org/resource/Eibenstock_Dam,http://dbpedia.org/ontology/river,http://dbpedia.org/resource/Zwickau_Mulde,Correct,61,146.59851908683777,24
+http://dbpedia.org/resource/Eibenstock_Dam,http://dbpedia.org/ontology/river,http://dbpedia.org/resource/Rähmerbach_Basin,Incorrect,61,146.59851908683777,24
+http://dbpedia.org/resource/Lower_Guadiana_International_bridge,http://dbpedia.org/ontology/crosses,http://dbpedia.org/resource/Chanza_River,Incorrect,62,50.82561016082764,24
+http://dbpedia.org/resource/Department_of_Health_(Philippines),http://www.w3.org/2000/01/rdf-schema#label,Department of Health (Philippines),Correct,63,47.56307291984558,24
+http://dbpedia.org/resource/Department_of_Health_(Philippines),http://dbpedia.org/ontology/headquarter,"http://dbpedia.org/resource/Santa_Cruz,_Manila",Correct,63,47.56307291984558,24
+http://dbpedia.org/resource/Department_of_Health_(Philippines),http://dbpedia.org/ontology/headquarter,http://dbpedia.org/resource/Manila,Correct,63,47.56307291984558,24
+http://dbpedia.org/resource/Department_of_Health_(Philippines),http://dbpedia.org/property/nativename,Kagawaran ng Kalusugan,Correct,63,47.56307291984558,24
+http://dbpedia.org/resource/Flat_Bridge,http://dbpedia.org/ontology/crosses,http://dbpedia.org/resource/Rio_Cobre,Correct,64,41.06140804290772,24
+http://dbpedia.org/resource/Simcere_Pharmaceutical,http://dbpedia.org/ontology/industry,http://dbpedia.org/resource/Pharmaceutical_drug,Correct,65,24.073763847351078,24
+http://dbpedia.org/resource/Simcere_Pharmaceutical,http://www.w3.org/2000/01/rdf-schema#label,Simcere Pharmaceutical,Correct,65,24.073763847351078,24
+http://dbpedia.org/resource/Simcere_Pharmaceutical,http://dbpedia.org/property/industry,http://dbpedia.org/resource/Pharmaceutical_drug,Correct,65,24.073763847351078,24
+"http://dbpedia.org/resource/Centerville,_Indiana",http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/Political_divisions_of_the_United_States,Incorrect,66,125.3669810295105,24
+"http://dbpedia.org/resource/Centerville,_Indiana",http://dbpedia.org/property/utcOffsetDst,-5,Correct,66,125.3669810295105,24
+"http://dbpedia.org/resource/Centerville,_Indiana",http://dbpedia.org/ontology/isPartOf,http://dbpedia.org/resource/Indiana,Correct,66,125.3669810295105,24
+"http://dbpedia.org/resource/Centerville,_Indiana",http://dbpedia.org/property/subdivisionType,http://dbpedia.org/resource/List_of_countries,Correct,66,125.3669810295105,24
+"http://dbpedia.org/resource/Centerville,_Indiana",http://dbpedia.org/property/subdivisionName,http://dbpedia.org/resource/Indiana,Correct,66,125.3669810295105,24
+http://dbpedia.org/resource/RATP_Group,http://dbpedia.org/property/parent,http://dbpedia.org/resource/Government_of_France,Correct,67,199.2580451965332,24
+http://dbpedia.org/resource/RATP_Group,http://dbpedia.org/property/locationCountry,France,Correct,67,199.2580451965332,24
+http://dbpedia.org/resource/RATP_Group,http://dbpedia.org/property/locationCity,75012,Correct,67,199.2580451965332,24
+http://dbpedia.org/resource/RATP_Group,http://xmlns.com/foaf/0.1/homepage,http://www.ratp.fr/en/ratp/c_5002/the-ratp-group/,Incorrect,67,199.2580451965332,24
+http://dbpedia.org/resource/RATP_Group,http://dbpedia.org/property/homepage,http://www.ratp.fr/en/ratp/c_5002/the-ratp-group/,Incorrect,67,199.2580451965332,24
+http://dbpedia.org/resource/Haddiscoe_High_Level_railway_station,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/United_Kingdom,Correct,68,97.25469923019408,24
+http://dbpedia.org/resource/Haddiscoe_High_Level_railway_station,http://dbpedia.org/property/platforms,2,Correct,68,97.25469923019408,24
+http://dbpedia.org/resource/Haddiscoe_High_Level_railway_station,http://dbpedia.org/ontology/railwayPlatforms,2,Correct,68,97.25469923019408,24
+http://dbpedia.org/resource/Haddiscoe_High_Level_railway_station,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Station,Correct,68,97.25469923019408,24
+http://dbpedia.org/resource/Beyond_Good_&_Evil_(video_game),http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Action-adventure_game,Correct,69,352.82394576072693,24
+http://dbpedia.org/resource/Beyond_Good_&_Evil_(video_game),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Jade_(game_engine)_games,Correct,69,352.82394576072693,24
+http://dbpedia.org/resource/Beyond_Good_&_Evil_(video_game),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:PlayStation_Network_games,Correct,69,352.82394576072693,24
+http://dbpedia.org/resource/Beyond_Good_&_Evil_(video_game),http://dbpedia.org/property/title,Fun and Mini-Games,Incorrect,69,352.82394576072693,24
+http://dbpedia.org/resource/Beyond_Good_&_Evil_(video_game),http://dbpedia.org/property/title,Heart of darkness,Incorrect,69,352.82394576072693,24
+http://dbpedia.org/resource/Bank_of_America_Plaza_(Dallas),http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Buildings_and_structures_in_Dallas,_Texas",Correct,70,29.642603874206543,24
+http://dbpedia.org/resource/Bank_of_America_Plaza_(Dallas),http://dbpedia.org/property/location,http://dbpedia.org/resource/Dallas,Correct,70,29.642603874206543,24
+http://dbpedia.org/resource/Bank_of_America_Plaza_(Dallas),http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Dallas,Correct,70,29.642603874206543,24
+http://dbpedia.org/resource/Children's_Hospital_for_Wales,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Hospital,Correct,71,51.71278500556946,24
+http://dbpedia.org/resource/Children's_Hospital_for_Wales,http://dbpedia.org/property/speciality,http://dbpedia.org/resource/Pediatrics,Correct,71,51.71278500556946,24
+http://dbpedia.org/resource/Children's_Hospital_for_Wales,http://dbpedia.org/property/region,http://dbpedia.org/resource/Cardiff,Correct,71,51.71278500556946,24
+http://dbpedia.org/resource/Children's_Hospital_for_Wales,http://www.w3.org/2003/01/geo/wgs84_pos#lat,51.485,Correct,71,51.71278500556946,24
+http://dbpedia.org/resource/Children's_Hospital_for_Wales,http://dbpedia.org/ontology/region,http://dbpedia.org/resource/Wales,Correct,71,51.71278500556946,24
+http://dbpedia.org/resource/Battle_of_the_Espero_Convoy,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Naval_battles_of_World_War_II_involving_Australia,Correct,72,201.47820496559143,24
+http://dbpedia.org/resource/Battle_of_the_Espero_Convoy,http://dbpedia.org/property/partof,the Battle of the Mediterranean of World War II,Correct,72,201.47820496559143,24
+http://dbpedia.org/resource/Battle_of_the_Espero_Convoy,http://dbpedia.org/property/strength,3,Correct,72,201.47820496559143,24
+http://dbpedia.org/resource/Battle_of_the_Espero_Convoy,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Naval_battles_of_World_War_II_involving_Italy,Correct,72,201.47820496559143,24
+http://dbpedia.org/resource/Battle_of_the_Espero_Convoy,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Mediterranean_convoys_of_World_War_II,Correct,72,201.47820496559143,24
+http://dbpedia.org/resource/Wale_Babalakin,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Ibadan,Correct,73,32.39844608306885,24
+http://dbpedia.org/resource/Lillian_Massey_Treble,http://www.w3.org/2000/01/rdf-schema#label,Lillian Massey Treble,Correct,74,51.56953310966492,24
+http://dbpedia.org/resource/Lillian_Massey_Treble,http://dbpedia.org/ontology/deathYear,1915,Correct,74,51.56953310966492,24
+http://dbpedia.org/resource/Lillian_Massey_Treble,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1854_births,Correct,74,51.56953310966492,24
+http://dbpedia.org/resource/Lillian_Massey_Treble,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Lillian_Massey_Treble,Correct,74,51.56953310966492,24
+http://dbpedia.org/resource/Lillian_Massey_Treble,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Canadian_educators,Correct,74,51.56953310966492,24
+http://dbpedia.org/resource/Umicore,http://dbpedia.org/property/intl,yes,I Don't Know,75,195.23840999603271,24
+http://dbpedia.org/resource/Umicore,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/UMHK_1917.jpg?width=300,Correct,75,195.23840999603271,24
+http://dbpedia.org/resource/Umicore,http://xmlns.com/foaf/0.1/name,Umicore N.V.,Incorrect,75,195.23840999603271,24
+http://dbpedia.org/resource/Umicore,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Chemical_companies_of_Belgium,Correct,75,195.23840999603271,24
+http://dbpedia.org/resource/Umicore,http://dbpedia.org/ontology/operatingIncome,5.241E8,Correct,75,195.23840999603271,24
+"http://dbpedia.org/resource/Philip_Snowden,_1st_Viscount_Snowden",http://dbpedia.org/property/before,http://dbpedia.org/resource/Winston_Churchill,Incorrect,76,297.63846611976624,24
+"http://dbpedia.org/resource/Philip_Snowden,_1st_Viscount_Snowden",http://dbpedia.org/property/predecessor,http://dbpedia.org/resource/Winston_Churchill,Correct,76,297.63846611976624,24
+"http://dbpedia.org/resource/Philip_Snowden,_1st_Viscount_Snowden",http://dbpedia.org/property/after,http://dbpedia.org/resource/Winston_Churchill,Correct,76,297.63846611976624,24
+http://dbpedia.org/resource/Spoetzl_Brewery,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Spoetzl_Brewery,Correct,77,89.1914587020874,24
+http://dbpedia.org/resource/Spoetzl_Brewery,http://dbpedia.org/ontology/abstract,"Spoetzl Brewery is a brewery located in Shiner, Texas, USA.  The brewery produces a diverse line of Shiner Beers, including their flagship Shiner Bock, a dark lager that is now distributed in 49 states.  The brewery is owned by The Gambrinus Company, a family-owned company in San Antonio.",Correct,77,89.1914587020874,24
+http://dbpedia.org/resource/Spoetzl_Brewery,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-brewery-noun-1,Correct,77,89.1914587020874,24
+http://dbpedia.org/resource/Spoetzl_Brewery,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Brewery,Correct,77,89.1914587020874,24
+http://dbpedia.org/resource/Spoetzl_Brewery,http://dbpedia.org/ontology/foundingYear,1909,Correct,77,89.1914587020874,24
+http://dbpedia.org/resource/Transrapid,http://www.w3.org/2000/01/rdf-schema#comment,"Transrapid is a German high-speed monorail train using magnetic levitation based on a 1934 patent. Planning for the Transrapid system started in 1969 with a test facility for the system in Emsland, Germany completed in 1987.",Correct,78,45.15299987792969,24
+http://dbpedia.org/resource/North_London_Waste_Authority,http://dbpedia.org/ontology/leader,http://dbpedia.org/resource/Labour_Party_(UK),Correct,79,13.869472026824951,24
+http://dbpedia.org/resource/Barcelona–Cerbère_railway,http://dbpedia.org/property/operator,http://dbpedia.org/resource/Renfe_Operadora,Correct,80,376.59763407707214,24
+http://dbpedia.org/resource/Barcelona–Cerbère_railway,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Catalonia,Correct,80,376.59763407707214,24
+http://dbpedia.org/resource/Barcelona–Cerbère_railway,http://dbpedia.org/ontology/operatedBy,http://dbpedia.org/resource/Renfe_Operadora,Correct,80,376.59763407707214,24
+http://dbpedia.org/resource/Barcelona–Cerbère_railway,http://dbpedia.org/property/locale,http://dbpedia.org/resource/Catalonia,Correct,80,376.59763407707214,24
+http://dbpedia.org/resource/1815_Philadelphia_train_accident,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Railway_accidents_in_1815,Correct,81,189.98670482635495,24
+http://dbpedia.org/resource/1815_Philadelphia_train_accident,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:History_of_County_Durham,Incorrect,81,189.98670482635495,24
+http://dbpedia.org/resource/1815_Philadelphia_train_accident,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Railway_accidents_in_County_Durham,Correct,81,189.98670482635495,24
+http://dbpedia.org/resource/1815_Philadelphia_train_accident,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1815_in_England,Correct,81,189.98670482635495,24
+http://dbpedia.org/resource/1815_Philadelphia_train_accident,http://dbpedia.org/property/longitude,-1.478,Correct,81,189.98670482635495,24
+http://dbpedia.org/resource/Hotel_Colorado,http://dbpedia.org/property/architecture,http://dbpedia.org/resource/Italianate_architecture,Correct,82,25.745362997055054,24
+http://dbpedia.org/resource/Hotel_Colorado,http://dbpedia.org/ontology/architecturalStyle,http://dbpedia.org/resource/Italianate_architecture,Correct,82,25.745362997055054,24
+http://dbpedia.org/resource/Privilege_Ibiza,http://www.georss.org/georss/point,38.95777777777778 1.4080555555555556,Correct,83,63.16448283195496,24
+http://dbpedia.org/resource/Privilege_Ibiza,http://www.w3.org/2000/01/rdf-schema#label,Privilege Ibiza,Correct,83,63.16448283195496,24
+http://dbpedia.org/resource/Privilege_Ibiza,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Privilege_Ibiza,Correct,83,63.16448283195496,24
+http://dbpedia.org/resource/Privilege_Ibiza,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Privilege_Ibiza,Correct,83,63.16448283195496,24
+http://dbpedia.org/resource/Privilege_Ibiza,http://www.w3.org/2000/01/rdf-schema#comment,"Privilege Ibiza is the ""world's largest nightclub"" according to the Guinness Book of Records, with a capacity of 10,000 people. It is located not far from San Rafael, Ibiza, less than 1 km from the nightclub Amnesia. For fourteen years, Privilege hosted Manumission, one of the island's most famous events. After a dispute between the club owner and Manumission's organizers, the event moved to Amnesia.Originally called Ku, Privilege was a restaurant in the 1970s.",Correct,83,63.16448283195496,24
+http://dbpedia.org/resource/Fern_Emmett,http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Oakland,_California",Correct,84,22.057776927948,24
+http://dbpedia.org/resource/115th_Street_–_Morgan_Park_(Metra_station),http://www.w3.org/2000/01/rdf-schema#label,115th Street – Morgan Park (Metra station),Correct,85,3.506115198135376,24
+http://dbpedia.org/resource/Scottish_Airlines,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Companies_based_in_South_Ayrshire,Correct,86,198.779363155365,24
+http://dbpedia.org/resource/Scottish_Airlines,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Scottish_Airlines,Correct,86,198.779363155365,24
+http://dbpedia.org/resource/Scottish_Airlines,http://dbpedia.org/property/ceased,1961,Correct,86,198.779363155365,24
+http://dbpedia.org/resource/Scottish_Airlines,http://dbpedia.org/property/caption,Avro York of Scottish Airlines in 1953,Correct,86,198.779363155365,24
+http://dbpedia.org/resource/Scottish_Airlines,http://dbpedia.org/property/hubs,http://dbpedia.org/resource/London_Stansted_Airport,Correct,86,198.779363155365,24
+http://dbpedia.org/resource/David_Barger,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/University_of_Michigan,Correct,87,30.34990692138672,24
+http://dbpedia.org/resource/University_of_Valencia,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/Spain,Correct,88,4.1572020053863525,24
+http://dbpedia.org/resource/Momtaz_Begum-Hossain,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/London,Correct,89,44.67979598045349,24
+http://dbpedia.org/resource/Kung_Tsui-chang,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Taipei,Correct,90,21.02263879776001,24
+http://dbpedia.org/resource/Kung_Tsui-chang,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Taiwan,Correct,90,21.02263879776001,24
+http://dbpedia.org/resource/Federal_Institute_for_Risk_Assessment,http://dbpedia.org/property/headquarters,http://dbpedia.org/resource/Berlin,Correct,91,7157.683412075043,36
+http://dbpedia.org/resource/Federal_Institute_for_Risk_Assessment,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Berlin,Correct,91,7157.683412075043,36
+http://dbpedia.org/resource/Federal_Institute_for_Risk_Assessment,http://dbpedia.org/property/parentAgency,http://dbpedia.org/resource/Federal_Ministry_of_Food_and_Agriculture,Correct,91,7157.683412075043,36
+http://dbpedia.org/resource/Federal_Institute_for_Risk_Assessment,http://dbpedia.org/property/parentAgency,http://dbpedia.org/resource/Federal_Ministry_of_Food_and_Agriculture_(Germany),Correct,91,7157.683412075043,36
+http://dbpedia.org/resource/Federal_Institute_for_Risk_Assessment,http://dbpedia.org/property/nativename,Federal Institute for Risk Assessment,Incorrect,91,7157.683412075043,36
+http://dbpedia.org/resource/Austin_(Amtrak_station),http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-railway_station-noun-1,Correct,92,262.0496599674225,36
+http://dbpedia.org/resource/Austin_(Amtrak_station),http://dbpedia.org/ontology/address,"Austin, TX 78703",Correct,92,262.0496599674225,36
+http://dbpedia.org/resource/Austin_(Amtrak_station),http://dbpedia.org/ontology/visitorStatisticsAsOf,2014,I Don't Know,92,262.0496599674225,36
+http://dbpedia.org/resource/Austin_(Amtrak_station),http://dbpedia.org/ontology/passengersPerYear,32951,I Don't Know,92,262.0496599674225,36
+http://dbpedia.org/resource/Austin_(Amtrak_station),http://dbpedia.org/property/imageCaption,Austin,Correct,92,262.0496599674225,36
+http://dbpedia.org/resource/Joyalukkas,http://dbpedia.org/property/homepage,http://www.joyalukkas.com,Correct,93,99.3125319480896,36
+http://dbpedia.org/resource/Joyalukkas,http://dbpedia.org/property/areaServed,http://dbpedia.org/resource/Qatar,Correct,93,99.3125319480896,36
+http://dbpedia.org/resource/Joyalukkas,http://dbpedia.org/ontology/regionServed,http://dbpedia.org/resource/Singapore,Correct,93,99.3125319480896,36
+http://dbpedia.org/resource/Joyalukkas,http://dbpedia.org/property/products,Jewellery,Correct,93,99.3125319480896,36
+http://dbpedia.org/resource/Joyalukkas,http://dbpedia.org/ontology/regionServed,http://dbpedia.org/resource/Malaysia,Correct,93,99.3125319480896,36
+http://dbpedia.org/resource/Chico_Hamilton_Trio,http://dbpedia.org/property/recorded,--12-06,Incorrect,94,46.31203103065491,36
+http://dbpedia.org/resource/Chico_Hamilton_Trio,http://dbpedia.org/ontology/recordLabel,http://dbpedia.org/resource/Pacific_Jazz_Records,Correct,94,46.31203103065491,36
+http://dbpedia.org/resource/Chico_Hamilton_Trio,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Chico_Hamilton_Trio,Correct,94,46.31203103065491,36
+http://dbpedia.org/resource/Chico_Hamilton_Trio,http://www.w3.org/2000/01/rdf-schema#label,Chico Hamilton Trio,Correct,94,46.31203103065491,36
+http://dbpedia.org/resource/Chico_Hamilton_Trio,http://dbpedia.org/property/name,Chico Hamilton Trio,Correct,94,46.31203103065491,36
+http://dbpedia.org/resource/Direct_Line,http://dbpedia.org/ontology/locationCountry,http://dbpedia.org/resource/United_Kingdom,Correct,95,113.92981791496275,36
+http://dbpedia.org/resource/Direct_Line,http://dbpedia.org/ontology/locationCity,http://dbpedia.org/resource/Leeds,Incorrect,95,113.92981791496275,36
+http://dbpedia.org/resource/Impresa_Pizzarotti,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Construction_and_civil_engineering_companies_of_Italy,I Don't Know,96,14.398154735565186,36
+http://dbpedia.org/resource/Impresa_Pizzarotti,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Impresa_Pizzarotti,Correct,96,14.398154735565186,36
+http://dbpedia.org/resource/Impresa_Pizzarotti,http://www.w3.org/2000/01/rdf-schema#label,Impresa Pizzarotti,Correct,96,14.398154735565186,36
+http://dbpedia.org/resource/Impresa_Pizzarotti,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Impresa_Pizzarotti,Correct,96,14.398154735565186,36
+http://dbpedia.org/resource/Impresa_Pizzarotti,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Construction,Correct,96,14.398154735565186,36
+http://dbpedia.org/resource/Shin-Keisei_Line,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Shin-Keisei_Line,Correct,97,30.6604118347168,36
+http://dbpedia.org/resource/Shin-Keisei_Line,http://dbpedia.org/property/depot,"Kunugiyama, Tsudanuma",Correct,97,30.6604118347168,36
+http://dbpedia.org/resource/Shin-Keisei_Line,http://www.w3.org/2000/01/rdf-schema#label,Shin-Keisei Line,Correct,97,30.6604118347168,36
+http://dbpedia.org/resource/Shin-Keisei_Line,http://dbpedia.org/property/color,FF69B4,Correct,97,30.6604118347168,36
+http://dbpedia.org/resource/Shin-Keisei_Line,http://dbpedia.org/ontology/openingDate,1947-12-27,Correct,97,30.6604118347168,36
+http://dbpedia.org/resource/Torrent_Cables,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Ahmedabad,Correct,98,47.015719175338745,36
+http://dbpedia.org/resource/Torrent_Cables,http://dbpedia.org/property/foundation,1983,Correct,98,47.015719175338745,36
+http://dbpedia.org/resource/Torrent_Cables,http://www.w3.org/2000/01/rdf-schema#label,Torrent Cables,Correct,98,47.015719175338745,36
+http://dbpedia.org/resource/Torrent_Cables,http://xmlns.com/foaf/0.1/homepage,http://www.torrentcables.com/,Incorrect,98,47.015719175338745,36
+http://dbpedia.org/resource/Torrent_Cables,http://dbpedia.org/property/location,http://dbpedia.org/resource/India,Correct,98,47.015719175338745,36
+http://dbpedia.org/resource/Jadranski_naftovod,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Jadranski_naftovod,Correct,99,65.96225190162659,36
+http://dbpedia.org/resource/Jadranski_naftovod,http://dbpedia.org/property/locationCountry,http://dbpedia.org/resource/Croatia,Correct,99,65.96225190162659,36
+http://dbpedia.org/resource/Jadranski_naftovod,http://xmlns.com/foaf/0.1/homepage,http://www.janaf.hr/index.php?option=home&lang=en,Correct,99,65.96225190162659,36
+http://dbpedia.org/resource/Jadranski_naftovod,http://dbpedia.org/ontology/abstract,"Jadranski naftovod (JANAF) is a crude oil transportation company in Croatia. It operates the JANAF oil transport system, a part of the Adria oil pipeline.JANAF operates oil terminal of the Port of Rijeka in Omišalj on the Krk Island. In 2010, the Port of Rijeka Liquid Cargo Terminal transported 6.4 million tonnes of oil, representing a 7% drop compared to 6.9 million tonnes transported in 2009. In 2010, JANAF recorded annual revenue of 464.9 million kuna (62.8 million euro), less than 1% down from 2009, and annual net profit of 118.5 million kuna (16 million euro), up 11% compared to the previous year. However, JANAF operations include other facilities and services besides the oil terminal concession in the Port of Rijeka. JANAF is a joint stock company owned by Croatian Pension Insurance Institute (50.5%), INA (16%), the Republic of Croatia (14.5%) and other shareholders owning less than 10% of stock each. JANAF chairman of the board is Dragan Kovačević. JANAF had 380 employees working in Omišalj terminal and other JANAF facilities in Croatia.JANAF's share was listed as part of CROBEX before March 2011.",Correct,99,65.96225190162659,36
+http://dbpedia.org/resource/Jadranski_naftovod,http://dbpedia.org/property/industry,http://dbpedia.org/resource/Petroleum_industry,Correct,99,65.96225190162659,36
+http://dbpedia.org/resource/Dry_well,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Sickergrube.jpg?width=300,Correct,100,486.39481687545776,36
+http://dbpedia.org/resource/Dry_well,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Stormwater_management,Correct,100,486.39481687545776,36
+http://dbpedia.org/resource/Dry_well,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Environmental_engineering,Correct,100,486.39481687545776,36
+http://dbpedia.org/resource/Dry_well,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/Sickergrube.jpg,Correct,100,486.39481687545776,36
+http://dbpedia.org/resource/Dry_well,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Nuclear_power_plant_components,Correct,100,486.39481687545776,36
+http://dbpedia.org/resource/William_P._Sommers,http://dbpedia.org/property/workplaces,http://dbpedia.org/resource/SRI_International,Correct,101,13.459558963775637,36
+http://dbpedia.org/resource/Stephen_Low,http://xmlns.com/foaf/0.1/givenName,Stephen,Correct,102,80.07918810844421,36
+http://dbpedia.org/resource/Stephen_Low,http://xmlns.com/foaf/0.1/name,Stephen Low,Correct,102,80.07918810844421,36
+http://dbpedia.org/resource/Stephen_Low,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:People_from_Ottawa,Correct,102,80.07918810844421,36
+http://dbpedia.org/resource/Stephen_Low,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Lakehead_University_alumni,Correct,102,80.07918810844421,36
+http://dbpedia.org/resource/Stephen_Low,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Film_directors_from_Montreal,Correct,102,80.07918810844421,36
+http://dbpedia.org/resource/Sauto_Theater,http://www.w3.org/2000/01/rdf-schema#label,Sauto Theater,Correct,103,34.909303188323975,36
+http://dbpedia.org/resource/Sauto_Theater,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Spanish_Colonial_architecture_in_Cuba,Correct,103,34.909303188323975,36
+http://dbpedia.org/resource/Sauto_Theater,http://dbpedia.org/property/buildingType,http://dbpedia.org/resource/Theater,Correct,103,34.909303188323975,36
+http://dbpedia.org/resource/Sauto_Theater,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Theatre,Correct,103,34.909303188323975,36
+http://dbpedia.org/resource/Sauto_Theater,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Matanzas,Correct,103,34.909303188323975,36
+http://dbpedia.org/resource/Bob_Corritore,http://dbpedia.org/ontology/recordLabel,http://dbpedia.org/resource/Delta_Groove_Productions,Correct,104,72.21442604064941,36
+http://dbpedia.org/resource/Bob_Corritore,http://dbpedia.org/ontology/birthYear,1956,Correct,104,72.21442604064941,36
+http://dbpedia.org/resource/Bob_Corritore,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_blues_harmonica_players,Correct,104,72.21442604064941,36
+http://dbpedia.org/resource/Bob_Corritore,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Songwriters_from_Illinois,Correct,104,72.21442604064941,36
+http://dbpedia.org/resource/Bob_Corritore,http://dbpedia.org/property/placeOfBirth,"Chicago, Illinois, United States",Correct,104,72.21442604064941,36
+http://dbpedia.org/resource/Enemy_(American_band),http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Incorrect,105,72.66114616394043,36
+http://dbpedia.org/resource/11th_Street_Bridge,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Art_Deco_architecture_in_Oklahoma,Correct,106,372.81844305992126,36
+http://dbpedia.org/resource/11th_Street_Bridge,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Bridges_over_the_Arkansas_River,Correct,106,372.81844305992126,36
+http://dbpedia.org/resource/11th_Street_Bridge,http://www.w3.org/2000/01/rdf-schema#comment,"The 11th Street Bridge was completed in December 1915 to carry vehicles across the Arkansas River at Tulsa, Oklahoma. Used from 1916 to 1972, it was also a part of U.S. Route 66. Functionally, it has been replaced by the I-244 bridges across the Arkansas. At present, the bridge is in poor structural condition and unsafe even for pedestrians.",Correct,106,372.81844305992126,36
+http://dbpedia.org/resource/11th_Street_Bridge,http://www.w3.org/2000/01/rdf-schema#label,11th Street Bridge,Correct,106,372.81844305992126,36
+http://dbpedia.org/resource/11th_Street_Bridge,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Buildings_and_structures_in_Tulsa,_Oklahoma",Correct,106,372.81844305992126,36
+http://dbpedia.org/resource/Zaman_(newspaper),http://dbpedia.org/property/headquarters,http://dbpedia.org/resource/Turkey,Correct,107,73.12852597236633,36
+http://dbpedia.org/resource/Zaman_(newspaper),http://dbpedia.org/property/headquarters,A. Taner Kışlalı Cad. No:6,Correct,107,73.12852597236633,36
+http://dbpedia.org/resource/Zaman_(newspaper),http://dbpedia.org/property/headquarters,Fevzi Çakmak Mah.,Correct,107,73.12852597236633,36
+http://dbpedia.org/resource/Zaman_(newspaper),http://dbpedia.org/property/language,http://dbpedia.org/resource/Turkish_Language,Correct,107,73.12852597236633,36
+http://dbpedia.org/resource/Zaman_(newspaper),http://xmlns.com/foaf/0.1/name,Zaman Newspaper,Incorrect,107,73.12852597236633,36
+http://dbpedia.org/resource/Kyushu_Railway_Company,http://dbpedia.org/ontology/foundingDate,1987-04-01,Correct,108,25.65132427215576,36
+http://dbpedia.org/resource/Meggitt,http://dbpedia.org/property/location,http://dbpedia.org/resource/Dorset,Correct,109,115.8508768081665,36
+http://dbpedia.org/resource/Meggitt,http://dbpedia.org/property/industry,http://dbpedia.org/resource/Aerospace,Correct,109,115.8508768081665,36
+http://dbpedia.org/resource/Meggitt,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Dorset,Correct,109,115.8508768081665,36
+http://dbpedia.org/resource/Meggitt,http://dbpedia.org/ontology/industry,http://dbpedia.org/resource/Aerospace,Correct,109,115.8508768081665,36
+http://dbpedia.org/resource/USA_Living,http://dbpedia.org/property/locationCity,"http://dbpedia.org/resource/Norfolk,_Virginia",Correct,110,73.14347100257874,36
+http://dbpedia.org/resource/USA_Living,http://dbpedia.org/ontology/regionServed,http://dbpedia.org/resource/United_States,Correct,110,73.14347100257874,36
+http://dbpedia.org/resource/Oando,http://dbpedia.org/ontology/product,http://dbpedia.org/resource/Petrochemical,Correct,111,1090.1559398174286,36
+http://dbpedia.org/resource/Oando,http://dbpedia.org/ontology/industry,http://dbpedia.org/resource/List_of_oil_exploration_and_production_companies,Correct,111,1090.1559398174286,36
+http://dbpedia.org/resource/Oando,http://dbpedia.org/property/products,http://dbpedia.org/resource/Petroleum,Correct,111,1090.1559398174286,36
+http://dbpedia.org/resource/Oando,http://dbpedia.org/property/products,http://dbpedia.org/resource/Fuel,Correct,111,1090.1559398174286,36
+http://dbpedia.org/resource/Oando,http://dbpedia.org/property/industry,http://dbpedia.org/resource/List_of_petroleum_companies,Correct,111,1090.1559398174286,36
+http://dbpedia.org/resource/V/Line_G_class,http://dbpedia.org/ontology/owner,http://dbpedia.org/resource/AWB_Limited,Incorrect,112,171.5036871433258,36
+http://dbpedia.org/resource/V/Line_G_class,http://dbpedia.org/property/currentowner,http://dbpedia.org/resource/AWB_Limited,Incorrect,112,171.5036871433258,36
+http://dbpedia.org/resource/Jona_railway_station,http://dbpedia.org/ontology/owner,http://dbpedia.org/resource/Swiss_Federal_Railways,Correct,113,32.291043758392334,36
+http://dbpedia.org/resource/Jona_railway_station,http://dbpedia.org/ontology/owningOrganisation,http://dbpedia.org/resource/Swiss_Federal_Railways,Correct,113,32.291043758392334,36
+http://dbpedia.org/resource/Kinetic_Suspension_Technology,http://www.w3.org/2000/01/rdf-schema#comment,"Kinetic Suspension Technology is a developer of passive vehicle suspension systems.  The company is based in Dunsborough, Western Australia.Tenneco Automotive acquired the Kinetic suspension system and safety technology with its acquisition of Kinetic Ltd, Dunsborough Western Australia in 1999.",Correct,114,111.23665690422058,36
+http://dbpedia.org/resource/Kinetic_Suspension_Technology,http://dbpedia.org/ontology/abstract,"Kinetic Suspension Technology is a developer of passive vehicle suspension systems.  The company is based in Dunsborough, Western Australia.Tenneco Automotive acquired the Kinetic suspension system and safety technology with its acquisition of Kinetic Ltd, Dunsborough Western Australia in 1999.",Correct,114,111.23665690422058,36
+http://dbpedia.org/resource/Kinetic_Suspension_Technology,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Automotive_companies_of_Australia,Correct,114,111.23665690422058,36
+http://dbpedia.org/resource/Kinetic_Suspension_Technology,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Developer,Correct,114,111.23665690422058,36
+http://dbpedia.org/resource/Kinetic_Suspension_Technology,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Manufacturing_companies_established_in_1999,Correct,114,111.23665690422058,36
+http://dbpedia.org/resource/Nhill_Airport,http://dbpedia.org/property/latm,18,I Don't Know,115,381.8548469543457,37
+http://dbpedia.org/resource/Nhill_Airport,http://dbpedia.org/property/metricRwy,Y,Correct,115,381.8548469543457,37
+http://dbpedia.org/resource/Nhill_Airport,http://dbpedia.org/property/r1LengthM,1000,Correct,115,381.8548469543457,37
+http://dbpedia.org/resource/Nhill_Airport,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Airports_in_Victoria_(Australia),Correct,115,381.8548469543457,37
+http://dbpedia.org/resource/Nhill_Airport,http://dbpedia.org/property/elevationF,454,Correct,115,381.8548469543457,37
+http://dbpedia.org/resource/Tappan_Bridge,http://dbpedia.org/ontology/crosses,http://dbpedia.org/resource/Dry_Brook,Correct,116,91.25763297080994,37
+http://dbpedia.org/resource/Railway_Institute,http://dbpedia.org/property/city,http://dbpedia.org/resource/Warsaw,Correct,117,69.0549168586731,37
+http://dbpedia.org/resource/Railway_Institute,http://dbpedia.org/property/website,http://www.ikolej.pl/en/,Incorrect,117,69.0549168586731,37
+http://dbpedia.org/resource/Railway_Institute,http://dbpedia.org/ontology/abstract,"The Railway Institute (Polish: Instytut Kolejnictwa) is a research institute located in Warsaw, Poland.The Railway Institute (formerly Railway Scientific and Technical Centre (CNTK)) is operating under the Polish Ministry of Transport, Construction and Maritime Economy (former Polish Ministry of Infrastructure), and is notified under EU Railway Directive 2008/57/CE concerning railway interoperability.The Railway Institute, operating for 60 years in the transport sector, mainly in the rail sector, conducts scientific and research works, as well as services (including calibration of universal masters and measuring instruments) and performs certification works in the fields of railways and urban rail transport.The Railway Institute owns a test track for conducting various experiments and also possesses the necessary infrastructure for R&D studies in the field of railway transport.The Railway Institute is a Notified Body under the Interoperability of the Railway System Directive NB 1467.The Railway Institute is a member of many significant railway organisations in Europe, such as: UIC UNIFE via the national Association for Rail Transport Interoperability and Development (SIRTS) European Rail Research Advisory Council (ERRAC) European Conference of Transport Research Institutes (ECTRI) European Network of Excellence (EURNEX) European Level Crossing Forum (ELCF) NB Rail",Correct,117,69.0549168586731,37
+http://dbpedia.org/resource/Railway_Institute,http://www.w3.org/2000/01/rdf-schema#comment,"The Railway Institute (Polish: Instytut Kolejnictwa) is a research institute located in Warsaw, Poland.The Railway Institute (formerly Railway Scientific and Technical Centre (CNTK)) is operating under the Polish Ministry of Transport, Construction and Maritime Economy (former Polish Ministry of Infrastructure), and is notified under EU Railway Directive 2008/57/CE concerning railway interoperability.The Railway Institute, operating for 60 years in the transport sector, mainly in the rail sector, conducts scientific and research works, as well as services (including calibration of universal masters and measuring instruments) and performs certification works in the fields of railways and urban rail transport.The Railway Institute owns a test track for conducting various experiments and also possesses the necessary infrastructure for R&D studies in the field of railway transport.The Railway Institute is a Notified Body under the Interoperability of the Railway System Directive NB 1467.The Railway Institute is a member of many significant railway organisations in Europe, such as: UIC UNIFE via the national Association for Rail Transport Interoperability and Development (SIRTS) European Rail Research Advisory Council (ERRAC) European Conference of Transport Research Institutes (ECTRI) European Network of Excellence (EURNEX) European Level Crossing Forum (ELCF) NB Rail",Correct,117,69.0549168586731,37
+http://dbpedia.org/resource/Railway_Institute,http://dbpedia.org/property/name,Instut Kolejnictwa,Correct,117,69.0549168586731,37
+"http://dbpedia.org/resource/All_Saints'_Church,_Hockerill",http://xmlns.com/foaf/0.1/page,http://www.allsaintshockerill.org.uk/,Incorrect,118,4.168272256851196,37
+http://dbpedia.org/resource/Whitecraigs_railway_station,http://dbpedia.org/property/original,http://dbpedia.org/resource/Lanarkshire_and_Ayrshire_Railway,Incorrect,119,100.776389837265,37
+http://dbpedia.org/resource/Whitecraigs_railway_station,http://xmlns.com/foaf/0.1/name,Whitecraigs,Correct,119,100.776389837265,37
+http://dbpedia.org/resource/Whitecraigs_railway_station,http://dbpedia.org/property/code,WCR,Correct,119,100.776389837265,37
+http://dbpedia.org/resource/Whitecraigs_railway_station,http://dbpedia.org/property/latitude,55.7903,Correct,119,100.776389837265,37
+http://dbpedia.org/resource/Whitecraigs_railway_station,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Giffnock,Correct,119,100.776389837265,37
+http://dbpedia.org/resource/Berlin-Pankow-Heinersdorf_station,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Bahnhof_Pankow-Heinersdorf_01279.JPG?width=300,Correct,120,263.3309109210968,37
+http://dbpedia.org/resource/Berlin-Pankow-Heinersdorf_station,http://dbpedia.org/property/system,SBB,Incorrect,120,263.3309109210968,37
+http://dbpedia.org/resource/Berlin-Pankow-Heinersdorf_station,http://www.georss.org/georss/point,52.5783 13.4297,Correct,120,263.3309109210968,37
+http://dbpedia.org/resource/Berlin-Pankow-Heinersdorf_station,http://dbpedia.org/property/type,North,Incorrect,120,263.3309109210968,37
+http://dbpedia.org/resource/Berlin-Pankow-Heinersdorf_station,http://www.w3.org/2000/01/rdf-schema#label,Berlin-Pankow-Heinersdorf station,Correct,120,263.3309109210968,37
+http://dbpedia.org/resource/Cubesat_Space_Protocol,http://xmlns.com/foaf/0.1/homepage,http://www.libcsp.org,Correct,121,156.00066900253296,38
+http://dbpedia.org/resource/Cubesat_Space_Protocol,http://dbpedia.org/ontology/abstract,"Cubesat Space Protocol (CSP) is a small network-layer delivery protocol designed for Cubesats. The idea was developed by a group of students from Aalborg University in 2008, and further developed for the AAUSAT3 Cubesat mission successfully launched in 2013. The protocol is based on a 32-bit header containing both network and transport layer information. Its implementation is designed for, but not limited to, embedded systems such as the 8-bit AVR microprocessor and the 32-bit ARM and AVR from Atmel. The implementation is written in C and is currently ported to run on FreeRTOS and POSIX and pthreads-based operating systems such as Linux. Support for Mac OS X and Microsoft Windows will be available in version 1.1. The three-letter acronym CSP was originally an abbreviation for CAN Space Protocol because the first MAC-layer driver was written for CAN-bus. The physical layer has since been extended to include several other technologies, and the name was therefore extended to the more general Cubesat Space Protocol without changing the abbreviation.The protocol and the implementation is actively maintained by the students at Aalborg University and the spin-off company GomSpace. The source code is available under an LGPL license and hosted on GitHub.",Correct,121,156.00066900253296,38
+http://dbpedia.org/resource/Cubesat_Space_Protocol,http://dbpedia.org/property/author,http://dbpedia.org/resource/AAUSAT3,Incorrect,121,156.00066900253296,38
+http://dbpedia.org/resource/Cubesat_Space_Protocol,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:CubeSats,Correct,121,156.00066900253296,38
+http://dbpedia.org/resource/Cubesat_Space_Protocol,http://dbpedia.org/property/license,http://dbpedia.org/resource/GNU_Lesser_General_Public_License,Correct,121,156.00066900253296,38
+http://dbpedia.org/resource/Belfast–Dublin_railway_line,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Republic_of_Ireland,Correct,122,92.61225295066832,38
+http://dbpedia.org/resource/Pontiac_Astre,http://dbpedia.org/ontology/bodyStyle,http://dbpedia.org/resource/Station_wagon,Correct,123,109.50159001350404,38
+http://dbpedia.org/resource/Pontiac_Astre,http://dbpedia.org/ontology/designCompany,http://dbpedia.org/resource/Bill_Mitchell_(designer),Correct,123,109.50159001350404,38
+http://dbpedia.org/resource/Pontiac_Astre,http://dbpedia.org/ontology/bodyStyle,http://dbpedia.org/resource/Hatchback,Correct,123,109.50159001350404,38
+http://dbpedia.org/resource/Pontiac_Astre,http://dbpedia.org/ontology/automobilePlatform,http://dbpedia.org/resource/GM_H_platform_(1971),Correct,123,109.50159001350404,38
+http://dbpedia.org/resource/Pontiac_Astre,http://dbpedia.org/ontology/bodyStyle,http://dbpedia.org/resource/Notchback,Correct,123,109.50159001350404,38
+http://dbpedia.org/resource/V6_(band),http://dbpedia.org/ontology/recordLabel,http://dbpedia.org/resource/Avex_Trax,Correct,124,20.60834789276123,38
+http://dbpedia.org/resource/V6_(band),http://dbpedia.org/property/label,http://dbpedia.org/resource/Avex_Trax,Incorrect,124,20.60834789276123,38
+http://dbpedia.org/resource/Joseph_Andrews_House,http://www.w3.org/2003/01/geo/wgs84_pos#long,-71.2178,Correct,125,271.34596514701843,38
+http://dbpedia.org/resource/Joseph_Andrews_House,http://xmlns.com/foaf/0.1/name,Joseph Andrews House,Correct,125,271.34596514701843,38
+http://dbpedia.org/resource/Joseph_Andrews_House,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/WalthamMA_JosephAndrewsHouse.jpg,Correct,125,271.34596514701843,38
+http://dbpedia.org/resource/Joseph_Andrews_House,http://www.georss.org/georss/point,42.38333333333333 -71.21777777777778,Correct,125,271.34596514701843,38
+http://dbpedia.org/resource/Joseph_Andrews_House,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Joseph_Andrews_House,Correct,125,271.34596514701843,38
+http://dbpedia.org/resource/Heart's_Desire_(film),http://dbpedia.org/property/country,United Kingdom,Correct,126,111.1681261062622,38
+http://dbpedia.org/resource/Heart's_Desire_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:British_musical_films,Correct,126,111.1681261062622,38
+http://dbpedia.org/resource/Heart's_Desire_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1930s_musical_films,Correct,126,111.1681261062622,38
+http://dbpedia.org/resource/Heart's_Desire_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_directed_by_Paul_L._Stein,Correct,126,111.1681261062622,38
+http://dbpedia.org/resource/Heart's_Desire_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Operetta_films,I Don't Know,126,111.1681261062622,38
+http://dbpedia.org/resource/Immingham_Dock_railway_station,http://dbpedia.org/ontology/district,http://dbpedia.org/resource/North_East_Lincolnshire,Correct,127,22.789893865585327,38
+"http://dbpedia.org/resource/Liberty_Hall_(Barnstable,_Massachusetts)",http://dbpedia.org/property/latDirection,N,I Don't Know,128,138.4744861125946,38
+"http://dbpedia.org/resource/Liberty_Hall_(Barnstable,_Massachusetts)",http://dbpedia.org/property/longDirection,W,I Don't Know,128,138.4744861125946,38
+"http://dbpedia.org/resource/Liberty_Hall_(Barnstable,_Massachusetts)",http://dbpedia.org/property/locmapin,Massachusetts,Correct,128,138.4744861125946,38
+http://dbpedia.org/resource/Revco,http://dbpedia.org/property/name,"Revco, D.S., Inc.",Correct,129,84.34613013267517,38
+http://dbpedia.org/resource/Revco,http://dbpedia.org/property/defunct,1997,Correct,129,84.34613013267517,38
+http://dbpedia.org/resource/Revco,http://xmlns.com/foaf/0.1/depiction,http://en.wikipedia.org/wiki/Special:FilePath/Revco4.jpg,Incorrect,129,84.34613013267517,38
+http://dbpedia.org/resource/Revco,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Companies_based_in_Ohio,Correct,129,84.34613013267517,38
+http://dbpedia.org/resource/Revco,http://www.w3.org/2000/01/rdf-schema#comment,"Revco Discount Drug Stores (known simply as Revco or Revco, D.S.), once based in Twinsburg, Ohio, was a major drug store chain operating through  the Ohio Valley, the Mid-Atlantic states, and the Southeastern United States.  The chain's stock was traded on the New York Stock Exchange (NYSE) under the ticker RXR.  When it was sold, the chain had over 2,500 stores.",Correct,129,84.34613013267517,38
+http://dbpedia.org/resource/Dušan_Petričić,http://dbpedia.org/ontology/training,http://dbpedia.org/resource/University_of_Arts_in_Belgrade,Correct,130,31.073423147201535,38
+http://dbpedia.org/resource/Verve_Records,http://www.w3.org/2000/01/rdf-schema#label,Verve Records,Correct,131,2.536339044570923,38
+http://dbpedia.org/resource/Barthold_Suermondt,http://dbpedia.org/property/dateOfBirth,1818-05-18,Correct,132,67.07700300216675,38
+http://dbpedia.org/resource/Barthold_Suermondt,http://dbpedia.org/ontology/abstract,"Barthold Suermondt (18 May 1818, Utrecht - 1 March 1887, Aachen) was a German entrepreneur, banker, philanthropist, and art collector, of Dutch-Huguenot heritage.He was born in 1818 in Utrecht to Dirk Christiaan Suermondt and Elizabeth Twist. In the 1830s he worked with the Cockerill-Sambre steel manufacturers in Seraing, Belgium. He took over mamagement of the company in 1840 following the sudden death of his wife's uncle John Cockerill. Coming from French extraction, Suermondt was responsible for attracting French investment into Germany during the 1830s-40s. At that time he founded in Germany a steel company that after a number of name changes in 1870 became known as Rheinische Stahlwerks, where he served as president until 1878.His first marriage was to Amalie Elisabeth Cockerill (1815–59), daughter of the wealthy entrepreneur James Cockerill. The couple had six sons. He later married Nancy Suermondt Haniel (1843-1896), whose father was the mining entrepreneur Max Haniel.He was a major collector of Netherlandish and Dutch Golden Age painting, and acquired works by, amongst others, Jan van Eyck, Jan Vermeer, Frans Hals, Hans Holbein the Younger, Peter Paul Rubens and Jan Steen. In 1874 a large part of the Suermondt collection was passed to the Gemäldegalerie, Berlin, a purchase headed by Julius Meyer and art historian Wilhelm von Bode funded by a grant of £50,000. The sale of his art collected came when his company experienced a rapid collapse. Another portion of his collection, amounting to 105 paintings, was bequeathed to the city of Aachen in 1882, and was instrumental in building up the display of the Suermondt-Ludwig-Museum. That year Suermondt was made an honorary citizen of the city of Aachen. Around 1850, he had been portrayed in three-quarter view by Ludwig Knaus; today the work hangs in the foyer of the Suermondt-Ludwig.",Correct,132,67.07700300216675,38
+http://dbpedia.org/resource/Barthold_Suermondt,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:German_art_collectors,Correct,132,67.07700300216675,38
+http://dbpedia.org/resource/Barthold_Suermondt,http://dbpedia.org/ontology/birthDate,1818-05-18,Correct,132,67.07700300216675,38
+http://dbpedia.org/resource/Barthold_Suermondt,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Entrepreneur,Correct,132,67.07700300216675,38
+http://dbpedia.org/resource/Vasa_IFK,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Football_clubs_in_Finland,Correct,133,66.0862021446228,38
+http://dbpedia.org/resource/Vasa_IFK,http://dbpedia.org/property/name,Artur Lemanowicz,Incorrect,133,66.0862021446228,38
+http://dbpedia.org/resource/Vasa_IFK,http://dbpedia.org/property/no,21,Correct,133,66.0862021446228,38
+http://dbpedia.org/resource/Vasa_IFK,http://dbpedia.org/property/no,2,Correct,133,66.0862021446228,38
+http://dbpedia.org/resource/Vasa_IFK,http://www.w3.org/2000/01/rdf-schema#label,Vasa IFK,Correct,133,66.0862021446228,38
+http://dbpedia.org/resource/On_the_Black_Hill_(film),http://dbpedia.org/property/language,English,Correct,134,81.87409901618958,38
+http://dbpedia.org/resource/On_the_Black_Hill_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_films,Correct,134,81.87409901618958,38
+http://dbpedia.org/resource/On_the_Black_Hill_(film),http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-movie-noun-1,Correct,134,81.87409901618958,38
+http://dbpedia.org/resource/On_the_Black_Hill_(film),http://dbpedia.org/ontology/abstract,"On the Black Hill is a 1987 film directed by Andrew Grieve and based upon the novel of the same name by Bruce Chatwin.Although Bruce Chatwin initially considered his novel about 80 years of rural family life in the Welsh border country unfilmable, he changed his mind when he saw how keen director Andrew Grieve was to make it and they went together to see some of the places and meet some of the people that Chatwin had been inspired by. Chatwin told Grieve to use the book for his film and make it his own.On the Black Hill begins in the closing years of the 19th century with the marriage of dour, puritanical Welsh farmer Amos Jones (Bob Peck) to his social superior, vicar’s daughter Mary Latimer (Gemma Jones) after the death of her father (Mark Dignam). Her inheritance and social connections enable them to rent a vacant farm, 'The Vision', a situation that is a cause for resentment in their relationship. It is against this background, along with a boundary feud with Watkins, a malicious neighbour, that the twins Lewis (Robert Gwilym) and Benjamin (Mike Gwilym) grow up. Having come throughwars, romance and separation, they are still farming at 'The Vision' eighty years later. Bob Peck as the gaunt, wild-eyed Amos Jones dominates the early scenes, though he is well matched by Gemma Jones as his wife Mary. With typical thoroughness, Peck immersed himself in the part, learning to ride, plough and pleach hedges.Although the film was made on a tight budget, the director had time to scout out appropriate locations in the area. ""We spent far longer researching the locations than we would normally and it was the quality of the landscape and the discovery of the perfect farmhouse at Llanfihangel Nant Bran near Sennybridge which was critical to its success,"" said Grieve at a screening of the film at Borderlines Film Festival in 2006.In fact, locations throughout the Welsh borders were used for the film, notably The Black Mountains, Hay-on-Wye and Crickhowell. Props and furniture for the film were borrowed from people and houses in the area and even the local WI was used to knit garments appropriate to the period. All of this firmly locates the film in its region and, as Grieve says, gives it a strong sense of reality. Grieve was brought up in mid Wales and so his understanding of the region and its people was crucial to the film’s atmosphere. The cinematography, by Thaddeus O'Sullivan, has been widely acclaimed.",Correct,134,81.87409901618958,38
+http://dbpedia.org/resource/On_the_Black_Hill_(film),http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Correct,134,81.87409901618958,38
+"http://dbpedia.org/resource/Grips,_Grunts_and_Groans",http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,135,26.37290120124817,38
+http://dbpedia.org/resource/Edmund_Boulter,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English_merchants,Correct,136,253.90649318695068,38
+http://dbpedia.org/resource/Edmund_Boulter,http://dbpedia.org/property/years,1698,Incorrect,136,253.90649318695068,38
+http://dbpedia.org/resource/Edmund_Boulter,http://dbpedia.org/property/with,http://dbpedia.org/resource/Richard_Wynn_(1656-1719),Correct,136,253.90649318695068,38
+http://dbpedia.org/resource/Edmund_Boulter,http://www.w3.org/2000/01/rdf-schema#label,Edmund Boulter,Correct,136,253.90649318695068,38
+http://dbpedia.org/resource/Edmund_Boulter,http://dbpedia.org/property/after,http://dbpedia.org/resource/Peregrine_Bertie_(died_1711),Correct,136,253.90649318695068,38
+http://dbpedia.org/resource/Felton_Covered_Bridge,http://dbpedia.org/property/authorType,Architect,Correct,137,173.36210775375366,38
+http://dbpedia.org/resource/Felton_Covered_Bridge,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Bridges_completed_in_1892,Correct,137,173.36210775375366,38
+http://dbpedia.org/resource/Felton_Covered_Bridge,http://dbpedia.org/property/latS,3,I Don't Know,137,173.36210775375366,38
+http://dbpedia.org/resource/Felton_Covered_Bridge,http://dbpedia.org/ontology/abstract,"The Felton Covered Bridge is a covered bridge over the San Lorenzo River in Felton, Santa Cruz County in the U.S. state of California. Built in 1892, the bridge employs a brown truss structural system and is approximately 80 feet long. The bridge became a California Historical Landmark in 1957, was placed on the National Register of Historic Places in 1973, and had a major restoration in 1987 after being damaged in storms in the winter of 1982. It is considered to be the tallest covered bridge in the United States, and was the main entry point for Felton for 45 years.The bridge is no longer used on the roadway, but is accessible to pedestrians visiting the Felton Covered Bridge Park.",Correct,137,173.36210775375366,38
+http://dbpedia.org/resource/Felton_Covered_Bridge,http://dbpedia.org/property/footnotes,--06-19,I Don't Know,137,173.36210775375366,38
+http://dbpedia.org/resource/Buffalo_Bill_Ranch,http://dbpedia.org/ontology/governingBody,http://dbpedia.org/resource/Nebraska_Game_and_Parks_Commission,Correct,138,38.00555992126465,38
+http://dbpedia.org/resource/Derby,http://dbpedia.org/ontology/motto,"""Industria, Virtus, et Fortitudo""",Correct,139,245.4813380241394,38
+http://dbpedia.org/resource/Derby,http://dbpedia.org/property/longew,W,I Don't Know,139,245.4813380241394,38
+http://dbpedia.org/resource/Derby,http://dbpedia.org/property/decSun,49.2,I Don't Know,139,245.4813380241394,38
+http://dbpedia.org/resource/Derby,http://dbpedia.org/property/febHighC,7,I Don't Know,139,245.4813380241394,38
+http://dbpedia.org/resource/Derby,http://dbpedia.org/ontology/leaderName,http://dbpedia.org/resource/Derby_City_Council,Incorrect,139,245.4813380241394,38
+http://dbpedia.org/resource/Mid-City_Community_Advocacy_Network_(Mid-City_CAN),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Civic_and_political_organizations_of_the_United_States,Correct,140,133.31597208976746,38
+http://dbpedia.org/resource/Mid-City_Community_Advocacy_Network_(Mid-City_CAN),http://dbpedia.org/ontology/location,http://dbpedia.org/resource/United_States,Correct,140,133.31597208976746,38
+http://dbpedia.org/resource/Mid-City_Community_Advocacy_Network_(Mid-City_CAN),http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Community,Correct,140,133.31597208976746,38
+http://dbpedia.org/resource/Mid-City_Community_Advocacy_Network_(Mid-City_CAN),http://www.w3.org/2000/01/rdf-schema#comment,"Mid-City CAN is a community collaborative of over 150 agencies, community residents, parents, youth, businesses, schools, and religious institutions serving the San Diego, California neighborhoods of City Heights, Normal Heights, Oak Park, Darnall, Rolando, College Area, Kensington and Talmadge.",Correct,140,133.31597208976746,38
+http://dbpedia.org/resource/Mid-City_Community_Advocacy_Network_(Mid-City_CAN),http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Mid-City_Community_Advocacy_Network_(Mid-City_CAN),Correct,140,133.31597208976746,38
+http://dbpedia.org/resource/Groningen_Europapark_railway_station,http://dbpedia.org/property/imageCaption,Groningen Europapark railway station in 2013,Correct,141,102.4313530921936,38
+http://dbpedia.org/resource/Groningen_Europapark_railway_station,http://xmlns.com/foaf/0.1/name,Groningen Europapark,Correct,141,102.4313530921936,38
+http://dbpedia.org/resource/Groningen_Europapark_railway_station,http://dbpedia.org/property/longm,35,I Don't Know,141,102.4313530921936,38
+http://dbpedia.org/resource/Groningen_Europapark_railway_station,http://dbpedia.org/property/code,Gerp,Correct,141,102.4313530921936,38
+http://dbpedia.org/resource/Groningen_Europapark_railway_station,http://dbpedia.org/property/line,http://dbpedia.org/resource/Meppel–Groningen_railway,Correct,141,102.4313530921936,38
+http://dbpedia.org/resource/Unbelievable_Adventures_of_Italians_in_Russia,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_directed_by_Eldar_Ryazanov,Correct,142,114.37349486351012,38
+http://dbpedia.org/resource/Unbelievable_Adventures_of_Italians_in_Russia,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1974_films,Correct,142,114.37349486351012,38
+http://dbpedia.org/resource/Unbelievable_Adventures_of_Italians_in_Russia,http://dbpedia.org/property/distributor,http://dbpedia.org/resource/Mosfilm,Correct,142,114.37349486351012,38
+http://dbpedia.org/resource/Unbelievable_Adventures_of_Italians_in_Russia,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Italian_films,Correct,142,114.37349486351012,38
+http://dbpedia.org/resource/Unbelievable_Adventures_of_Italians_in_Russia,http://dbpedia.org/ontology/distributor,http://dbpedia.org/resource/Mosfilm,Correct,142,114.37349486351012,38
+"http://dbpedia.org/resource/Upper_Shirley,_Virginia",http://dbpedia.org/property/latDirection,N,Correct,143,136.9845530986786,38
+"http://dbpedia.org/resource/Upper_Shirley,_Virginia",http://dbpedia.org/property/longDirection,W,Correct,143,136.9845530986786,38
+"http://dbpedia.org/resource/Upper_Shirley,_Virginia",http://dbpedia.org/property/latDegrees,37,Correct,143,136.9845530986786,38
+"http://dbpedia.org/resource/Upper_Shirley,_Virginia",http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Houses_on_the_National_Register_of_Historic_Places_in_Virginia,Correct,143,136.9845530986786,38
+"http://dbpedia.org/resource/Upper_Shirley,_Virginia",http://dbpedia.org/property/designatedOther1NumPosition,bottom,I Don't Know,143,136.9845530986786,38
+http://dbpedia.org/resource/Hostile_Witness,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Correct,144,9.171489953994753,38
+http://dbpedia.org/resource/International_Airlines_Group,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Spain,Correct,145,35.08184814453125,38
+http://dbpedia.org/resource/The_City_Life_Church,http://xmlns.com/foaf/0.1/page,http://www.thecitylifechurch.com,Correct,146,29.36095714569092,38
+http://dbpedia.org/resource/St._Paul_Union_Pacific_Rail_Bridge,http://dbpedia.org/ontology/crosses,http://dbpedia.org/resource/Mississippi_River,Correct,147,20.10226798057556,38
+http://dbpedia.org/resource/Northumbria_University_Press,http://www.w3.org/2000/01/rdf-schema#comment,"Northumbria University Press is the university press of Northumbria University. It is based in Newcastle upon Tyne and publishes a diverse range of books, including publications on language, photography, biography, travel and music. In September 2009, it launched a new trade imprint of Northumbria Press which will be used to publish trade titles.",Correct,148,233.04175901412964,38
+http://dbpedia.org/resource/Northumbria_University_Press,http://dbpedia.org/property/regionServed,"United Kingdom, Europe and North America",I Don't Know,148,233.04175901412964,38
+http://dbpedia.org/resource/Northumbria_University_Press,http://www.w3.org/2000/01/rdf-schema#label,Northumbria University Press,Correct,148,233.04175901412964,38
+http://dbpedia.org/resource/Northumbria_University_Press,http://xmlns.com/foaf/0.1/name,Northumbria University Press,Correct,148,233.04175901412964,38
+http://dbpedia.org/resource/Northumbria_University_Press,http://dbpedia.org/property/name,Northumbria University Press,Correct,148,233.04175901412964,38
+http://dbpedia.org/resource/Leo_Kieffer,http://dbpedia.org/ontology/abstract,"R. Leo Kieffer (born September 11, 1930) is an American businessperson and politician from Maine. Kieffer, a Republican, served in the Maine State Senate from 1992-2000, representing his residence in Caribou, Maine as well as much of Aroostook County. He replaced fellow Republican Donald Collins, who did not seek re-election. Prior to serving in the State Senate, Kieffer served five years on the Caribou Town Council, including a stint as mayor (1991-1992). In February 1997, Kieffer was named legislator of the year by the Economic Development Council of Maine. From 1996-1998, Kieffer served as Assistant Senate Minority Leader.Kieffer was born in Mauston, Wisconsin and graduated from Madison College.",Correct,149,86.64011597633362,38
+http://dbpedia.org/resource/Leo_Kieffer,http://dbpedia.org/property/name,R. Leo Kieffer,Correct,149,86.64011597633362,38
+http://dbpedia.org/resource/Leo_Kieffer,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Maine_State_Senators,Correct,149,86.64011597633362,38
+http://dbpedia.org/resource/Leo_Kieffer,http://dbpedia.org/property/name,"Kieffer, Leo",Incorrect,149,86.64011597633362,38
+http://dbpedia.org/resource/Leo_Kieffer,http://dbpedia.org/property/succeeded,http://dbpedia.org/resource/Donald_Collins,Correct,149,86.64011597633362,38
+http://dbpedia.org/resource/Washington_Avenue_Soldier's_Monument_and_Triangle,http://dbpedia.org/property/longDirection,W,Correct,150,49.727843046188354,38
+http://dbpedia.org/resource/Washington_Avenue_Soldier's_Monument_and_Triangle,http://dbpedia.org/property/latDirection,N,Correct,150,49.727843046188354,38
+http://dbpedia.org/resource/Washington_Avenue_Soldier's_Monument_and_Triangle,http://dbpedia.org/property/latDegrees,41,Correct,150,49.727843046188354,38
+http://dbpedia.org/resource/Washington_Avenue_Soldier's_Monument_and_Triangle,http://dbpedia.org/ontology/nearestCity,"http://dbpedia.org/resource/Hackensack,_New_Jersey",Correct,150,49.727843046188354,38
+http://dbpedia.org/resource/Washington_Avenue_Soldier's_Monument_and_Triangle,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/New_York,Correct,150,49.727843046188354,38
+http://dbpedia.org/resource/NetSuite,http://dbpedia.org/ontology/abstract,"NetSuite Inc. is an American software company based in San Mateo, California, that sells a group of software services used to manage a business's operations and customer relations. Customers access these services over the internet paying a periodic subscription fee. NetSuite's services are primarily aimed at medium- to enterprise-sized businesses.",Correct,151,201.0667881965637,38
+http://dbpedia.org/resource/NetSuite,http://www.w3.org/2000/01/rdf-schema#comment,"NetSuite Inc. is an American software company based in San Mateo, California, that sells a group of software services used to manage a business's operations and customer relations. Customers access these services over the internet paying a periodic subscription fee. NetSuite's services are primarily aimed at medium- to enterprise-sized businesses.",Correct,151,201.0667881965637,38
+http://dbpedia.org/resource/NetSuite,http://dbpedia.org/ontology/numberOfEmployees,2550,I Don't Know,151,201.0667881965637,38
+http://dbpedia.org/resource/NetSuite,http://dbpedia.org/ontology/foundingYear,1998,Correct,151,201.0667881965637,38
+http://dbpedia.org/resource/NetSuite,http://dbpedia.org/ontology/foundationPlace,http://dbpedia.org/resource/California,Correct,151,201.0667881965637,38
+http://dbpedia.org/resource/Saphir_(train),http://www.w3.org/2000/01/rdf-schema#comment,"The Saphir was an express train operated by the Deutsche Bundesbahn linking the port of Ostend with Dortmund as part of a link between London and the Ruhr. The name Saphir, German for sapphire, refers to the Belgian gemstone industry.",Correct,152,24.201815128326416,38
+http://dbpedia.org/resource/Rosendale_Library,http://dbpedia.org/property/longDirection,W,Correct,153,45.22947406768799,38
+http://dbpedia.org/resource/Rosendale_Library,http://dbpedia.org/property/longDegrees,74,Correct,153,45.22947406768799,38
+http://dbpedia.org/resource/Rosendale_Library,http://dbpedia.org/ontology/architecturalStyle,http://dbpedia.org/resource/Gothic_Revival_architecture,Correct,153,45.22947406768799,38
+http://dbpedia.org/resource/Rosendale_Library,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/New_York,Correct,153,45.22947406768799,38
+http://dbpedia.org/resource/Rosendale_Library,http://dbpedia.org/property/latDirection,N,Correct,153,45.22947406768799,38
+http://dbpedia.org/resource/St._Louis_Commuter_Rail,http://www.w3.org/2000/01/rdf-schema#comment,The St. Louis Commuter Rail is a series of proposed commuter rail lines being developed by Metro's Moving Transit Forward Plan.,Correct,154,144.23835110664368,38
+http://dbpedia.org/resource/St._Louis_Commuter_Rail,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/St._Louis_Commuter_Rail,Correct,154,144.23835110664368,38
+http://dbpedia.org/resource/St._Louis_Commuter_Rail,http://dbpedia.org/property/locale,http://dbpedia.org/resource/Greater_St._Louis,Correct,154,144.23835110664368,38
+http://dbpedia.org/resource/St._Louis_Commuter_Rail,http://dbpedia.org/property/linelength,80.0,I Don't Know,154,144.23835110664368,38
+http://dbpedia.org/resource/St._Louis_Commuter_Rail,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Proposed_United_States_regional_rail_systems,Correct,154,144.23835110664368,38
+http://dbpedia.org/resource/Wallisellen_railway_station,http://dbpedia.org/ontology/owningOrganisation,http://dbpedia.org/resource/Swiss_Federal_Railways,Correct,155,27.28818893432617,38
+http://dbpedia.org/resource/Wallisellen_railway_station,http://dbpedia.org/ontology/owner,http://dbpedia.org/resource/Swiss_Federal_Railways,Correct,155,27.28818893432617,38
+http://dbpedia.org/resource/Sublime_Dreamer,http://dbpedia.org/ontology/foundingYear,2008,Correct,156,125.3533387184143,38
+http://dbpedia.org/resource/Sublime_Dreamer,http://dbpedia.org/ontology/abstract,"Sublime Dreamer is a clothing brand founded in 2008 by Brian Wanjare, Kyle C. Gray, A.P.Essong, and James Woods and based in Delaware. The line consists of t-shirts, polos, crewnecks, hoodies, hats and  accessories. Each collection is released in very limited quantities and once a design is sold out, it is not manufactured again.",Correct,156,125.3533387184143,38
+http://dbpedia.org/resource/Sublime_Dreamer,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Sublime_Dreamer,Correct,156,125.3533387184143,38
+http://dbpedia.org/resource/Sublime_Dreamer,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Sublime_Dreamer_Logo.jpg?width=300,Correct,156,125.3533387184143,38
+http://dbpedia.org/resource/Sublime_Dreamer,http://dbpedia.org/property/type,Private,Correct,156,125.3533387184143,38
+http://dbpedia.org/resource/Svanemøllen_station,http://dbpedia.org/ontology/owningOrganisation,http://dbpedia.org/resource/DSB_(railway_company),Correct,157,66.98891067504883,38
+http://dbpedia.org/resource/Svanemøllen_station,http://dbpedia.org/ontology/owner,http://dbpedia.org/resource/DSB_(railway_company),Correct,157,66.98891067504883,38
+http://dbpedia.org/resource/Svanemøllen_station,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/List_of_S-train_stations,Correct,157,66.98891067504883,38
+http://dbpedia.org/resource/Strem_Chemicals,http://dbpedia.org/property/locationCity,"http://dbpedia.org/resource/Newburyport,_Massachusetts",Correct,158,62.2289309501648,38
+http://dbpedia.org/resource/Strem_Chemicals,http://dbpedia.org/property/products,http://dbpedia.org/resource/Inorganic_compounds,Correct,158,62.2289309501648,38
+http://dbpedia.org/resource/Strem_Chemicals,http://dbpedia.org/property/services,cGMP Facilities,Correct,158,62.2289309501648,38
+http://dbpedia.org/resource/Strem_Chemicals,http://dbpedia.org/property/products,http://dbpedia.org/resource/Fine_chemicals,Correct,158,62.2289309501648,38
+http://dbpedia.org/resource/Strem_Chemicals,http://dbpedia.org/property/locationCountry,http://dbpedia.org/resource/United_States,Correct,158,62.2289309501648,38
+http://dbpedia.org/resource/Altri,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Portugal,Correct,159,9.195115089416504,38
+http://dbpedia.org/resource/Hipolito_F._Garcia_Federal_Building_and_United_States_Courthouse,http://dbpedia.org/ontology/governingBody,http://dbpedia.org/resource/General_Services_Administration,Correct,160,167.64325404167175,38
+http://dbpedia.org/resource/VFLI,http://dbpedia.org/property/parent,http://dbpedia.org/resource/SNCF_Geodis,Incorrect,161,106.09696173667908,38
+http://dbpedia.org/resource/VFLI,http://dbpedia.org/ontology/parentCompany,http://dbpedia.org/resource/SNCF_Geodis,Incorrect,161,106.09696173667908,38
+http://dbpedia.org/resource/Swift_Presbyterian_Church,http://dbpedia.org/property/latDirection,N,Correct,162,50.67670679092407,38
+http://dbpedia.org/resource/Swift_Presbyterian_Church,http://dbpedia.org/ontology/yearOfConstruction,1905,Correct,162,50.67670679092407,38
+http://dbpedia.org/resource/Swift_Presbyterian_Church,http://dbpedia.org/property/longDirection,W,Correct,162,50.67670679092407,38
+http://dbpedia.org/resource/Swift_Presbyterian_Church,http://dbpedia.org/property/coordDisplay,"inline,title",I Don't Know,162,50.67670679092407,38
+http://dbpedia.org/resource/Alexandre_Tombini,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/Doctor_of_Philosophy,Incorrect,163,162.91089415550232,38
+http://dbpedia.org/resource/Alexandre_Tombini,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Rio_Grande_do_Sul,Correct,163,162.91089415550232,38
+http://dbpedia.org/resource/Alexandre_Tombini,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/University_of_Illinois_at_Urbana–Champaign,Correct,163,162.91089415550232,38
+http://dbpedia.org/resource/Alexandre_Tombini,http://xmlns.com/foaf/0.1/surname,Tombini,Correct,163,162.91089415550232,38
+http://dbpedia.org/resource/Alexandre_Tombini,http://xmlns.com/foaf/0.1/givenName,Alexandre,Correct,163,162.91089415550232,38
+http://dbpedia.org/resource/Musselburgh_and_Fisherrow_Co-operative_Society,http://dbpedia.org/ontology/foundingDate,1862-03-27,Correct,164,13.08889126777649,38
+http://dbpedia.org/resource/Roquette_Frères,http://dbpedia.org/ontology/industry,http://dbpedia.org/resource/Pharmaceutical_drug,Correct,165,104.3509442806244,38
+http://dbpedia.org/resource/Roquette_Frères,http://dbpedia.org/property/industry,http://dbpedia.org/resource/Pharmaceutical_drug,Correct,165,104.3509442806244,38
+http://dbpedia.org/resource/Roquette_Frères,http://www.w3.org/2000/01/rdf-schema#label,Roquette Frères,Correct,165,104.3509442806244,38
+http://dbpedia.org/resource/Fortuna_(company),http://dbpedia.org/ontology/origin,http://dbpedia.org/resource/Poland,Correct,166,12.775976181030272,38
+http://dbpedia.org/resource/Joseph_Locke,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Attercliffe,Correct,167,21.426664113998413,38
+http://dbpedia.org/resource/Fallzone,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,168,30.206784963607788,38
+http://dbpedia.org/resource/Phones_4u,http://dbpedia.org/ontology/product,http://dbpedia.org/resource/Landline,Correct,169,166.06398487091064,38
+http://dbpedia.org/resource/Phones_4u,http://dbpedia.org/ontology/foundedBy,http://dbpedia.org/resource/John_Caudwell,Correct,169,166.06398487091064,38
+http://dbpedia.org/resource/Phones_4u,http://dbpedia.org/property/keyPeople,Tim Whiting,Correct,169,166.06398487091064,38
+http://dbpedia.org/resource/Phones_4u,http://dbpedia.org/property/founder,John Caudwell and Brian Caudwell,Correct,169,166.06398487091064,38
+http://dbpedia.org/resource/Phones_4u,http://dbpedia.org/property/locationCity,http://dbpedia.org/resource/Newcastle-under-Lyme,Correct,169,166.06398487091064,38
+http://dbpedia.org/resource/SunEdison,http://dbpedia.org/property/numEmployees,7300,Correct,170,156.6348648071289,38
+http://dbpedia.org/resource/SunEdison,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Silicon_wafer_producers,Correct,170,156.6348648071289,38
+http://dbpedia.org/resource/SunEdison,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Solar_energy_companies_of_the_United_States,Correct,170,156.6348648071289,38
+http://dbpedia.org/resource/SunEdison,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:St._Peters,_Missouri",Correct,170,156.6348648071289,38
+http://dbpedia.org/resource/SunEdison,http://dbpedia.org/ontology/revenue,2.484E9,Correct,170,156.6348648071289,38
+http://dbpedia.org/resource/James_R._Keene,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/London,Correct,171,15.11132287979126,38
+http://dbpedia.org/resource/Resolution_plc,http://dbpedia.org/ontology/keyPerson,http://dbpedia.org/resource/Chief_executive_officer,Correct,172,278.4239959716797,38
+http://dbpedia.org/resource/Resolution_plc,http://dbpedia.org/ontology/industry,http://dbpedia.org/resource/Insurance,Correct,172,278.4239959716797,38
+http://dbpedia.org/resource/Resolution_plc,http://dbpedia.org/property/keyPeople,http://dbpedia.org/resource/Chairman,Incorrect,172,278.4239959716797,38
+http://dbpedia.org/resource/Resolution_plc,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/United_Kingdom,Correct,172,278.4239959716797,38
+http://dbpedia.org/resource/Resolution_plc,http://dbpedia.org/ontology/industry,http://dbpedia.org/resource/Pension,Correct,172,278.4239959716797,38
+http://dbpedia.org/resource/SoftBank,http://dbpedia.org/property/keyPeople,http://dbpedia.org/resource/Nikesh_Arora,Correct,173,283.7316298484802,38
+http://dbpedia.org/resource/SoftBank,http://dbpedia.org/property/industry,Telecommunications,Correct,173,283.7316298484802,38
+http://dbpedia.org/resource/SoftBank,http://dbpedia.org/property/keyPeople,http://dbpedia.org/resource/Masayoshi_Son,Correct,173,283.7316298484802,38
+http://dbpedia.org/resource/SoftBank,http://dbpedia.org/property/homepage,http://www.softbank.co.jp/en/,Incorrect,173,283.7316298484802,38
+http://dbpedia.org/resource/SoftBank,http://dbpedia.org/property/subsid,http://dbpedia.org/resource/GungHo_Online_Entertainment,Correct,173,283.7316298484802,38
+http://dbpedia.org/resource/Ann_Widdecombe,http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Bath,_Somerset",Correct,174,42.06264591217041,38
+http://dbpedia.org/resource/Ann_Widdecombe,http://xmlns.com/foaf/0.1/name,Ann Widdecombe,Correct,174,42.06264591217041,38
+http://dbpedia.org/resource/Ann_Widdecombe,http://xmlns.com/foaf/0.1/name,"Widdecombe, Ann Noreen",Incorrect,174,42.06264591217041,38
+http://dbpedia.org/resource/Ann_Widdecombe,http://xmlns.com/foaf/0.1/name,Ann Noreen Widdecombe,Correct,174,42.06264591217041,38
+http://dbpedia.org/resource/SoBe,http://dbpedia.org/ontology/locationCountry,http://dbpedia.org/resource/United_States,Correct,175,105.5001151561737,38
+http://dbpedia.org/resource/SoBe,http://dbpedia.org/ontology/product,http://dbpedia.org/resource/Tea,Correct,175,105.5001151561737,38
+http://dbpedia.org/resource/SoBe,http://dbpedia.org/ontology/parentCompany,http://dbpedia.org/resource/PepsiCo,Correct,175,105.5001151561737,38
+http://dbpedia.org/resource/SoBe,http://dbpedia.org/property/parent,http://dbpedia.org/resource/PepsiCo,Correct,175,105.5001151561737,38
+http://dbpedia.org/resource/SoBe,http://dbpedia.org/ontology/foundationPlace,"http://dbpedia.org/resource/Norwalk,_Connecticut",Correct,175,105.5001151561737,38
+http://dbpedia.org/resource/Riviera_Partners,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/San_Francisco,Correct,176,361.9036316871643,38
+http://dbpedia.org/resource/Riviera_Partners,http://dbpedia.org/property/homepage,http://rivierapartners.com/,Incorrect,176,361.9036316871643,38
+http://dbpedia.org/resource/Riviera_Partners,http://xmlns.com/foaf/0.1/homepage,http://rivierapartners.com/,Incorrect,176,361.9036316871643,38
+http://dbpedia.org/resource/Riviera_Partners,http://dbpedia.org/property/location,http://dbpedia.org/resource/United_States,Correct,176,361.9036316871643,38
+http://dbpedia.org/resource/Riviera_Partners,http://dbpedia.org/ontology/keyPerson,http://dbpedia.org/resource/Michael_A._Morell,Correct,176,361.9036316871643,38
+http://dbpedia.org/resource/Okinawa_Monorail,http://dbpedia.org/ontology/regionServed,http://dbpedia.org/resource/Japan,Correct,177,155.37785696983337,38
+http://dbpedia.org/resource/Okinawa_Monorail,http://dbpedia.org/property/owner,Okinawa Urban Monorail Incorporated,Correct,177,155.37785696983337,38
+http://dbpedia.org/resource/Okinawa_Monorail,http://dbpedia.org/ontology/foundationPlace,http://dbpedia.org/resource/2003_in_rail_transport,Incorrect,177,155.37785696983337,38
+http://dbpedia.org/resource/Okinawa_Monorail,http://dbpedia.org/property/locationCity,http://dbpedia.org/resource/Naha,Correct,177,155.37785696983337,38
+http://dbpedia.org/resource/Okinawa_Monorail,http://dbpedia.org/ontology/regionServed,http://dbpedia.org/resource/Okinawa_Prefecture,Correct,177,155.37785696983337,38
+http://dbpedia.org/resource/Virtual_Iron,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Software_companies_of_the_United_States,Correct,178,42.62569499015808,38
+http://dbpedia.org/resource/Virtual_Iron,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Companies_established_in_2003,Correct,178,42.62569499015808,38
+http://dbpedia.org/resource/Virtual_Iron,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Virtual_Iron,Correct,178,42.62569499015808,38
+http://dbpedia.org/resource/Virtual_Iron,http://www.w3.org/2000/01/rdf-schema#label,Virtual Iron,Correct,178,42.62569499015808,38
+http://dbpedia.org/resource/Virtual_Iron,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Virtual_Iron,Correct,178,42.62569499015808,38
+http://dbpedia.org/resource/Peers_House,http://dbpedia.org/ontology/governingBody,http://dbpedia.org/resource/National_Park_Service,Correct,179,39.64558005332947,38
+http://dbpedia.org/resource/Spaceship_Earth_Grants,http://dbpedia.org/ontology/keyPerson,http://dbpedia.org/resource/President_(corporate_title),I Don't Know,180,94.36883401870728,38
+http://dbpedia.org/resource/Spaceship_Earth_Grants,http://dbpedia.org/ontology/foundingDate,2014-07-09,I Don't Know,180,94.36883401870728,38
+http://dbpedia.org/resource/Spaceship_Earth_Grants,http://dbpedia.org/ontology/keyPerson,"http://dbpedia.org/resource/Ronald_J._Garan,_Jr.",I Don't Know,180,94.36883401870728,38
+http://dbpedia.org/resource/Spaceship_Earth_Grants,http://dbpedia.org/ontology/keyPerson,http://dbpedia.org/resource/Vice_president,I Don't Know,180,94.36883401870728,38
+http://dbpedia.org/resource/Spaceship_Earth_Grants,http://dbpedia.org/ontology/keyPerson,http://dbpedia.org/resource/Frank_White_(writer),I Don't Know,180,94.36883401870728,38

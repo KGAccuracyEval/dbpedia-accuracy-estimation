@@ -1,0 +1,524 @@
+Subject,Predicate,Object,Annotation,BatchID,BatchTime,BatchDate
+http://dbpedia.org/resource/P._Harrison,http://dbpedia.org/ontology/abstract,"Pelisge Harrison (born July 24, 1964) is a Sri Lankan United National Party politician, current member of the Parliament for Anuradhapura District and Minister of Social Services and Welfare. Harrison first entered parliament in 1994 from the United National Party within a few years from his graduation from the University of Kelaniya.",Correct,0,16.007619857788086,34
+http://dbpedia.org/resource/P._Harrison,http://xmlns.com/foaf/0.1/name,"Harrison, P.",Correct,0,16.007619857788086,34
+http://dbpedia.org/resource/P._Harrison,http://xmlns.com/foaf/0.1/name,P. Harrison,Correct,0,16.007619857788086,34
+http://dbpedia.org/resource/P._Harrison,http://dbpedia.org/ontology/party,http://dbpedia.org/resource/United_National_Party,Correct,0,16.007619857788086,34
+http://dbpedia.org/resource/Buffalo_Bill_Ranch,http://dbpedia.org/ontology/governingBody,http://dbpedia.org/resource/Nebraska_Game_and_Parks_Commission,Correct,1,258.8768298625946,34
+http://dbpedia.org/resource/Kano_(Mortal_Kombat),http://dbpedia.org/property/liveactor,http://dbpedia.org/resource/Trevor_Goddard,Correct,2,80.30267548561096,34
+http://dbpedia.org/resource/Kano_(Mortal_Kombat),http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Kano_(Mortal_Kombat),Correct,2,80.30267548561096,34
+http://dbpedia.org/resource/Kano_(Mortal_Kombat),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Male_characters_in_video_games,Correct,2,80.30267548561096,34
+http://dbpedia.org/resource/Kano_(Mortal_Kombat),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Criminal_characters_in_video_games,Correct,2,80.30267548561096,34
+http://dbpedia.org/resource/Kano_(Mortal_Kombat),http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Kano_(Mortal_Kombat),Correct,2,80.30267548561096,34
+http://dbpedia.org/resource/I_Want_Candy,http://dbpedia.org/ontology/writer,http://dbpedia.org/resource/Bert_Berns,Correct,3,167.35990858078003,34
+http://dbpedia.org/resource/I_Want_Candy,http://dbpedia.org/property/fromAlbum,I Want Candy,Correct,3,167.35990858078003,34
+http://dbpedia.org/resource/I_Want_Candy,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1965_singles,Correct,3,167.35990858078003,34
+http://dbpedia.org/resource/I_Want_Candy,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2008_singles,Incorrect,3,167.35990858078003,34
+http://dbpedia.org/resource/I_Want_Candy,http://dbpedia.org/property/recorded,1965,Correct,3,167.35990858078003,34
+http://dbpedia.org/resource/Anything_Can_Happen,http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Kim_Hunter,Correct,4,12.562578916549684,34
+http://dbpedia.org/resource/Anything_Can_Happen,http://dbpedia.org/property/editing,http://dbpedia.org/resource/Alma_Macrorie,Correct,4,12.562578916549684,34
+http://dbpedia.org/resource/Anything_Can_Happen,http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/José_Ferrer,Correct,4,12.562578916549684,34
+http://dbpedia.org/resource/Anything_Can_Happen,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Anything_Can_Happen,Correct,4,12.562578916549684,34
+http://dbpedia.org/resource/Anything_Can_Happen,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Paramount_Pictures_films,Incorrect,4,12.562578916549684,34
+http://dbpedia.org/resource/John_M._Gerrard,http://dbpedia.org/property/appointer,http://dbpedia.org/resource/Ben_Nelson,Incorrect,5,149.39316749572754,34
+http://dbpedia.org/resource/Guy_Leverne_Fake,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_military_personnel_of_the_Spanish–American_War,Incorrect,6,335.1062786579132,34
+http://dbpedia.org/resource/Guy_Leverne_Fake,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:United_States_district_court_judges_appointed_by_Calvin_Coolidge,Correct,6,335.1062786579132,34
+http://dbpedia.org/resource/Guy_Leverne_Fake,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:People_from_Cobleskill,_New_York",Correct,6,335.1062786579132,34
+http://dbpedia.org/resource/Guy_Leverne_Fake,http://dbpedia.org/property/placeOfDeath,"Rutherford, New Jersey",Incorrect,6,335.1062786579132,34
+http://dbpedia.org/resource/Guy_Leverne_Fake,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Judges_of_the_United_States_District_Court_for_the_District_of_New_Jersey,Correct,6,335.1062786579132,34
+"http://dbpedia.org/resource/St_Mary's_Church,_Garthorpe",http://xmlns.com/foaf/0.1/page,http://www.visitchurches.org.uk/Ourchurches/Completelistofchurches/St-Marys-Church-Garthorpe-Leicestershire/,Correct,7,4.13432502746582,34
+http://dbpedia.org/resource/Old_Mother_Riley_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:British_films,Correct,8,10.715417623519896,34
+http://dbpedia.org/resource/Old_Mother_Riley_(film),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_films,Correct,8,10.715417623519896,34
+http://dbpedia.org/resource/Charles_H._Adams_(New_York_politician),http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/New_York,Correct,9,343.5670359134674,34
+http://dbpedia.org/resource/Charles_H._Adams_(New_York_politician),http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Coxsackie,_New_York",Correct,9,343.5670359134674,34
+http://dbpedia.org/resource/Charles_H._Adams_(New_York_politician),http://dbpedia.org/property/placeOfBirth,"http://dbpedia.org/resource/Coxsackie,_New_York",Correct,9,343.5670359134674,34
+http://dbpedia.org/resource/Charles_H._Adams_(New_York_politician),http://dbpedia.org/property/birthPlace,"http://dbpedia.org/resource/Coxsackie,_New_York",Correct,9,343.5670359134674,34
+http://dbpedia.org/resource/Drew_Sidora,http://dbpedia.org/ontology/birthDate,1985-05-01,Correct,10,166.881511926651,34
+http://dbpedia.org/resource/Drew_Sidora,http://dbpedia.org/ontology/activeYearsEndYear,1995,Incorrect,10,166.881511926651,34
+http://dbpedia.org/resource/Drew_Sidora,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_rhythm_and_blues_singers,Correct,10,166.881511926651,34
+http://dbpedia.org/resource/Drew_Sidora,http://dbpedia.org/ontology/alias,"Jordan, Drew Sidora",Correct,10,166.881511926651,34
+http://dbpedia.org/resource/Drew_Sidora,http://dbpedia.org/property/background,solo_singer,Correct,10,166.881511926651,34
+http://dbpedia.org/resource/OneRepublic,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_rock_music_groups,Correct,11,61.74501729011536,34
+http://dbpedia.org/resource/OneRepublic,http://dbpedia.org/property/currentMembers,http://dbpedia.org/resource/Zach_Filkins,Correct,11,61.74501729011536,34
+http://dbpedia.org/resource/OneRepublic,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Columbia_Records_artists,Incorrect,11,61.74501729011536,34
+http://dbpedia.org/resource/OneRepublic,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_pop_rock_music_groups,Correct,11,61.74501729011536,34
+http://dbpedia.org/resource/OneRepublic,http://dbpedia.org/property/pastMembers,http://dbpedia.org/resource/Tim_Myers,Correct,11,61.74501729011536,34
+http://dbpedia.org/resource/Doug_Turner,http://dbpedia.org/property/residence,"http://dbpedia.org/resource/Albuquerque,_New_Mexico",Correct,12,87.44259977340698,34
+http://dbpedia.org/resource/Fury_at_Smugglers'_Bay,http://dbpedia.org/property/country,United Kingdom,Correct,13,88.47905373573303,34
+http://dbpedia.org/resource/Fury_at_Smugglers'_Bay,http://dbpedia.org/ontology/abstract,"Fury at Smugglers' Bay is a 1961 British adventure film produced, written and directed by John Gilling and starring Peter Cushing, Bernard Lee, Michèle Mercier and John Fraser. The plot revolves around smuggling in Cornwall. Studio sequences were filmed at Twickenham Film Studios in west London with the external sequences representing the coast of Cornwall actually being shot at Abereiddy on the north Pembrokeshire coast in south-west Wales.",Correct,13,88.47905373573303,34
+http://dbpedia.org/resource/Fury_at_Smugglers'_Bay,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_films,Correct,13,88.47905373573303,34
+http://dbpedia.org/resource/Fury_at_Smugglers'_Bay,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:British_films,Correct,13,88.47905373573303,34
+http://dbpedia.org/resource/Fury_at_Smugglers'_Bay,http://dbpedia.org/property/language,English,Correct,13,88.47905373573303,34
+http://dbpedia.org/resource/Lovin_and_Withers_Cottages,http://dbpedia.org/property/architect,"Lovin & Withers, Inc.",Incorrect,14,135.14245414733887,34
+http://dbpedia.org/resource/Lovin_and_Withers_Cottages,http://www.w3.org/2003/01/geo/wgs84_pos#long,-114.046,Incorrect,14,135.14245414733887,34
+http://dbpedia.org/resource/Lovin_and_Withers_Cottages,http://dbpedia.org/property/locmapin,Arizona,Correct,14,135.14245414733887,34
+http://dbpedia.org/resource/Lovin_and_Withers_Cottages,http://dbpedia.org/ontology/architecturalStyle,http://dbpedia.org/resource/Bungalow,Correct,14,135.14245414733887,34
+http://dbpedia.org/resource/Lovin_and_Withers_Cottages,http://dbpedia.org/property/added,1986-05-14,I Don't Know,14,135.14245414733887,34
+http://dbpedia.org/resource/Demi_Moore,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Demi_Moore_by_David_Shankbone.jpg?width=300,Correct,15,50.31861114501953,34
+http://dbpedia.org/resource/Demi_Moore,http://www.w3.org/2000/01/rdf-schema#label,Demi Moore,Correct,15,50.31861114501953,34
+http://dbpedia.org/resource/Pierre-Samuel_Gendron,http://dbpedia.org/ontology/otherParty,http://dbpedia.org/resource/Conservative_Party_of_Quebec_(historical),Correct,16,38.25866460800171,34
+http://dbpedia.org/resource/Soopoolitse,http://dbpedia.org/property/commonName,Soopoolitse,Correct,17,4.778949022293091,34
+http://dbpedia.org/resource/Claude_Shannon,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Ivan_Sutherland,Correct,18,137.69291353225708,34
+http://dbpedia.org/resource/Claude_Shannon,http://dbpedia.org/ontology/doctoralAdvisor,http://dbpedia.org/resource/Frank_Lauren_Hitchcock,Correct,18,137.69291353225708,34
+http://dbpedia.org/resource/Claude_Shannon,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Danny_Hillis,Incorrect,18,137.69291353225708,34
+http://dbpedia.org/resource/Claude_Shannon,http://dbpedia.org/ontology/doctoralStudent,http://dbpedia.org/resource/Bert_Sutherland,Incorrect,18,137.69291353225708,34
+"http://dbpedia.org/resource/All_Saints'_Church,_Hockerill",http://xmlns.com/foaf/0.1/page,http://www.allsaintshockerill.org.uk/,Correct,19,23.16501545906067,34
+http://dbpedia.org/resource/Transrapid,http://www.w3.org/2000/01/rdf-schema#comment,"Transrapid is a German high-speed monorail train using magnetic levitation based on a 1934 patent. Planning for the Transrapid system started in 1969 with a test facility for the system in Emsland, Germany completed in 1987.",Correct,20,189.771817445755,34
+http://dbpedia.org/resource/Moby_Grape,http://dbpedia.org/ontology/associatedMusicalArtist,http://dbpedia.org/resource/The_Electric_Prunes,Incorrect,21,288.54675221443176,34
+http://dbpedia.org/resource/Moby_Grape,http://dbpedia.org/ontology/associatedBand,http://dbpedia.org/resource/The_Electric_Prunes,Incorrect,21,288.54675221443176,34
+http://dbpedia.org/resource/Moby_Grape,http://dbpedia.org/ontology/recordLabel,http://dbpedia.org/resource/Sundazed_Records,Incorrect,21,288.54675221443176,34
+http://dbpedia.org/resource/Moby_Grape,http://dbpedia.org/ontology/recordLabel,http://dbpedia.org/resource/Reprise_Records,Incorrect,21,288.54675221443176,34
+http://dbpedia.org/resource/Moby_Grape,http://dbpedia.org/ontology/associatedBand,http://dbpedia.org/resource/The_Rhythm_Dukes,Incorrect,21,288.54675221443176,34
+http://dbpedia.org/resource/Chris_Sarandon,http://www.w3.org/2000/01/rdf-schema#label,Chris Sarandon,Correct,22,1496.074546098709,34
+http://dbpedia.org/resource/Chris_Sarandon,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/The_Catholic_University_of_America,Correct,22,1496.074546098709,34
+http://dbpedia.org/resource/Chris_Sarandon,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/West_Virginia_University,Correct,22,1496.074546098709,34
+http://dbpedia.org/resource/Chris_Sarandon,http://dbpedia.org/property/birthName,Christopher Sarandon Jr.,Incorrect,22,1496.074546098709,34
+http://dbpedia.org/resource/Thomas_Mansfield,http://www.w3.org/2000/01/rdf-schema#label,Thomas Mansfield,Correct,23,11.2888503074646,35
+http://dbpedia.org/resource/Thomas_Mansfield,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Thomas_Mansfield,Correct,23,11.2888503074646,35
+http://dbpedia.org/resource/Thomas_Mansfield,http://xmlns.com/foaf/0.1/isPrimaryTopicOf,http://en.wikipedia.org/wiki/Thomas_Mansfield,Correct,23,11.2888503074646,35
+http://dbpedia.org/resource/Thomas_Mansfield,http://dbpedia.org/property/type,http://dbpedia.org/resource/Limited_Company,Correct,23,11.2888503074646,35
+http://dbpedia.org/resource/Thomas_Mansfield,http://dbpedia.org/property/name,Thomas Mansfield,Correct,23,11.2888503074646,35
+http://dbpedia.org/resource/Mavis_Staples,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,24,4.069899320602417,35
+http://dbpedia.org/resource/Memorial_to_Women_of_the_Confederacy,http://dbpedia.org/ontology/architecturalStyle,http://dbpedia.org/resource/Neoclassical_architecture,Incorrect,25,8.559917449951172,35
+http://dbpedia.org/resource/Memorial_to_Women_of_the_Confederacy,http://dbpedia.org/property/body,http://dbpedia.org/resource/United_Daughters_of_the_Confederacy,Correct,25,8.559917449951172,35
+http://dbpedia.org/resource/Railway_Institute,http://dbpedia.org/property/city,http://dbpedia.org/resource/Warsaw,Correct,26,15.214412212371826,35
+http://dbpedia.org/resource/Railway_Institute,http://dbpedia.org/property/website,http://www.ikolej.pl/en/,Correct,26,15.214412212371826,35
+http://dbpedia.org/resource/Railway_Institute,http://dbpedia.org/ontology/abstract,"The Railway Institute (Polish: Instytut Kolejnictwa) is a research institute located in Warsaw, Poland.The Railway Institute (formerly Railway Scientific and Technical Centre (CNTK)) is operating under the Polish Ministry of Transport, Construction and Maritime Economy (former Polish Ministry of Infrastructure), and is notified under EU Railway Directive 2008/57/CE concerning railway interoperability.The Railway Institute, operating for 60 years in the transport sector, mainly in the rail sector, conducts scientific and research works, as well as services (including calibration of universal masters and measuring instruments) and performs certification works in the fields of railways and urban rail transport.The Railway Institute owns a test track for conducting various experiments and also possesses the necessary infrastructure for R&D studies in the field of railway transport.The Railway Institute is a Notified Body under the Interoperability of the Railway System Directive NB 1467.The Railway Institute is a member of many significant railway organisations in Europe, such as: UIC UNIFE via the national Association for Rail Transport Interoperability and Development (SIRTS) European Rail Research Advisory Council (ERRAC) European Conference of Transport Research Institutes (ECTRI) European Network of Excellence (EURNEX) European Level Crossing Forum (ELCF) NB Rail",Correct,26,15.214412212371826,35
+http://dbpedia.org/resource/Railway_Institute,http://www.w3.org/2000/01/rdf-schema#comment,"The Railway Institute (Polish: Instytut Kolejnictwa) is a research institute located in Warsaw, Poland.The Railway Institute (formerly Railway Scientific and Technical Centre (CNTK)) is operating under the Polish Ministry of Transport, Construction and Maritime Economy (former Polish Ministry of Infrastructure), and is notified under EU Railway Directive 2008/57/CE concerning railway interoperability.The Railway Institute, operating for 60 years in the transport sector, mainly in the rail sector, conducts scientific and research works, as well as services (including calibration of universal masters and measuring instruments) and performs certification works in the fields of railways and urban rail transport.The Railway Institute owns a test track for conducting various experiments and also possesses the necessary infrastructure for R&D studies in the field of railway transport.The Railway Institute is a Notified Body under the Interoperability of the Railway System Directive NB 1467.The Railway Institute is a member of many significant railway organisations in Europe, such as: UIC UNIFE via the national Association for Rail Transport Interoperability and Development (SIRTS) European Rail Research Advisory Council (ERRAC) European Conference of Transport Research Institutes (ECTRI) European Network of Excellence (EURNEX) European Level Crossing Forum (ELCF) NB Rail",Correct,26,15.214412212371826,35
+http://dbpedia.org/resource/Railway_Institute,http://dbpedia.org/property/name,Instut Kolejnictwa,Correct,26,15.214412212371826,35
+http://dbpedia.org/resource/Inge_Morath,http://xmlns.com/foaf/0.1/name,"Morath, Inge",Correct,27,242.60354852676392,35
+http://dbpedia.org/resource/Inge_Morath,http://dbpedia.org/ontology/birthDate,1923-05-27,Correct,27,242.60354852676392,35
+http://dbpedia.org/resource/Inge_Morath,http://xmlns.com/foaf/0.1/name,Inge Morath,Correct,27,242.60354852676392,35
+http://dbpedia.org/resource/Inge_Morath,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Austria,Correct,27,242.60354852676392,35
+http://dbpedia.org/resource/Inge_Morath,http://dbpedia.org/ontology/deathDate,2002-01-30,Correct,27,242.60354852676392,35
+http://dbpedia.org/resource/FEAT_(album),http://dbpedia.org/property/note,featuring The Rosebuds and Astronautalis,Correct,28,15.4277503490448,35
+http://dbpedia.org/resource/FEAT_(album),http://dbpedia.org/property/rev,Dusted Magazine,Incorrect,28,15.4277503490448,35
+http://dbpedia.org/resource/FEAT_(album),http://dbpedia.org/property/title,These Things Are Nice,Incorrect,28,15.4277503490448,35
+http://dbpedia.org/resource/FEAT_(album),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2012_debut_albums,Incorrect,28,15.4277503490448,35
+http://dbpedia.org/resource/FEAT_(album),http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Alternative_hip_hop,Correct,28,15.4277503490448,35
+http://dbpedia.org/resource/1815_Philadelphia_train_accident,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Railway_accidents_in_1815,Correct,29,10.883068323135376,35
+http://dbpedia.org/resource/1815_Philadelphia_train_accident,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:History_of_County_Durham,Correct,29,10.883068323135376,35
+http://dbpedia.org/resource/1815_Philadelphia_train_accident,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Railway_accidents_in_County_Durham,Correct,29,10.883068323135376,35
+http://dbpedia.org/resource/1815_Philadelphia_train_accident,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1815_in_England,Correct,29,10.883068323135376,35
+http://dbpedia.org/resource/1815_Philadelphia_train_accident,http://dbpedia.org/property/longitude,-1.478,Incorrect,29,10.883068323135376,35
+http://dbpedia.org/resource/115th_Street_–_Morgan_Park_(Metra_station),http://www.w3.org/2000/01/rdf-schema#label,115th Street – Morgan Park (Metra station),Correct,30,4.897844314575195,35
+http://dbpedia.org/resource/Harry_Potter_and_the_Half-Blood_Prince_(video_game),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:PlayStation_Portable_games,Correct,31,6.878948450088501,35
+http://dbpedia.org/resource/Harry_Potter_and_the_Half-Blood_Prince_(video_game),http://dbpedia.org/property/platforms,http://dbpedia.org/resource/PlayStation_Portable,Correct,31,6.878948450088501,35
+http://dbpedia.org/resource/Harry_Potter_and_the_Half-Blood_Prince_(video_game),http://dbpedia.org/ontology/computingPlatform,http://dbpedia.org/resource/PlayStation_Portable,Correct,31,6.878948450088501,35
+"http://dbpedia.org/resource/United_States_Senate_election_in_Montana,_1922",http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:United_States_Senate_elections,_1922",Correct,32,14.42367696762085,35
+"http://dbpedia.org/resource/United_States_Senate_election_in_Montana,_1922",http://dbpedia.org/property/hasPhotoCollection,"http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/United_States_Senate_election_in_Montana,_1922",Incorrect,32,14.42367696762085,35
+"http://dbpedia.org/resource/United_States_Senate_election_in_Montana,_1922",http://dbpedia.org/property/percentage,54.66,Incorrect,32,14.42367696762085,35
+"http://dbpedia.org/resource/United_States_Senate_election_in_Montana,_1922",http://dbpedia.org/property/percentage,8.45,Incorrect,32,14.42367696762085,35
+"http://dbpedia.org/resource/United_States_Senate_election_in_Montana,_1922",http://dbpedia.org/property/previousYear,1916,Incorrect,32,14.42367696762085,35
+http://dbpedia.org/resource/Quicksand_(2003_film),http://dbpedia.org/ontology/distributor,http://dbpedia.org/resource/First_Look_Studios,Correct,33,671.8717837333679,35
+http://dbpedia.org/resource/Quicksand_(2003_film),http://dbpedia.org/ontology/country,http://dbpedia.org/resource/Norway,Incorrect,33,671.8717837333679,35
+http://dbpedia.org/resource/Quicksand_(2003_film),http://dbpedia.org/property/distributor,http://dbpedia.org/resource/First_Look_Studios,Correct,33,671.8717837333679,35
+http://dbpedia.org/resource/Quicksand_(2003_film),http://dbpedia.org/property/distributor,http://dbpedia.org/resource/Artisan_Entertainment,Incorrect,33,671.8717837333679,35
+http://dbpedia.org/resource/Quicksand_(2003_film),http://dbpedia.org/property/studio,http://dbpedia.org/resource/Artisan_Entertainment,Incorrect,33,671.8717837333679,35
+http://dbpedia.org/resource/Homotopia,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Incorrect,34,40.491938829422,35
+http://dbpedia.org/resource/Homotopia,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_films,Correct,34,40.491938829422,35
+http://dbpedia.org/resource/Homotopia,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_LGBT-related_films,Incorrect,34,40.491938829422,35
+http://dbpedia.org/resource/Homotopia,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Films_about_anarchism,Incorrect,34,40.491938829422,35
+http://dbpedia.org/resource/Homotopia,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:LGBT_opposition_to_same-sex_marriage,Incorrect,34,40.491938829422,35
+http://dbpedia.org/resource/Berlin_Oranienburger_Straße_station,http://dbpedia.org/property/line,http://dbpedia.org/resource/Berlin_Nord-Süd_Tunnel,Incorrect,35,19.041635036468502,35
+http://dbpedia.org/resource/Berlin_Oranienburger_Straße_station,http://dbpedia.org/property/symbolLocation,de,Correct,35,19.041635036468502,35
+http://dbpedia.org/resource/Berlin_Oranienburger_Straße_station,http://dbpedia.org/ontology/abstract,"Berlin Oranienburger Straße (in German Bahnhof Berlin Oranienburger Straße) is a railway station in the city of Berlin, Germany, located on Oranienburger Straße. It is served by the Berlin S-Bahn and local tram lines.",Correct,35,19.041635036468502,35
+http://dbpedia.org/resource/Berlin_Oranienburger_Straße_station,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Station,Correct,35,19.041635036468502,35
+http://dbpedia.org/resource/Berlin_Oranienburger_Straße_station,http://dbpedia.org/property/system,SBB,Correct,35,19.041635036468502,35
+http://dbpedia.org/resource/Charles_Mann_(Australian_politician),http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Adelaide,Incorrect,36,50.123830795288086,35
+http://dbpedia.org/resource/William_Monroe_Trotter,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Ohio,Correct,37,34.67095446586609,35
+http://dbpedia.org/resource/Sylvester_Gilbert,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Dartmouth_College_alumni,Incorrect,38,496.76338601112366,35
+http://dbpedia.org/resource/Sylvester_Gilbert,http://xmlns.com/foaf/0.1/surname,Gilbert,Correct,38,496.76338601112366,35
+http://dbpedia.org/resource/Sylvester_Gilbert,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Members_of_the_Connecticut_House_of_Representatives,Correct,38,496.76338601112366,35
+http://dbpedia.org/resource/Sylvester_Gilbert,http://dbpedia.org/property/district,AL,Incorrect,38,496.76338601112366,35
+http://dbpedia.org/resource/Sylvester_Gilbert,http://dbpedia.org/property/after,http://dbpedia.org/resource/Samuel_A._Foot,Incorrect,38,496.76338601112366,35
+http://dbpedia.org/resource/Evangelos_Venizelos,http://dbpedia.org/property/years,1995,Incorrect,39,53030.47195339203,35
+http://dbpedia.org/resource/Evangelos_Venizelos,http://xmlns.com/foaf/0.1/surname,Venizelos,Correct,39,53030.47195339203,35
+http://dbpedia.org/resource/Evangelos_Venizelos,http://dbpedia.org/ontology/office,Minister of Foreign Affairs,Correct,39,53030.47195339203,35
+http://dbpedia.org/resource/Evangelos_Venizelos,http://dbpedia.org/ontology/primeMinister,http://dbpedia.org/resource/Lucas_Papademos,Incorrect,39,53030.47195339203,35
+http://dbpedia.org/resource/Evangelos_Venizelos,http://dbpedia.org/property/office,"http://dbpedia.org/resource/Ministry_of_Justice,_Transparency_and_Human_Rights_(Greece)",Incorrect,39,53030.47195339203,35
+http://dbpedia.org/resource/David_Parks_(politician),http://dbpedia.org/property/percentage,68.06,Correct,40,3566.4044120311737,35
+http://dbpedia.org/resource/David_Parks_(politician),http://dbpedia.org/property/branch,http://dbpedia.org/resource/United_States_Air_Force,Incorrect,40,3566.4044120311737,35
+http://dbpedia.org/resource/David_Parks_(politician),http://xmlns.com/foaf/0.1/surname,Parks,Correct,40,3566.4044120311737,35
+http://dbpedia.org/resource/David_Parks_(politician),http://dbpedia.org/property/percentage,34.67,Incorrect,40,3566.4044120311737,35
+http://dbpedia.org/resource/David_Parks_(politician),http://dbpedia.org/property/party,Republican Party,Incorrect,40,3566.4044120311737,35
+http://dbpedia.org/resource/Kirarin_Revolution,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:TV_Tokyo_shows,Correct,41,112.35567283630373,35
+http://dbpedia.org/resource/Kirarin_Revolution,http://dbpedia.org/property/network,http://dbpedia.org/resource/BS_Japan,Incorrect,41,112.35567283630373,35
+http://dbpedia.org/resource/Kirarin_Revolution,http://dbpedia.org/property/content,http://dbpedia.org/resource/Kirarin_Revolution,Correct,41,112.35567283630373,35
+http://dbpedia.org/resource/Kirarin_Revolution,http://dbpedia.org/property/type,tv series,Correct,41,112.35567283630373,35
+http://dbpedia.org/resource/Kirarin_Revolution,http://dbpedia.org/property/network,http://dbpedia.org/resource/TV_Tokyo,Correct,41,112.35567283630373,35
+http://dbpedia.org/resource/Stânca-Costești_Dam,http://www.w3.org/2003/01/geo/wgs84_pos#lat,47.8583,Correct,42,191.10313367843628,35
+http://dbpedia.org/resource/Stânca-Costești_Dam,http://www.w3.org/2003/01/geo/wgs84_pos#long,27.2586,Correct,42,191.10313367843628,35
+http://dbpedia.org/resource/Stânca-Costești_Dam,http://www.w3.org/2000/01/rdf-schema#comment,The Stânca-Costeşti Dam (Romanian: Barajul Stânca-Costeşti) is a dam on the Prut and a checkpoint between Moldova and Romania. The dam is located between Costeşti (Moldova) and Stânca (Romania).,Correct,42,191.10313367843628,35
+http://dbpedia.org/resource/Stânca-Costești_Dam,http://dbpedia.org/property/longD,27,Correct,42,191.10313367843628,35
+http://dbpedia.org/resource/Stânca-Costești_Dam,http://dbpedia.org/property/latM,51,Incorrect,42,191.10313367843628,35
+http://dbpedia.org/resource/William_H._Lewis,http://dbpedia.org/property/birthPlace,"http://dbpedia.org/resource/Berkley,_Virginia",Correct,43,159.20205116271973,35
+http://dbpedia.org/resource/William_H._Lewis,http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Berkley,_Virginia",Correct,43,159.20205116271973,35
+http://dbpedia.org/resource/William_H._Lewis,http://dbpedia.org/ontology/knownFor,http://dbpedia.org/resource/United_States_Attorney,Correct,43,159.20205116271973,35
+http://dbpedia.org/resource/William_H._Lewis,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/Harvard_Law_School,Correct,43,159.20205116271973,35
+http://dbpedia.org/resource/William_H._Lewis,http://dbpedia.org/property/almaMater,http://dbpedia.org/resource/Harvard_Law_School,Correct,43,159.20205116271973,35
+http://dbpedia.org/resource/Federica_Mogherini,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Rome,Correct,44,210.66534304618835,35
+http://dbpedia.org/resource/Al-Dhubi,http://dbpedia.org/property/commonName,Dhubi,Incorrect,45,54.921623945236206,35
+http://dbpedia.org/resource/Grand_and_General_Council,http://dbpedia.org/ontology/politicalPartyInLegislature,http://dbpedia.org/resource/Sammarinese_Christian_Democratic_Party,Incorrect,46,560.3915855884552,35
+http://dbpedia.org/resource/Grand_and_General_Council,http://dbpedia.org/ontology/politicalPartyInLegislature,http://dbpedia.org/resource/Party_of_Socialists_and_Democrats,Incorrect,46,560.3915855884552,35
+http://dbpedia.org/resource/Grand_and_General_Council,http://dbpedia.org/ontology/politicalPartyInLegislature,http://dbpedia.org/resource/Union_for_the_Republic_(San_Marino),Incorrect,46,560.3915855884552,35
+http://dbpedia.org/resource/Grand_and_General_Council,http://dbpedia.org/ontology/politicalPartyInLegislature,http://dbpedia.org/resource/Socialist_Party_(San_Marino),Incorrect,46,560.3915855884552,35
+http://dbpedia.org/resource/Grand_and_General_Council,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/San_Marino,Correct,46,560.3915855884552,35
+"http://dbpedia.org/resource/United_States_presidential_election_in_Montana,_1992",http://dbpedia.org/ontology/startDate,1992-11-03,Correct,47,54.65180921554565,35
+http://dbpedia.org/resource/Butterfly_(Hartnett_novel),http://dbpedia.org/ontology/numberOfPages,224,Correct,48,2817.89106798172,35
+http://dbpedia.org/resource/Butterfly_(Hartnett_novel),http://dbpedia.org/ontology/country,http://dbpedia.org/resource/Australia,Correct,48,2817.89106798172,35
+http://dbpedia.org/resource/Butterfly_(Hartnett_novel),http://www.w3.org/2000/01/rdf-schema#label,Butterfly (Hartnett novel),Correct,48,2817.89106798172,35
+http://dbpedia.org/resource/Butterfly_(Hartnett_novel),http://dbpedia.org/ontology/author,http://dbpedia.org/resource/Sonya_Hartnett,Correct,48,2817.89106798172,35
+http://dbpedia.org/resource/Butterfly_(Hartnett_novel),http://dbpedia.org/ontology/abstract,"Butterfly  is a 2009 young adult fiction novel by Sonya Hartnett about the troubled adolescence of Plum Coyle, set in 1980s Australian suburbia. The Blurb is; Plum Coyle is on the edge of adolescence. Her fourteenth birthday is approaching, when her old life and her old body will fall away, and she will become graceful, powerful, and at ease. The strength of the objects she stores in a briefcase under her bed —a crystal lamb, a yoyo, an antique watch, a coin —will make sure of it. Over the next couple of weeks, Plum’s life will change. Her beautiful neighbor Maureen will begin to show Plum how she might fly. The older brothers she adores will court catastrophe in worlds that she barely knows exist. And her friends, her worst enemies, will tease and test, smelling weakness. They will try to lead her on and take her down",Correct,48,2817.89106798172,35
+"http://dbpedia.org/resource/Perry_B._Duryea,_Jr.",http://dbpedia.org/property/after,district abolished,I Don't Know,49,469.5227653980255,35
+"http://dbpedia.org/resource/Perry_B._Duryea,_Jr.",http://dbpedia.org/property/after,http://dbpedia.org/resource/Stanley_Steingut,Incorrect,49,469.5227653980255,35
+"http://dbpedia.org/resource/Perry_B._Duryea,_Jr.",http://dbpedia.org/property/before,"http://dbpedia.org/resource/Irving_L._Price,_Jr.",Incorrect,49,469.5227653980255,35
+"http://dbpedia.org/resource/Perry_B._Duryea,_Jr.",http://dbpedia.org/property/spouse,Marie Therese Duryea,Incorrect,49,469.5227653980255,35
+"http://dbpedia.org/resource/Perry_B._Duryea,_Jr.",http://dbpedia.org/property/after,1982,Incorrect,49,469.5227653980255,35
+http://dbpedia.org/resource/WSBR,http://www.georss.org/georss/point,26.335 -80.26527777777778,Incorrect,50,3488.0070078372955,35
+http://dbpedia.org/resource/WSBR,http://dbpedia.org/ontology/alias,Moneytalk Radio,Correct,50,3488.0070078372955,35
+http://dbpedia.org/resource/WSBR,http://dbpedia.org/property/name,WSBR,Correct,50,3488.0070078372955,35
+http://dbpedia.org/resource/WSBR,http://dbpedia.org/ontology/city,"http://dbpedia.org/resource/Boca_Raton,_Florida",Correct,50,3488.0070078372955,35
+http://dbpedia.org/resource/WSBR,http://dbpedia.org/property/translator,96.9,Incorrect,50,3488.0070078372955,35
+http://dbpedia.org/resource/Novorossiya_Governorate,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Kremenchuk,Incorrect,51,1588.2668890953064,35
+http://dbpedia.org/resource/Novorossiya_Governorate,http://dbpedia.org/ontology/capital,"http://dbpedia.org/resource/Novomoskovsk,_Dnipropetrovsk_Oblast",Incorrect,51,1588.2668890953064,35
+http://dbpedia.org/resource/Novorossiya_Governorate,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Kirovohrad,Incorrect,51,1588.2668890953064,35
+http://dbpedia.org/resource/Michael_P._Sullivan,http://dbpedia.org/ontology/education,http://dbpedia.org/resource/University_of_Minnesota_Law_School,Incorrect,52,196.4079713821411,35
+http://dbpedia.org/resource/Michael_P._Sullivan,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/Marquette_University,Incorrect,52,196.4079713821411,35
+http://dbpedia.org/resource/James_Brokenshire,http://dbpedia.org/ontology/primeMinister,http://dbpedia.org/resource/David_Cameron,Incorrect,53,103.70135593414308,35
+http://dbpedia.org/resource/James_Brokenshire,http://dbpedia.org/property/primeminister,http://dbpedia.org/resource/David_Cameron,Incorrect,53,103.70135593414308,35
+"http://dbpedia.org/resource/Philip_Snowden,_1st_Viscount_Snowden",http://dbpedia.org/property/before,http://dbpedia.org/resource/Winston_Churchill,Incorrect,54,246.05325865745544,35
+"http://dbpedia.org/resource/Philip_Snowden,_1st_Viscount_Snowden",http://dbpedia.org/property/predecessor,http://dbpedia.org/resource/Winston_Churchill,Correct,54,246.05325865745544,35
+"http://dbpedia.org/resource/Philip_Snowden,_1st_Viscount_Snowden",http://dbpedia.org/property/after,http://dbpedia.org/resource/Winston_Churchill,Incorrect,54,246.05325865745544,35
+http://dbpedia.org/resource/WIVM-LD,http://dbpedia.org/ontology/location,"http://dbpedia.org/resource/Newcomerstown,_Ohio",Correct,55,137.36006903648376,35
+http://dbpedia.org/resource/WIVM-LD,http://dbpedia.org/ontology/formerBroadcastNetwork,http://dbpedia.org/resource/Retro_Television_Network,Incorrect,55,137.36006903648376,35
+http://dbpedia.org/resource/WIVM-LD,http://dbpedia.org/ontology/location,"http://dbpedia.org/resource/Canton,_Ohio",Correct,55,137.36006903648376,35
+http://dbpedia.org/resource/WIVM-LD,http://dbpedia.org/property/homepage,http://www.wivmtv.com/,Correct,55,137.36006903648376,35
+http://dbpedia.org/resource/WIVM-LD,http://dbpedia.org/property/owner,"Image Video Teleproductions, Inc.",Correct,55,137.36006903648376,35
+http://dbpedia.org/resource/Drammen_Station,http://dbpedia.org/property/postspan,1,Incorrect,56,177.68335366249084,35
+http://dbpedia.org/resource/Drammen_Station,http://dbpedia.org/property/prespan,yes,Incorrect,56,177.68335366249084,35
+http://dbpedia.org/resource/Drammen_Station,http://dbpedia.org/property/pre,—,Incorrect,56,177.68335366249084,35
+http://dbpedia.org/resource/Drammen_Station,http://dbpedia.org/property/prestation,http://dbpedia.org/resource/Gulskogen_Station,Incorrect,56,177.68335366249084,35
+http://dbpedia.org/resource/Drammen_Station,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Railway_stations_on_the_Drammen_Line,Correct,56,177.68335366249084,35
+http://dbpedia.org/resource/WFLZ-FM,http://dbpedia.org/property/formerCallsigns,WOJC,Incorrect,57,376.36982893943787,35
+http://dbpedia.org/resource/WFLZ-FM,http://dbpedia.org/ontology/abstract,"WFLZ-FM (93.3 FM, ""93-3 FLZ"")  is a CHR/Pop station broadcasting in the Tampa Bay area, Florida, USA. The station has a class C signal operating at 100,000 watts effective radiated power, and is one of the most powerful FM radio stations in Florida, covering four of the state's radio markets.  The station's studios are located in South Tampa and the transmitter site is in Riverview.WFLZ currently broadcasts in HD format.  93.3 HD-1 simulcasts the analog WFLZ-FM 93.3 MHz (""93-3 FLZ HD-1 Hit music""), whereas 93.3 HD-2 exclusively broadcasts dance music (""Evolution on 93-3 FLZ HD-2"").",Correct,57,376.36982893943787,35
+http://dbpedia.org/resource/WFLZ-FM,http://xmlns.com/foaf/0.1/name,WFLZ-FM,Correct,57,376.36982893943787,35
+http://dbpedia.org/resource/WFLZ-FM,http://www.w3.org/2000/01/rdf-schema#comment,"WFLZ-FM (93.3 FM, ""93-3 FLZ"")  is a CHR/Pop station broadcasting in the Tampa Bay area, Florida, USA. The station has a class C signal operating at 100,000 watts effective radiated power, and is one of the most powerful FM radio stations in Florida, covering four of the state's radio markets.  The station's studios are located in South Tampa and the transmitter site is in Riverview.WFLZ currently broadcasts in HD format.",Correct,57,376.36982893943787,35
+http://dbpedia.org/resource/WFLZ-FM,http://dbpedia.org/property/format,http://dbpedia.org/resource/CHR/Pop,Correct,57,376.36982893943787,35
+http://dbpedia.org/resource/Cubesat_Space_Protocol,http://xmlns.com/foaf/0.1/homepage,http://www.libcsp.org,Incorrect,58,693.5458700656891,35
+http://dbpedia.org/resource/Cubesat_Space_Protocol,http://dbpedia.org/ontology/abstract,"Cubesat Space Protocol (CSP) is a small network-layer delivery protocol designed for Cubesats. The idea was developed by a group of students from Aalborg University in 2008, and further developed for the AAUSAT3 Cubesat mission successfully launched in 2013. The protocol is based on a 32-bit header containing both network and transport layer information. Its implementation is designed for, but not limited to, embedded systems such as the 8-bit AVR microprocessor and the 32-bit ARM and AVR from Atmel. The implementation is written in C and is currently ported to run on FreeRTOS and POSIX and pthreads-based operating systems such as Linux. Support for Mac OS X and Microsoft Windows will be available in version 1.1. The three-letter acronym CSP was originally an abbreviation for CAN Space Protocol because the first MAC-layer driver was written for CAN-bus. The physical layer has since been extended to include several other technologies, and the name was therefore extended to the more general Cubesat Space Protocol without changing the abbreviation.The protocol and the implementation is actively maintained by the students at Aalborg University and the spin-off company GomSpace. The source code is available under an LGPL license and hosted on GitHub.",Correct,58,693.5458700656891,35
+http://dbpedia.org/resource/Cubesat_Space_Protocol,http://dbpedia.org/property/author,http://dbpedia.org/resource/AAUSAT3,Incorrect,58,693.5458700656891,35
+http://dbpedia.org/resource/Cubesat_Space_Protocol,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:CubeSats,Correct,58,693.5458700656891,35
+http://dbpedia.org/resource/Cubesat_Space_Protocol,http://dbpedia.org/property/license,http://dbpedia.org/resource/GNU_Lesser_General_Public_License,Correct,58,693.5458700656891,35
+http://dbpedia.org/resource/Berlin-Pankow-Heinersdorf_station,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Bahnhof_Pankow-Heinersdorf_01279.JPG?width=300,Correct,59,1120.8174874782562,35
+http://dbpedia.org/resource/Berlin-Pankow-Heinersdorf_station,http://dbpedia.org/property/system,SBB,Correct,59,1120.8174874782562,35
+http://dbpedia.org/resource/Berlin-Pankow-Heinersdorf_station,http://www.georss.org/georss/point,52.5783 13.4297,Correct,59,1120.8174874782562,35
+http://dbpedia.org/resource/Berlin-Pankow-Heinersdorf_station,http://dbpedia.org/property/type,North,Correct,59,1120.8174874782562,35
+http://dbpedia.org/resource/Berlin-Pankow-Heinersdorf_station,http://www.w3.org/2000/01/rdf-schema#label,Berlin-Pankow-Heinersdorf station,Correct,59,1120.8174874782562,35
+http://dbpedia.org/resource/11th_Street_Bridge,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Art_Deco_architecture_in_Oklahoma,Incorrect,60,584.782026052475,35
+http://dbpedia.org/resource/11th_Street_Bridge,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Bridges_over_the_Arkansas_River,Incorrect,60,584.782026052475,35
+http://dbpedia.org/resource/11th_Street_Bridge,http://www.w3.org/2000/01/rdf-schema#comment,"The 11th Street Bridge was completed in December 1915 to carry vehicles across the Arkansas River at Tulsa, Oklahoma. Used from 1916 to 1972, it was also a part of U.S. Route 66. Functionally, it has been replaced by the I-244 bridges across the Arkansas. At present, the bridge is in poor structural condition and unsafe even for pedestrians.",Incorrect,60,584.782026052475,35
+http://dbpedia.org/resource/11th_Street_Bridge,http://www.w3.org/2000/01/rdf-schema#label,11th Street Bridge,Correct,60,584.782026052475,35
+http://dbpedia.org/resource/11th_Street_Bridge,http://purl.org/dc/terms/subject,"http://dbpedia.org/resource/Category:Buildings_and_structures_in_Tulsa,_Oklahoma",Incorrect,60,584.782026052475,35
+http://dbpedia.org/resource/Joseph_Andrews_House,http://www.w3.org/2003/01/geo/wgs84_pos#long,-71.2178,Correct,61,177.78550910949707,35
+http://dbpedia.org/resource/Joseph_Andrews_House,http://xmlns.com/foaf/0.1/name,Joseph Andrews House,Correct,61,177.78550910949707,35
+http://dbpedia.org/resource/Joseph_Andrews_House,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/WalthamMA_JosephAndrewsHouse.jpg,Correct,61,177.78550910949707,35
+http://dbpedia.org/resource/Joseph_Andrews_House,http://www.georss.org/georss/point,42.38333333333333 -71.21777777777778,Correct,61,177.78550910949707,35
+http://dbpedia.org/resource/Joseph_Andrews_House,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Joseph_Andrews_House,Correct,61,177.78550910949707,35
+http://dbpedia.org/resource/Ralph_DeRose,http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Newark,_New_Jersey",Incorrect,62,91.6134467124939,35
+http://dbpedia.org/resource/Alexander_McGillivray_(politician),http://dbpedia.org/property/placeOfDeath,http://dbpedia.org/resource/Edmonton,Correct,63,343.3884632587433,35
+http://dbpedia.org/resource/Alexander_McGillivray_(politician),http://dbpedia.org/property/dateOfDeath,1940-12-12,Correct,63,343.3884632587433,35
+http://dbpedia.org/resource/Alexander_McGillivray_(politician),http://dbpedia.org/property/termStart,1926,Correct,63,343.3884632587433,35
+http://dbpedia.org/resource/Alexander_McGillivray_(politician),http://xmlns.com/foaf/0.1/surname,McGillivray,Correct,63,343.3884632587433,35
+http://dbpedia.org/resource/Alexander_McGillivray_(politician),http://xmlns.com/foaf/0.1/givenName,Alexander,Correct,63,343.3884632587433,35
+http://dbpedia.org/resource/Joan_Huffman,http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Southside_Place,_Texas",Correct,64,59.226579904556274,35
+http://dbpedia.org/resource/David_Fisher_(politician),http://dbpedia.org/ontology/region,"http://dbpedia.org/resource/Brown_County,_Ohio",Incorrect,65,127.32701516151428,35
+http://dbpedia.org/resource/David_Fisher_(politician),http://dbpedia.org/ontology/region,"http://dbpedia.org/resource/Clermont_County,_Ohio",Incorrect,65,127.32701516151428,35
+http://dbpedia.org/resource/David_Fisher_(politician),http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Ohio,Incorrect,65,127.32701516151428,35
+http://dbpedia.org/resource/David_Fisher_(politician),http://dbpedia.org/ontology/region,"http://dbpedia.org/resource/Clinton_County,_Ohio",Incorrect,65,127.32701516151428,35
+http://dbpedia.org/resource/In_My_Chair,http://dbpedia.org/ontology/musicalBand,http://dbpedia.org/resource/Status_Quo_(band),Correct,66,250.91200494766235,35
+http://dbpedia.org/resource/In_My_Chair,http://dbpedia.org/property/artist,http://dbpedia.org/resource/Status_Quo_(band),Correct,66,250.91200494766235,35
+http://dbpedia.org/resource/In_My_Chair,http://dbpedia.org/ontology/subsequentWork,http://dbpedia.org/resource/Status_Quo_(band),Correct,66,250.91200494766235,35
+http://dbpedia.org/resource/In_My_Chair,http://dbpedia.org/ontology/musicalArtist,http://dbpedia.org/resource/Status_Quo_(band),Correct,66,250.91200494766235,35
+http://dbpedia.org/resource/Stan_Rosenberg,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/Senator_Stan_Rosenberg.JPG,Correct,67,73.20841026306152,35
+http://dbpedia.org/resource/Stan_Rosenberg,http://dbpedia.org/property/district,"http://dbpedia.org/resource/Franklin_County,_Massachusetts",Correct,67,73.20841026306152,35
+http://dbpedia.org/resource/Stan_Rosenberg,http://dbpedia.org/property/name,Stan Rosenberg,Correct,67,73.20841026306152,35
+http://dbpedia.org/resource/Stan_Rosenberg,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Jewish_American_politicians,Correct,67,73.20841026306152,35
+http://dbpedia.org/resource/Stan_Rosenberg,http://purl.org/dc/elements/1.1/description,American politician,Correct,67,73.20841026306152,35
+http://dbpedia.org/resource/Michael_Chertoff,http://dbpedia.org/property/appointer,http://dbpedia.org/resource/George_H._W._Bush,Incorrect,68,58.507941484451294,35
+http://dbpedia.org/resource/Michael_Chertoff,http://dbpedia.org/property/appointer,http://dbpedia.org/resource/George_W._Bush,Incorrect,68,58.507941484451294,35
+http://dbpedia.org/resource/Martha_Coakley,http://dbpedia.org/ontology/governor,http://dbpedia.org/resource/Charlie_Baker,Incorrect,69,86.84522533416748,35
+http://dbpedia.org/resource/Martha_Coakley,http://dbpedia.org/ontology/governor,http://dbpedia.org/resource/Deval_Patrick,Incorrect,69,86.84522533416748,35
+http://dbpedia.org/resource/William_Goode_(politician),http://dbpedia.org/ontology/otherParty,http://dbpedia.org/resource/Whig_Party_(United_States),Correct,70,45.57784676551819,35
+http://dbpedia.org/resource/101_Dalmatians_II:_Patch's_London_Adventure,http://dbpedia.org/property/producer,http://dbpedia.org/resource/Leslie_Hough,Incorrect,71,428569.3171534538,35
+http://dbpedia.org/resource/101_Dalmatians_II:_Patch's_London_Adventure,http://dbpedia.org/property/music,http://dbpedia.org/resource/Richard_Gibbs,Correct,71,428569.3171534538,35
+http://dbpedia.org/resource/101_Dalmatians_II:_Patch's_London_Adventure,http://dbpedia.org/property/starring,http://dbpedia.org/resource/Kath_Soucie,Correct,71,428569.3171534538,35
+http://dbpedia.org/resource/101_Dalmatians_II:_Patch's_London_Adventure,http://dbpedia.org/property/story,http://dbpedia.org/resource/Jim_Kammerud,Correct,71,428569.3171534538,35
+http://dbpedia.org/resource/101_Dalmatians_II:_Patch's_London_Adventure,http://xmlns.com/foaf/0.1/name,101 Dalmatians II: Patch's London Adventure,Correct,71,428569.3171534538,35
+http://dbpedia.org/resource/Socialist_Party_of_Lithuania,http://dbpedia.org/ontology/leader,http://dbpedia.org/resource/Giedrius_Petružis,Incorrect,72,96.71186447143556,40
+http://dbpedia.org/resource/Karen_K._Caldwell,http://dbpedia.org/property/appointer,http://dbpedia.org/resource/List_of_federal_judges_appointed_by_George_W._Bush,Correct,73,1311.3233478069303,40
+http://dbpedia.org/resource/Boston_and_Lowell_Railroad,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Boston_and_Lowell_Railroad,Correct,74,192.0669343471527,40
+http://dbpedia.org/resource/Boston_and_Lowell_Railroad,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Defunct_Massachusetts_railroads,Correct,74,192.0669343471527,40
+http://dbpedia.org/resource/Boston_and_Lowell_Railroad,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Railway_lines_opened_in_1835,Correct,74,192.0669343471527,40
+http://dbpedia.org/resource/Boston_and_Lowell_Railroad,http://www.w3.org/2000/01/rdf-schema#comment,The Boston and Lowell Railroad is a historic railroad that operated in Massachusetts in the United States. It was one of the first railroads in North America and the first major one in the state. The line later operated as part of the Boston and Maine Railroad's Southern Division.,Correct,74,192.0669343471527,40
+http://dbpedia.org/resource/Boston_and_Lowell_Railroad,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Boston_and_Lowell_Railroad_1887.png?width=300,Correct,74,192.0669343471527,40
+http://dbpedia.org/resource/Odessa_Soviet_Republic,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Odessa,Correct,75,200.6630301475525,40
+http://dbpedia.org/resource/Odessa_Soviet_Republic,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Ruble,Correct,75,200.6630301475525,40
+"http://dbpedia.org/resource/Emerson,_Lake_&_Palmer_(album)",http://dbpedia.org/ontology/artist,"http://dbpedia.org/resource/Emerson,_Lake_&_Palmer",Correct,76,124.70181202888487,40
+http://dbpedia.org/resource/Marcus_Rose,http://dbpedia.org/ontology/university,"http://dbpedia.org/resource/Magdalene_College,_Cambridge",Correct,77,185.2881577014923,40
+http://dbpedia.org/resource/Marcus_Rose,http://dbpedia.org/ontology/university,http://dbpedia.org/resource/Durham_University,Correct,77,185.2881577014923,40
+http://dbpedia.org/resource/Marcus_Rose,http://dbpedia.org/ontology/school,http://dbpedia.org/resource/Loughborough_Grammar_School,Correct,77,185.2881577014923,40
+http://dbpedia.org/resource/Frozen_Assets_(novel),http://dbpedia.org/ontology/publicationDate,1964-07-14,Incorrect,78,126.20395278930664,40
+http://dbpedia.org/resource/Barcelona–Cerbère_railway,http://dbpedia.org/property/operator,http://dbpedia.org/resource/Renfe_Operadora,Correct,79,392.1981453895569,40
+http://dbpedia.org/resource/Barcelona–Cerbère_railway,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Catalonia,Correct,79,392.1981453895569,40
+http://dbpedia.org/resource/Barcelona–Cerbère_railway,http://dbpedia.org/ontology/operatedBy,http://dbpedia.org/resource/Renfe_Operadora,Correct,79,392.1981453895569,40
+http://dbpedia.org/resource/Barcelona–Cerbère_railway,http://dbpedia.org/property/locale,http://dbpedia.org/resource/Catalonia,Correct,79,392.1981453895569,40
+http://dbpedia.org/resource/The_Adventures_of_Rocky_and_Bullwinkle,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2000s_comedy_films,Correct,80,99.26013660430908,40
+http://dbpedia.org/resource/The_Adventures_of_Rocky_and_Bullwinkle,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:The_Rocky_and_Bullwinkle_Show,Correct,80,99.26013660430908,40
+http://dbpedia.org/resource/The_Adventures_of_Rocky_and_Bullwinkle,http://dbpedia.org/ontology/narrator,http://dbpedia.org/resource/Keith_Scott_(voice_actor),Correct,80,99.26013660430908,40
+http://dbpedia.org/resource/The_Adventures_of_Rocky_and_Bullwinkle,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2000s_fantasy_films,Correct,80,99.26013660430908,40
+http://dbpedia.org/resource/The_Adventures_of_Rocky_and_Bullwinkle,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_children's_fantasy_films,Correct,80,99.26013660430908,40
+http://dbpedia.org/resource/Henry_Cuellar,http://dbpedia.org/ontology/residence,http://dbpedia.org/resource/Texas,Correct,81,215.79809617996216,40
+http://dbpedia.org/resource/Henry_Cuellar,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Texas,Correct,81,215.79809617996216,40
+http://dbpedia.org/resource/Henry_Cuellar,http://dbpedia.org/property/placeOfBirth,"http://dbpedia.org/resource/Laredo,_Texas",Correct,81,215.79809617996216,40
+http://dbpedia.org/resource/Henry_Cuellar,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/Texas_A&M_International_University,Correct,81,215.79809617996216,40
+http://dbpedia.org/resource/Christina_Pickles,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English_soap_opera_actresses,Correct,82,68.25770401954651,40
+http://dbpedia.org/resource/Christina_Pickles,http://dbpedia.org/property/occupation,Actress,Correct,82,68.25770401954651,40
+http://dbpedia.org/resource/Christina_Pickles,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_stage_actresses,Correct,82,68.25770401954651,40
+http://dbpedia.org/resource/Christina_Pickles,http://xmlns.com/foaf/0.1/surname,Pickles,Correct,82,68.25770401954651,40
+http://dbpedia.org/resource/Christina_Pickles,http://dbpedia.org/property/wordnet_type,http://www.w3.org/2006/03/wn/wn20/instances/synset-actor-noun-1,Correct,82,68.25770401954651,40
+http://dbpedia.org/resource/Here_Comes_the_Navy,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_comedy-drama_films,Correct,83,178.6576874256134,40
+http://dbpedia.org/resource/Here_Comes_the_Navy,http://dbpedia.org/property/writer,http://dbpedia.org/resource/Earl_Baldwin,Correct,83,178.6576874256134,40
+http://dbpedia.org/resource/Here_Comes_the_Navy,http://www.w3.org/2000/01/rdf-schema#comment,"Here Comes the Navy (also known as Hey, Sailor) is a 1934 American romantic comedy film. written by Earl Baldwin and Ben Markson, and directed by Lloyd Bacon. The film stars James Cagney, Pat O'Brien, Gloria Stuart and Frank McHugh. Stuart was  Oscar-nominated 63 years later for another nautical epic, Titanic (1997).",Correct,83,178.6576874256134,40
+http://dbpedia.org/resource/Here_Comes_the_Navy,http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/James_Cagney,Correct,83,178.6576874256134,40
+http://dbpedia.org/resource/Here_Comes_the_Navy,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:United_States_Navy_in_films,Correct,83,178.6576874256134,40
+http://dbpedia.org/resource/Tau_(sculpture),http://dbpedia.org/property/artist,http://dbpedia.org/resource/Tony_Smith_(sculptor),Correct,84,167.3632709980011,40
+http://dbpedia.org/resource/Tau_(sculpture),http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Tau_(sculpture),Correct,84,167.3632709980011,40
+http://dbpedia.org/resource/Tau_(sculpture),http://dbpedia.org/property/title,"Tau, AP",Correct,84,167.3632709980011,40
+http://dbpedia.org/resource/Tau_(sculpture),http://dbpedia.org/property/metricUnit,cm,Correct,84,167.3632709980011,40
+http://dbpedia.org/resource/Tau_(sculpture),http://dbpedia.org/property/widthImperial,252,Correct,84,167.3632709980011,40
+http://dbpedia.org/resource/V/Line_G_class,http://dbpedia.org/ontology/owner,http://dbpedia.org/resource/AWB_Limited,Correct,85,233.68104577064517,40
+http://dbpedia.org/resource/V/Line_G_class,http://dbpedia.org/property/currentowner,http://dbpedia.org/resource/AWB_Limited,Correct,85,233.68104577064517,40
+http://dbpedia.org/resource/Ron_Marlenee,http://xmlns.com/foaf/0.1/name,Ron Marlenee,Correct,86,67.03925490379333,40
+http://dbpedia.org/resource/Ron_Marlenee,http://dbpedia.org/ontology/abstract,"Ronald Charles ""Ron"" Marlenee (born August 8, 1935) is a Republican politician who served in the United States House of Representatives from the U.S. state of Montana from January 3, 1977 to January 3, 1993.He was born in Scobey, Montana.  He was educated in the public schools of Daniels County, and attended Montana State University in Boseman, the University of Montana in Missoula, and the Reisch School of Auctioneering in Mason City, Iowa.Marlenee was an auctioneer, farmer and rancher.  He was active in politics as a Republican, and held several party posts in Daniels County.  From 1975 to 1976 he was the Second Congressional District's member of the Montana Republican Committee's executive board.  In 1976 he was elected to the Ninety-fifth Congress.  He was reelected seven times, and served from January 3, 1977 to January 3, 1993.  Marlenee was an unsuccessful candidate for reelection in 1992, losing to the Democratic nominee, Pat Williams. Williams had represented the 1st District in the House, and the two incumbents ran against each other after redistricting reduced Montana's House representation to one at-large district.",Correct,86,67.03925490379333,40
+http://dbpedia.org/resource/Ron_Marlenee,http://dbpedia.org/property/years,1977,Correct,86,67.03925490379333,40
+http://dbpedia.org/resource/Ron_Marlenee,http://xmlns.com/foaf/0.1/surname,Marlenee,Correct,86,67.03925490379333,40
+http://dbpedia.org/resource/Ron_Marlenee,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/Ron_Marlenee.jpg,Correct,86,67.03925490379333,40
+http://dbpedia.org/resource/Jean-Paul_Sartre,http://dbpedia.org/ontology/philosophicalSchool,http://dbpedia.org/resource/Marxism,Incorrect,87,350.3774576187134,40
+http://dbpedia.org/resource/Jean-Paul_Sartre,http://dbpedia.org/ontology/philosophicalSchool,http://dbpedia.org/resource/Phenomenology_(philosophy),Correct,87,350.3774576187134,40
+http://dbpedia.org/resource/Jean-Paul_Sartre,http://dbpedia.org/ontology/mainInterest,http://dbpedia.org/resource/Self-consciousness,Correct,87,350.3774576187134,40
+http://dbpedia.org/resource/Jean-Paul_Sartre,http://dbpedia.org/ontology/philosophicalSchool,http://dbpedia.org/resource/Anarchism,Correct,87,350.3774576187134,40
+http://dbpedia.org/resource/Jean-Paul_Sartre,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Alexandre_Kojève,Correct,87,350.3774576187134,40
+http://dbpedia.org/resource/Patricia_E._Campbell-Smith,http://dbpedia.org/property/appointer,http://dbpedia.org/resource/Barack_Obama,Correct,88,202.43407821655276,40
+http://dbpedia.org/resource/Adam_Smith_(politician),http://dbpedia.org/property/religion,http://dbpedia.org/resource/Episcopal_Church_(United_States),Correct,89,326.8705990314484,40
+http://dbpedia.org/resource/Adam_Smith_(politician),http://dbpedia.org/ontology/religion,http://dbpedia.org/resource/Episcopal_Church_(United_States),Correct,89,326.8705990314484,40
+http://dbpedia.org/resource/Adam_Smith_(politician),http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Washington,_D.C.",Correct,89,326.8705990314484,40
+http://dbpedia.org/resource/Adam_Smith_(politician),http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/Fordham_University,Correct,89,326.8705990314484,40
+http://dbpedia.org/resource/Adam_Smith_(politician),http://dbpedia.org/ontology/party,http://dbpedia.org/resource/Democratic_Party_(United_States),Correct,89,326.8705990314484,40
+http://dbpedia.org/resource/Hungry_Horse_Dam,http://dbpedia.org/ontology/lake,http://dbpedia.org/resource/Hungry_Horse_Dam__1,Correct,90,22.628210067749023,40
+http://dbpedia.org/resource/Hungry_Horse_Dam,http://dbpedia.org/ontology/location,"http://dbpedia.org/resource/Flathead_County,_Montana",Correct,90,22.628210067749023,40
+http://dbpedia.org/resource/Half-A-Dollar-Bill,http://dbpedia.org/property/runtime,3600.0,Correct,91,766.0884203910828,40
+http://dbpedia.org/resource/Half-A-Dollar-Bill,http://dbpedia.org/property/released,1924-01-14,Correct,91,766.0884203910828,40
+http://dbpedia.org/resource/Half-A-Dollar-Bill,http://dbpedia.org/property/writer,Max Graf,Correct,91,766.0884203910828,40
+http://dbpedia.org/resource/Half-A-Dollar-Bill,http://dbpedia.org/property/writer,Curtis Benton,Correct,91,766.0884203910828,40
+http://dbpedia.org/resource/Half-A-Dollar-Bill,http://dbpedia.org/property/starring,http://dbpedia.org/resource/Anna_Q._Nilsson,Correct,91,766.0884203910828,40
+http://dbpedia.org/resource/Forest_of_the_Hanged,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Film,Correct,92,10153.909674882889,40
+http://dbpedia.org/resource/Forest_of_the_Hanged,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:1964_films,Incorrect,92,10153.909674882889,40
+http://dbpedia.org/resource/London_Biggin_Hill_Airport,http://www.w3.org/2000/01/rdf-schema#label,London Biggin Hill Airport,Correct,93,1625.477814912796,41
+http://dbpedia.org/resource/London_Biggin_Hill_Airport,http://dbpedia.org/ontology/runwaySurface,Asphalt,Correct,93,1625.477814912796,41
+http://dbpedia.org/resource/London_Biggin_Hill_Airport,http://dbpedia.org/property/nativename,Biggin Hill Airport,Correct,93,1625.477814912796,41
+http://dbpedia.org/resource/Paul_Davis_(Kansas_politician),http://www.w3.org/2000/01/rdf-schema#label,Paul Davis (Kansas politician),Correct,94,1654.5320999622345,41
+http://dbpedia.org/resource/Paul_Davis_(Kansas_politician),http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/University_of_Kansas,Correct,94,1654.5320999622345,41
+http://dbpedia.org/resource/Paul_Davis_(Kansas_politician),http://dbpedia.org/property/almaMater,http://dbpedia.org/resource/University_of_Kansas,Correct,94,1654.5320999622345,41
+http://dbpedia.org/resource/Paul_Davis_(Kansas_politician),http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Woodland,_California",Correct,94,1654.5320999622345,41
+http://dbpedia.org/resource/Paul_Davis_(Kansas_politician),http://dbpedia.org/property/birthPlace,"http://dbpedia.org/resource/Woodland,_California",Correct,94,1654.5320999622345,41
+http://dbpedia.org/resource/Dorothy_Appleby,http://dbpedia.org/property/placeOfDeath,http://dbpedia.org/resource/Long_Island,Correct,95,188.8581485748291,41
+http://dbpedia.org/resource/Dorothy_Appleby,http://dbpedia.org/ontology/activeYearsEndYear,1943,Incorrect,95,188.8581485748291,41
+http://dbpedia.org/resource/Dorothy_Appleby,http://dbpedia.org/property/deathPlace,http://dbpedia.org/resource/USA,Correct,95,188.8581485748291,41
+http://dbpedia.org/resource/Dorothy_Appleby,http://dbpedia.org/property/yearsActive,1931,Incorrect,95,188.8581485748291,41
+http://dbpedia.org/resource/Dorothy_Appleby,http://purl.org/dc/elements/1.1/description,American actor,Correct,95,188.8581485748291,41
+http://dbpedia.org/resource/Spider-Man_Unlimited,http://dbpedia.org/property/writer,http://dbpedia.org/resource/Robert_Gregory_Browne,Correct,96,1566.7858781814575,41
+http://dbpedia.org/resource/Spider-Man_Unlimited,http://dbpedia.org/ontology/network,http://dbpedia.org/resource/Fox_Broadcasting_Company,Correct,96,1566.7858781814575,41
+http://dbpedia.org/resource/Spider-Man_Unlimited,http://dbpedia.org/property/shortsummary,"Spider-Man meets the Counter-Earth version of the Green Goblin, a hero who mistakes Spider-Man for a villain. Spider-Man realizes the kidnapper of Dr. Naoko Yamada-Jones isn't the Goblin. The two team up to save her and stop a plan by her kidnappers responsible for the green Bio-Mass: Venom and Carnage.",Correct,96,1566.7858781814575,41
+http://dbpedia.org/resource/Spider-Man_Unlimited,http://dbpedia.org/property/episodenumber,10,Incorrect,96,1566.7858781814575,41
+http://dbpedia.org/resource/Spider-Man_Unlimited,http://dbpedia.org/property/title,Sustenance,Correct,96,1566.7858781814575,41
+http://dbpedia.org/resource/Poland_Plus,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2010_establishments_in_Poland,Incorrect,97,749.3460717201233,41
+http://dbpedia.org/resource/Poland_Plus,http://dbpedia.org/ontology/colour,http://dbpedia.org/resource/Blue,Incorrect,97,749.3460717201233,41
+http://dbpedia.org/resource/Poland_Plus,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Conservative_parties_in_Poland,Incorrect,97,749.3460717201233,41
+http://dbpedia.org/resource/Poland_Plus,http://dbpedia.org/property/ideology,http://dbpedia.org/resource/Conservatism,Incorrect,97,749.3460717201233,41
+http://dbpedia.org/resource/Poland_Plus,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Law_and_Justice,Incorrect,97,749.3460717201233,41
+http://dbpedia.org/resource/Andrew_Jackson_Montague,http://dbpedia.org/property/governor,http://dbpedia.org/resource/James_Hoge_Tyler,Correct,98,1010.4352340698242,41
+http://dbpedia.org/resource/Andrew_Jackson_Montague,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/United_States,Correct,98,1010.4352340698242,41
+http://dbpedia.org/resource/Andrew_Jackson_Montague,http://dbpedia.org/ontology/deathPlace,"http://dbpedia.org/resource/Urbanna,_Virginia",Incorrect,98,1010.4352340698242,41
+http://dbpedia.org/resource/Andrew_Jackson_Montague,http://dbpedia.org/ontology/almaMater,http://dbpedia.org/resource/University_of_Richmond,Correct,98,1010.4352340698242,41
+http://dbpedia.org/resource/Andrew_Jackson_Montague,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/United_States,Correct,98,1010.4352340698242,41
+http://dbpedia.org/resource/Herbert_Spencer,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/George_Henry_Lewes,Correct,99,625.821836233139,41
+http://dbpedia.org/resource/Herbert_Spencer,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/John_Stuart_Mill,Correct,99,625.821836233139,41
+http://dbpedia.org/resource/Herbert_Spencer,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Charles_Darwin,Correct,99,625.821836233139,41
+http://dbpedia.org/resource/Herbert_Spencer,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Auguste_Comte,Correct,99,625.821836233139,41
+http://dbpedia.org/resource/Herbert_Spencer,http://dbpedia.org/ontology/influencedBy,http://dbpedia.org/resource/Jean-Baptiste_Lamarck,Correct,99,625.821836233139,41
+http://dbpedia.org/resource/Demob_(TV_series),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:British_comedy-drama_television_programmes,Correct,100,122.4976453781128,41
+http://dbpedia.org/resource/Demob_(TV_series),http://dbpedia.org/property/starring,http://dbpedia.org/resource/Martin_Clunes,Correct,100,122.4976453781128,41
+http://dbpedia.org/resource/Demob_(TV_series),http://dbpedia.org/property/country,http://dbpedia.org/resource/United_Kingdom,Correct,100,122.4976453781128,41
+http://dbpedia.org/resource/Demob_(TV_series),http://dbpedia.org/property/episodenumber,3,Incorrect,100,122.4976453781128,41
+http://dbpedia.org/resource/Demob_(TV_series),http://dbpedia.org/property/shortsummary,Deasey and Dobson get a three week booking in Liverpool opening for comedy legend Moreton Stanley . When their routine arouses audience hatred they must enlist Hedda to assist them. Janet grows increasingly frustrated with her husband's absence when Alan comes down with chicken pox.,Correct,100,122.4976453781128,41
+http://dbpedia.org/resource/Larry_Larrañaga,http://dbpedia.org/ontology/abstract,"Lorenzo A. Larrañaga, (born December 31, 1937) is a Republican member of the New Mexico House of Representatives, representing the 27th District since 1995. He sits on the House Agriculture and Water Resources committee, Appropriations and Finance committee and Rules and Order of Business committee.He attended the University of New Mexico where he attained his masters and bachelor degrees in engineering and civil engineering. Larrañaga is the retired owner of a ranching company. He has also worked as an engineer for the State of New Mexico in the highways department, also serving as Secretary of Highways in 1982. He was Deputy Chief Administrator for the City of Albuquerque from 1987 to 1988.He resides in Albuquerque and is married with two children.",Correct,101,109.9881055355072,41
+http://dbpedia.org/resource/Larry_Larrañaga,http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Encino,_New_Mexico",Correct,101,109.9881055355072,41
+http://dbpedia.org/resource/Larry_Larrañaga,http://dbpedia.org/property/honorificPrefix,Representative,Correct,101,109.9881055355072,41
+http://dbpedia.org/resource/Larry_Larrañaga,http://dbpedia.org/property/district,27,Correct,101,109.9881055355072,41
+http://dbpedia.org/resource/Larry_Larrañaga,http://xmlns.com/foaf/0.1/givenName,Lorenzo,Correct,101,109.9881055355072,41
+http://dbpedia.org/resource/Vesta_M._Roy,http://dbpedia.org/ontology/deathPlace,"http://dbpedia.org/resource/Kenmore,_New_York",Correct,102,352.83704924583435,41
+http://dbpedia.org/resource/Vesta_M._Roy,http://dbpedia.org/property/birthPlace,"http://dbpedia.org/resource/Dearborn,_Michigan",Correct,102,352.83704924583435,41
+http://dbpedia.org/resource/Vesta_M._Roy,http://dbpedia.org/property/placeOfBirth,"http://dbpedia.org/resource/Dearborn,_Michigan",Correct,102,352.83704924583435,41
+http://dbpedia.org/resource/Vesta_M._Roy,http://www.w3.org/2000/01/rdf-schema#label,Vesta M. Roy,Correct,102,352.83704924583435,41
+http://dbpedia.org/resource/Red_Courage,http://dbpedia.org/property/country,United States,Correct,103,134.60167336463928,41
+http://dbpedia.org/resource/Red_Courage,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Black-and-white_films,Correct,103,134.60167336463928,41
+http://dbpedia.org/resource/Red_Courage,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_silent_feature_films,Correct,103,134.60167336463928,41
+http://dbpedia.org/resource/Red_Courage,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_films,Correct,103,134.60167336463928,41
+http://dbpedia.org/resource/Espera,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/Spain,Correct,104,3.772651672363281,41
+http://dbpedia.org/resource/Letchworth,http://www.w3.org/2000/01/rdf-schema#label,Letchworth,Correct,105,2.5276122093200684,41
+http://dbpedia.org/resource/Olympia_Snowe,http://dbpedia.org/property/percentage,49.13,Incorrect,106,174.32519674301147,41
+http://dbpedia.org/resource/Olympia_Snowe,http://dbpedia.org/property/birthname,Olympia Jean Bouchles,Correct,106,174.32519674301147,41
+http://dbpedia.org/resource/Olympia_Snowe,http://dbpedia.org/property/termStart,1989-02-24,Incorrect,106,174.32519674301147,41
+http://dbpedia.org/resource/Olympia_Snowe,http://dbpedia.org/property/order,Member of the,Correct,106,174.32519674301147,41
+http://dbpedia.org/resource/Olympia_Snowe,http://dbpedia.org/property/termEnd,2013-01-03,Correct,106,174.32519674301147,41
+http://dbpedia.org/resource/Frank_Scully_(politician),http://dbpedia.org/ontology/otherParty,http://dbpedia.org/resource/Australian_Labor_Party_(Anti-Communist),Correct,107,169.40094900131226,41
+http://dbpedia.org/resource/Grand_Duchy_of_Lithuania,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Polish_złoty,Incorrect,108,325.07406091690063,41
+http://dbpedia.org/resource/Grand_Duchy_of_Lithuania,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Kernavė,Correct,108,325.07406091690063,41
+http://dbpedia.org/resource/Grand_Duchy_of_Lithuania,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Vilnius,Correct,108,325.07406091690063,41
+http://dbpedia.org/resource/Grand_Duchy_of_Lithuania,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Senieji_Trakai,Correct,108,325.07406091690063,41
+http://dbpedia.org/resource/Grand_Duchy_of_Lithuania,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Voruta,Correct,108,325.07406091690063,41
+http://dbpedia.org/resource/Knowing_Me_Knowing_You_with_Alan_Partridge_(TV_series),http://dbpedia.org/ontology/network,http://dbpedia.org/resource/BBC_Two,Correct,109,142.11662983894348,41
+http://dbpedia.org/resource/Knowing_Me_Knowing_You_with_Alan_Partridge_(TV_series),http://dbpedia.org/ontology/creator,http://dbpedia.org/resource/Armando_Iannucci,Correct,109,142.11662983894348,41
+http://dbpedia.org/resource/Knowing_Me_Knowing_You_with_Alan_Partridge_(TV_series),http://dbpedia.org/property/starring,http://dbpedia.org/resource/Doon_Mackichan,Correct,109,142.11662983894348,41
+http://dbpedia.org/resource/Knowing_Me_Knowing_You_with_Alan_Partridge_(TV_series),http://dbpedia.org/ontology/starring,http://dbpedia.org/resource/Rebecca_Front,Correct,109,142.11662983894348,41
+http://dbpedia.org/resource/Knowing_Me_Knowing_You_with_Alan_Partridge_(TV_series),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Television_series_based_on_radio_programs,Correct,109,142.11662983894348,41
+http://dbpedia.org/resource/Dennis_Lake,http://dbpedia.org/property/residence,"http://dbpedia.org/resource/Blackfoot,_Idaho",Incorrect,110,89.15406847000122,41
+http://dbpedia.org/resource/Jules_Van_den_Heuvel,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Ghent,Correct,111,27.06479001045227,41
+http://dbpedia.org/resource/Irma_Elsa_Gonzalez,http://dbpedia.org/ontology/termPeriod,http://dbpedia.org/resource/Irma_Elsa_Gonzalez__4,Correct,112,127.89798498153688,41
+http://dbpedia.org/resource/Irma_Elsa_Gonzalez,http://dbpedia.org/ontology/predecessor,http://dbpedia.org/resource/Marilyn_L._Huff,Correct,112,127.89798498153688,41
+http://dbpedia.org/resource/Irma_Elsa_Gonzalez,http://dbpedia.org/ontology/office,Chief Judge of theUnited States District Court for the Southern District of California,Correct,112,127.89798498153688,41
+http://dbpedia.org/resource/Irma_Elsa_Gonzalez,http://dbpedia.org/property/predecessor,http://dbpedia.org/resource/Marilyn_L._Huff,Correct,112,127.89798498153688,41
+http://dbpedia.org/resource/Irma_Elsa_Gonzalez,http://dbpedia.org/property/office,Chief Judge of the United States District Court for the Southern District of California,Correct,112,127.89798498153688,41
+http://dbpedia.org/resource/Studio_7,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:English-language_television_programming,Incorrect,113,197.35021352767944,41
+http://dbpedia.org/resource/Studio_7,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:American_game_shows,Incorrect,113,197.35021352767944,41
+http://dbpedia.org/resource/Studio_7,http://purl.org/linguistics/gold/hypernym,http://dbpedia.org/resource/Show,Incorrect,113,197.35021352767944,41
+http://dbpedia.org/resource/Studio_7,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:2004_American_television_series_endings,Incorrect,113,197.35021352767944,41
+http://dbpedia.org/resource/Studio_7,http://dbpedia.org/ontology/abstract,"""Studio 7"" was also the original developmental title for the NBC drama Studio 60 on the Sunset Strip.Studio 7 is an American game show that aired on The WB during the summer of 2004.Studio 7 was hosted by NY1 anchor Pat Kiernan. Each episode featured seven contestants, mostly college-age, who lived together in New York City for the four days prior to the taping. During this time, they were given some of the material on which the show would quiz them. The show was promoted as a hybrid of game shows and reality television such as The Real World.The WB originally ordered two seasons of Studio 7, with the second season to air immediately after the first. However, the network cancelled plans for a second season during the initial run, due to low ratings.",Incorrect,113,197.35021352767944,41
+http://dbpedia.org/resource/Juan_José_Esparragoza_Moreno,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Sinaloa,Incorrect,114,365.1850883960724,41
+"http://dbpedia.org/resource/Stay_(Faraway,_So_Close!)",http://dbpedia.org/ontology/recordLabel,http://dbpedia.org/resource/Island_Records,Correct,115,50407.60566043854,41
+"http://dbpedia.org/resource/Stay_(Faraway,_So_Close!)",http://dbpedia.org/property/label,http://dbpedia.org/resource/Island_Records,Correct,115,50407.60566043854,41
+"http://dbpedia.org/resource/Stay_(Faraway,_So_Close!)",http://dbpedia.org/ontology/musicalBand,http://dbpedia.org/resource/U2,Correct,115,50407.60566043854,41
+"http://dbpedia.org/resource/Stay_(Faraway,_So_Close!)",http://dbpedia.org/ontology/musicalArtist,http://dbpedia.org/resource/U2,Correct,115,50407.60566043854,41
+"http://dbpedia.org/resource/Stay_(Faraway,_So_Close!)",http://dbpedia.org/property/artist,http://dbpedia.org/resource/U2,Correct,115,50407.60566043854,41
+http://dbpedia.org/resource/Kiev_Voivodeship,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Zhytomyr,Correct,116,189.95376586914065,41
+http://dbpedia.org/resource/Beki_Adam,http://xmlns.com/foaf/0.1/name,Beki Adam,Correct,117,1207.576252937317,41
+http://dbpedia.org/resource/Beki_Adam,http://dbpedia.org/ontology/abstract,"Beki Adam (born 25 June 1966), is a researcher, Sussex farm and campsite owner. She was a parliamentary candidate for Mid Sussex (UK Parliament constituency) in the 2015 British General Election.",Correct,117,1207.576252937317,41
+http://dbpedia.org/resource/Beki_Adam,http://xmlns.com/foaf/0.1/name,"Adam, Beki",Correct,117,1207.576252937317,41
+http://dbpedia.org/resource/Beki_Adam,http://dbpedia.org/ontology/party,http://dbpedia.org/resource/Independent_politician,Correct,117,1207.576252937317,41
+http://dbpedia.org/resource/James_Dyrenforth,http://dbpedia.org/ontology/abstract,"James Dyrenforth (31 January 1895 – 26 December 1973) was an American actor and songwriter. Dyrenforth appeared in A Night to Remember (1958), Fiend Without a Face (1958), and Lolita, and co-wrote ""A Garden in the Rain"", a song which was covered by Frank Sinatra and Sarah Vaughan, among others.",Correct,118,6747.946337461472,41
+http://dbpedia.org/resource/James_Dyrenforth,http://dbpedia.org/property/shortDescription,American actor,Correct,118,6747.946337461472,41
+http://dbpedia.org/resource/James_Dyrenforth,http://dbpedia.org/property/name,"Dyrenforth, James",Correct,118,6747.946337461472,41
+http://dbpedia.org/resource/James_Dyrenforth,http://xmlns.com/foaf/0.1/givenName,James,Correct,118,6747.946337461472,41
+http://dbpedia.org/resource/James_Dyrenforth,http://dbpedia.org/property/hasPhotoCollection,http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/James_Dyrenforth,Correct,118,6747.946337461472,41
+http://dbpedia.org/resource/Patrick_Joseph_Sullivan,http://www.w3.org/2000/01/rdf-schema#label,Patrick Joseph Sullivan,Correct,119,43.071906328201294,41
+http://dbpedia.org/resource/Patrick_Joseph_Sullivan,http://dbpedia.org/ontology/deathPlace,"http://dbpedia.org/resource/Santa_Barbara,_California",Correct,119,43.071906328201294,41
+http://dbpedia.org/resource/Mulligan's_Stew,http://www.w3.org/2000/01/rdf-schema#comment,"Mulligan's Stew is comedy/drama television series produced by Paramount Network Television that originally aired as a 90-minute NBC television movie on June 20, 1977, and later, as a 60-minute series from October 25, 1977 to December 13, 1977. The series focused on the lives of the Mulligan family. Lawrence Pressman starred as Michael Mulligan, a high school teacher and football coach, and Elinor Donahue played his wife, Jane, who works as a school nurse.",Correct,120,846.7245032787323,41
+http://dbpedia.org/resource/Mulligan's_Stew,http://dbpedia.org/property/lastAired,1977-12-13,Correct,120,846.7245032787323,41
+http://dbpedia.org/resource/Mulligan's_Stew,http://dbpedia.org/property/numSeasons,1,Correct,120,846.7245032787323,41
+http://dbpedia.org/resource/Mulligan's_Stew,http://dbpedia.org/property/runtime,5400.0,I Don't Know,120,846.7245032787323,41
+http://dbpedia.org/resource/Mulligan's_Stew,http://xmlns.com/foaf/0.1/name,Mulligan's Stew,Correct,120,846.7245032787323,41
+http://dbpedia.org/resource/Carmit_Bachar,http://dbpedia.org/ontology/hometown,http://dbpedia.org/resource/United_States,Correct,121,376.74831676483154,41
+http://dbpedia.org/resource/Groningen_Europapark_railway_station,http://dbpedia.org/property/imageCaption,Groningen Europapark railway station in 2013,Correct,122,290.21107029914856,41
+http://dbpedia.org/resource/Groningen_Europapark_railway_station,http://xmlns.com/foaf/0.1/name,Groningen Europapark,Correct,122,290.21107029914856,41
+http://dbpedia.org/resource/Groningen_Europapark_railway_station,http://dbpedia.org/property/longm,35,Incorrect,122,290.21107029914856,41
+http://dbpedia.org/resource/Groningen_Europapark_railway_station,http://dbpedia.org/property/code,Gerp,Incorrect,122,290.21107029914856,41
+http://dbpedia.org/resource/Groningen_Europapark_railway_station,http://dbpedia.org/property/line,http://dbpedia.org/resource/Meppel–Groningen_railway,Correct,122,290.21107029914856,41
+http://dbpedia.org/resource/Beyond_Good_&_Evil_(video_game),http://dbpedia.org/ontology/genre,http://dbpedia.org/resource/Action-adventure_game,Correct,123,803.2453827857971,41
+http://dbpedia.org/resource/Beyond_Good_&_Evil_(video_game),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Jade_(game_engine)_games,Correct,123,803.2453827857971,41
+http://dbpedia.org/resource/Beyond_Good_&_Evil_(video_game),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:PlayStation_Network_games,Correct,123,803.2453827857971,41
+http://dbpedia.org/resource/Beyond_Good_&_Evil_(video_game),http://dbpedia.org/property/title,Fun and Mini-Games,Correct,123,803.2453827857971,41
+http://dbpedia.org/resource/Beyond_Good_&_Evil_(video_game),http://dbpedia.org/property/title,Heart of darkness,Incorrect,123,803.2453827857971,41
+http://dbpedia.org/resource/Yours_Fatally,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Epic_Records_singles,Correct,124,135.56199645996094,41
+http://dbpedia.org/resource/Yours_Fatally,http://dbpedia.org/property/artist,http://dbpedia.org/resource/Big_Brovaz,Correct,124,135.56199645996094,41
+http://dbpedia.org/resource/Yours_Fatally,http://dbpedia.org/property/album,http://dbpedia.org/resource/Re-Entry_(Big_Brovaz_album),Correct,124,135.56199645996094,41
+http://dbpedia.org/resource/Yours_Fatally,http://dbpedia.org/property/format,http://dbpedia.org/resource/Gramophone_record,Correct,124,135.56199645996094,41
+http://dbpedia.org/resource/Yours_Fatally,http://www.w3.org/2000/01/rdf-schema#label,Yours Fatally,Correct,124,135.56199645996094,41
+http://dbpedia.org/resource/Larry_Miller_(comedian),http://purl.org/dc/elements/1.1/description,American comedian,Correct,125,128.25866270065308,41
+http://dbpedia.org/resource/Larry_Miller_(comedian),http://dbpedia.org/property/spouse,http://dbpedia.org/resource/Eileen_Conn,Correct,125,128.25866270065308,41
+http://dbpedia.org/resource/Larry_Miller_(comedian),http://dbpedia.org/property/dateOfBirth,1953-10-15,Correct,125,128.25866270065308,41
+http://dbpedia.org/resource/Larry_Miller_(comedian),http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Male_actors_from_New_York,Correct,125,128.25866270065308,41
+http://dbpedia.org/resource/Larry_Miller_(comedian),http://dbpedia.org/property/name,"Miller, Larry",Correct,125,128.25866270065308,41
+http://dbpedia.org/resource/United_States_District_Court_for_the_District_of_Oregon,http://dbpedia.org/property/appointer,http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Barack_Obama,Correct,126,215.78193020820615,41
+http://dbpedia.org/resource/United_States_District_Court_for_the_District_of_Oregon,http://dbpedia.org/property/appointer,http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Bill_Clinton,Correct,126,215.78193020820615,41
+http://dbpedia.org/resource/United_States_District_Court_for_the_District_of_Oregon,http://dbpedia.org/property/appointer,http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Ronald_Reagan,Correct,126,215.78193020820615,41
+http://dbpedia.org/resource/United_States_District_Court_for_the_District_of_Oregon,http://dbpedia.org/property/appointer,http://dbpedia.org/resource/List_of_federal_judges_appointed_by_George_H._W._Bush,Correct,126,215.78193020820615,41
+http://dbpedia.org/resource/United_States_District_Court_for_the_District_of_Oregon,http://dbpedia.org/property/appointer,http://dbpedia.org/resource/List_of_federal_judges_appointed_by_George_W._Bush,Correct,126,215.78193020820615,41
+http://dbpedia.org/resource/Reichskommissariat_Ostland,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/De_facto,Incorrect,127,71.079341173172,41
+http://dbpedia.org/resource/Reichskommissariat_Ostland,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/Reichsmark,Correct,127,71.079341173172,41
+http://dbpedia.org/resource/Reichskommissariat_Ostland,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Riga,Correct,127,71.079341173172,41
+http://dbpedia.org/resource/Jerold_Krieger,http://dbpedia.org/property/appointer,http://dbpedia.org/resource/Jerry_Brown,Correct,128,3.2033932209014893,41
+http://dbpedia.org/resource/Battle_of_the_Network_Stars,http://dbpedia.org/property/company,http://dbpedia.org/resource/IMG_(business),Correct,129,5.274158239364624,41
+http://dbpedia.org/resource/Battle_of_the_Network_Stars,http://dbpedia.org/ontology/numberOfEpisodes,19,Correct,129,5.274158239364624,41
+http://dbpedia.org/resource/Battle_of_the_Network_Stars,http://www.w3.org/2000/01/rdf-schema#label,Battle of the Network Stars,Correct,129,5.274158239364624,41
+http://dbpedia.org/resource/Battle_of_the_Network_Stars,http://dbpedia.org/property/company,http://dbpedia.org/resource/IMG_(company),Correct,129,5.274158239364624,41
+http://dbpedia.org/resource/Battle_of_the_Network_Stars,http://xmlns.com/foaf/0.1/name,Battle of the Network Stars,Correct,129,5.274158239364624,41
+http://dbpedia.org/resource/Paul_Reade,http://dbpedia.org/ontology/nationality,http://dbpedia.org/resource/United_Kingdom,Correct,130,1.851993560791016,41
+"http://dbpedia.org/resource/Upper_Shirley,_Virginia",http://dbpedia.org/property/latDirection,N,Correct,131,9.144373416900637,41
+"http://dbpedia.org/resource/Upper_Shirley,_Virginia",http://dbpedia.org/property/longDirection,W,Correct,131,9.144373416900637,41
+"http://dbpedia.org/resource/Upper_Shirley,_Virginia",http://dbpedia.org/property/latDegrees,37,Incorrect,131,9.144373416900637,41
+"http://dbpedia.org/resource/Upper_Shirley,_Virginia",http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Houses_on_the_National_Register_of_Historic_Places_in_Virginia,Correct,131,9.144373416900637,41
+"http://dbpedia.org/resource/Upper_Shirley,_Virginia",http://dbpedia.org/property/designatedOther1NumPosition,bottom,Incorrect,131,9.144373416900637,41
+"http://dbpedia.org/resource/First_Light_Division,_Maryland_Volunteers",http://dbpedia.org/ontology/notableCommander,http://dbpedia.org/resource/George_H._Steuart_(militia_general),Correct,132,3.545748233795166,41
+"http://dbpedia.org/resource/First_Light_Division,_Maryland_Volunteers",http://dbpedia.org/ontology/commandStructure,http://dbpedia.org/resource/United_States_Army_Forces_Command,Correct,132,3.545748233795166,41
+http://dbpedia.org/resource/John_Boozman,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/United_States,Correct,133,12.458502769470217,41
+http://dbpedia.org/resource/John_Boozman,http://dbpedia.org/ontology/religion,http://dbpedia.org/resource/Southern_Baptist_Convention,Correct,133,12.458502769470217,41
+http://dbpedia.org/resource/John_Boozman,http://dbpedia.org/property/religion,http://dbpedia.org/resource/Southern_Baptist_Convention,Correct,133,12.458502769470217,41
+http://dbpedia.org/resource/John_Boozman,http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/Fort_Smith,_Arkansas",Correct,133,12.458502769470217,41
+http://dbpedia.org/resource/John_Boozman,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Louisiana,Correct,133,12.458502769470217,41
+http://dbpedia.org/resource/Dyckia_'Lad_Cutak',http://dbpedia.org/ontology/hybrid,http://dbpedia.org/resource/Dyckia,Correct,134,3.802919864654541,41
+http://dbpedia.org/resource/Dyckia_'Lad_Cutak',http://dbpedia.org/ontology/hybrid,http://dbpedia.org/resource/Dyckia_leptostachya,Correct,134,3.802919864654541,41
+http://dbpedia.org/resource/Randy_Quaid,http://dbpedia.org/property/name,"Quaid, Randy",Correct,135,76.74816656112671,41
+http://dbpedia.org/resource/Randy_Quaid,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Houston,Correct,135,76.74816656112671,41
+http://dbpedia.org/resource/Randy_Quaid,http://dbpedia.org/ontology/birthDate,1950-10-01,Correct,135,76.74816656112671,41
+http://dbpedia.org/resource/Randy_Quaid,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Texas,Correct,135,76.74816656112671,41
+http://dbpedia.org/resource/Randy_Quaid,http://dbpedia.org/property/yearsActive,1971,I Don't Know,135,76.74816656112671,41
+http://dbpedia.org/resource/J._D._Hayworth,http://dbpedia.org/ontology/birthPlace,"http://dbpedia.org/resource/High_Point,_North_Carolina",Correct,136,69.45574402809143,41
+http://dbpedia.org/resource/J._D._Hayworth,http://dbpedia.org/property/almaMater,http://dbpedia.org/resource/North_Carolina_State_University,Correct,136,69.45574402809143,41
+http://dbpedia.org/resource/J._D._Hayworth,http://www.w3.org/2000/01/rdf-schema#label,J. D. Hayworth,Correct,136,69.45574402809143,41
+http://dbpedia.org/resource/J._D._Hayworth,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/North_Carolina,Correct,136,69.45574402809143,41
+http://dbpedia.org/resource/J._D._Hayworth,http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/United_States,Correct,136,69.45574402809143,41
+"http://dbpedia.org/resource/Quentin_Davies,_Baron_Davies_of_Stamford",http://dbpedia.org/ontology/birthPlace,http://dbpedia.org/resource/Oxford,Correct,137,3.56089186668396,41
+http://dbpedia.org/resource/Dry_well,http://dbpedia.org/ontology/thumbnail,http://commons.wikimedia.org/wiki/Special:FilePath/Sickergrube.jpg?width=300,Correct,138,224.90329003334045,41
+http://dbpedia.org/resource/Dry_well,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Stormwater_management,Correct,138,224.90329003334045,41
+http://dbpedia.org/resource/Dry_well,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Environmental_engineering,Correct,138,224.90329003334045,41
+http://dbpedia.org/resource/Dry_well,http://xmlns.com/foaf/0.1/depiction,http://commons.wikimedia.org/wiki/Special:FilePath/Sickergrube.jpg,Correct,138,224.90329003334045,41
+http://dbpedia.org/resource/Dry_well,http://purl.org/dc/terms/subject,http://dbpedia.org/resource/Category:Nuclear_power_plant_components,Correct,138,224.90329003334045,41
+http://dbpedia.org/resource/United_States_District_Court_for_the_Western_District_of_Texas,http://dbpedia.org/property/appointer,http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Jimmy_Carter,Incorrect,139,142.41828179359436,41
+http://dbpedia.org/resource/United_States_District_Court_for_the_Western_District_of_Texas,http://dbpedia.org/property/appointer,—,Incorrect,139,142.41828179359436,41
+http://dbpedia.org/resource/United_States_District_Court_for_the_Western_District_of_Texas,http://dbpedia.org/property/appointer,http://dbpedia.org/resource/List_of_federal_judges_appointed_by_George_W._Bush,Correct,139,142.41828179359436,41
+http://dbpedia.org/resource/United_States_District_Court_for_the_Western_District_of_Texas,http://dbpedia.org/property/appointer,http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Barack_Obama,Correct,139,142.41828179359436,41
+http://dbpedia.org/resource/United_States_District_Court_for_the_Western_District_of_Texas,http://dbpedia.org/property/appointer,http://dbpedia.org/resource/List_of_federal_judges_appointed_by_George_H._W._Bush,Correct,139,142.41828179359436,41
+http://dbpedia.org/resource/Ebenezer_Ako-Adjei,http://dbpedia.org/ontology/deathPlace,http://dbpedia.org/resource/Accra,Correct,140,167.54180312156677,41
+http://dbpedia.org/resource/Ebenezer_Ako-Adjei,http://dbpedia.org/ontology/otherParty,http://dbpedia.org/resource/United_Gold_Coast_Convention,Correct,140,167.54180312156677,41
+http://dbpedia.org/resource/Ebenezer_Ako-Adjei,http://dbpedia.org/property/residence,http://dbpedia.org/resource/Accra,Correct,140,167.54180312156677,41
+http://dbpedia.org/resource/Back_to_Back_(Status_Quo_album),http://dbpedia.org/property/artist,http://dbpedia.org/resource/Status_Quo_(band),Correct,141,83.03381180763245,41
+http://dbpedia.org/resource/Back_to_Back_(Status_Quo_album),http://dbpedia.org/ontology/producer,http://dbpedia.org/resource/Status_Quo_(band),Correct,141,83.03381180763245,41
+http://dbpedia.org/resource/Back_to_Back_(Status_Quo_album),http://dbpedia.org/ontology/artist,http://dbpedia.org/resource/Status_Quo_(band),Correct,141,83.03381180763245,41
+http://dbpedia.org/resource/Back_to_Back_(Status_Quo_album),http://dbpedia.org/property/producer,http://dbpedia.org/resource/Status_Quo_(band),Correct,141,83.03381180763245,41
+http://dbpedia.org/resource/WLGZ-FM,http://dbpedia.org/ontology/city,"http://dbpedia.org/resource/Webster,_New_York",Correct,142,8.511831521987915,41
+http://dbpedia.org/resource/WLGZ-FM,http://dbpedia.org/ontology/webcast,http://player.liquidcompass.net/WLGZFM,Correct,142,8.511831521987915,41
+http://dbpedia.org/resource/WLGZ-FM,http://dbpedia.org/property/owner,DJRO Broadcasting LLC,Correct,142,8.511831521987915,41
+http://dbpedia.org/resource/WLGZ-FM,http://dbpedia.org/property/city,"http://dbpedia.org/resource/Webster,_New_York",Correct,142,8.511831521987915,41
+http://dbpedia.org/resource/WLGZ-FM,http://xmlns.com/foaf/0.1/homepage,http://www.legends1027.com,Correct,142,8.511831521987915,41
+http://dbpedia.org/resource/Western_Turkic_Khaganate,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Suyab,Correct,143,2.107896089553833,41
+http://dbpedia.org/resource/Rolo_to_the_Rescue,http://dbpedia.org/property/developer,http://dbpedia.org/resource/Vectordean,Correct,144,36.98401641845703,41
+http://dbpedia.org/resource/Rolo_to_the_Rescue,http://dbpedia.org/ontology/developer,http://dbpedia.org/resource/Vectordean,Correct,144,36.98401641845703,41
+http://dbpedia.org/resource/Whitecraigs_railway_station,http://dbpedia.org/property/original,http://dbpedia.org/resource/Lanarkshire_and_Ayrshire_Railway,Correct,145,37.77736210823059,41
+http://dbpedia.org/resource/Whitecraigs_railway_station,http://xmlns.com/foaf/0.1/name,Whitecraigs,Correct,145,37.77736210823059,41
+http://dbpedia.org/resource/Whitecraigs_railway_station,http://dbpedia.org/property/code,WCR,Correct,145,37.77736210823059,41
+http://dbpedia.org/resource/Whitecraigs_railway_station,http://dbpedia.org/property/latitude,55.7903,Correct,145,37.77736210823059,41
+http://dbpedia.org/resource/Whitecraigs_railway_station,http://dbpedia.org/ontology/location,http://dbpedia.org/resource/Giffnock,Correct,145,37.77736210823059,41
+"http://dbpedia.org/resource/United_States_Senate_election_in_Texas,_2006",http://dbpedia.org/ontology/startDate,2006-11-07,Correct,146,2.8134796619415283,41
+http://dbpedia.org/resource/United_Arab_Emirates,http://dbpedia.org/ontology/currency,http://dbpedia.org/resource/United_Arab_Emirates_dirham,Correct,147,20.483620405197144,41
+http://dbpedia.org/resource/United_Arab_Emirates,http://dbpedia.org/ontology/capital,http://dbpedia.org/resource/Abu_Dhabi,Correct,147,20.483620405197144,41
+http://dbpedia.org/resource/Durham_bus_station,http://www.w3.org/2000/01/rdf-schema#label,Durham bus station,Correct,148,3.3520398139953613,41
