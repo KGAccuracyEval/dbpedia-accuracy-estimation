@@ -58,8 +58,28 @@ For **LLMs**, the annotations take the following format:
     - **time** is the time (seconds) required by the LLM to annotate the target fact, considering all its attempts (up to four);
     - **retries** is the number of extra attempts required by the LLM to provide a proper annotation for the target fact (up to three).
     
-    We release the annotations of three LLMs: ```gemma-7b.json```, ```llama3-8b.json```, and ```mistral-7b.json```. 
+    We release the annotations of three LLMs: ```gemma-7b.json```, ```llama3-8b.json```, and ```mistral-7b.json```.
+
+### Datasets
+
+We release two datasets 
 
 ## LLM
 
 ## Estimation
+
+## Acknowledgments
+The work is partially supported by the HEREDITARY project, as part of the EU Horizon Europe research and innovation programme under Grant Agreement No GA 101137074.
+
+## Reference
+If you use or extend our work, please cite the following:
+
+```
+@inproceedings{marchesin_etal-hcomp2024,
+  author = {S. Marchesin and G. Silvello and O. Alonso},
+  title = {Utility-Oriented Knowledge Graph Accuracy Estimation with Limited Annotations: A Case Study on DBpedia},
+  booktitle = {Proceedings of the Twelfth {AAAI} Conference on Human Computation and Crowdsourcing, {HCOMP} 2024, October 16--19, 2024, Pittsburgh, Pennsylvania, USA},
+  publisher = {{AAAI} Press},
+  year = {2024}
+}
+```
