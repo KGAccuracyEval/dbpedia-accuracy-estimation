@@ -46,7 +46,10 @@ For each annotator, we release three files:
   - **Error:** the error annotation, which can take values ```{Subject, Predicate, Object}``` or any semicolon-separated (;) combination of these three elements.
 - ```metadata.json```, a dict with the following structure ```{"BatchID": {"stratum": #, "topics": ["topic1", "topic2", ...]}, ...}```.
   - **stratum**: the ID of the stratum containing the target batch;
-  - **topics**: the list of topics associated with the target batch. Note that topics are only available for layman annotators. Also note that topics refer to those specified by students. Hence, if a batch is associated with multiple topics, but the student specified only one topic associated with that batch, then the student's metadata only contains the specified topic and ignores the other ones. Finally, when ```"topics": ["expert"]``` the batch represents a **honey pot**.
+  - **topics**: the list of topics associated with the target batch. Note that topics are only available for layman annotators.
+  
+  Note that topics refer to those specified by students. Hence, if a batch is associated with multiple topics, but the student specified only one topic associated with that batch, then the student's metadata only contains the specified topic and ignores the other ones. <br>
+  Finally, when ```"topics": ["expert"]``` the batch represents a **honey pot**.
 
 ## LLM
 
