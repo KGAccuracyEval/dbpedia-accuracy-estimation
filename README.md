@@ -88,7 +88,7 @@ For this set of experiments, move to ```./estimation/``` folder.
 - To estimate DBpedia accuracy, run ```python estimateAccuracy.py```.
 - The estimation strategies used to estimate partition and KG accuracy are available in ```./estimation/estimationStrategies.py```.
 
-## Stats
+## Statistics
 
 For this set of experiments, move to ```./stats/``` folder.
 - To compute annotation statistics, run ```python annotationStatistics.py```.
